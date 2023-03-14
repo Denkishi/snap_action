@@ -1,17 +1,17 @@
 {
-    "date": "March 13, 2023",
+    "date": "March 14, 2023",
     "Tiers": [
         {
-            "tier": "Tier 1",
-            "name": "Lockjaw Thanos"
+            "tier": "Tier S",
+            "name": "Thanos Lockjaw"
         },
         {
             "tier": "Tier 1",
             "name": "Shuri Zero"
         },
         {
-            "tier": "Tier 2",
-            "name": "Zabu Sera Control"
+            "tier": "Tier 1",
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 2",
@@ -19,19 +19,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Electro Sandman Ramp"
+            "name": "Good Cards DoomWave"
         },
         {
             "tier": "Tier 2",
-            "name": "Lockjaw Thor"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Galactus"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Zabu Devil Darkhawk"
+            "name": "Zabu Darkhawk"
         },
         {
             "tier": "Tier 3",
@@ -39,19 +31,27 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Electro Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Galactus"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockjaw Thor"
         },
         {
             "tier": "Tier 4",
-            "name": "Patriot"
+            "name": "Dracula Discard"
         },
         {
             "tier": "Tier 4",
-            "name": "Negative Zabu"
+            "name": "Deadpool"
         },
         {
             "tier": "Tier 4",
-            "name": "Kazoo Zerocula"
+            "name": "Junk Control"
         },
         {
             "tier": "Budget",
@@ -70,13 +70,16 @@
             "name": "Control"
         },
         {
-            "tier": "Magik Disrupt"
+            "tier": "Silver Surfer"
         },
         {
-            "tier": "Toxic Sera Control"
+            "tier": "Patriot"
         },
         {
-            "tier": "Lockjaw Thanos Ongoing"
+            "tier": "Valkyrie Patriot"
+        },
+        {
+            "tier": "Shuri Nimrod Ramp"
         }
     ]
 }
