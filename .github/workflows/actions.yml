@@ -26,7 +26,7 @@ jobs:
       - name: execute py script # run main.py
         env:
          TOKEN: ${{ secrets.TOKEN }}
-        #run: python .github/python/update.py
+        run: python .github/python/update.py
           
       - name: commit files
         run: |
