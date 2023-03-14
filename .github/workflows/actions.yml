@@ -2,8 +2,8 @@ name: run update.py
 
 on:
   workflow_dispatch:
-  #schedule:
-   # - cron: 00 * * * * # At 00:00 on Monday
+  schedule:
+    - cron: 00 * * * * # At 00:00 on Monday
 
 jobs:
   build:
@@ -26,7 +26,7 @@ jobs:
       - name: execute py script # run main.py
         env:
          TOKEN: ${{ secrets.TOKEN }}
-        run: python .github/python/update.py
+        #run: python .github/python/update.py
           
       - name: commit files
         run: |
