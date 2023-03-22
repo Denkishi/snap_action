@@ -388,6 +388,15 @@
             "card_id": "47"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops.webp?v=51",
+            "name": "Cyclops",
+            "ability": "When you end a turn with unspent Energy, afflict 2 random enemies here with -1 Power.",
+            "cost": "3",
+            "power": "4",
+            "pool": "None",
+            "card_id": "48"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dagger.webp?v=51",
             "name": "Dagger",
             "ability": "When this moves to a location, +2 Power for each card your opponent has there.",
@@ -771,7 +780,7 @@
             "ability": "At the start of the game, unlock the secret ability of all your cards with no abilities.",
             "cost": "4",
             "power": "7",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "available",
             "card_id": "443"
         },
         {
@@ -798,7 +807,7 @@
             "ability": "Ongoing: Tap this to see the top card of your deck.",
             "cost": "1",
             "power": "2",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Not Available",
             "card_id": "444"
         },
         {
@@ -861,7 +870,7 @@
             "ability": "On Reveal: Copy the text of your deck's top card.",
             "cost": "4",
             "power": "6",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "available",
             "card_id": "445"
         },
         {
