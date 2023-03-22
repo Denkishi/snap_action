@@ -390,10 +390,10 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops.webp?v=51",
             "name": "Cyclops",
-            "ability": "When you end a turn with unspent Energy, afflict 2 random enemies here with -1 Power.",
+            "ability": "Let's move, X-Men.",
             "cost": "3",
             "power": "4",
-            "pool": "None",
+            "pool": "Starter Card",
             "card_id": "48"
         },
         {
@@ -780,7 +780,7 @@
             "ability": "At the start of the game, unlock the secret ability of all your cards with no abilities.",
             "cost": "4",
             "power": "7",
-            "pool": "available",
+            "pool": "Not Available",
             "card_id": "443"
         },
         {
@@ -870,7 +870,7 @@
             "ability": "On Reveal: Copy the text of your deck's top card.",
             "cost": "4",
             "power": "6",
-            "pool": "available",
+            "pool": "Not Available",
             "card_id": "445"
         },
         {
