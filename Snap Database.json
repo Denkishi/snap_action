@@ -694,6 +694,14 @@
             "card_id": "88"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gorr.webp?v=51",
+            "name": "Gorr",
+            "cost": "0",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "447"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/green-goblin.webp?v=51",
             "name": "Green Goblin",
             "ability": "On Reveal: Your opponent gains control of this.",
@@ -1106,6 +1114,14 @@
             "power": "2",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "135"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/loki.webp?v=51",
+            "name": "Loki",
+            "cost": "0",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "446"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=51",
@@ -1810,6 +1826,14 @@
             "card_id": "239"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-ham.webp?v=51",
+            "name": "Spider-Ham",
+            "cost": "0",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "448"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=51",
             "name": "Spider-Man",
             "ability": "On Reveal: Your opponent can't play cards at this location next turn.",
@@ -1817,6 +1841,14 @@
             "power": "3",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "240"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man-2099.webp?v=51",
+            "name": "Spider-Man 2099",
+            "cost": "0",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "449"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-woman.webp?v=51",
