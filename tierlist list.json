@@ -1,10 +1,6 @@
 {
-    "date": "March 27, 2023",
+    "date": "March 28, 2023",
     "Tiers": [
-        {
-            "tier": "Tier S",
-            "name": "Thanos Lockjaw"
-        },
         {
             "tier": "Tier 1",
             "name": "Shuri Zero"
@@ -15,23 +11,35 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Ongoing Zoo"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards DoomWave"
+            "name": "DoomWave"
         },
         {
             "tier": "Tier 2",
             "name": "Zabu Darkhawk"
         },
         {
-            "tier": "Tier 3",
-            "name": "DeathWave"
+            "tier": "Tier 2",
+            "name": "Dracula Discard"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Patriot"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Electro Ramp"
         },
         {
             "tier": "Tier 3",
-            "name": "Electro Ramp"
+            "name": "Kazoocula"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Seracle Surfer"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockjaw Thor"
         },
         {
             "tier": "Tier 3",
@@ -39,19 +47,11 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Lockjaw Thor"
+            "name": "DeathWave"
         },
         {
             "tier": "Tier 4",
-            "name": "Dracula Discard"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Deadpool"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Junk Control"
+            "name": "Negative"
         },
         {
             "tier": "Budget",
@@ -70,18 +70,13 @@
             "name": "Control"
         },
         {
-            "tier": "Silver Surfer"
+            "tier": "Bounce"
         },
         {
-            "tier": "Patriot",
-            "name": "Guide"
+            "tier": "Attuma Destroyer"
         },
         {
-            "tier": "Valkyrie Patriot",
-            "name": "Guide"
-        },
-        {
-            "tier": "Shuri Nimrod Ramp"
+            "tier": "Magik She-Hulk"
         }
     ]
 }
