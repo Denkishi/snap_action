@@ -548,11 +548,8 @@
         },
         {
             "name": "Lockjaw Death",
-            "code": "eyJOYW1lIjoiTG9ja2phdyBEZWF0aCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJQc3lsb2NrZSJ9LHsiQ2FyZERlZklkIjoiTG9ja2phdyJ9LHsiQ2FyZERlZklkIjoiS2lsbG1vbmdlciJ9LHsiQ2FyZERlZklkIjoiV2F2ZSJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IkxlZWNoIn0seyJDYXJkRGVmSWQiOiJWaXNpb24ifSx7IkNhcmREZWZJZCI6IkRyRG9vbSJ9LHsiQ2FyZERlZklkIjoiQW1lcmljYUNoYXZleiJ9LHsiQ2FyZERlZklkIjoiU2hlSHVsayJ9LHsiQ2FyZERlZklkIjoiVGhhbm9zIn0seyJDYXJkRGVmSWQiOiJEZWF0aCJ9XX0=",
+            "code": "eyJOYW1lIjoiTG9ja2phdyBEZWF0aCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJMb2NramF3In0seyJDYXJkRGVmSWQiOiJLaWxsbW9uZ2VyIn0seyJDYXJkRGVmSWQiOiJXYXZlIn0seyJDYXJkRGVmSWQiOiJTaGFuZ0NoaSJ9LHsiQ2FyZERlZklkIjoiTGVlY2gifSx7IkNhcmREZWZJZCI6IlZpc2lvbiJ9LHsiQ2FyZERlZklkIjoiRHJEb29tIn0seyJDYXJkRGVmSWQiOiJPZGluIn0seyJDYXJkRGVmSWQiOiJBbWVyaWNhQ2hhdmV6In0seyJDYXJkRGVmSWQiOiJTaGVIdWxrIn0seyJDYXJkRGVmSWQiOiJUaGFub3MifSx7IkNhcmREZWZJZCI6IkRlYXRoIn1dfQ==",
             "cards": [
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/psylocke.webp?v=51"
-                },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lockjaw.webp?v=51"
                 },
@@ -573,6 +570,9 @@
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom.webp?v=51"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/odin.webp?v=51"
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/america-chavez.webp?v=51"
