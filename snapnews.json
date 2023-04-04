@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Animals Assemble",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_04_03_09_11_06/1621257155374_s582018.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7217734711936834309",
+            "label": "GAME UPDATES",
+            "date": "04/02/2023"
+        },
+        {
             "name": "Patch Notes – March 21, 2023",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_03_21_07_17_31/890037581798_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7209915388501515014",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7181350141905984261",
             "label": "EVENTS",
             "date": "01/12/2023"
-        },
-        {
-            "name": "Battle Mode 1.0 is coming soon!",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_01_12_04_43_22/554472128425_s204646.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7181350141905967877",
-            "label": "GAME UPDATES",
-            "date": "01/11/2023"
         }
     ]
 }
