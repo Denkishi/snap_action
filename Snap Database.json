@@ -797,7 +797,7 @@
             "ability": "On Reveal: Gain +2 Power for each other card you played this turn.",
             "cost": "2",
             "power": "0",
-            "pool": "Not Available",
+            "pool": "Season Pass",
             "card_id": "99"
         },
         {
@@ -1435,7 +1435,7 @@
             "ability": "When this is destroyed, add a copy to each other location.",
             "cost": "5",
             "power": "5",
-            "pool": "Season Pass",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "429"
         },
         {

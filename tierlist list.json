@@ -1,5 +1,5 @@
 {
-    "date": "March 28, 2023",
+    "date": "April 4, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
@@ -7,39 +7,35 @@
         },
         {
             "tier": "Tier 1",
+            "name": "Thanos Death Lockjaw"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Sera Control"
         },
         {
             "tier": "Tier 2",
-            "name": "DoomWave"
+            "name": "Thanos Lockjaw Ongoing"
         },
         {
             "tier": "Tier 2",
-            "name": "Zabu Darkhawk"
+            "name": "Zabu Devil Darkhawk"
         },
         {
             "tier": "Tier 2",
-            "name": "Dracula Discard"
+            "name": "Lockjaw Thor"
         },
         {
             "tier": "Tier 2",
-            "name": "Patriot"
+            "name": "Good Cards DoomWave"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Sera Surfer"
         },
         {
             "tier": "Tier 2",
             "name": "Electro Ramp"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Kazoocula"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Seracle Surfer"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Lockjaw Thor"
         },
         {
             "tier": "Tier 3",
@@ -50,8 +46,28 @@
             "name": "DeathWave"
         },
         {
+            "tier": "Tier 3",
+            "name": "Patriot Ultron"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Dracula Discard"
+        },
+        {
             "tier": "Tier 4",
-            "name": "Negative"
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Kazoocula"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Cerebro 2"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Negative Surfer"
         },
         {
             "tier": "Budget",
@@ -70,13 +86,10 @@
             "name": "Control"
         },
         {
-            "tier": "Bounce"
+            "tier": "Thanos Control"
         },
         {
-            "tier": "Attuma Destroyer"
-        },
-        {
-            "tier": "Magik She-Hulk"
+            "tier": "Devil Dinosaur Control"
         }
     ]
 }
