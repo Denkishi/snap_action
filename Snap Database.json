@@ -1,6 +1,15 @@
 {
     "cards": [
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/abomination.webp?v=52",
+            "name": "Abomination",
+            "ability": "Costs 1 less for each enemy card in play that's afflicted with negative Power.",
+            "cost": "5",
+            "power": "9",
+            "pool": "Starter Card",
+            "card_id": "1"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/absorbing-man.webp?v=52",
             "name": "Absorbing Man",
             "ability": "On Reveal: If the last card you played has an On Reveal, copy its text. (if it's in play)",
@@ -377,6 +386,15 @@
             "power": "4",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "47"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops.webp?v=52",
+            "name": "Cyclops",
+            "ability": "When you end a turn with unspent Energy, afflict 2 random enemies here with -1 Power.",
+            "cost": "3",
+            "power": "4",
+            "pool": "Starter Card",
+            "card_id": "48"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dagger.webp?v=52",
@@ -1772,15 +1790,6 @@
             "card_id": "230"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-samurai.webp?v=52",
-            "name": "Silver Samurai",
-            "ability": "When this is discarded from your hand, draw a card.",
-            "cost": "1",
-            "power": "2",
-            "pool": "Not Available",
-            "card_id": "231"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=52",
             "name": "Silver Surfer",
             "ability": "On Reveal: Give your other 3-Cost cards +2 Power.",
@@ -1795,7 +1804,7 @@
             "ability": "While in your hand, this transforms each turn into a Hawk or a Bear.",
             "cost": "1",
             "power": "2",
-            "pool": "Not Available",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "235"
         },
         {
@@ -1874,7 +1883,7 @@
             "ability": "On Reveal: Move an enemy card from here to another location.",
             "cost": "4",
             "power": "5",
-            "pool": "Not Available",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "441"
         },
         {
