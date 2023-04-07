@@ -1587,7 +1587,7 @@
             "name": "Red Skull",
             "ability": "Ongoing: Enemy cards at this location have +1 Power.",
             "cost": "5",
-            "power": "13",
+            "power": "12",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "203"
         },
@@ -1702,9 +1702,9 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentry.webp?v=51",
             "name": "Sentry",
-            "ability": "You can't play this at the right location. On Reveal: Add a -8 Power Void to the right location.",
+            "ability": "You can't play this at the right location. On Reveal: Add a -10 Power Void to the right location.",
             "cost": "4",
-            "power": "8",
+            "power": "10",
             "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "220"
         },
@@ -1721,7 +1721,7 @@
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shadow-king.webp?v=51",
             "name": "Shadow King",
             "ability": "On Reveal: Set all cards here to their original base Power.",
-            "cost": "4",
+            "cost": "3",
             "power": "3",
             "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "222"
@@ -1927,7 +1927,7 @@
             "name": "Sunspot",
             "ability": "At the end of each turn, gain +1 Power for each unspent Energy.",
             "cost": "1",
-            "power": "1",
+            "power": "0",
             "pool": "Collection Level 222-474 (Pool 2)",
             "card_id": "252"
         },
