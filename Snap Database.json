@@ -1790,6 +1790,15 @@
             "card_id": "230"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-samurai.webp?v=52",
+            "name": "Silver Samurai",
+            "ability": "When this is discarded from your hand, draw a card.",
+            "cost": "1",
+            "power": "2",
+            "pool": "Not Available",
+            "card_id": "231"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=52",
             "name": "Silver Surfer",
             "ability": "On Reveal: Give your other 3-Cost cards +2 Power.",
