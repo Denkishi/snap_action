@@ -422,13 +422,13 @@
         },
         {
             "name": "Galactus",
-            "code": "eyJOYW1lIjoiR2FsYWN0dXMiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiWW9uZHUifSx7IkNhcmREZWZJZCI6IkRhcmVkZXZpbCJ9LHsiQ2FyZERlZklkIjoiRWxlY3RybyJ9LHsiQ2FyZERlZklkIjoiV2F2ZSJ9LHsiQ2FyZERlZklkIjoiU2h1cmkifSx7IkNhcmREZWZJZCI6IlNoYW5nQ2hpIn0seyJDYXJkRGVmSWQiOiJUYXNrbWFzdGVyIn0seyJDYXJkRGVmSWQiOiJEb2N0b3JPY3RvcHVzIn0seyJDYXJkRGVmSWQiOiJLbnVsbCJ9LHsiQ2FyZERlZklkIjoiR2FsYWN0dXMifSx7IkNhcmREZWZJZCI6IkRlc3Ryb3llciJ9LHsiQ2FyZERlZklkIjoiRGVhdGgifV19",
+            "code": "eyJOYW1lIjoiR2FsYWN0dXMiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiWW9uZHUifSx7IkNhcmREZWZJZCI6IldvbHZlcmluZSJ9LHsiQ2FyZERlZklkIjoiRWxlY3RybyJ9LHsiQ2FyZERlZklkIjoiV2F2ZSJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IlNwaWRlck1hbiJ9LHsiQ2FyZERlZklkIjoiRG9jdG9yT2N0b3B1cyJ9LHsiQ2FyZERlZklkIjoiS251bGwifSx7IkNhcmREZWZJZCI6IkdhbGFjdHVzIn0seyJDYXJkRGVmSWQiOiJBbWVyaWNhQ2hhdmV6In0seyJDYXJkRGVmSWQiOiJEZXN0cm95ZXIifSx7IkNhcmREZWZJZCI6IkRlYXRoIn1dfQ==",
             "cards": [
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yondu.webp?v=52"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daredevil.webp?v=52"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolverine.webp?v=52"
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/electro.webp?v=52"
@@ -437,13 +437,10 @@
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wave.webp?v=52"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shuri.webp?v=52"
-                },
-                {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=52"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=52"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=52"
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-octopus.webp?v=52"
@@ -453,6 +450,9 @@
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galactus.webp?v=52"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/america-chavez.webp?v=52"
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/destroyer.webp?v=52"
