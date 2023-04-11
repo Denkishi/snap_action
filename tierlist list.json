@@ -1,21 +1,21 @@
 {
-    "date": "April 4, 2023",
+    "date": "April 11, 2023",
     "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Sera Miracle Control"
+        },
         {
             "tier": "Tier 1",
             "name": "Shuri Zero"
         },
         {
-            "tier": "Tier 1",
-            "name": "Thanos Death Lockjaw"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Sera Control"
+            "tier": "Tier 2",
+            "name": "Patriot Ultron"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Lockjaw Ongoing"
+            "name": "Thanos Ongoing"
         },
         {
             "tier": "Tier 2",
@@ -23,7 +23,7 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Lockjaw Thor"
+            "name": "Thanos Death Lockjaw"
         },
         {
             "tier": "Tier 2",
@@ -31,11 +31,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Sera Surfer"
+            "name": "Electro Ramp"
         },
         {
             "tier": "Tier 2",
-            "name": "Electro Ramp"
+            "name": "Bounce"
         },
         {
             "tier": "Tier 3",
@@ -43,31 +43,15 @@
         },
         {
             "tier": "Tier 3",
-            "name": "DeathWave"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Patriot Ultron"
+            "name": "Sera Surfer"
         },
         {
             "tier": "Tier 3",
             "name": "Dracula Discard"
         },
         {
-            "tier": "Tier 4",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Kazoocula"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Cerebro 2"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Negative Surfer"
+            "tier": "Tier 3",
+            "name": "DeathWave"
         },
         {
             "tier": "Budget",
@@ -86,10 +70,15 @@
             "name": "Control"
         },
         {
+            "tier": "Cerebro 2",
+            "name": "Guide"
+        },
+        {
             "tier": "Thanos Control"
         },
         {
-            "tier": "Devil Dinosaur Control"
+            "tier": "KazooCula",
+            "name": "Guide"
         }
     ]
 }
