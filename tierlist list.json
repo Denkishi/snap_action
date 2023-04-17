@@ -1,5 +1,5 @@
 {
-    "date": "April 11, 2023",
+    "date": "April 17, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
@@ -10,8 +10,16 @@
             "name": "Shuri Zero"
         },
         {
-            "tier": "Tier 2",
+            "tier": "Tier 1",
             "name": "Patriot Ultron"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards DoomWave"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos Death Lockjaw"
         },
         {
             "tier": "Tier 2",
@@ -23,23 +31,15 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Death Lockjaw"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards DoomWave"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Electro Ramp"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Bounce"
         },
         {
             "tier": "Tier 3",
             "name": "Galactus"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce"
         },
         {
             "tier": "Tier 3",
