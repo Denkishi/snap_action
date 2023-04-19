@@ -1,1 +1,84 @@
-{}
+{
+    "date": "April 17, 2023",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Sera Miracle Control"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Shuri Zero"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Patriot Ultron"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards DoomWave"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos Death Lockjaw"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos Ongoing"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Zabu Devil Darkhawk"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Electro Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Galactus"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Sera Surfer"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Dracula Discard"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "DeathWave"
+        },
+        {
+            "tier": "Budget",
+            "name": "Handsize Destroy"
+        },
+        {
+            "tier": "Budget",
+            "name": "Ongoing"
+        },
+        {
+            "tier": "Budget",
+            "name": "Sandman Kazoo"
+        },
+        {
+            "tier": "Budget",
+            "name": "Control"
+        },
+        {
+            "tier": "Cerebro 2",
+            "name": "Guide"
+        },
+        {
+            "tier": "Thanos Control"
+        },
+        {
+            "tier": "KazooCula",
+            "name": "Guide"
+        }
+    ]
+}
