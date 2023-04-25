@@ -1,13 +1,17 @@
 {
-    "date": "April 23, 2023",
+    "date": "April 25, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Sera Miracle Control"
+            "name": "Dino Darkhawk"
         },
         {
             "tier": "Tier 1",
-            "name": "Shuri Zero"
+            "name": "Electro Ramp"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 1",
@@ -15,11 +19,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards DoomWave"
+            "name": "DoomWave"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Death Lockjaw"
+            "name": "DeathWave"
         },
         {
             "tier": "Tier 2",
@@ -27,31 +31,23 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Zabu Devil Darkhawk"
+            "name": "Lockjaw Thor"
         },
         {
             "tier": "Tier 2",
-            "name": "Electro Ramp"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Galactus"
         },
         {
             "tier": "Tier 3",
-            "name": "Bounce"
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 3",
-            "name": "Sera Surfer"
+            "name": "Shuri Zero"
         },
         {
             "tier": "Tier 3",
-            "name": "Dracula Discard"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "DeathWave"
+            "name": "Bounce Monkey"
         },
         {
             "tier": "Budget",
@@ -70,15 +66,10 @@
             "name": "Control"
         },
         {
-            "tier": "Cerebro 2",
-            "name": "Guide"
+            "tier": "Moon Girl Infinaut"
         },
         {
-            "tier": "Thanos Control"
-        },
-        {
-            "tier": "KazooCula",
-            "name": "Guide"
+            "tier": "Surfer Move"
         }
     ]
 }
