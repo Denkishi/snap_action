@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Check Out Your Battle Recap & Animal Personality Profile!",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_04_26_05_48_48/406207822866_s455545.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7220311066616716038",
+            "label": "EVENTS",
+            "date": "04/25/2023"
+        },
+        {
             "name": "Patch Notes – April 18, 2023",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_04_18_09_07_06/1428872645007_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7219191755156019973",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7195494519993916165",
             "label": "GAME UPDATES",
             "date": "02/07/2023"
-        },
-        {
-            "name": "New Season: INTO THE QUANTUM REALM",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_02_06_12_25_14/1524615788718_s650599.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7195494519993834245",
-            "label": "GAME UPDATES",
-            "date": "02/06/2023"
         }
     ]
 }
