@@ -1,25 +1,13 @@
 {
-    "date": "May 1, 2023",
+    "date": "May 2, 2023",
     "Tiers": [
-        {
-            "tier": "Tier 1",
-            "name": "Dino Darkhawk"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Electro Ramp"
-        },
         {
             "tier": "Tier 1",
             "name": "Sera Control"
         },
         {
             "tier": "Tier 1",
-            "name": "Patriot Ultron"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "DoomWave"
+            "name": "Lockjaw Thor"
         },
         {
             "tier": "Tier 2",
@@ -27,27 +15,43 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Ongoing"
+            "name": "DoomWave"
         },
         {
             "tier": "Tier 2",
-            "name": "Lockjaw Thor"
+            "name": "Sera Surfer"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Dino Darkhawk"
         },
         {
             "tier": "Tier 2",
             "name": "Galactus"
         },
         {
-            "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "tier": "Tier 2",
+            "name": "Discard"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Electro Ramp"
         },
         {
             "tier": "Tier 3",
-            "name": "Shuri Zero"
+            "name": "Thanos Lockjaw"
         },
         {
             "tier": "Tier 3",
-            "name": "Bounce Monkey"
+            "name": "Thanos Control Junk"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Patriot"
         },
         {
             "tier": "Budget",
@@ -66,10 +70,10 @@
             "name": "Control"
         },
         {
-            "tier": "Moon Girl Infinaut"
+            "tier": "Negative Galactus Wongkanda"
         },
         {
-            "tier": "Surfer Move"
+            "tier": "Toxic Sera Omega Red"
         }
     ]
 }
