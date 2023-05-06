@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "May 4th – Balance Updates",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_05_06_10_11/201159892410_s204646.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7222982161656322821",
+            "label": "GAME UPDATES",
+            "date": "05/03/2023"
+        },
+        {
             "name": "New Season: Guardians Greatest Hits",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_04_03_49_44/1013861931989_s767701.png",
             "page": "https://www.marvelsnap.com/newsdetail?id=7222982161656290053",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7206201800540609286",
             "label": "GAME UPDATES",
             "date": "03/05/2023"
-        },
-        {
-            "name": "PATCH NOTES — February 21, 2023",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_02_20_06_33_48/1377568553524_s204646.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7195494519998077701",
-            "label": "GAME UPDATES",
-            "date": "02/20/2023"
         }
     ]
 }
