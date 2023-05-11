@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "May 11th - Balance Updates",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_11_18_54_55/1372287286744_s204646.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7225499532442753798",
+            "label": "GAME UPDATES",
+            "date": "05/11/2023"
+        },
+        {
             "name": "May 4th – Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_05_06_10_11/201159892410_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7222982161656322821",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7209915388493175558",
             "label": "GAME UPDATES",
             "date": "03/19/2023"
-        },
-        {
-            "name": "New Season: Days of Future Past",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_03_07_07_10_22/646098255672_s742688.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7206201800540609286",
-            "label": "GAME UPDATES",
-            "date": "03/05/2023"
         }
     ]
 }
