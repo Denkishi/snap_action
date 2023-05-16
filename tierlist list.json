@@ -1,5 +1,5 @@
 {
-    "date": "May 9, 2023",
+    "date": "May 16, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
@@ -8,10 +8,6 @@
         {
             "tier": "Tier 1",
             "name": "Sera Control"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "DoomWave Nebula"
         },
         {
             "tier": "Tier 2",
@@ -23,15 +19,23 @@
         },
         {
             "tier": "Tier 2",
+            "name": "DoomWave"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Discard Dracula"
         },
         {
             "tier": "Tier 2",
-            "name": "Devil Dinosaur Darkhawk"
+            "name": "Devil Darkhawk"
         },
         {
             "tier": "Tier 2",
             "name": "Lockjaw Thor"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Nebula Control"
         },
         {
             "tier": "Tier 2",
@@ -42,20 +46,12 @@
             "name": "Patriot"
         },
         {
-            "tier": "Tier 3",
-            "name": "Cerebro 2"
+            "tier": "Tier 2",
+            "name": "Thanos Control"
         },
         {
             "tier": "Tier 3",
-            "name": "Electro Ramp"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Thanos Ongoing Zoo"
+            "name": "Shuri Sauron"
         },
         {
             "tier": "Tier 3",
@@ -63,19 +59,23 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Kazoocula"
+            "name": "Electro Ramp"
         },
         {
-            "tier": "Tier 4",
-            "name": "Thanos Control"
+            "tier": "Tier 3",
+            "name": "Thanos Ongoing Zoo"
         },
         {
-            "tier": "Tier 4",
-            "name": "Move"
+            "tier": "Tier 3",
+            "name": "Thanos Death Lockjaw"
         },
         {
-            "tier": "Tier 4",
-            "name": "Negative"
+            "tier": "Tier 3",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Cerebro 2"
         },
         {
             "tier": "Budget",
@@ -94,13 +94,13 @@
             "name": "Control"
         },
         {
-            "tier": "Shuri Sauron"
+            "tier": "Hit Monkey Nebula"
         },
         {
-            "tier": "SheNaut"
+            "tier": "Iron Lad Patriot"
         },
         {
-            "tier": "Shuri Stature"
+            "tier": "InSheNaut"
         }
     ]
 }
