@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Patch Notes – May 16, 2023",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_16_08_13_05/977172372048_s204646.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7226612130068355846",
+            "label": "GAME UPDATES",
+            "date": "05/14/2023"
+        },
+        {
             "name": "May 11th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_11_18_54_55/1372287286744_s204646.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7225499532442753798",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7209915388501515014",
             "label": "GAME UPDATES",
             "date": "03/20/2023"
-        },
-        {
-            "name": "Roadmap Overview",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_03_23_10_47_23/891968110808_s1634900.png",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7209915388493175558",
-            "label": "GAME UPDATES",
-            "date": "03/19/2023"
         }
     ]
 }
