@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Card Acquisition Updates",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_18_07_53_22/891966118083_s204646.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7234068192820288262",
+            "label": "GAME UPDATES",
+            "date": "05/16/2023"
+        },
+        {
             "name": "Patch Notes – May 16, 2023",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_16_08_13_05/977172372048_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7226612130068355846",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7217734711936834309",
             "label": "GAME UPDATES",
             "date": "04/02/2023"
-        },
-        {
-            "name": "Patch Notes – March 21, 2023",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_03_21_07_17_31/890037581798_s204646.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7209915388501515014",
-            "label": "GAME UPDATES",
-            "date": "03/20/2023"
         }
     ]
 }
