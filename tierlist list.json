@@ -1,9 +1,13 @@
 {
-    "date": "May 22, 2023",
+    "date": "May 23, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Good Cards Stature"
+            "name": "Good Cards Wave"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Iron Patriot"
         },
         {
             "tier": "Tier 1",
@@ -11,31 +15,19 @@
         },
         {
             "tier": "Tier 2",
+            "name": "Good Cards Stature"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Sera Surfer"
         },
         {
             "tier": "Tier 2",
-            "name": "DeathWave"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "DoomWave"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Devil Darkhawk"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Lockjaw Thor"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Nebula Control"
+            "name": "Lockjaw Thanos"
         },
         {
             "tier": "Tier 2",
@@ -43,7 +35,7 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Patriot"
+            "name": "She-Monkey"
         },
         {
             "tier": "Tier 2",
@@ -51,11 +43,7 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Shuri Sauron"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Hela Discard"
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 3",
@@ -63,19 +51,31 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Ongoing Zoo"
+            "name": "Devil Darkhawk"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Death Lockjaw"
+            "name": "Shuri"
         },
         {
-            "tier": "Tier 3",
-            "name": "Bounce"
+            "tier": "Tier 4",
+            "name": "Hela Discard"
         },
         {
-            "tier": "Tier 3",
+            "tier": "Tier 4",
             "name": "Cerebro 2"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Dino Collector"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Attuma Destroyer"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Mister Negative"
         },
         {
             "tier": "Budget",
@@ -92,15 +92,6 @@
         {
             "tier": "Budget",
             "name": "Control"
-        },
-        {
-            "tier": "Hit Monkey Nebula"
-        },
-        {
-            "tier": "Iron Lad Patriot"
-        },
-        {
-            "tier": "InSheNaut"
         }
     ]
 }
