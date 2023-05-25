@@ -1,6 +1,12 @@
 {
     "titles": [
         {
+            "name": "May 25th - Balance Updates",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_25_18_54_28/18392938168_s204646.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7234068464103742213",
+            "date": "05/24/2023"
+        },
+        {
             "name": "Card Acquisition Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_18_07_53_22/891966118083_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7234068192820288262",
@@ -62,13 +68,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7217734711936850693",
             "label": "GAME UPDATES",
             "date": "04/05/2023"
-        },
-        {
-            "name": "New Season: Animals Assemble",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_04_03_09_11_06/1621257155374_s582018.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7217734711936834309",
-            "label": "GAME UPDATES",
-            "date": "04/02/2023"
         }
     ]
 }
