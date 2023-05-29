@@ -693,6 +693,15 @@
             "card_id": "456"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goblin-queen.webp?v=84",
+            "name": "Goblin Queen",
+            "ability": "On Reveal: Other cards can't be revealed this turn.",
+            "cost": "2",
+            "power": "3",
+            "pool": "Not Available",
+            "card_id": "382"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goose.webp?v=84",
             "name": "Goose",
             "ability": "Ongoing: Nobody can play cards that cost 4, 5, or 6 at this location.",
