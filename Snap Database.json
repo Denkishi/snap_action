@@ -604,6 +604,15 @@
             "card_id": "80"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flatman.webp?v=84",
+            "name": "Flatman",
+            "ability": "Ongoing: Adjacent locations have +1 Power.",
+            "cost": "2",
+            "power": "2",
+            "pool": "Not Available",
+            "card_id": "381"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/forge.webp?v=84",
             "name": "Forge",
             "ability": "On Reveal: Give the next card you play +2 Power.",
@@ -663,7 +672,7 @@
             "ability": "On Reveal: The last card you played moves here.",
             "cost": "2",
             "power": "3",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Not Available",
             "card_id": "86"
         },
         {
@@ -717,6 +726,15 @@
             "power": "4",
             "pool": "Collection Level 18-214 (Pool 1)",
             "card_id": "91"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gwenpool.webp?v=84",
+            "name": "Gwenpool",
+            "ability": "On Reveal: Double this card's Power.",
+            "cost": "2",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "383"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye.webp?v=84",
@@ -890,6 +908,15 @@
             "card_id": "108"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/j-jonah-jameson.webp?v=84",
+            "name": "J. Jonah Jameson",
+            "ability": "Ongoing: Your emotes are ruder.",
+            "cost": "1",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "440"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jane-foster-mighty-thor.webp?v=84",
             "name": "Jane Foster Mighty Thor",
             "ability": "On Reveal: Draw all cards that Cost 0 from your deck.",
@@ -969,6 +996,15 @@
             "power": "3",
             "pool": "Collection Level 222-474 (Pool 2)",
             "card_id": "118"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/king-eitri.webp?v=84",
+            "name": "King Eitri",
+            "ability": "On Reveal: Give the next card you play +4 Power.",
+            "cost": "5",
+            "power": "3",
+            "pool": "Not Available",
+            "card_id": "385"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kingpin.webp?v=84",
@@ -1130,6 +1166,15 @@
             "power": "12",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "141"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/makkari.webp?v=84",
+            "name": "Makkari",
+            "ability": "When you draw this, place it at a random location.",
+            "cost": "0",
+            "power": "2",
+            "pool": "Not Available",
+            "card_id": "142"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mantis.webp?v=84",
@@ -1353,7 +1398,7 @@
             "ability": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
             "cost": "1",
             "power": "1",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Season Pass",
             "card_id": "176"
         },
         {
@@ -1373,6 +1418,15 @@
             "power": "7",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "180"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/night-nurse.webp?v=84",
+            "name": "Night Nurse",
+            "ability": "On Reveal: Add all cards you discarded or destroyed last turn to your hand.",
+            "cost": "2",
+            "power": "2",
+            "pool": "Not Available",
+            "card_id": "388"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightcrawler.webp?v=84",
@@ -1731,7 +1785,7 @@
             "ability": "After ANY card is played here, this moves to another location.",
             "cost": "2",
             "power": "5",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Not Available",
             "card_id": "229"
         },
         {
@@ -1742,6 +1796,15 @@
             "power": "6",
             "pool": "Not Available",
             "card_id": "230"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-samurai.webp?v=84",
+            "name": "Silver Samurai",
+            "ability": "When this is discarded from your hand, draw a card.",
+            "cost": "1",
+            "power": "2",
+            "pool": "Not Available",
+            "card_id": "231"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=84",
@@ -1776,7 +1839,7 @@
             "ability": "On Reveal: Transform the highest-cost card in your opponent's hand into a Pig, keeping its Power and Cost.",
             "cost": "1",
             "power": "1",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Not Available",
             "card_id": "453"
         },
         {
@@ -1794,7 +1857,7 @@
             "ability": "The first time this moves to a location, destroy an enemy card there.",
             "cost": "4",
             "power": "6",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Not Available",
             "card_id": "454"
         },
         {
@@ -2086,6 +2149,15 @@
             "card_id": "286"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/viv-vision.webp?v=84",
+            "name": "Viv Vision",
+            "ability": "When you move a card to a location, move this card there as well.",
+            "cost": "2",
+            "power": "3",
+            "pool": "Not Available",
+            "card_id": "393"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vulture.webp?v=84",
             "name": "Vulture",
             "ability": "When this card moves, +5 Power.",
@@ -2149,6 +2221,15 @@
             "card_id": "298"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/witchfire.webp?v=84",
+            "name": "Witchfire",
+            "ability": "On Reveal: Your opponent draws a card, increase its cost by 1.",
+            "cost": "2",
+            "power": "3",
+            "pool": "Not Available",
+            "card_id": "394"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolfsbane.webp?v=84",
             "name": "Wolfsbane",
             "ability": "On Reveal: +2 Power for each other card you have here.",
@@ -2176,6 +2257,15 @@
             "card_id": "303"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/x-23.webp?v=84",
+            "name": "X-23",
+            "ability": "When this is discarded from your hand, put it back. It costs 0.",
+            "cost": "3",
+            "power": "3",
+            "pool": "Not Available",
+            "card_id": "395"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yellowjacket.webp?v=84",
             "name": "Yellowjacket",
             "ability": "On Reveal: Afflict your other cards at this location with -1 Power.",
@@ -2183,6 +2273,15 @@
             "power": "2",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "307"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yo-yo.webp?v=84",
+            "name": "Yo-Yo",
+            "ability": "When this card moves, move it back with +1 Power.",
+            "cost": "1",
+            "power": "2",
+            "pool": "Not Available",
+            "card_id": "308"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yondu.webp?v=84",
