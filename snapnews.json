@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Spider-Versus",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_06_06_10_21_53/628450150213_s540860.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7234068766685158149",
+            "label": "GAME UPDATES",
+            "date": "06/05/2023"
+        },
+        {
             "name": "May 25th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_25_18_54_28/18392938168_s204646.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7234068464103742213",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7219191755156003589",
             "label": "GAME UPDATES",
             "date": "04/16/2023"
-        },
-        {
-            "name": "April 6th - OTA Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_04_06_04_27_45/1296363285605_s204646.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7217734711936850693",
-            "label": "GAME UPDATES",
-            "date": "04/05/2023"
         }
     ]
 }
