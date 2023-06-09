@@ -211,6 +211,48 @@
             ]
         },
         {
+            "name": "Bounce",
+            "code": "eyJOYW1lIjoiQm91bmNlIiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6Ikhvb2QifSx7IkNhcmREZWZJZCI6IktpdHR5UHJ5ZGUifSx7IkNhcmREZWZJZCI6IkJhc3QifSx7IkNhcmREZWZJZCI6IkljZW1hbiJ9LHsiQ2FyZERlZklkIjoiQW5nZWxhIn0seyJDYXJkRGVmSWQiOiJIaXRNb25rZXkifSx7IkNhcmREZWZJZCI6IkJlYXN0In0seyJDYXJkRGVmSWQiOiJUaGVDb2xsZWN0b3IifSx7IkNhcmREZWZJZCI6IkZhbGNvbiJ9LHsiQ2FyZERlZklkIjoiTXlzdGVyaW8ifSx7IkNhcmREZWZJZCI6IkJpc2hvcCJ9LHsiQ2FyZERlZklkIjoiQW1lcmljYUNoYXZleiJ9XX0=",
+            "cards": [
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kitty-pryde.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iceman.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hit-monkey.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/beast.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-collector.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/falcon.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mysterio.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bishop.webp?v=85"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/america-chavez.webp?v=85"
+                }
+            ]
+        },
+        {
             "name": "Evolved Lockjaw",
             "code": "eyJOYW1lIjoiRXZvbHZlZCBMb2NramF3IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6Ildhc3AifSx7IkNhcmREZWZJZCI6IkxvY2tqYXcifSx7IkNhcmREZWZJZCI6IlRob3IifSx7IkNhcmREZWZJZCI6IkRyYWN1bGEifSx7IkNhcmREZWZJZCI6Ikp1YmlsZWUifSx7IkNhcmREZWZJZCI6IkhpZ2hFdm9sdXRpb25hcnkifSx7IkNhcmREZWZJZCI6IkphbmVGb3N0ZXIifSx7IkNhcmREZWZJZCI6IkRyRG9vbSJ9LHsiQ2FyZERlZklkIjoiT2RpbiJ9LHsiQ2FyZERlZklkIjoiQW1lcmljYUNoYXZleiJ9LHsiQ2FyZERlZklkIjoiSHVsayJ9LHsiQ2FyZERlZklkIjoiSW5maW5hdXQifV19",
             "cards": [
