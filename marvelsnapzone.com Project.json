@@ -1,48 +1,6 @@
 {
     "tier": [
         {
-            "name": "Sera Control",
-            "code": "eyJOYW1lIjoiU2VyYSBDb250cm9sIiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IktpdHR5UHJ5ZGUifSx7IkNhcmREZWZJZCI6Ik5vdmEifSx7IkNhcmREZWZJZCI6IkFuZ2VsYSJ9LHsiQ2FyZERlZklkIjoiSGl0TW9ua2V5In0seyJDYXJkRGVmSWQiOiJTY2FybGV0V2l0Y2gifSx7IkNhcmREZWZJZCI6Ik15c3RlcmlvIn0seyJDYXJkRGVmSWQiOiJMaXphcmQifSx7IkNhcmREZWZJZCI6IkJpc2hvcCJ9LHsiQ2FyZERlZklkIjoiS2lsbG1vbmdlciJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IkVuY2hhbnRyZXNzIn0seyJDYXJkRGVmSWQiOiJTZXJhIn1dfQ==",
-            "cards": [
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kitty-pryde.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hit-monkey.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-witch.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mysterio.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lizard.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bishop.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/enchantress.webp?v=86"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sera.webp?v=86"
-                }
-            ]
-        },
-        {
             "name": "High Lockdown",
             "code": "eyJOYW1lIjoiSGlnaCBMb2NrZG93biIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJXYXNwIn0seyJDYXJkRGVmSWQiOiJOZWJ1bGEifSx7IkNhcmREZWZJZCI6IkplZmZUaGVCYWJ5TGFuZFNoYXJrIn0seyJDYXJkRGVmSWQiOiJTdG9ybSJ9LHsiQ2FyZERlZklkIjoiQ3ljbG9wcyJ9LHsiQ2FyZERlZklkIjoiSGlnaEV2b2x1dGlvbmFyeSJ9LHsiQ2FyZERlZklkIjoiVGhlVGhpbmcifSx7IkNhcmREZWZJZCI6IlByb2Zlc3NvclgifSx7IkNhcmREZWZJZCI6IlNwaWRlck1hbiJ9LHsiQ2FyZERlZklkIjoiQWJvbWluYXRpb24ifSx7IkNhcmREZWZJZCI6IkFtZXJpY2FDaGF2ZXoifSx7IkNhcmREZWZJZCI6Ikh1bGsifV19",
             "cards": [
