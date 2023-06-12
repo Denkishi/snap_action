@@ -3,7 +3,7 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Sera Control"
+            "name": "Evolved Lockjaw"
         },
         {
             "tier": "Tier 1",
@@ -11,15 +11,7 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Wave"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Evolved Lockjaw"
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 2",
@@ -27,7 +19,7 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Iron Patriot"
+            "name": "Good Cards Wave"
         },
         {
             "tier": "Tier 2",
@@ -35,10 +27,14 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Pure High Evolutionary"
+            "name": "Bounce"
         },
         {
             "tier": "Tier 2",
+            "name": "Pure High Evolutionary"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Good Cards Stature"
         },
         {
@@ -51,19 +47,19 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Devil Darkhawk"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Electro Ramp"
         },
         {
             "tier": "Tier 3",
-            "name": "Shuri"
+            "name": "Devil Darkhawk"
         },
         {
             "tier": "Tier 3",
-            "name": "Hela"
+            "name": "Thanos Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Shuri"
         },
         {
             "tier": "Budget",
@@ -82,10 +78,7 @@
             "name": "Control"
         },
         {
-            "tier": "She-Hulk Combo"
-        },
-        {
-            "tier": "Cerebro 2",
+            "tier": "Iron Patriot",
             "name": "Guide"
         }
     ]
