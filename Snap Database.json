@@ -424,6 +424,15 @@
             "card_id": "49"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daken.webp?v=92",
+            "name": "Daken",
+            "ability": "On Reveal: Add the Muramasa Shard to your hand.",
+            "cost": "3",
+            "power": "4",
+            "pool": "Not Available",
+            "card_id": "468"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daredevil.webp?v=92",
             "name": "Daredevil",
             "ability": "On turn 5, you get to see your opponent's plays before you make your own.",
