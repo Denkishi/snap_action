@@ -280,15 +280,6 @@
             "card_id": "31"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/broodling.webp?v=92",
-            "name": "Broodling",
-            "ability": "\"We are Brood, from Broodworld. You are lunch.\"",
-            "cost": "3",
-            "power": "2",
-            "pool": "Not Available",
-            "card_id": "387"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bucky-barnes.webp?v=92",
             "name": "Bucky Barnes",
             "ability": "When this is destroyed, create the Winter Soldier in its place.",
@@ -1894,7 +1885,7 @@
             "ability": "On Reveal: Transform the highest-cost card in your opponent's hand into a Pig, keeping its Power and Cost.",
             "cost": "1",
             "power": "1",
-            "pool": "Not Available",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "453"
         },
         {
@@ -2105,15 +2096,6 @@
             "card_id": "269"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-void.webp?v=92",
-            "name": "The Void",
-            "ability": "Hello again...",
-            "cost": "4",
-            "power": "-10",
-            "pool": "Not Available",
-            "card_id": "271"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thor.webp?v=92",
             "name": "Thor",
             "ability": "On Reveal: Shuffle Mjolnir into your deck.",
@@ -2283,15 +2265,6 @@
             "power": "1",
             "pool": "Collection Level 1-14",
             "card_id": "298"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/winter-soldier.webp?v=92",
-            "name": "Winter Soldier",
-            "ability": "\"It's time for me to face the past.\"",
-            "cost": "2",
-            "power": "6",
-            "pool": "Not Available",
-            "card_id": "300"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/witchfire.webp?v=92",
