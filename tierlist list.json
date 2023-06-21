@@ -91,11 +91,19 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Evolved Lockjaw"
+            "name": "Bounce"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Wave"
+            "name": "Invisible Sera"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Evolved Lockjaw"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Pure Evolution"
         },
         {
             "tier": "Tier 2",
@@ -103,11 +111,11 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Sera Control"
+            "name": "Electro Ramp"
         },
         {
             "tier": "Tier 3",
-            "name": "Sera Surfer"
+            "name": "Destroy"
         }
     ]
 }
