@@ -1,5 +1,5 @@
 {
-    "date": "June 27, 2023",
+    "date": "June 28, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
@@ -91,15 +91,19 @@
         },
         {
             "tier": "Tier 1",
+            "name": "Evolved Lockjaw"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Bounce"
         },
         {
-            "tier": "Tier 1",
-            "name": "Invisible Sera"
+            "tier": "Tier 2",
+            "name": "Evolved Lockdown"
         },
         {
-            "tier": "Tier 1",
-            "name": "Evolved Lockjaw"
+            "tier": "Tier 2",
+            "name": "Good Cards Stature"
         },
         {
             "tier": "Tier 2",
@@ -107,7 +111,7 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Iron Patriot"
+            "name": "Sera Surfer"
         },
         {
             "tier": "Tier 3",
@@ -115,7 +119,7 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Destroy"
+            "name": "Good Cards Wave"
         }
     ]
 }
