@@ -271,15 +271,6 @@
             "card_id": "31"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/broodling.webp?v=97",
-            "name": "Broodling",
-            "ability": "\"We are Brood, from Broodworld. You are lunch.\"",
-            "cost": "3",
-            "power": "2",
-            "pool": "Not Available",
-            "card_id": "387"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bucky-barnes.webp?v=97",
             "name": "Bucky Barnes",
             "ability": "When this is destroyed, create the Winter Soldier in its place.",
@@ -478,15 +469,6 @@
             "card_id": "59"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/demon.webp?v=97",
-            "name": "Demon",
-            "ability": "\"A deal is a deal.\"",
-            "cost": "1",
-            "power": "6",
-            "pool": "Not Available",
-            "card_id": "60"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/destroyer.webp?v=97",
             "name": "Destroyer",
             "ability": "On Reveal: Destroy your other cards.",
@@ -541,15 +523,6 @@
             "card_id": "67"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doombot.webp?v=97",
-            "name": "Doombot",
-            "ability": "\"Doom is supreme!\"",
-            "cost": "6",
-            "power": "4",
-            "pool": "Not Available",
-            "card_id": "68"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dracula.webp?v=97",
             "name": "Dracula",
             "ability": "At the end of the game, discard a card from your hand. This has its Power.",
@@ -566,15 +539,6 @@
             "power": "6",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "70"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/drone.webp?v=97",
-            "name": "Drone",
-            "ability": "\"zzzzzzZZZTT!\"",
-            "cost": "1",
-            "power": "1",
-            "pool": "Not Available",
-            "card_id": "72"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ebony-maw.webp?v=97",
@@ -631,69 +595,6 @@
             "card_id": "79"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/abomination.webp?v=97",
-            "name": "Evolved Abomination",
-            "ability": "Costs 1 less for each enemy card in play that's afflicted with negative Power.",
-            "cost": "5",
-            "power": "9",
-            "pool": "None",
-            "card_id": "459"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops.webp?v=97",
-            "name": "Evolved Cyclops",
-            "ability": "When you end a turn with unspent Energy, afflict 2 random enemies here with -1 Power.",
-            "cost": "3",
-            "power": "4",
-            "pool": "None",
-            "card_id": "460"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulk.webp?v=97",
-            "name": "Evolved Hulk",
-            "ability": "Ongoing: +2 Power for each turn you ended with unspent Energy.",
-            "cost": "6",
-            "power": "12",
-            "pool": "None",
-            "card_id": "461"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/misty-knight.webp?v=97",
-            "name": "Evolved Misty Knight",
-            "ability": "When you end a turn with unspent Energy, give another friendly card +1 Power.",
-            "cost": "1",
-            "power": "2",
-            "pool": "None",
-            "card_id": "462"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shocker.webp?v=97",
-            "name": "Evolved Shocker",
-            "ability": "On Reveal: Give the leftmost card in your hand -1 Cost.",
-            "cost": "2",
-            "power": "3",
-            "pool": "None",
-            "card_id": "463"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-thing.webp?v=97",
-            "name": "Evolved The Thing",
-            "ability": "On Reveal: Afflict a random enemy card here with -1 Power. Repeat this twice more.",
-            "cost": "4",
-            "power": "6",
-            "pool": "None",
-            "card_id": "464"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wasp.webp?v=97",
-            "name": "Evolved Wasp",
-            "ability": "On Reveal: Afflict 2 random enemy cards here with -1 Power.",
-            "cost": "0",
-            "power": "1",
-            "pool": "None",
-            "card_id": "465"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/falcon.webp?v=97",
             "name": "Falcon",
             "ability": "On Reveal: Return your 1-Cost cards to your hand.",
@@ -708,7 +609,7 @@
             "ability": "Ongoing: Adjacent locations have +1 Power.",
             "cost": "2",
             "power": "2",
-            "pool": "None",
+            "pool": "Not Available",
             "card_id": "381"
         },
         {
@@ -797,7 +698,7 @@
             "ability": "On Reveal: Other cards can't be revealed this turn.",
             "cost": "2",
             "power": "3",
-            "pool": "None",
+            "pool": "Not Available",
             "card_id": "382"
         },
         {
@@ -841,7 +742,7 @@
             "ability": "On Reveal: Double this card's Power.",
             "cost": "2",
             "power": "1",
-            "pool": "None",
+            "pool": "Not Available",
             "card_id": "383"
         },
         {
@@ -969,6 +870,15 @@
             "power": "2",
             "pool": "Collection Level 222-474 (Pool 2)",
             "card_id": "104"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/illusion!.webp?v=97",
+            "name": "Illusion!",
+            "ability": "This is a fake Mysterio!",
+            "cost": "2",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "396"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/invisible-woman.webp?v=97",
@@ -1232,15 +1142,6 @@
             "card_id": "135"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/loki.webp?v=97",
-            "name": "Loki",
-            "ability": "Never gonna let you down.",
-            "cost": "1",
-            "power": "1",
-            "pool": "Not Available",
-            "card_id": "446"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=97",
             "name": "Luke Cage",
             "ability": "Ongoing: Your cards can't have their Power reduced.",
@@ -1349,6 +1250,15 @@
             "card_id": "315"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mind-stone.webp?v=97",
+            "name": "Mind Stone",
+            "ability": "On Reveal: Draw 2 Stones from your deck.",
+            "cost": "1",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "148"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mirage.webp?v=97",
             "name": "Mirage",
             "ability": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power.",
@@ -1394,6 +1304,15 @@
             "card_id": "156"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mjölnir.webp?v=97",
+            "name": "Mjölnir",
+            "ability": "On Reveal: Give Thor +6 Power.",
+            "cost": "0",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "378"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mobius-m-mobius.webp?v=97",
             "name": "Mobius M. Mobius",
             "ability": "Never gonna let you down.",
@@ -1419,6 +1338,15 @@
             "power": "2",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "158"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/monster.webp?v=97",
+            "name": "Monster",
+            "ability": "Careful...he likes to mash.",
+            "cost": "6",
+            "power": "9",
+            "pool": "Not Available",
+            "card_id": "160"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-girl.webp?v=97",
@@ -1482,6 +1410,15 @@
             "power": "4",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "171"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mysterio-.webp?v=97",
+            "name": "Mysterio?",
+            "ability": "Which is the real Mysterio? The real one has 4 Power.",
+            "cost": "2",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "410"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=97",
@@ -1565,6 +1502,15 @@
             "card_id": "429"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ninja.webp?v=97",
+            "name": "Ninja",
+            "ability": "\"I serve the Hand.\"",
+            "cost": "1",
+            "power": "-2",
+            "pool": "Not Available",
+            "card_id": "398"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=97",
             "name": "Nova",
             "ability": "When this is destroyed, give your cards +1 Power.",
@@ -1628,15 +1574,6 @@
             "card_id": "191"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pig.webp?v=97",
-            "name": "Pig",
-            "ability": "\"oink!\"",
-            "cost": "0",
-            "power": "0",
-            "pool": "None",
-            "card_id": "451"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polaris.webp?v=97",
             "name": "Polaris",
             "ability": "On Reveal: Move an opposing 1 or 2-Cost card to this location.",
@@ -1644,6 +1581,15 @@
             "power": "5",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "193"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/power-stone.webp?v=97",
+            "name": "Power Stone",
+            "ability": "Ongoing: If you've played all 6 stones, Thanos has +10 Power. (wherever he is)",
+            "cost": "1",
+            "power": "3",
+            "pool": "Not Available",
+            "card_id": "194"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/professor-x.webp?v=97",
@@ -1709,6 +1655,15 @@
             "card_id": "389"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/raptor.webp?v=97",
+            "name": "Raptor",
+            "ability": "SCREEEEEEEE",
+            "cost": "1",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "200"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ravonna-renslayer.webp?v=97",
             "name": "Ravonna Renslayer",
             "ability": "You know the rules, and so do I.",
@@ -1716,6 +1671,15 @@
             "power": "1",
             "pool": "Not Available",
             "card_id": "471"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/reality-stone.webp?v=97",
+            "name": "Reality Stone",
+            "ability": "On Reveal: Transform this location into a new one. Draw a card.",
+            "cost": "1",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "201"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-guardian.webp?v=97",
@@ -1752,6 +1716,15 @@
             "power": "3",
             "pool": "Collection Level 222-474 (Pool 2)",
             "card_id": "205"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rock.webp?v=97",
+            "name": "Rock",
+            "ability": "Well, that's useless....",
+            "cost": "1",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "206"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-racoon.webp?v=97",
@@ -1885,7 +1858,7 @@
             "ability": "On Reveal: Add a random 1-Cost card to each location.",
             "cost": "4",
             "power": "4",
-            "pool": "Collection Level 486+ (Pool 3)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "317"
         },
         {
@@ -1939,7 +1912,7 @@
             "ability": "On Reveal: Each player discards the lowest-Power card from their hand.",
             "cost": "4",
             "power": "5",
-            "pool": "Not Available",
+            "pool": "None",
             "card_id": "231"
         },
         {
@@ -1952,13 +1925,67 @@
             "card_id": "232"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sinister-clone.webp?v=97",
+            "name": "Sinister Clone",
+            "ability": "\"Sinister is a system. Sinister is a species. Everything is Sinister.\"",
+            "cost": "2",
+            "power": "2",
+            "pool": "Not Available",
+            "card_id": "400"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard.webp?v=97",
             "name": "Snowguard",
             "ability": "While in your hand, this transforms each turn into a Hawk or a Bear.",
             "cost": "1",
             "power": "2",
-            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "235"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard-bear.webp?v=97",
+            "name": "Snowguard Bear",
+            "ability": "On Reveal: Trigger the effect of this location.",
+            "cost": "1",
+            "power": "2",
+            "pool": "None",
+            "card_id": "434"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard-hawk.webp?v=97",
+            "name": "Snowguard Hawk",
+            "ability": "On Reveal: Ignore all location abilities next turn.",
+            "cost": "1",
+            "power": "2",
+            "pool": "None",
+            "card_id": "435"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard-wolf.webp?v=97",
+            "name": "Snowguard Wolf",
+            "ability": "Ongoing: -2 Power for each other card you have here.",
+            "cost": "4",
+            "power": "8",
+            "pool": "None",
+            "card_id": "436"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/soul-stone.webp?v=97",
+            "name": "Soul Stone",
+            "ability": "On Reveal: Draw a card. Ongoing: Enemy cards here have -1 Power.",
+            "cost": "1",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "237"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/space-stone.webp?v=97",
+            "name": "Space Stone",
+            "ability": "On Reveal: Next turn, you can move one card to this location. Draw a card.",
+            "cost": "1",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "238"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spectrum.webp?v=97",
@@ -1993,7 +2020,7 @@
             "ability": "The first time this moves to a location, destroy an enemy card there.",
             "cost": "4",
             "power": "6",
-            "pool": "Not Available",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "454"
         },
         {
@@ -2004,6 +2031,15 @@
             "power": "8",
             "pool": "Collection Level 18-214 (Pool 1)",
             "card_id": "242"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel.webp?v=97",
+            "name": "Squirrel",
+            "ability": "\"squeak!\"",
+            "cost": "1",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "243"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel-girl.webp?v=97",
@@ -2038,7 +2074,7 @@
             "ability": "On Reveal: Move an enemy card from here to another location.",
             "cost": "4",
             "power": "5",
-            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "441"
         },
         {
@@ -2114,6 +2150,15 @@
             "card_id": "256"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/symbiote.webp?v=97",
+            "name": "Symbiote",
+            "ability": "YUUUUUMMMMMM!!!",
+            "cost": "4",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "412"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=97",
             "name": "Taskmaster",
             "ability": "On Reveal: Set this card's Power equal to that of the last card you played. (if that card's in play)",
@@ -2173,7 +2218,7 @@
             "ability": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
             "cost": "5",
             "power": "6",
-            "pool": "Not Available",
+            "pool": "Season Pass",
             "card_id": "413"
         },
         {
@@ -2186,6 +2231,15 @@
             "card_id": "269"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-void.webp?v=97",
+            "name": "The Void",
+            "ability": "Hello again...",
+            "cost": "4",
+            "power": "-10",
+            "pool": "Not Available",
+            "card_id": "271"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thor.webp?v=97",
             "name": "Thor",
             "ability": "On Reveal: Shuffle Mjolnir into your deck.",
@@ -2193,6 +2247,24 @@
             "power": "4",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "272"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tiger-spirit.webp?v=97",
+            "name": "Tiger Spirit",
+            "ability": "\"Vengeance is mine!\"",
+            "cost": "5",
+            "power": "7",
+            "pool": "Not Available",
+            "card_id": "273"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/time-stone.webp?v=97",
+            "name": "Time Stone",
+            "ability": "On Reveal: Draw a card. Next turn, you get +1 Energy.",
+            "cost": "1",
+            "power": "1",
+            "pool": "Not Available",
+            "card_id": "274"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/titania.webp?v=97",
@@ -2265,6 +2337,15 @@
             "power": "3",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "284"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vibranium.webp?v=97",
+            "name": "Vibranium",
+            "ability": "Ongoing: Can't be destroyed.",
+            "cost": "1",
+            "power": "4",
+            "pool": "Not Available",
+            "card_id": "420"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/viper.webp?v=97",
@@ -2355,6 +2436,24 @@
             "power": "1",
             "pool": "Collection Level 1-14",
             "card_id": "298"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/widows-bite.webp?v=97",
+            "name": "Widow's Bite",
+            "ability": "While this is in your hand, you can't draw cards.",
+            "cost": "0",
+            "power": "0",
+            "pool": "None",
+            "card_id": "299"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/winter-soldier.webp?v=97",
+            "name": "Winter Soldier",
+            "ability": "\"It's time for me to face the past.\"",
+            "cost": "2",
+            "power": "6",
+            "pool": "Not Available",
+            "card_id": "300"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/witchfire.webp?v=97",
