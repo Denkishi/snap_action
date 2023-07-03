@@ -1,5 +1,5 @@
 {
-    "date": "June 28, 2023",
+    "date": "July 3, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
@@ -7,23 +7,23 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Evolved Lockjaw"
-        },
-        {
-            "tier": "Tier 1",
             "name": "Sera Control"
         },
         {
             "tier": "Tier 1",
-            "name": "Sera Surfer"
+            "name": "Evolved Lockjaw"
         },
         {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
             "name": "Pure Evolution"
         },
         {
             "tier": "Tier 2",
             "name": "Evolved Lockdown"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Sera Surfer"
         },
         {
             "tier": "Tier 2",
@@ -34,12 +34,8 @@
             "name": "Shuri Sauron"
         },
         {
-            "tier": "Tier 2",
-            "name": "Destroy"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Electro Ramp"
+            "tier": "Tier 3",
+            "name": "Cerebro 2"
         },
         {
             "tier": "Tier 3",
@@ -47,15 +43,27 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Negative Destroy"
+            "name": "Destroy"
         },
         {
             "tier": "Tier 3",
             "name": "Hela Discard"
         },
         {
-            "tier": "Tier 3",
+            "tier": "Tier 4",
             "name": "Devil Darkhawk"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Negative"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Galactus"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Big Hands"
         },
         {
             "tier": "Silent Performer",
@@ -63,7 +71,7 @@
         },
         {
             "tier": "Silent Performer",
-            "name": "Cerebro 2"
+            "name": "Good Cards Wave"
         },
         {
             "tier": "Budget",
