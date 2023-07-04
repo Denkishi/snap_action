@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Rise of the Phoenix",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_07_03_08_43_47/1019317991239_s578315.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7235832976142129926",
+            "label": "GAME UPDATES",
+            "date": "07/04/2023"
+        },
+        {
             "name": "Spotlight Cache: More Cards for More Players",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_06_22_23_59_41/79666548913_s600843.png",
             "page": "https://www.marvelsnap.com/newsdetail?id=7235832976142015238",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7226612130068355846",
             "label": "GAME UPDATES",
             "date": "05/14/2023"
-        },
-        {
-            "name": "May 11th - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_11_18_54_55/1372287286744_s204646.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7225499532442753798",
-            "label": "GAME UPDATES",
-            "date": "05/11/2023"
         }
     ]
 }
