@@ -1,5 +1,5 @@
 {
-    "date": "July 3, 2023",
+    "date": "July 5, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
@@ -106,28 +106,20 @@
             "name": "Bounce"
         },
         {
+            "tier": "Tier 1",
+            "name": "Sera Control"
+        },
+        {
             "tier": "Tier 2",
             "name": "Evolved Lockdown"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Stature"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Pure Evolution"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Sera Surfer"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Electro Ramp"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Good Cards Wave"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Shuri Sauron"
         }
     ]
 }
