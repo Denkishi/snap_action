@@ -1,17 +1,25 @@
 {
-    "date": "July 5, 2023",
+    "date": "July 10, 2023",
     "Tiers": [
-        {
-            "tier": "Tier 1",
-            "name": "Bounce"
-        },
         {
             "tier": "Tier 1",
             "name": "Sera Control"
         },
         {
             "tier": "Tier 1",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Evolved Lockjaw"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Evolved Lockdown"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Sera Surfer"
         },
         {
             "tier": "Tier 2",
@@ -19,23 +27,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Evolved Lockdown"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Sera Surfer"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Stature"
+            "name": "Iron Patriot"
         },
         {
             "tier": "Tier 2",
             "name": "Shuri Sauron"
         },
         {
+            "tier": "Tier 2",
+            "name": "Good Cards Stature"
+        },
+        {
             "tier": "Tier 3",
-            "name": "Cerebro 2"
+            "name": "Hybrid Phoenix Force"
         },
         {
             "tier": "Tier 3",
@@ -43,7 +47,15 @@
         },
         {
             "tier": "Tier 3",
+            "name": "Galactus Destroy"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 3",
@@ -55,23 +67,19 @@
         },
         {
             "tier": "Tier 4",
-            "name": "Negative"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Galactus"
-        },
-        {
-            "tier": "Tier 4",
             "name": "Big Hands"
         },
         {
-            "tier": "Silent Performer",
-            "name": "Iron Patriot"
+            "tier": "Tier 4",
+            "name": "Electro Ramp"
+        },
+        {
+            "tier": "Tier 4",
+            "name": "Move"
         },
         {
             "tier": "Silent Performer",
-            "name": "Good Cards Wave"
+            "name": "Cerebro 3"
         },
         {
             "tier": "Budget",
