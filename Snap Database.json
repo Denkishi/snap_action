@@ -64,6 +64,15 @@
             "card_id": "7"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/alioth.webp?v=99",
+            "name": "Alioth",
+            "ability": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)",
+            "cost": "5",
+            "power": "5",
+            "pool": "Not Available",
+            "card_id": "467"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/america-chavez.webp?v=99",
             "name": "America Chavez",
             "ability": "Starts on the bottom of your deck. Draw this on turn 6.",
@@ -404,6 +413,15 @@
             "power": "2",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "49"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daken.webp?v=99",
+            "name": "Daken",
+            "ability": "On Reveal: Add the Muramasa Shard to your hand.",
+            "cost": "3",
+            "power": "4",
+            "pool": "Not Available",
+            "card_id": "468"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daredevil.webp?v=99",
@@ -940,7 +958,7 @@
             "ability": "Ongoing: Players must play their first card here each turn. (if possible)",
             "cost": "3",
             "power": "3",
-            "pool": "Not Available",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "110"
         },
         {
@@ -1133,6 +1151,15 @@
             "card_id": "135"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/loki.webp?v=99",
+            "name": "Loki",
+            "ability": "On Reveal: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.",
+            "cost": "3",
+            "power": "4",
+            "pool": "Not Available",
+            "card_id": "446"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=99",
             "name": "Luke Cage",
             "ability": "Ongoing: Your cards can't have their Power reduced.",
@@ -1176,6 +1203,15 @@
             "power": "2",
             "pool": "Not Available",
             "card_id": "142"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/man-thing.webp?v=99",
+            "name": "Man-Thing",
+            "ability": "none",
+            "cost": "4",
+            "power": "6",
+            "pool": "Not Available",
+            "card_id": "473"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mantis.webp?v=99",
@@ -1284,6 +1320,15 @@
             "power": "2",
             "pool": "Starter Card",
             "card_id": "156"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mobius-m-mobius.webp?v=99",
+            "name": "Mobius M. Mobius",
+            "ability": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced.",
+            "cost": "2",
+            "power": "3",
+            "pool": "Not Available",
+            "card_id": "469"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/modok.webp?v=99",
@@ -1419,6 +1464,15 @@
             "power": "5",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "180"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru.webp?v=99",
+            "name": "Nico Minoru",
+            "ability": "none",
+            "cost": "3",
+            "power": "4",
+            "pool": "Not Available",
+            "card_id": "474"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/night-nurse.webp?v=99",
@@ -1581,6 +1635,15 @@
             "power": "0",
             "pool": "Not Available",
             "card_id": "389"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ravonna-renslayer.webp?v=99",
+            "name": "Ravonna Renslayer",
+            "ability": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)",
+            "cost": "3",
+            "power": "3",
+            "pool": "Not Available",
+            "card_id": "471"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-guardian.webp?v=99",
@@ -2038,7 +2101,7 @@
             "ability": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
             "cost": "5",
             "power": "6",
-            "pool": "Not Available",
+            "pool": "Season Pass",
             "card_id": "413"
         },
         {
@@ -2202,6 +2265,15 @@
             "power": "3",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "294"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/werewolf-by-night.webp?v=99",
+            "name": "Werewolf By Night",
+            "ability": "none",
+            "cost": "0",
+            "power": "0",
+            "pool": "Not Available",
+            "card_id": "475"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-queen.webp?v=99",
