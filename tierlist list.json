@@ -107,7 +107,7 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Evolved Lockjaw"
+            "name": "Lockjaw"
         },
         {
             "tier": "Tier 1",
@@ -119,15 +119,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Evolved Lockdown"
+            "name": "Lockdown Surfer"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Wave"
+            "name": "Iron Patriot"
         },
         {
-            "tier": "Tier 2",
-            "name": "Shuri Sauron"
+            "tier": "Tier 3",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Hela Discard"
         }
     ]
 }
