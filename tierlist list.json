@@ -1,29 +1,21 @@
 {
-    "date": "July 14, 2023",
+    "date": "July 17, 2023",
     "Tiers": [
-        {
-            "tier": "Tier 1",
-            "name": "Sera Control"
-        },
         {
             "tier": "Tier 1",
             "name": "Bounce"
         },
         {
             "tier": "Tier 1",
-            "name": "Evolved Lockjaw"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Evolved Lockdown"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Sera Surfer"
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 2",
-            "name": "Pure Evolution"
+            "name": "Evolved Lockjaw"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Silver Surfer"
         },
         {
             "tier": "Tier 2",
@@ -31,23 +23,15 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Shuri Sauron"
+            "name": "Pure Evolutionary"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Stature"
+            "name": "Evolved Lockdown"
         },
         {
-            "tier": "Tier 3",
-            "name": "Hybrid Phoenix Force"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Galactus Destroy"
+            "tier": "Tier 2",
+            "name": "Dracula Discard"
         },
         {
             "tier": "Tier 3",
@@ -55,15 +39,23 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Mister Negative"
+            "name": "Devil Darkhawk"
         },
         {
             "tier": "Tier 3",
-            "name": "Hela Discard"
+            "name": "Cerebro 2"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Zoo"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Shuri Sauron"
         },
         {
             "tier": "Tier 4",
-            "name": "Devil Darkhawk"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 4",
@@ -71,15 +63,23 @@
         },
         {
             "tier": "Tier 4",
+            "name": "Galactus"
+        },
+        {
+            "tier": "Tier 4",
             "name": "Electro Ramp"
         },
         {
             "tier": "Tier 4",
-            "name": "Move"
+            "name": "Hela Discard"
         },
         {
             "tier": "Silent Performer",
-            "name": "Cerebro 3"
+            "name": "Good Cards Stature"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Thanos Control"
         },
         {
             "tier": "Budget",
