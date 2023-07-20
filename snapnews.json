@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "July 20th - Balance Updates",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_07_20_07_30_49/19473206691_s204646.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7242213193106397957",
+            "label": "GAME UPDATES",
+            "date": "07/20/2023"
+        },
+        {
             "name": "Patch Notes - Jul 12, 2023",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_07_08_04_57_46/418177048903_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7237192834955270918",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7234068464103742213",
             "label": "GAME UPDATES",
             "date": "05/25/2023"
-        },
-        {
-            "name": "Card Acquisition Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_18_07_53_22/891966118083_s204646.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7234068192820288262",
-            "label": "GAME UPDATES",
-            "date": "05/16/2023"
         }
     ]
 }
