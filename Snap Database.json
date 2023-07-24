@@ -573,7 +573,7 @@
             "ability": "After your opponent plays an Ongoing card here, remove its abilities.",
             "cost": "1",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "455"
         },
         {
@@ -1129,7 +1129,7 @@
             "ability": "On Reveal: Replace each other location with this one.",
             "cost": "5",
             "power": "8",
-            "pool": "Not Available",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "132"
         },
         {
@@ -1903,7 +1903,7 @@
             "ability": "On Reveal: Transform the highest-cost card in your opponent's hand into a Pig, keeping its Power and Cost.",
             "cost": "2",
             "power": "2",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "453"
         },
         {
@@ -2101,7 +2101,7 @@
             "ability": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
             "cost": "4",
             "power": "5",
-            "pool": "Not Available",
+            "pool": "Season Pass",
             "card_id": "413"
         },
         {
