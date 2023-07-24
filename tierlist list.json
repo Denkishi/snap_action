@@ -1,6 +1,14 @@
 {
-    "date": "July 19, 2023",
+    "date": "July 24, 2023",
     "Tiers": [
+        {
+            "tier": "Silent Performer",
+            "name": "Good Cards Stature"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Bounce"
+        },
         {
             "tier": "Tier 1",
             "name": "Thanos Control"
@@ -72,14 +80,6 @@
         {
             "tier": "Tier 4",
             "name": "Big Hands"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Good Cards Stature"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Bounce"
         },
         {
             "tier": "Budget",
