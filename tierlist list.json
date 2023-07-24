@@ -3,15 +3,15 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Bounce"
+            "name": "Thanos Control"
         },
         {
             "tier": "Tier 1",
-            "name": "Sera Control"
+            "name": "Evolved Lockdown"
         },
         {
             "tier": "Tier 2",
-            "name": "Evolved Lockjaw"
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 2",
@@ -23,19 +23,31 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Pure Evolutionary"
+            "name": "Shuri Sauron"
         },
         {
             "tier": "Tier 2",
-            "name": "Evolved Lockdown"
+            "name": "High Evolutionary"
         },
         {
             "tier": "Tier 2",
-            "name": "Dracula Discard"
+            "name": "Hela Tribunal"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Negative Surfer"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Evolved Lockjaw"
         },
         {
             "tier": "Tier 3",
-            "name": "Destroy"
+            "name": "Destroyer Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Galactus"
         },
         {
             "tier": "Tier 3",
@@ -43,35 +55,23 @@
         },
         {
             "tier": "Tier 3",
+            "name": "Thanos Death"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Cerebro 2"
         },
         {
-            "tier": "Tier 3",
-            "name": "Thanos Zoo"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Shuri Sauron"
-        },
-        {
             "tier": "Tier 4",
-            "name": "Mister Negative"
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 4",
             "name": "Big Hands"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Galactus"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Electro Ramp"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Hela Discard"
         },
         {
             "tier": "Silent Performer",
@@ -79,7 +79,7 @@
         },
         {
             "tier": "Silent Performer",
-            "name": "Thanos Control"
+            "name": "Bounce"
         },
         {
             "tier": "Budget",
