@@ -1,13 +1,21 @@
 {
-    "date": "July 29, 2023",
+    "date": "July 31, 2023",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Good Cards Stature"
+            "name": "Bounce"
         },
         {
             "tier": "Silent Performer",
-            "name": "Bounce"
+            "name": "Thanos Zoo"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Stature"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Sera Surfer"
         },
         {
             "tier": "Tier 1",
@@ -15,19 +23,7 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Evolved Lockdown"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Sera Control"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Silver Surfer"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Iron Patriot"
         },
         {
             "tier": "Tier 2",
@@ -35,7 +31,23 @@
         },
         {
             "tier": "Tier 2",
+            "name": "Devil Darkhawk"
+        },
+        {
+            "tier": "Tier 2",
             "name": "High Evolutionary"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Evolved Lockjaw"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Evolved Lockdown"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Iron Patriot"
         },
         {
             "tier": "Tier 2",
@@ -46,12 +58,8 @@
             "name": "Negative Surfer"
         },
         {
-            "tier": "Tier 2",
-            "name": "Evolved Lockjaw"
-        },
-        {
             "tier": "Tier 3",
-            "name": "Destroyer Ramp"
+            "name": "Destroyer"
         },
         {
             "tier": "Tier 3",
@@ -59,23 +67,19 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Devil Darkhawk"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Thanos Death"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroy"
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 3",
             "name": "Cerebro 2"
         },
         {
-            "tier": "Tier 4",
-            "name": "Discard Dracula"
+            "tier": "Tier 3",
+            "name": "Thanos Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Pure Destroy"
         },
         {
             "tier": "Tier 4",
