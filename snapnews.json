@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "MARVEL SNAP CONQUERORS",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_08_01_15_09_26/886864790010_s426563.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7244443251175070469",
+            "label": "EVENTS",
+            "date": "07/28/2023"
+        },
+        {
             "name": "July 20th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_07_20_07_30_49/19473206691_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7242213193106397957",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7234068766685158149",
             "label": "GAME UPDATES",
             "date": "06/05/2023"
-        },
-        {
-            "name": "May 25th - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_05_25_18_54_28/18392938168_s204646.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7234068464103742213",
-            "label": "GAME UPDATES",
-            "date": "05/25/2023"
         }
     ]
 }
