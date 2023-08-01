@@ -1259,6 +1259,15 @@
             "card_id": "135"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/loki.webp?v=108",
+            "name": "Loki",
+            "ability": "On Reveal: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.",
+            "cost": "3",
+            "power": "4",
+            "pool": "Not Available",
+            "card_id": "446"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=108",
             "name": "Luke Cage",
             "ability": "Ongoing: Your cards can't have their Power reduced.",
