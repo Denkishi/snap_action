@@ -2707,5 +2707,667 @@
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "311"
         }
+    ],
+    "locations": [
+        {
+            "description": "after you play a card here, destroy it to get +2 energy next turn.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/altar-of-death.webp?v=108",
+            "name": "Altar of Death"
+        },
+        {
+            "description": "after turn 4, whoever is winning here draws  2.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/asgard.webp?v=108",
+            "name": "Asgard"
+        },
+        {
+            "description": "after you play a 3 or 4-cost card, move it here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/asteroid-m.webp?v=108",
+            "name": "Asteroid M"
+        },
+        {
+            "description": "if you only have one card here, it has +5 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/atlantis.webp?v=108",
+            "name": "Atlantis"
+        },
+        {
+            "description": "after turn 3, shuffle your hand into your deck. draw  cards.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/attilan.webp?v=108",
+            "name": "Attilan"
+        },
+        {
+            "description": "the first card you play here gets +3 power and moves.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/aunt-mays.webp?v=108",
+            "name": "Aunt May's"
+        },
+        {
+            "description": "on turn 5, all cards must be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/avengers-compound.webp?v=108",
+            "name": "Avengers Compound"
+        },
+        {
+            "description": "after you play a card here, fill this location with copies of it.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bar-sinister.webp?v=108",
+            "name": "Bar Sinister"
+        },
+        {
+            "description": "whoever has the least power here wins.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bar-with-no-name.webp?v=108",
+            "name": "Bar With No Name"
+        },
+        {
+            "description": "whoever is winning this location gets +3 power at the others.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/baxter-building.webp?v=108",
+            "name": "Baxter Building"
+        },
+        {
+            "description": "add a random 3-cost card to each player's hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/camp-lehigh.webp?v=108",
+            "name": "Camp Lehigh"
+        },
+        {
+            "description": "add a squirrel to each location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/central-park.webp?v=108",
+            "name": "Central Park"
+        },
+        {
+            "description": "after you play a card here, add a copy to your hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cloning-vats.webp?v=108",
+            "name": "Cloning Vats"
+        },
+        {
+            "description": "fill this location with rocks. skip a turn to destroy your rocks.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/collapsed-mine.webp?v=108",
+            "name": "Collapsed Mine"
+        },
+        {
+            "description": "after you play a card here, create a copy at this location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/counter-earth.webp?v=108",
+            "name": "Counter-Earth"
+        },
+        {
+            "description": "cards that cost 1, 2, or 3 can't be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crimson-cosmos.webp?v=108",
+            "name": "Crimson Cosmos"
+        },
+        {
+            "description": "shuffle your hand into your deck. draw 3 cards.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crystal-towers.webp?v=108",
+            "name": "Crystal Towers"
+        },
+        {
+            "description": "get a copy of a card in your opponent's hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daily-bugle.webp?v=108",
+            "name": "Daily Bugle"
+        },
+        {
+            "description": "cards played here have a 25% chance to be destroyed.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/danger-room.webp?v=108",
+            "name": "Danger Room"
+        },
+        {
+            "description": "cards here are not revealed until the game ends.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dark-dimension.webp?v=108",
+            "name": "Dark Dimension"
+        },
+        {
+            "description": "after you play a card here, destroy it.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deaths-domain.webp?v=108",
+            "name": "Death's Domain"
+        },
+        {
+            "description": "card text is disabled here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deep-space.webp?v=108",
+            "name": "Deep Space"
+        },
+        {
+            "description": "replace both decks with 10 random cards.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/district-x.webp?v=108",
+            "name": "District X"
+        },
+        {
+            "description": "on turn 5, cards cost  more.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dream-dimension.webp?v=108",
+            "name": "Dream Dimension"
+        },
+        {
+            "description": "ego takes over and plays your cards for you.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ego.webp?v=108",
+            "name": "Ego"
+        },
+        {
+            "description": "cards cost 1 less.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elysium.webp?v=108",
+            "name": "Elysium"
+        },
+        {
+            "description": "after turn 3, add a rock to the losing player's side.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/eternity-range.webp?v=108",
+            "name": "Eternity Range"
+        },
+        {
+            "description": "when a card moves here, destroy it.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fisk-tower.webp?v=108",
+            "name": "Fisk Tower"
+        },
+        {
+            "description": "cards can't be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flooded.webp?v=108",
+            "name": "Flooded"
+        },
+        {
+            "description": "this is the last turn cards can be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flooding.webp?v=108",
+            "name": "Flooding"
+        },
+        {
+            "description": "both players get double boosters this game.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fogwells-gym.webp?v=108",
+            "name": "Fogwell's Gym"
+        },
+        {
+            "description": "after turn 3, transform all cards here into the hulk.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gamma-lab.webp?v=108",
+            "name": "Gamma Lab"
+        },
+        {
+            "description": "you can move cards to this location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/genosha.webp?v=108",
+            "name": "Genosha"
+        },
+        {
+            "description": "after turn 5, put a card from each player's hand here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/grand-central.webp?v=108",
+            "name": "Grand Central"
+        },
+        {
+            "description": "after each turn, move one card to the web for a random player.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/great-web.webp?v=108",
+            "name": "Great Web"
+        },
+        {
+            "description": "after turn 4, destroy all cards controlled by the player losing here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hala.webp?v=108",
+            "name": "Hala"
+        },
+        {
+            "description": "draw a 1-cost card from your deck.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hells-kitchen.webp?v=108",
+            "name": "Hell's Kitchen"
+        },
+        {
+            "description": "cards that cost 1 can't be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hellfire-club.webp?v=108",
+            "name": "Hellfire Club"
+        },
+        {
+            "description": "ongoing effects are disabled here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/isle-of-silence.webp?v=108",
+            "name": "Isle of Silence"
+        },
+        {
+            "description": "after each turn, cards here lose 1 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jotunheim.webp?v=108",
+            "name": "Jotunheim"
+        },
+        {
+            "description": "when a card moves here, give it +2 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kun-lun.webp?v=108",
+            "name": "K'un-Lun"
+        },
+        {
+            "description": "on reveal effects happen twice at this location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kamar-taj.webp?v=108",
+            "name": "Kamar-Taj"
+        },
+        {
+            "description": "after turn 4, merge your cards here into a symbiote.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/klyntar.webp?v=108",
+            "name": "Klyntar"
+        },
+        {
+            "description": "on reveal effects do not happen at this location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/knowhere.webp?v=108",
+            "name": "Knowhere"
+        },
+        {
+            "description": "on turn 5, takes over and plays both players' cards for them.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/krakoa.webp?v=108",
+            "name": "Krakoa"
+        },
+        {
+            "description": "you can't play cards here after turn 4.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kyln.webp?v=108",
+            "name": "Kyln"
+        },
+        {
+            "description": "1-cost cards here have + power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lake-hellas.webp?v=108",
+            "name": "Lake Hellas"
+        },
+        {
+            "description": "draw 3 cards. destroy both decks.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lamentis-1.webp?v=108",
+            "name": "Lamentis-1"
+        },
+        {
+            "description": "after you play a card here, shuffle 3 rocks into your deck.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lechuguilla.webp?v=108",
+            "name": "Lechuguilla"
+        },
+        {
+            "description": "no cards are revealed this turn.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lemuria.webp?v=108",
+            "name": "Lemuria"
+        },
+        {
+            "description": "there is a turn 7 this game.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/limbo.webp?v=108",
+            "name": "Limbo"
+        },
+        {
+            "description": "after turn 3, ruin a random location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/los-diablos-base.webp?v=108",
+            "name": "Los Diablos Base"
+        },
+        {
+            "description": "after you play a card here, return it to your hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lukes-bar.webp?v=108",
+            "name": "Luke's Bar"
+        },
+        {
+            "description": "after you play a card here, add a copy to the opponent's hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/machineworld.webp?v=108",
+            "name": "Machineworld"
+        },
+        {
+            "description": "you can move cards from this location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/madripoor.webp?v=108",
+            "name": "Madripoor"
+        },
+        {
+            "description": "turn 5 is the only turn cards can be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/milano.webp?v=108",
+            "name": "Milano"
+        },
+        {
+            "description": "at the start of turn 6, swap hands.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mindscape.webp?v=108",
+            "name": "Mindscape"
+        },
+        {
+            "description": "on turns 3, 4, and 5, no cards can be added here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/miniaturized-lab.webp?v=108",
+            "name": "Miniaturized Lab"
+        },
+        {
+            "description": "on turn 4, transform into one of the other locations.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mirror-dimension.webp?v=108",
+            "name": "Mirror Dimension"
+        },
+        {
+            "description": "whoever has more cards here gets +100 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojoworld.webp?v=108",
+            "name": "Mojoworld"
+        },
+        {
+            "description": "add a monster-power  here for each player.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/monster-island.webp?v=108",
+            "name": "Monster Island"
+        },
+        {
+            "description": "the card(s) with the highest power here get +3 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/monster-metropolis.webp?v=108",
+            "name": "Monster Metropolis"
+        },
+        {
+            "description": "you can't play your first card here each turn.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morag.webp?v=108",
+            "name": "Morag"
+        },
+        {
+            "description": "when you play a card here, add a sentinel to your hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mother-mold.webp?v=108",
+            "name": "Mother Mold"
+        },
+        {
+            "description": "players can't retreat after turn 5.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mount-vesuvius.webp?v=108",
+            "name": "Mount Vesuvius"
+        },
+        {
+            "description": "after you play a card here, discard a card.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mt.-wundagore.webp?v=108",
+            "name": "Mt. Wundagore"
+        },
+        {
+            "description": "after each turn, give cards here +1 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/muir-island.webp?v=108",
+            "name": "Muir Island"
+        },
+        {
+            "description": "after turn 3, destroy all cards here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/murderworld.webp?v=108",
+            "name": "Murderworld"
+        },
+        {
+            "description": "cards here have\n-2 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/necrosha.webp?v=108",
+            "name": "Necrosha"
+        },
+        {
+            "description": "cards here have\n-3 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/negative-zone.webp?v=108",
+            "name": "Negative Zone"
+        },
+        {
+            "description": "",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/new-york.webp?v=108",
+            "name": "New York"
+        },
+        {
+            "description": "cards here have\n+5 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nidavellir.webp?v=108",
+            "name": "Nidavellir"
+        },
+        {
+            "description": "draw a card.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova-roma.webp?v=108",
+            "name": "Nova Roma"
+        },
+        {
+            "description": "draw 2 cards.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/olympia.webp?v=108",
+            "name": "Olympia"
+        },
+        {
+            "description": "ongoing effects here are doubled.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/onslaughts-citadel.webp?v=108",
+            "name": "Onslaught's Citadel"
+        },
+        {
+            "description": "after you play a card here, add a sentinel to your hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/orchis-forge.webp?v=108",
+            "name": "Orchis Forge"
+        },
+        {
+            "description": "after turn 3, all cards here swap sides.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/oscorp-tower.webp?v=108",
+            "name": "Oscorp Tower"
+        },
+        {
+            "description": "this turn, all cards must be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pet-mansion.webp?v=108",
+            "name": "Pet Mansion"
+        },
+        {
+            "description": "after you play a card here, draw a card.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pleasant-hill.webp?v=108",
+            "name": "Pleasant Hill"
+        },
+        {
+            "description": "only cards that cost 6 can be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/plunder-castle.webp?v=108",
+            "name": "Plunder Castle"
+        },
+        {
+            "description": "+5 energy this turn.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/project-pegasus.webp?v=108",
+            "name": "Project Pegasus"
+        },
+        {
+            "description": "after you play a card here, set its base power to 2.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quantum-realm.webp?v=108",
+            "name": "Quantum Realm"
+        },
+        {
+            "description": "after you play a card here, swap it with a card in your deck.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quantum-tunnel.webp?v=108",
+            "name": "Quantum Tunnel"
+        },
+        {
+            "description": "after each turn, if there is more than one card here, destroy them.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rickety-bridge.webp?v=108",
+            "name": "Rickety Bridge"
+        },
+        {
+            "description": " ",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ruins.webp?v=108",
+            "name": "Ruins"
+        },
+        {
+            "description": "put a card from each player's hand here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sakaar.webp?v=108",
+            "name": "Sakaar"
+        },
+        {
+            "description": "cards can't be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sanctum-sanctorum.webp?v=108",
+            "name": "Sanctum Sanctorum"
+        },
+        {
+            "description": "add two raptors on each side of this location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/savage-land.webp?v=108",
+            "name": "Savage Land"
+        },
+        {
+            "description": "cards here have\n-1 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sewer-system.webp?v=108",
+            "name": "Sewer System"
+        },
+        {
+            "description": "add a ninja to each side with  power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shadowland.webp?v=108",
+            "name": "Shadowland"
+        },
+        {
+            "description": "after you play a card here, double its power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shuris-lab.webp?v=108",
+            "name": "Shuri's Lab"
+        },
+        {
+            "description": "after you play a card here, add a copy to another location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sinister-london.webp?v=108",
+            "name": "Sinister London"
+        },
+        {
+            "description": "discard a card from each player's hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sokovia.webp?v=108",
+            "name": "Sokovia"
+        },
+        {
+            "description": "after turn 5, give all cards here + power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stark-tower.webp?v=108",
+            "name": "Stark Tower"
+        },
+        {
+            "description": "after turn 4, swap the position of each location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/starlight-citadel.webp?v=108",
+            "name": "Starlight Citadel"
+        },
+        {
+            "description": "after turn 5, move all cards here to other random locations.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/strange-academy.webp?v=108",
+            "name": "Strange Academy"
+        },
+        {
+            "description": "shuffle 5 rocks into each deck.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/subterranea.webp?v=108",
+            "name": "Subterranea"
+        },
+        {
+            "description": "when a card is discarded or destroyed, add a copy here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tahiti.webp?v=108",
+            "name": "T.A.H.I.T.I."
+        },
+        {
+            "description": "after turn 4, move all cards one location to the right.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-bifrost.webp?v=108",
+            "name": "The Bifrost"
+        },
+        {
+            "description": "cards that cost 4, 5, or 6 can't be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-big-house.webp?v=108",
+            "name": "The Big House"
+        },
+        {
+            "description": "add a random card to each player's hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hub.webp?v=108",
+            "name": "The Hub"
+        },
+        {
+            "description": "give a card in each player’s hand +1 cost.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-ice-box.webp?v=108",
+            "name": "The Ice Box"
+        },
+        {
+            "description": "your power here is granted to other locations as well.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-nexus.webp?v=108",
+            "name": "The Nexus"
+        },
+        {
+            "description": "each card in your hand swaps its power and cost.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-peak.webp?v=108",
+            "name": "The Peak"
+        },
+        {
+            "description": "first to fill this breaks out a 6-cost card. it costs 0.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-raft.webp?v=108",
+            "name": "The Raft"
+        },
+        {
+            "description": "first to fill this gets a copy of their opening hand.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-sacred-timeline.webp?v=108",
+            "name": "The Sacred Timeline"
+        },
+        {
+            "description": "cards with abilities can’t be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-sandbar.webp?v=108",
+            "name": "The Sandbar"
+        },
+        {
+            "description": "only one card can be here for each player.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-space-throne.webp?v=108",
+            "name": "The Space Throne"
+        },
+        {
+            "description": "if you have no cards here, +1 energy each turn.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-superflow.webp?v=108",
+            "name": "The Superflow"
+        },
+        {
+            "description": "fill each player's hand with random cards.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-triskelion.webp?v=108",
+            "name": "The Triskelion"
+        },
+        {
+            "description": "on turn 6, cards can't be played here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-vault.webp?v=108",
+            "name": "The Vault"
+        },
+        {
+            "description": "card(s) here with the highest power have their power doubled.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/throne-room.webp?v=108",
+            "name": "Throne Room"
+        },
+        {
+            "description": "copy the last card you drew instead of drawing your next card.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/time-theater.webp?v=108",
+            "name": "Time Theater"
+        },
+        {
+            "description": "+1 energy this turn.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tinkerers-workshop.webp?v=108",
+            "name": "Tinkerer's Workshop"
+        },
+        {
+            "description": "6-cost cards cost  less.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/titan.webp?v=108",
+            "name": "Titan"
+        },
+        {
+            "description": "swap the positions of each location.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/transia.webp?v=108",
+            "name": "Transia"
+        },
+        {
+            "description": "after turn 4, end the game.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tva.webp?v=108",
+            "name": "TVA"
+        },
+        {
+            "description": "on turn 4, cards here can move.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/utopia.webp?v=108",
+            "name": "Utopia"
+        },
+        {
+            "description": "after turn 5, your destroyed cards revive here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valley-of-the-hand.webp?v=108",
+            "name": "Valley Of The Hand"
+        },
+        {
+            "description": "after you play here, shuffle 3 vibranium into your deck.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vibranium-mines.webp?v=108",
+            "name": "Vibranium Mines"
+        },
+        {
+            "description": "the first card you play here is destroyed.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vormir.webp?v=108",
+            "name": "Vormir"
+        },
+        {
+            "description": "cards here can't be destroyed.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wakanda.webp?v=108",
+            "name": "Wakanda"
+        },
+        {
+            "description": "give +2 power to cards in players' hands.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wakandan-embassy.webp?v=108",
+            "name": "Wakandan Embassy"
+        },
+        {
+            "description": "after each turn, cards here fight! destroy the weakest one(s).",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/warrior-falls.webp?v=108",
+            "name": "Warrior Falls"
+        },
+        {
+            "description": "cards here with no abilities have +3 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/washington-dc.webp?v=108",
+            "name": "Washington D.C."
+        },
+        {
+            "description": "both players draw from their opponent's decks.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/weirdworld.webp?v=108",
+            "name": "Weirdworld"
+        },
+        {
+            "description": "turns into a new location on turn 4.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/westview.webp?v=108",
+            "name": "Westview"
+        },
+        {
+            "description": "first to fill this gets +3 max energy.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-hot-room.webp?v=108",
+            "name": "White Hot Room"
+        },
+        {
+            "description": "destroy the other locations.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/worldship.webp?v=108",
+            "name": "Worldship"
+        },
+        {
+            "description": "after turn 3, add a random card here for each player.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/x-mansion.webp?v=108",
+            "name": "X-Mansion"
+        },
+        {
+            "description": "cards here have\n+1 power.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/xandar.webp?v=108",
+            "name": "Xandar"
+        },
+        {
+            "description": "at the end of the game, destroy the last card to get here.",
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yashida-base.webp?v=108",
+            "name": "Yashida Base"
+        }
     ]
 }
