@@ -1,4 +1,22 @@
 {
+    "Colors": [
+        {
+            "tier_color": "Tier 1",
+            "first": "Good Cards Stature"
+        },
+        {
+            "tier_color": "Tier 2",
+            "first": "Shuri Sauron"
+        },
+        {
+            "tier_color": "Tier 3",
+            "first": "Destroyer"
+        },
+        {
+            "tier_color": "Tier 4",
+            "first": "Big Hands"
+        }
+    ],
     "tier": [
         {
             "name": "Good Cards Stature",
