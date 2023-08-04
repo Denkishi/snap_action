@@ -1,5 +1,23 @@
 {
-    "tier": [
+"Colors":[
+{
+"tier_color":"Tier 1",
+"first":"Sera Control"
+},
+{
+"tier_color":"Tier 2",
+"first":"Bounce"
+},
+{
+"tier_color":"Tier 3",
+"first":"Devil Darkhawk"
+},
+{
+"tier_color":"Tier 4",
+"first":"Electro Ramp"
+}
+],
+"tier":[
         {
             "name": "Good Cards Stature",
             "code": "eyJOYW1lIjoiR29vZCBDYXJkcyBTdGF0dXJlIiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IktvcmcifSx7IkNhcmREZWZJZCI6IlphYnUifSx7IkNhcmREZWZJZCI6IkplZmZUaGVCYWJ5TGFuZFNoYXJrIn0seyJDYXJkRGVmSWQiOiJQb2xhcmlzIn0seyJDYXJkRGVmSWQiOiJEYXJraGF3ayJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IkVuY2hhbnRyZXNzIn0seyJDYXJkRGVmSWQiOiJNaWxlc01vcmFsZXMifSx7IkNhcmREZWZJZCI6IlJvY2tzbGlkZSJ9LHsiQ2FyZERlZklkIjoiSXJvbkxhZCJ9LHsiQ2FyZERlZklkIjoiU3RhdHVyZSJ9LHsiQ2FyZERlZklkIjoiQmxhY2tCb2x0In1dfQ==",
