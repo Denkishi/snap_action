@@ -1,17 +1,9 @@
 {
-    "date": "August 5, 2023",
+    "date": "August 7, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Good Cards Stature"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Sera Surfer"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Thanos Control"
+            "name": "Good Cards"
         },
         {
             "tier": "Tier 1",
@@ -23,19 +15,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Devil Darkhawk"
+            "name": "Pure Evolutionary"
         },
         {
             "tier": "Tier 2",
-            "name": "High Evolutionary"
+            "name": "Sera Surfer"
         },
         {
             "tier": "Tier 2",
-            "name": "Evolved Lockjaw"
+            "name": "Thanos Control"
         },
         {
             "tier": "Tier 2",
-            "name": "Evolved Lockdown"
+            "name": "InSheNaut"
         },
         {
             "tier": "Tier 2",
@@ -43,19 +35,19 @@
         },
         {
             "tier": "Tier 2",
+            "name": "Devil Darkhawk"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Evolved Lockdown"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Hela Tribunal"
         },
         {
             "tier": "Tier 2",
-            "name": "Negative Surfer"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroyer"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Galactus"
+            "name": "Evolved Lockjaw"
         },
         {
             "tier": "Tier 3",
@@ -63,19 +55,31 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Cerebro 2"
+            "name": "Hela Discard"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Destroy"
+            "name": "Nimrod Destroy"
         },
         {
             "tier": "Tier 3",
-            "name": "Pure Destroy"
+            "name": "Negative Surfer"
         },
         {
-            "tier": "Tier 4",
-            "name": "Big Hands"
+            "tier": "Tier 3",
+            "name": "Galactus"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Death"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Deadpool Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Zoo"
         }
     ]
 }
