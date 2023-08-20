@@ -1001,6 +1001,101 @@
                     "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 }
             ]
+        },
+        {
+            "date": "September 11 - September 18",
+            "cards": [
+                {
+                    "name": "Snowguard",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard-f58bfc54d1e4b59659a43ee6e9b474254e93146340610be42607e152a24183f2.webp",
+                    "description": "While in your hand, this transforms each turn into a Hawk or a Bear."
+                },
+                {
+                    "name": "Hit-Monkey",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey-a2431250b178d706402c8340227e1e7d4ed181f825af5785b0efba21600b3d42.webp",
+                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
+                },
+                {
+                    "name": "Alioth",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth-c66c182810784cb05f754b257a47b9934d13fc28f89faf44b0b0b626fda63828.webp",
+                    "description": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)"
+                },
+                {
+                    "name": "Dan Hipp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_05-a171c6045eeea7c143b36bebc951b8e9e204688ac0ae2113357e816970f1e1c3.webp",
+                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
+                },
+                {
+                    "name": "Justyna",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_05-389108370e0e28964159d5aede5d02c953e802a787f371c1b49fff1bc98a6a82.webp",
+                    "description": "While in your hand, this transforms each turn into a Hawk or a Bear."
+                },
+                {
+                    "name": "Pantheon",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth_02-a525ac483e6d5b235701ed5953b832a98c8d878a1e230952a72bf83b6f0718a6.webp",
+                    "description": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)"
+                }
+            ]
+        },
+        {
+            "date": "September 18 - September 25",
+            "cards": [
+                {
+                    "name": "Zabu",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu-0262a36aca771ab2c5f6763ddae383d98cfb35eb8b6b13add81100e4c8c54f35.webp",
+                    "description": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)"
+                },
+                {
+                    "name": "Ravonna Renslayer",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer-d1da55b3a2f36ab4360f616be9e1ccb235252e8f31ec2843721aa6f4145aa2e1.webp",
+                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                },
+                {
+                    "name": "Jean Grey",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey-1f6f495c9babbe870b483dfd334557d2ed4e3413690f90e5eb0b5867e2b05f65.webp",
+                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
+                },
+                {
+                    "name": "Variant",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_05-84d397315ff1a1faf786b50f7fe68944f63513dc1bb084990df8ffba2765c9c1.webp",
+                    "description": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)"
+                },
+                {
+                    "name": "Pantheon",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_02-a9baf978b40b42305e1748cd18306e69cd97ff9b6ac74f732c45884d846e03f6.webp",
+                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                },
+                {
+                    "name": "Variant",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_10-594945d9626ff94f567f4421685b10db3939fce35eb083c45ce8d2563dac6889.webp",
+                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
+                }
+            ]
+        },
+        {
+            "date": "September 25 - October 1",
+            "cards": [
+                {
+                    "name": "Kang",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Kang-d6f0ea94990f07083410d57039ff06ec71af7fc27e9907e3fd6866d1fbdfd532.webp",
+                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)"
+                },
+                {
+                    "name": "Mobius M. Mobius",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius-9ddb533c110f88ac86f8d5fe88273efa7baf16f334aaeb9d3653e61673318813.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                },
+                {
+                    "name": "DJ Kang",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Kang_03-10a2e01282d16529d7c449e8d367f7bc6870a9fd624cedcb0bc096fb03cab0f7.webp",
+                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)"
+                },
+                {
+                    "name": "Pantheon",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_02-37f267b2a8ebb56986b5ecb744672cfdc70e520ad304bdc85ed04f586e7a8f30.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                }
+            ]
         }
     ]
 }
