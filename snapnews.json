@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "GAMESCOM OPENING NIGHT LIVE 2023",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_08_21_18_25_51/1130728825854_s85064.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7262660135250631429",
+            "date": "08/22/2023",
+            "label": "EVENTS"
+        },
+        {
             "name": "August 17th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_08_16_11_33_42/561052475413_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7262660135250615045",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_07_03_08_43_47/1019317991239_s578315.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7235832976142129926",
             "date": "07/04/2023",
-            "label": "GAME UPDATES"
-        },
-        {
-            "name": "Spotlight Cache: More Cards for More Players",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_06_22_23_59_41/79666548913_s600843.png",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7235832976142015238",
-            "date": "06/23/2023",
             "label": "GAME UPDATES"
         }
     ]
