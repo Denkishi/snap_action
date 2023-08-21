@@ -1,5 +1,5 @@
 {
-    "date": "August 17, 2023",
+    "date": "August 20, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
@@ -7,7 +7,11 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Sera Control"
+            "name": "Shuri Sauron"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "fer"
         },
         {
             "tier": "Tier 1",
@@ -18,28 +22,12 @@
             "name": "Good Cards Stature"
         },
         {
-            "tier": "Tier 1",
-            "name": "Evolved Lockjaw"
+            "tier": "Tier 2",
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 2",
-            "name": "Shuri Sauron"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Hela Tribunal"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Sera Surfer"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Negative Surfer"
+            "name": "Thanos Death Control"
         },
         {
             "tier": "Tier 2",
@@ -47,23 +35,27 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Death"
+            "name": "Galactus Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Evolved Lockjaw"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Control"
+            "name": "Negative Surfer"
         },
         {
             "tier": "Tier 3",
-            "name": "Devil Darkhawk"
+            "name": "Thanos Zoo"
         },
         {
             "tier": "Tier 3",
-            "name": "Nimrod Destroyer"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Galactus"
+            "name": "Deadpool Destroy"
         }
     ]
 }
