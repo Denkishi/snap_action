@@ -1,25 +1,33 @@
 {
-    "date": "August 23, 2023",
+    "date": "August 27, 2023",
     "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Stature"
+        },
         {
             "tier": "Tier 1",
             "name": "Move Legion"
         },
         {
             "tier": "Tier 1",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Shuri Sauron"
         },
         {
-            "tier": "Tier 1",
-            "name": "fer"
-        },
-        {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
             "name": "InSheNaut"
         },
         {
-            "tier": "Tier 1",
-            "name": "Good Cards Stature"
+            "tier": "Tier 2",
+            "name": "Hela Tribunal"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool Destroy"
         },
         {
             "tier": "Tier 2",
@@ -27,23 +35,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Death Control"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Pure Evolutionary"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Galactus Destroy"
+            "name": "Thanos Control"
         },
         {
             "tier": "Tier 2",
             "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Evolved Lockjaw"
         },
         {
             "tier": "Tier 3",
@@ -51,11 +47,19 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Zoo"
+            "name": "Evolved Lockjaw"
         },
         {
             "tier": "Tier 3",
-            "name": "Deadpool Destroy"
+            "name": "Thanos Death"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Devil Darkhawk"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Galactus Ramp"
         }
     ]
 }
