@@ -239,7 +239,9 @@
                     "description": "While in your hand, this transforms each turn into a Hawk or a Bear."
                 },
                 {
-                    "name": "Pantheon"
+                    "name": "Pantheon",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth_02-a525ac483e6d5b235701ed5953b832a98c8d878a1e230952a72bf83b6f0718a6.webp",
+                    "description": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)"
                 }
             ]
         },
@@ -282,7 +284,9 @@
             "date": "September 25 - October 1",
             "cards": [
                 {
-                    "name": "Kang"
+                    "name": "Kang",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Kang-96f254fe8598e003ab878e78a31d85ac28cc3a47583daae21448200d576caff8.webp",
+                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)"
                 },
                 {
                     "name": "Mobius M. Mobius",
