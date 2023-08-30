@@ -204,9 +204,7 @@
                     "description": "On Reveal: The last card you played moves here."
                 },
                 {
-                    "name": "Variant",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_08-f348514b0396a591fde607af6aaec08e57069a274bf1b76d5bcbc4387a617733.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
+                    "name": "Variant"
                 }
             ]
         },
