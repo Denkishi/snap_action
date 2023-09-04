@@ -1,18 +1,6 @@
 {
-    "date": "September 1, 2023",
+    "date": "September 3, 2023",
     "Tiers": [
-        {
-            "tier": "Tier 1",
-            "name": "Good Cards Stature"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Move Legion"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Silver Surfer"
-        },
         {
             "tier": "Tier 1",
             "name": "Shuri Sauron"
@@ -23,31 +11,23 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Hela Tribunal"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Deadpool Destroy"
         },
         {
             "tier": "Tier 2",
-            "name": "Sera Control"
+            "name": "Hela Tribunal"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Control"
+            "name": "Move Legion"
         },
         {
             "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Negative Surfer"
         },
         {
-            "tier": "Tier 3",
-            "name": "Evolved Lockjaw"
+            "tier": "Tier 2",
+            "name": "Silver Surfer"
         },
         {
             "tier": "Tier 3",
@@ -55,11 +35,11 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Devil Darkhawk"
+            "name": "Evolved Lockjaw"
         },
         {
             "tier": "Tier 3",
-            "name": "Galactus Ramp"
+            "name": "Discard Dracula"
         }
     ]
 }
