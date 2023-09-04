@@ -429,7 +429,7 @@
             "ability": "On Reveal: Add the Muramasa Shard to your hand.",
             "cost": "3",
             "power": "4",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Season Pass",
             "card_id": "468"
         },
         {
@@ -1264,7 +1264,7 @@
             "ability": "On Reveal: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.",
             "cost": "3",
             "power": "5",
-            "pool": "Season Pass",
+            "pool": "None",
             "card_id": "446"
         },
         {
@@ -2065,7 +2065,7 @@
             "ability": "On Reveal: Each player discards the lowest-Power card from their hand.",
             "cost": "4",
             "power": "5",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "None",
             "card_id": "231"
         },
         {
