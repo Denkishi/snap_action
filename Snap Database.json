@@ -64,6 +64,15 @@
             "card_id": "7"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/alioth.webp?v=125",
+            "name": "Alioth",
+            "ability": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)",
+            "cost": "6",
+            "power": "5",
+            "pool": "None",
+            "card_id": "467"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/america-chavez.webp?v=125",
             "name": "America Chavez",
             "ability": "Starts on the bottom of your deck. Draw this on turn 6.",
@@ -1476,6 +1485,15 @@
             "card_id": "378"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mobius-m-mobius.webp?v=125",
+            "name": "Mobius M. Mobius",
+            "ability": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced.",
+            "cost": "2",
+            "power": "3",
+            "pool": "None",
+            "card_id": "469"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/modok.webp?v=125",
             "name": "MODOK",
             "ability": "On Reveal: Discard your hand.",
@@ -1627,6 +1645,15 @@
             "power": "5",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "180"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru.webp?v=125",
+            "name": "Nico Minoru",
+            "ability": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
+            "cost": "1",
+            "power": "2",
+            "pool": "None",
+            "card_id": "474"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru.webp?v=125",
