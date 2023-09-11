@@ -1,9 +1,29 @@
 {
-    "date": "September 7, 2023",
+    "date": "September 11, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Shuri Sauron"
+            "name": "Shuri Kitty"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Hela Tribunal"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Loki Collector"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Evolved DoomWave"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Cerebro 3"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Patriot Surfer"
         },
         {
             "tier": "Tier 2",
@@ -11,35 +31,27 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Deadpool Destroy"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Hela Tribunal"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Move Legion"
         },
         {
             "tier": "Tier 2",
-            "name": "Negative Surfer"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Silver Surfer"
+            "name": "Sera Surfer"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Death"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Evolved Lockjaw"
+            "name": "Deadpool Destroy"
         },
         {
             "tier": "Tier 3",
             "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Negative Surfer"
         }
     ]
 }
