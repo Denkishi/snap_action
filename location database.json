@@ -224,7 +224,9 @@
                     "description": "Costs 1 if your opponent discarded a card from their hand this game."
                 },
                 {
-                    "name": "M.O.D.O.K."
+                    "name": "M.O.D.O.K.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Modok-7d130bf4c5c2c185c5635333fa965803550b41d533e845ba0070c52db37ad791.webp",
+                    "description": "On Reveal: Discard your hand."
                 },
                 {
                     "name": "Nightforged",
