@@ -302,7 +302,9 @@
                     "description": "After you play an On Reveal card at another location, move there and gain +2 Power."
                 },
                 {
-                    "name": "Variant"
+                    "name": "Variant",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_07-dcb54a2698c5661b5461720b96cfabcc43dd4b5b8fff7fbd1380cf252f674a83.webp",
+                    "description": "Featured in Silk : A Snapper's Guide"
                 },
                 {
                     "name": "Baby",
