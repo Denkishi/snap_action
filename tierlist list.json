@@ -1,14 +1,6 @@
 {
-    "date": "September 16, 2023",
+    "date": "September 18, 2023",
     "Tiers": [
-        {
-            "tier": "Tier 1",
-            "name": "Shuri Kitty"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Hela Tribunal"
-        },
         {
             "tier": "Tier 1",
             "name": "Loki Collector"
@@ -19,23 +11,27 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Cerebro 3"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Patriot Surfer"
-        },
-        {
-            "tier": "Tier 2",
             "name": "InSheNaut"
         },
         {
             "tier": "Tier 2",
-            "name": "Move Legion"
+            "name": "Galactus"
         },
         {
             "tier": "Tier 2",
-            "name": "Sera Surfer"
+            "name": "Shuri"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Electro Ramp"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 3",
@@ -43,15 +39,11 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Hela Tribunal"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Control"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Negative Surfer"
+            "name": "Cerebro 3"
         }
     ]
 }
