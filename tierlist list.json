@@ -1,25 +1,25 @@
 {
-    "date": "September 23, 2023",
+    "date": "September 24, 2023",
     "Tiers": [
-        {
-            "tier": "Tier 1",
-            "name": "Loki Collector"
-        },
         {
             "tier": "Tier 1",
             "name": "Evolved DoomWave"
         },
         {
-            "tier": "Tier 2",
-            "name": "InSheNaut"
+            "tier": "Tier 1",
+            "name": "Ramp"
         },
         {
-            "tier": "Tier 2",
-            "name": "Galactus"
+            "tier": "Tier 1",
+            "name": "Move DoomWave"
         },
         {
-            "tier": "Tier 2",
-            "name": "Shuri"
+            "tier": "Tier 1",
+            "name": "Cerebro 5"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Iron Patriot"
         },
         {
             "tier": "Tier 2",
@@ -27,23 +27,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Electro Ramp"
+            "name": "Loki Collector"
         },
         {
             "tier": "Tier 2",
-            "name": "Sera Control"
+            "name": "Shuri"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Galactus"
         },
         {
             "tier": "Tier 3",
             "name": "Deadpool Destroy"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Hela Tribunal"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Cerebro 3"
         }
     ]
 }
