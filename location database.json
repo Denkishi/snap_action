@@ -204,7 +204,9 @@
                     "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 },
                 {
-                    "name": "Inkpulp"
+                    "name": "Inkpulp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/NegasonicTeenageWarhead_04-c2591485b79f8545a201eb6ba3c8047eb6b99e39309c04dff35583571bd92455.webp",
+                    "description": "After ANY card is played here, destroy this card AND that card."
                 }
             ]
         },
