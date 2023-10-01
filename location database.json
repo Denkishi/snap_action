@@ -1,146 +1,6 @@
 {
     "spotlight": [
         {
-            "date": "September 4 - September 11",
-            "cards": [
-                {
-                    "name": "Jeff the Baby Land Shark",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark-25f23b03d11c1d94ea0553e4707b408827672ce56c614eddd6b540583cb6adc4.webp",
-                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
-                },
-                {
-                    "name": "Ghost-Spider",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider-862380d3005193b3bbcec12cb5bfd0099623f07de9f3da3e23e4ed29bebf2c91.webp",
-                    "description": "On Reveal: The last card you played moves here."
-                },
-                {
-                    "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull-c056002b2cc7e756c6db2d4bf71271f9f04375c56aee80515b5fc6a38dae4ff0.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
-                },
-                {
-                    "name": "Dan Hipp",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_02-fdbbef9a09dc9f806c0d7a002c52030c6465a25eaa8aeb5dbb27338463d8461c.webp",
-                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
-                },
-                {
-                    "name": "Gwenom",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_03-48c3526ee040110c98a3cbf0edeaa07893a1977281a565031e12e9bdf1387ad2.webp",
-                    "description": "On Reveal: The last card you played moves here."
-                },
-                {
-                    "name": "Variant",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_08-bb40fe0ac300ea13d7a13b8cbfd6c010351351393d2b97170566b5007543e620.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
-                }
-            ]
-        },
-        {
-            "date": "September 11 - September 18",
-            "cards": [
-                {
-                    "name": "Alioth",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth-c66c182810784cb05f754b257a47b9934d13fc28f89faf44b0b0b626fda63828.webp",
-                    "description": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)"
-                },
-                {
-                    "name": "Snowguard",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard-ebc9e4ccd5ec7e996b6077974e4db2304415ec94ab278df6958ae825c2845477.webp",
-                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
-                },
-                {
-                    "name": "Hit-Monkey",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey-f11f9573c69ee4cadd8a009621d9fc25d67ecf36a0eaf557b5f8f143074c94a2.webp",
-                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
-                },
-                {
-                    "name": "Pantheon",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth_02-a525ac483e6d5b235701ed5953b832a98c8d878a1e230952a72bf83b6f0718a6.webp",
-                    "description": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)"
-                },
-                {
-                    "name": "Justyna",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_05-42df68fd36ca84a86e1d3077cf6f6bf6e4b843dd85af7776c7047df738650767.webp",
-                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
-                },
-                {
-                    "name": "Dan Hipp",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_05-ec79414caab2a12c9b01874551d9e11e6a95292b6efc7aa5eeb44fe686cbfedb.webp",
-                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
-                }
-            ]
-        },
-        {
-            "date": "September 18 - September 25",
-            "cards": [
-                {
-                    "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer-9c8a3431f46347969fc9060d9c05c6ff4dabae5f185fc752451013806b9fd872.webp",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
-                },
-                {
-                    "name": "Jean Grey",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey-00cf36d7dea1530ad53a5129c64cd05ed23b4d0631e56460269663730e4f91f8.webp",
-                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
-                },
-                {
-                    "name": "Zabu",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu-0da27b0ff5b7a52e9eb17e48460d8d149161366cfea002ff5ec0bea109678ff5.webp",
-                    "description": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)"
-                },
-                {
-                    "name": "Pantheon",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_02-049899b8515ec64507c05abc7d80279d17ccc1d22c0d99ef4185a29400009a77.webp",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
-                },
-                {
-                    "name": "Variant",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_10-0d840482226ce017c5523f702a323a9bf9bd8babb2da92732efb2305fc168779.webp",
-                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
-                },
-                {
-                    "name": "Variant",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_05-148970f830e2eaec8371f0ea32c79b80e7a79fa8c550ae543b721bc0718fb79e.webp",
-                    "description": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)"
-                }
-            ]
-        },
-        {
-            "date": "September 25 - October 2",
-            "cards": [
-                {
-                    "name": "Mobius M. Mobius",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius-f591ff451da686f0c9e29a5770f5b4fd4db70cfbdd923c4817f642e1cac909ea.webp",
-                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
-                },
-                {
-                    "name": "High Evolutionary",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary-8c186b370b0cb0f6f9331c91da1dfd542cdaa36bf6c0a09098106017d6cc1330.webp",
-                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
-                },
-                {
-                    "name": "Kang",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Kang-96f254fe8598e003ab878e78a31d85ac28cc3a47583daae21448200d576caff8.webp",
-                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)"
-                },
-                {
-                    "name": "Pantheon",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_02-de87d4e0270691aef2db6f6fd3a0f30373fab55dddd0a699d0d282d7e7e25fd6.webp",
-                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
-                },
-                {
-                    "name": "Max Grecke",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary_05-1993c52f813e388e83c927ea82922459f75cc3c203dcbbf21fddfb9cca8ee131.webp",
-                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
-                },
-                {
-                    "name": "DJ Kang",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Kang_03-1dd4cda28d237fbe48f52486a4d16c01d4dffe937d627b1bfc898e8b846bacaf.webp",
-                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)"
-                }
-            ]
-        },
-        {
             "date": "October 2 - October 9",
             "cards": [
                 {
@@ -294,7 +154,9 @@
                     "description": "After ANY card is played here, this moves to another location."
                 },
                 {
-                    "name": "Ghost-Spider"
+                    "name": "Ghost-Spider",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider-862380d3005193b3bbcec12cb5bfd0099623f07de9f3da3e23e4ed29bebf2c91.webp",
+                    "description": "On Reveal: The last card you played moves here."
                 },
                 {
                     "name": "Nightforged",
@@ -317,10 +179,14 @@
             "date": "November 6 - November 13",
             "cards": [
                 {
-                    "name": "Alioth"
+                    "name": "Alioth",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth-c66c182810784cb05f754b257a47b9934d13fc28f89faf44b0b0b626fda63828.webp",
+                    "description": "On Reveal: Destroy ALL enemy cards played here this turn. (including unrevealed cards)"
                 },
                 {
-                    "name": "Knull"
+                    "name": "Knull",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull-c056002b2cc7e756c6db2d4bf71271f9f04375c56aee80515b5fc6a38dae4ff0.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 },
                 {
                     "name": "Negasonic Teenage Warhead",
@@ -421,7 +287,9 @@
                     "description": "At the end of the game, move to a location that LOSES you the game. (if possible)"
                 },
                 {
-                    "name": "Jean Grey"
+                    "name": "Jean Grey",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey-00cf36d7dea1530ad53a5129c64cd05ed23b4d0631e56460269663730e4f91f8.webp",
+                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
                 },
                 {
                     "name": "Spider-Man 2099",
