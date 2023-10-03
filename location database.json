@@ -5,7 +5,7 @@
             "cards": [
                 {
                     "name": "Thanos",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos-b3f3d618344010bdeede46b22c2842bf9c90033879b12273a6e089263094835c.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos-fa17e14ba9598c705d12735a33483ee6475ccc6543a93a043d18930e6172f06b.webp",
                     "description": "At the start of the game, shuffle the six Infinity Stones into your deck."
                 },
                 {
@@ -20,7 +20,7 @@
                 },
                 {
                     "name": "Djurdjevic",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos_06-e950d8fc2926d373a184123250a23046dd6850d43969edc192abb4f0df36dda0.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos_06-aabb0e6b7f1bd577684c4bbb9f3896ea69a1c666a42c5df5dd3f9912a701cddb.webp",
                     "description": "At the start of the game, shuffle the six Infinity Stones into your deck."
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "name": "Stature",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Stature-2507026b1c45a1eaf94fd7205d0a95bb397fb53b99e09c52fd84cd725a945789.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Stature-d2863bd71907d1ea7ee0cc8b1e8d1fae325f536505df7f0a3dcc9c51f2306328.webp",
                     "description": "Costs 1 if your opponent discarded a card from their hand this game."
                 },
                 {
@@ -120,7 +120,7 @@
                 },
                 {
                     "name": "Phoenix Force",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce-2a3f4dcc26caebceb51bf51a31e18e338c7a84e6c02551d53ea7b55c932f0830.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce-7b39c66ee5e30b2b0eab0a4411d3becd3f73f8fdf168e5e529020483cf6a9c8a.webp",
                     "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn."
                 },
                 {
@@ -145,12 +145,12 @@
             "cards": [
                 {
                     "name": "Werewolf By Night",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-0a3a67b73f07c25948cb26e9c23a92ed399f4c0e8de088ac4f68ce0ea56fe3cb.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-5bca945ad78993bcb0fad4768a7b45b5ea0eb8c486fbaddd53a1df6d547f61f3.webp",
                     "description": "After you play an On Reveal card at another location, move there and gain +2 Power."
                 },
                 {
                     "name": "Silk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk-2c8a881148815a7ed5979127a760c378c2d8b0d03f273b11e4e8c097777444bc.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Silk-f24737d63d9bd93fee724ea89fa1235bf7ef847d9f2602de0dfed8f7a54401fd.webp",
                     "description": "After ANY card is played here, this moves to another location."
                 },
                 {
@@ -165,13 +165,130 @@
                 },
                 {
                     "name": "Variant",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_07-dcb54a2698c5661b5461720b96cfabcc43dd4b5b8fff7fbd1380cf252f674a83.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_07-22d384176bc36bb7b7cd860fb52d494fc0e5d632e390bf70eccd36a2fabc9afc.webp",
                     "description": "After ANY card is played here, this moves to another location."
                 },
                 {
                     "name": "Baby",
                     "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_02-4af125134665cbe066ad0bce09a5cdf755a57b9592fb5937c786279dfb06f274.webp",
                     "description": "On Reveal: The last card you played moves here."
+                }
+            ]
+        },
+        {
+            "date": "October 3 - October 10",
+            "cards": [
+                {
+                    "name": "Thanos"
+                },
+                {
+                    "name": "X-23"
+                },
+                {
+                    "name": "Echo"
+                },
+                {
+                    "name": "Djurdjevic"
+                },
+                {
+                    "name": "Wolverine"
+                },
+                {
+                    "name": "Phoenix Force"
+                }
+            ]
+        },
+        {
+            "date": "October 10 - October 17",
+            "cards": [
+                {
+                    "name": "Man-Thing"
+                },
+                {
+                    "name": "Silver Samurai"
+                },
+                {
+                    "name": "Lady Deathstrike"
+                },
+                {
+                    "name": "Nightforged"
+                },
+                {
+                    "name": "Chibi"
+                },
+                {
+                    "name": "Variant"
+                }
+            ]
+        },
+        {
+            "date": "October 17 - October 24",
+            "cards": [
+                {
+                    "name": "Black Knight"
+                },
+                {
+                    "name": "Stature"
+                },
+                {
+                    "name": "M.O.D.O.K."
+                },
+                {
+                    "name": "Fantasy",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_07-4e3507c348e6a2dd4f96588d86331477fc280c892480ab59f8df4ebb28d010ec.webp",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
+                },
+                {
+                    "name": "Steampunk"
+                },
+                {
+                    "name": "Variant"
+                }
+            ]
+        },
+        {
+            "date": "October 24 - October 31",
+            "cards": [
+                {
+                    "name": "Nico Minoru"
+                },
+                {
+                    "name": "Kitty Pryde"
+                },
+                {
+                    "name": "Phoenix Force"
+                },
+                {
+                    "name": "Nightforged"
+                },
+                {
+                    "name": "Kim Jacinto"
+                },
+                {
+                    "name": "Dan Hipp"
+                }
+            ]
+        },
+        {
+            "date": "October 31 - November 7",
+            "cards": [
+                {
+                    "name": "Werewolf By Night"
+                },
+                {
+                    "name": "Silk"
+                },
+                {
+                    "name": "Ghost-Spider"
+                },
+                {
+                    "name": "Nightforged"
+                },
+                {
+                    "name": "Variant"
+                },
+                {
+                    "name": "Baby"
                 }
             ]
         },
@@ -310,6 +427,230 @@
                     "name": "Chibi",
                     "image": "https://game-assets.snap.fan/card_variant_images/SpiderMan2099_06-00ac3c8c79efeb470cd18d93c86b3de2040d4c713f58fdfb35099c7231570888.webp",
                     "description": "The first time this moves to a location, destroy an enemy card there."
+                }
+            ]
+        },
+        {
+            "date": "November 7 - November 14",
+            "cards": [
+                {
+                    "name": "Alioth"
+                },
+                {
+                    "name": "Knull"
+                },
+                {
+                    "name": "Negasonic Teenage Warhead"
+                },
+                {
+                    "name": "Kai"
+                },
+                {
+                    "name": "Variant"
+                },
+                {
+                    "name": "Inkpulp"
+                }
+            ]
+        },
+        {
+            "date": "November 14 - November 21",
+            "cards": [
+                {
+                    "name": "Gladiator"
+                },
+                {
+                    "name": "Mirage"
+                },
+                {
+                    "name": "Loki"
+                },
+                {
+                    "name": "Variant"
+                },
+                {
+                    "name": "Casual"
+                },
+                {
+                    "name": "Justyna"
+                }
+            ]
+        },
+        {
+            "date": "November 21 - November 28",
+            "cards": [
+                {
+                    "name": "Annihilus"
+                },
+                {
+                    "name": "Daken"
+                },
+                {
+                    "name": "X-23"
+                },
+                {
+                    "name": "Annihilation"
+                },
+                {
+                    "name": "Chibi"
+                },
+                {
+                    "name": "Rian Gonzales"
+                }
+            ]
+        },
+        {
+            "date": "November 28 - December 5",
+            "cards": [
+                {
+                    "name": "Martyr"
+                },
+                {
+                    "name": "Jean Grey"
+                },
+                {
+                    "name": "Spider-Man 2099"
+                },
+                {
+                    "name": "Annihilation"
+                },
+                {
+                    "name": "Jim Lee"
+                },
+                {
+                    "name": "Chibi"
+                }
+            ]
+        },
+        {
+            "date": "December 5 - December 12",
+            "cards": [
+                {
+                    "name": "Blob",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob-7a35768a3fd668f6269cad876831b6f2cea6676df05a46c7698a6a21b6427d98.webp",
+                    "description": "On Reveal: Merge your deck into this. (and gain its total Power) Ongoing: Can't be moved."
+                },
+                {
+                    "name": "Stegron",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Stegron-1b263b7f7178832cc1b93124d18554ac34cdb1350930d04aa7f55e8ae9040685.webp",
+                    "description": "On Reveal: Move an enemy card from here to another location."
+                },
+                {
+                    "name": "Jeff the Baby Land Shark",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark-25f23b03d11c1d94ea0553e4707b408827672ce56c614eddd6b540583cb6adc4.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                },
+                {
+                    "name": "Hellfire Gala",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_08-b12b4d7b169711f2028c64874ca2a4bc2fd6bae609ae8d0ac73bbc525205ef37.webp",
+                    "description": "On Reveal: Merge your deck into this. (and gain its total Power) Ongoing: Can't be moved."
+                },
+                {
+                    "name": "3099",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Stegron_02-db8236cefe389a2124ba70c099befeea5745a3fdc8cbe9c9df28f54e327d8eb0.webp",
+                    "description": "On Reveal: Move an enemy card from here to another location."
+                },
+                {
+                    "name": "Sean Galloway",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_06-bf7c673143638a77815a2ba06b07988909fecb865324243dbbd82804b1e6693c.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                }
+            ]
+        },
+        {
+            "date": "December 12 - December 19",
+            "cards": [
+                {
+                    "name": "Firestar",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Firestar-54ade5a6af77f922fcf73108cdf3311c2c3e3a4c627eb9788d7515c9417a5295.webp",
+                    "description": "On Reveal: Each card you played last turn gains this card's Power."
+                },
+                {
+                    "name": "Man-Thing"
+                },
+                {
+                    "name": "Ravonna Renslayer",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer-9c8a3431f46347969fc9060d9c05c6ff4dabae5f185fc752451013806b9fd872.webp",
+                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                },
+                {
+                    "name": "Hellfire Gala",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Firestar_07-3ebda1ea25289cce5803025352fa4f85ec82f0696edc4bd1fa8f989b1fdad3c1.webp",
+                    "description": "On Reveal: Each card you played last turn gains this card's Power."
+                },
+                {
+                    "name": "Variant",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
+                {
+                    "name": "Terminatrix",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_04-52922d5c48c0bba5f0b5bdaff2bc1995a266f96dc0b6bfd2e459295017eca3f5.webp",
+                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                }
+            ]
+        },
+        {
+            "date": "December 19 - December 26",
+            "cards": [
+                {
+                    "name": "Havok",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok-0db9c84d7bbdf7598c3bebd8c05c917b9fd3d03cb687424532f8e0bc353f9f9f.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +3 Power."
+                },
+                {
+                    "name": "Nico Minoru"
+                },
+                {
+                    "name": "Legion",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion-db4ce9349aecc9baa74287f6334bd9eb9c713510689f5abbebbd3c050d4528df.webp",
+                    "description": "On Reveal: Replace each other location with this one."
+                },
+                {
+                    "name": "Hellfire Gala",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_07-8ec92c6b62a5442102dbe2e31bc883513029dfca6d17fdc89afc5417eb6cfcc5.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +3 Power."
+                },
+                {
+                    "name": "Runaways",
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_03-3a4d667895e6172f87ff65219a44434846a63fcbd5b06858cead6bc751337c5d.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                },
+                {
+                    "name": "Baby",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_05-f799b36af2993ab4c899c3c208ba6133bff1987fc5b1876d4dfef8dc105afdb5.webp",
+                    "description": "On Reveal: Replace each other location with this one."
+                }
+            ]
+        },
+        {
+            "date": "December 26 - January 2",
+            "cards": [
+                {
+                    "name": "Selene",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Selene-8fe76746460efd27622676063aa1affa5ef96b79e27721c63fe9bd1644314a48.webp",
+                    "description": "On Reveal: Afflict the lowest-Power card in each player's hand with -3 Power."
+                },
+                {
+                    "name": "Lady Deathstrike"
+                },
+                {
+                    "name": "Black Knight"
+                },
+                {
+                    "name": "Hellfire Gala",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Selene_04-e39fad4a479fa269ffa58931150f9fe2af247c077ff924c1279d52f234f9fdf1.webp",
+                    "description": "On Reveal: Afflict the lowest-Power card in each player's hand with -3 Power."
+                },
+                {
+                    "name": "Ana Cortés",
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
+                    "description": "On Reveal: Destroy each card here with less Power than this."
+                },
+                {
+                    "name": "Variant",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_05-95dc899e4b7a8b59970a9334e1856025656c9091e293ee2c3df4e53a25209252.webp",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
                 }
             ]
         }
