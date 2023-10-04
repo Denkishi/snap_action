@@ -645,7 +645,7 @@
             "ability": "If you play another card to fill a location, give it +3 Power.",
             "cost": "2",
             "power": "2",
-            "pool": "Not Available",
+            "pool": "Season Pass",
             "card_id": "77"
         },
         {
@@ -1292,7 +1292,7 @@
             "ability": "On Reveal: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.",
             "cost": "3",
             "power": "5",
-            "pool": "Season Pass",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "446"
         },
         {
@@ -1339,6 +1339,15 @@
             "power": "2",
             "pool": "None",
             "card_id": "142"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/man-thing.webp?v=128",
+            "name": "Man-Thing",
+            "ability": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power.",
+            "cost": "4",
+            "power": "5",
+            "pool": "Not Available",
+            "card_id": "473"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mantis.webp?v=128",
@@ -1643,7 +1652,7 @@
             "ability": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
             "cost": "1",
             "power": "2",
-            "pool": "None",
+            "pool": "Not Available",
             "card_id": "474"
         },
         {
@@ -2687,7 +2696,7 @@
             "ability": "After you play an On Reveal card at another location, move there and gain +2 Power.",
             "cost": "3",
             "power": "3",
-            "pool": "None",
+            "pool": "Not Available",
             "card_id": "475"
         },
         {
