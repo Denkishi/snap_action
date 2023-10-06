@@ -154,7 +154,9 @@
                     "description": "After ANY card is played here, this moves to another location."
                 },
                 {
-                    "name": "Ghost-Spider"
+                    "name": "Ghost-Spider",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider-862380d3005193b3bbcec12cb5bfd0099623f07de9f3da3e23e4ed29bebf2c91.webp",
+                    "description": "On Reveal: The last card you played moves here."
                 },
                 {
                     "name": "Nightforged",
