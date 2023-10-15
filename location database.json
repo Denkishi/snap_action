@@ -74,7 +74,9 @@
             "date": "October 16 - October 23",
             "cards": [
                 {
-                    "name": "Black Knight"
+                    "name": "Black Knight",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight-ee326cf8f8e5863c3342a2dcf874a11f6123f0a1276dc179c365b586a12972a4.webp"
                 },
                 {
                     "name": "Stature",
