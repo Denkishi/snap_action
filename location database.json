@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "October 2 - October 9",
+            "date": "October 3 - October 10",
             "cards": [
                 {
                     "name": "Thanos",
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "date": "October 9 - October 16",
+            "date": "October 10 - October 17",
             "cards": [
                 {
                     "name": "Man-Thing",
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "date": "October 16 - October 23",
+            "date": "October 17 - October 24",
             "cards": [
                 {
                     "name": "Black Knight",
@@ -89,9 +89,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Modok-7d130bf4c5c2c185c5635333fa965803550b41d533e845ba0070c52db37ad791.webp"
                 },
                 {
-                    "name": "Nightforged",
+                    "name": "Fantasy",
                     "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_08-fd9e681279eb4eb78d930cfe2db1631f664fa670bbd75bfd5a2264a66d392041.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_07-4e3507c348e6a2dd4f96588d86331477fc280c892480ab59f8df4ebb28d010ec.webp"
                 },
                 {
                     "name": "Steampunk",
@@ -106,7 +106,7 @@
             ]
         },
         {
-            "date": "October 23 - October 30",
+            "date": "October 24 - October 31",
             "cards": [
                 {
                     "name": "Nico Minoru",
@@ -141,7 +141,7 @@
             ]
         },
         {
-            "date": "October 30 - November 6",
+            "date": "October 31 - November 7",
             "cards": [
                 {
                     "name": "Werewolf By Night",
@@ -176,124 +176,7 @@
             ]
         },
         {
-            "date": "October 3 - October 10",
-            "cards": [
-                {
-                    "name": "Thanos"
-                },
-                {
-                    "name": "X-23"
-                },
-                {
-                    "name": "Echo"
-                },
-                {
-                    "name": "Djurdjevic"
-                },
-                {
-                    "name": "Wolverine"
-                },
-                {
-                    "name": "Phoenix Force"
-                }
-            ]
-        },
-        {
-            "date": "October 10 - October 17",
-            "cards": [
-                {
-                    "name": "Man-Thing"
-                },
-                {
-                    "name": "Silver Samurai"
-                },
-                {
-                    "name": "Lady Deathstrike"
-                },
-                {
-                    "name": "Nightforged"
-                },
-                {
-                    "name": "Chibi"
-                },
-                {
-                    "name": "Variant"
-                }
-            ]
-        },
-        {
-            "date": "October 17 - October 24",
-            "cards": [
-                {
-                    "name": "Black Knight"
-                },
-                {
-                    "name": "Stature"
-                },
-                {
-                    "name": "M.O.D.O.K."
-                },
-                {
-                    "name": "Fantasy",
-                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_07-4e3507c348e6a2dd4f96588d86331477fc280c892480ab59f8df4ebb28d010ec.webp"
-                },
-                {
-                    "name": "Steampunk"
-                },
-                {
-                    "name": "Variant"
-                }
-            ]
-        },
-        {
-            "date": "October 24 - October 31",
-            "cards": [
-                {
-                    "name": "Nico Minoru"
-                },
-                {
-                    "name": "Kitty Pryde"
-                },
-                {
-                    "name": "Phoenix Force"
-                },
-                {
-                    "name": "Nightforged"
-                },
-                {
-                    "name": "Kim Jacinto"
-                },
-                {
-                    "name": "Dan Hipp"
-                }
-            ]
-        },
-        {
-            "date": "October 31 - November 7",
-            "cards": [
-                {
-                    "name": "Werewolf By Night"
-                },
-                {
-                    "name": "Silk"
-                },
-                {
-                    "name": "Ghost-Spider"
-                },
-                {
-                    "name": "Nightforged"
-                },
-                {
-                    "name": "Variant"
-                },
-                {
-                    "name": "Baby"
-                }
-            ]
-        },
-        {
-            "date": "November 6 - November 13",
+            "date": "November 7 - November 14",
             "cards": [
                 {
                     "name": "Alioth",
@@ -328,7 +211,7 @@
             ]
         },
         {
-            "date": "November 13 - November 20",
+            "date": "November 14 - November 21",
             "cards": [
                 {
                     "name": "Gladiator",
@@ -363,7 +246,7 @@
             ]
         },
         {
-            "date": "November 20 - November 27",
+            "date": "November 21 - November 28",
             "cards": [
                 {
                     "name": "Annihilus",
@@ -396,7 +279,7 @@
             ]
         },
         {
-            "date": "November 27 - December 4",
+            "date": "November 28 - December 5",
             "cards": [
                 {
                     "name": "Martyr",
@@ -427,98 +310,6 @@
                     "name": "Chibi",
                     "description": "The first time this moves to a location, destroy an enemy card there.",
                     "image": "https://game-assets.snap.fan/card_variant_images/SpiderMan2099_06-00ac3c8c79efeb470cd18d93c86b3de2040d4c713f58fdfb35099c7231570888.webp"
-                }
-            ]
-        },
-        {
-            "date": "November 7 - November 14",
-            "cards": [
-                {
-                    "name": "Alioth"
-                },
-                {
-                    "name": "Knull"
-                },
-                {
-                    "name": "Negasonic Teenage Warhead"
-                },
-                {
-                    "name": "Kai"
-                },
-                {
-                    "name": "Variant"
-                },
-                {
-                    "name": "Inkpulp"
-                }
-            ]
-        },
-        {
-            "date": "November 14 - November 21",
-            "cards": [
-                {
-                    "name": "Gladiator"
-                },
-                {
-                    "name": "Mirage"
-                },
-                {
-                    "name": "Loki"
-                },
-                {
-                    "name": "Variant"
-                },
-                {
-                    "name": "Casual"
-                },
-                {
-                    "name": "Justyna"
-                }
-            ]
-        },
-        {
-            "date": "November 21 - November 28",
-            "cards": [
-                {
-                    "name": "Annihilus"
-                },
-                {
-                    "name": "Daken"
-                },
-                {
-                    "name": "X-23"
-                },
-                {
-                    "name": "Annihilation"
-                },
-                {
-                    "name": "Chibi"
-                },
-                {
-                    "name": "Rian Gonzales"
-                }
-            ]
-        },
-        {
-            "date": "November 28 - December 5",
-            "cards": [
-                {
-                    "name": "Martyr"
-                },
-                {
-                    "name": "Jean Grey"
-                },
-                {
-                    "name": "Spider-Man 2099"
-                },
-                {
-                    "name": "Annihilation"
-                },
-                {
-                    "name": "Jim Lee"
-                },
-                {
-                    "name": "Chibi"
                 }
             ]
         },
