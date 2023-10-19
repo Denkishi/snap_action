@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "MARVEL SNAP x Discord Nitro",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_10_19_06_33_25/200819536880_s501390.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7264869749341821702",
+            "date": "10/19/2023",
+            "label": "NEWS"
+        },
+        {
             "name": "October 12 - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_10_12_18_26_44/429283981907_s204646.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7264575429514926854",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7263135010541296390",
             "date": "09/14/2023",
             "label": "NEWS"
-        },
-        {
-            "name": "Patch Notes - Sep 05, 2023",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_09_05_08_32_03/1623291173227_s204646.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7263018669519805190",
-            "date": "09/06/2023",
-            "label": "GAME UPDATES"
         }
     ]
 }
