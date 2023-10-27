@@ -1,25 +1,25 @@
 {
-    "date": "October 20, 2023",
+    "date": "October 26, 2023",
     "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Loki Collector"
+        },
         {
             "tier": "Tier 1",
             "name": "Move"
         },
         {
             "tier": "Tier 1",
+            "name": "Sera Control"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Shuri Sauron"
         },
         {
-            "tier": "Tier 1",
-            "name": "Loki Collector"
-        },
-        {
             "tier": "Tier 2",
-            "name": "Hela Discard"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Sera Control"
+            "name": "Hela Tribunal"
         },
         {
             "tier": "Tier 2",
@@ -30,16 +30,16 @@
             "name": "Thanos Control"
         },
         {
-            "tier": "Tier 2",
+            "tier": "Tier 3",
             "name": "Deadpool Destroy"
         },
         {
-            "tier": "Tier 2",
-            "name": "Bounce"
+            "tier": "Tier 3",
+            "name": "Good Cards Zabu"
         },
         {
             "tier": "Tier 3",
-            "name": "Phoenix Force"
+            "name": "Shuri Kitty"
         },
         {
             "tier": "Tier 3",
@@ -48,6 +48,14 @@
         {
             "tier": "Tier 3",
             "name": "Guardians Lockdown"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Phoenix Force"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Ramp"
         }
     ]
 }
