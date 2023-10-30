@@ -3,59 +3,51 @@
     "Tiers": [
         {
             "tier": "Tier 1",
+            "name": "Darkhawk Affliction"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Move DoomWave"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Thanos Control"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Loki Collector"
         },
         {
-            "tier": "Tier 1",
-            "name": "Move"
+            "tier": "Tier 2",
+            "name": "Sera Control"
         },
         {
-            "tier": "Tier 1",
-            "name": "Sera Control"
+            "tier": "Tier 2",
+            "name": "Destroy"
         },
         {
             "tier": "Tier 2",
             "name": "Shuri Sauron"
         },
         {
-            "tier": "Tier 2",
+            "tier": "Tier 3",
             "name": "Hela Tribunal"
         },
         {
-            "tier": "Tier 2",
-            "name": "Thor Miracle"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Thanos Control"
+            "tier": "Tier 3",
+            "name": "High Evolutionary"
         },
         {
             "tier": "Tier 3",
-            "name": "Deadpool Destroy"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Good Cards Zabu"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Shuri Kitty"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Guardians Lockdown"
+            "name": "Thanos Zoo"
         },
         {
             "tier": "Tier 3",
             "name": "Phoenix Force"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Ramp"
         }
     ]
 }
