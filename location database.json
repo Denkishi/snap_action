@@ -600,10 +600,14 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Nebula-1bd5f176812974b4865e189a886000393dde58a55a33902ef5c7822c4187246b.webp"
                 },
                 {
-                    "name": "Del Mundo"
+                    "name": "Del Mundo",
+                    "description": "On Reveal: Shuffle Stormbreaker into your deck.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_03-788bf55500a3170dff749063f20099d676a9c6576bef932bdd38e3b6cb97657d.webp"
                 },
                 {
-                    "name": "Bronze Age"
+                    "name": "Bronze Age",
+                    "description": "After you play an On Reveal card at another location, move there and gain +2 Power.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_03-3d4716315be1d4c88d016030bc2d47510f4296ab42983f0ef7f320463edeb2a1.webp"
                 },
                 {
                     "name": "Javier Rodriguez",
