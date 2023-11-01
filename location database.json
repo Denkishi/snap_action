@@ -1,181 +1,6 @@
 {
     "spotlight": [
         {
-            "date": "October 3 - October 10",
-            "cards": [
-                {
-                    "name": "Thanos",
-                    "description": "At the start of the game, shuffle the six Infinity Stones into your deck.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos-82f8499e4d098da8e38c4ab2a8ec74e340ca9c61f16c04609e8b0f60d51a3001.webp"
-                },
-                {
-                    "name": "X-23",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23-917986465da8c89bb5c678c390e026676f5eba3b2f6c9eee1ffbf46ba7a2e01b.webp"
-                },
-                {
-                    "name": "Echo",
-                    "description": "After your opponent plays an Ongoing card here, remove its abilities.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Echo-3ebc12785994c9216fd07420dfa548d44e1588f948ecdb23b937d74cf2b885d3.webp"
-                },
-                {
-                    "name": "Djurdjevic",
-                    "description": "At the start of the game, shuffle the six Infinity Stones into your deck.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos_06-dfac1d268701a81e1b0cb8be8d5476af4147af87d15eced4257c0002d4832aaa.webp"
-                },
-                {
-                    "name": "Wolverine",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_06-03444789a8c05ee9b099a9c66741878b20795a38efd0b7e308c78215d101332b.webp"
-                },
-                {
-                    "name": "Phoenix Force",
-                    "description": "After your opponent plays an Ongoing card here, remove its abilities.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_04-aef4abec4262431167ba39ba2015437d4c103f65e4d2484a216b6644c8445fd2.webp"
-                }
-            ]
-        },
-        {
-            "date": "October 10 - October 17",
-            "cards": [
-                {
-                    "name": "Man-Thing",
-                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing-ed58ad053261a7a4dbe00bc55df24a3526312cd202e38ed9ec12a3ad8d833d74.webp"
-                },
-                {
-                    "name": "Silver Samurai",
-                    "description": "On Reveal: Each player discards the lowest-Power card from their hand.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai-54a5cfc911bf5c32011ddd9dcf5c3a95e6a8f65c336e16c83d73d3aad725fe21.webp"
-                },
-                {
-                    "name": "Lady Deathstrike",
-                    "description": "On Reveal: Destroy each card here with less Power than this.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike-8bbbdd174b65208605c4cef572cfa7bd828ab706d1725c9bfbeea7db59e0561b.webp"
-                },
-                {
-                    "name": "Nightforged",
-                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_06-b7992777dbd16f98600ad0fa1e9c22a70391dea7c90b694ce0a78439b0dc4ced.webp"
-                },
-                {
-                    "name": "Chibi",
-                    "description": "On Reveal: Each player discards the lowest-Power card from their hand.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_04-0d2b79973a6d53707a5f2b038d69278879377506dc9db27a2d42edfb666b0f1b.webp"
-                },
-                {
-                    "name": "Variant",
-                    "description": "On Reveal: Destroy each card here with less Power than this.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_05-acd71778cbb3244317e98c613d4ea35056e3f6a279e7b3f0c508b3a491b47519.webp"
-                }
-            ]
-        },
-        {
-            "date": "October 17 - October 24",
-            "cards": [
-                {
-                    "name": "Black Knight",
-                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight-ee326cf8f8e5863c3342a2dcf874a11f6123f0a1276dc179c365b586a12972a4.webp"
-                },
-                {
-                    "name": "Stature",
-                    "description": "Costs 1 if your opponent discarded a card from their hand this game.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Stature-d2863bd71907d1ea7ee0cc8b1e8d1fae325f536505df7f0a3dcc9c51f2306328.webp"
-                },
-                {
-                    "name": "M.O.D.O.K.",
-                    "description": "On Reveal: Discard your hand.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Modok-9d75c26dff078791f014161bdfea77c7edcedcc11bbe1290e0ebecf24040894a.webp"
-                },
-                {
-                    "name": "Fantasy",
-                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_07-4e3507c348e6a2dd4f96588d86331477fc280c892480ab59f8df4ebb28d010ec.webp"
-                },
-                {
-                    "name": "Steampunk",
-                    "description": "Costs 1 if your opponent discarded a card from their hand this game.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Stature_03-38ce8a688de5064f1d7f8749d43ea1de8b2fbf7918dcf55b03febbdabe0b8965.webp"
-                },
-                {
-                    "name": "Variant",
-                    "description": "On Reveal: Discard your hand.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Modok_07-755247bb84a931351bfe905211273dc71f28e3a37d32e7dfdd1af58a0a09488d.webp"
-                }
-            ]
-        },
-        {
-            "date": "October 24 - October 31",
-            "cards": [
-                {
-                    "name": "Nico Minoru",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru-5c3895d9244c0ee49398ab1c393e73630a2964f7060fff68da7ab2075602155c.webp"
-                },
-                {
-                    "name": "Kitty Pryde",
-                    "description": "When this returns to your hand, +1 Power. Returns at the start of each turn.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/KittyPryde-69f66442433fa4f95a95ec894f303198c1eafd6820ca25e4a746cbe447d114d3.webp"
-                },
-                {
-                    "name": "Phoenix Force",
-                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce-7b39c66ee5e30b2b0eab0a4411d3becd3f73f8fdf168e5e529020483cf6a9c8a.webp"
-                },
-                {
-                    "name": "Nightforged",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_06-b0d2a46c020fe5d9a4de7e2f98151e99f26fea8b73f3a9f02cb59f33e88ea18b.webp"
-                },
-                {
-                    "name": "Kim Jacinto",
-                    "description": "When this returns to your hand, +1 Power. Returns at the start of each turn.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/KittyPryde_09-2b118cfbc9c79a39465e187108cc537682d1d405059faf114ead8864ddfed3d9.webp"
-                },
-                {
-                    "name": "Dan Hipp",
-                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_06-fb4a53c41fc275eca29ab12488c4427e1604c226bce779a1916bc335c8f832ef.webp"
-                }
-            ]
-        },
-        {
-            "date": "October 31 - November 7",
-            "cards": [
-                {
-                    "name": "Werewolf By Night",
-                    "description": "After you play an On Reveal card at another location, move there and gain +2 Power.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-0a3a67b73f07c25948cb26e9c23a92ed399f4c0e8de088ac4f68ce0ea56fe3cb.webp"
-                },
-                {
-                    "name": "Silk",
-                    "description": "After ANY card is played here, this moves to another location.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk-921334963b23ba8c4fd38639e23e1cf2dab0c8253f3bff217d2b5b721c0d8f89.webp"
-                },
-                {
-                    "name": "Ghost-Spider",
-                    "description": "On Reveal: The last card you played moves here.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider-862380d3005193b3bbcec12cb5bfd0099623f07de9f3da3e23e4ed29bebf2c91.webp"
-                },
-                {
-                    "name": "Nightforged",
-                    "description": "After you play an On Reveal card at another location, move there and gain +2 Power.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_05-bb047c46c1ef0b45b342cb0e02b74e8e5de7057ef68d96da74499c7a550b1a17.webp"
-                },
-                {
-                    "name": "Variant",
-                    "description": "After ANY card is played here, this moves to another location.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_07-dcb54a2698c5661b5461720b96cfabcc43dd4b5b8fff7fbd1380cf252f674a83.webp"
-                },
-                {
-                    "name": "Baby",
-                    "description": "On Reveal: The last card you played moves here.",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_02-4af125134665cbe066ad0bce09a5cdf755a57b9592fb5937c786279dfb06f274.webp"
-                }
-            ]
-        },
-        {
             "date": "November 7 - November 14",
             "cards": [
                 {
@@ -259,7 +84,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Daken-b8adb45d109b547a9d8cebefd96c1048b5504d265ef24b0b5907493b47675e6d.webp"
                 },
                 {
-                    "name": "X-23"
+                    "name": "X-23",
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23-917986465da8c89bb5c678c390e026676f5eba3b2f6c9eee1ffbf46ba7a2e01b.webp"
                 },
                 {
                     "name": "Annihilation",
@@ -392,7 +219,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Havok-0db9c84d7bbdf7598c3bebd8c05c917b9fd3d03cb687424532f8e0bc353f9f9f.webp"
                 },
                 {
-                    "name": "Nico Minoru"
+                    "name": "Nico Minoru",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru-5c3895d9244c0ee49398ab1c393e73630a2964f7060fff68da7ab2075602155c.webp"
                 },
                 {
                     "name": "Legion",
@@ -430,7 +259,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/IronLad-66133c1d92cb85f3b8f1f32aa2bcbcbe677e21ada5431b92ccfd101c9a9d12f3.webp"
                 },
                 {
-                    "name": "Black Knight"
+                    "name": "Black Knight",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight-ee326cf8f8e5863c3342a2dcf874a11f6123f0a1276dc179c365b586a12972a4.webp"
                 },
                 {
                     "name": "Hellfire Gala",
@@ -531,7 +362,9 @@
                     "name": "Annihilus"
                 },
                 {
-                    "name": "Phoenix Force"
+                    "name": "Phoenix Force",
+                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce-7b39c66ee5e30b2b0eab0a4411d3becd3f73f8fdf168e5e529020483cf6a9c8a.webp"
                 },
                 {
                     "name": "Planet Hulk",
@@ -592,7 +425,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill-ca1c009c3101aa556b724d6468755187011ff377d6bb5d98286ce8622722e9cb.webp"
                 },
                 {
-                    "name": "Werewolf By Night"
+                    "name": "Werewolf By Night",
+                    "description": "After you play an On Reveal card at another location, move there and gain +2 Power.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-0a3a67b73f07c25948cb26e9c23a92ed399f4c0e8de088ac4f68ce0ea56fe3cb.webp"
                 },
                 {
                     "name": "Nebula",
