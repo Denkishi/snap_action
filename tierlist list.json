@@ -1,17 +1,21 @@
 {
-    "date": "November 2, 2023",
+    "date": "November 5, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Darkhawk Affliction"
+            "name": "Loki Collector"
         },
         {
             "tier": "Tier 1",
-            "name": "Move DoomWave"
+            "name": "High Evolutionary (InSheNaut)"
         },
         {
             "tier": "Tier 1",
-            "name": "Thanos Control"
+            "name": "Shuri Sauron"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool Destroy"
         },
         {
             "tier": "Tier 2",
@@ -19,35 +23,31 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Loki Collector"
+            "name": "Move Surfer"
         },
         {
-            "tier": "Tier 2",
+            "tier": "Tier 3",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Move"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Sera Control"
         },
         {
-            "tier": "Tier 2",
-            "name": "Destroy"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Shuri Sauron"
-        },
-        {
             "tier": "Tier 3",
-            "name": "Hela Tribunal"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "High Evolutionary"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Thanos Zoo"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Phoenix Force"
+            "name": "Darkhawk Affliction"
         }
     ]
 }
