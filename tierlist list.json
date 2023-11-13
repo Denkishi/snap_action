@@ -7,15 +7,15 @@
         },
         {
             "tier": "Tier 1",
-            "name": "High Evolutionary (InSheNaut)"
-        },
-        {
-            "tier": "Tier 1",
             "name": "Shuri Sauron"
         },
         {
+            "tier": "Tier 1",
+            "name": "Lockdown"
+        },
+        {
             "tier": "Tier 2",
-            "name": "Deadpool Destroy"
+            "name": "Cerebro 5"
         },
         {
             "tier": "Tier 2",
@@ -23,19 +23,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Move Surfer"
+            "name": "Devil Ongoing"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "InSheNaut"
         },
         {
             "tier": "Tier 3",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Ramp"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Thanos Control"
+            "name": "Galactus Ramp"
         },
         {
             "tier": "Tier 3",
@@ -43,11 +43,7 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Sera Control"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Darkhawk Affliction"
+            "name": "Electro Ramp"
         }
     ]
 }
