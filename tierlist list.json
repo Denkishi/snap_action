@@ -1,21 +1,21 @@
 {
-    "date": "November 16, 2023",
+    "date": "November 19, 2023",
     "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Darkhawk"
+        },
         {
             "tier": "Tier 1",
             "name": "Loki Collector"
         },
         {
-            "tier": "Tier 1",
-            "name": "Shuri Sauron"
-        },
-        {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
             "name": "Lockdown"
         },
         {
             "tier": "Tier 2",
-            "name": "Cerebro 5"
+            "name": "Shuri Sauron"
         },
         {
             "tier": "Tier 2",
@@ -23,19 +23,15 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Devil Ongoing"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Deadpool Destroy"
         },
         {
-            "tier": "Tier 2",
-            "name": "InSheNaut"
+            "tier": "Tier 3",
+            "name": "Cerebro 5"
         },
         {
             "tier": "Tier 3",
-            "name": "Galactus Ramp"
+            "name": "InSheNaut"
         },
         {
             "tier": "Tier 3",
@@ -43,7 +39,7 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Electro Ramp"
+            "name": "Galactus Ramp"
         }
     ]
 }
