@@ -2,15 +2,35 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Good Cards Darkhawk"
+            "name": "Lockdown"
         },
         {
             "tier": "Tier 1",
-            "name": "Loki Collector"
+            "name": "Loki Werewolf"
         },
         {
             "tier": "Tier 2",
-            "name": "Lockdown"
+            "name": "Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Darkhawk"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Cerebro 5"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Galactus Ramp"
         },
         {
             "tier": "Tier 2",
@@ -18,27 +38,15 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Deadpool Destroy"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Cerebro 5"
-        },
-        {
-            "tier": "Tier 3",
             "name": "InSheNaut"
         },
         {
             "tier": "Tier 3",
-            "name": "Move"
+            "name": "Thanos Control"
         },
         {
             "tier": "Tier 3",
-            "name": "Galactus Ramp"
+            "name": "Discard Dracula"
         }
     ]
 }
