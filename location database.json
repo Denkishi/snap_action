@@ -198,11 +198,7 @@
                     "name": "Hercules",
                     "image": "https://game-assets.snap.fan/card_variant_images/Hercules_06-64525992b13795ced80b7bd86f2720b2f33a4dacd1c764c1ccbc0698ac247dca.webp"
                 },
-                {
-                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations.",
-                    "name": "Galactus",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus_12-f74836486a3dbf962be27c3f35769bec3e79312b2c412d8da66aa2b342839cbf.webp"
-                },
+                {},
                 {
                     "description": "Ongoing: Tap this to see the top card of your deck.",
                     "name": "Howard the Duck",
