@@ -1,13 +1,29 @@
 {
-    "date": "December 2, 2023",
+    "date": "December 3, 2023",
     "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Darkhawk"
+        },
         {
             "tier": "Tier 1",
             "name": "Lockdown"
         },
         {
             "tier": "Tier 1",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Loki Werewolf"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Deadpool Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 2",
@@ -15,31 +31,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Darkhawk"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Cerebro 5"
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce"
+            "name": "Destroy Tempo"
         },
         {
-            "tier": "Tier 2",
-            "name": "Destroy"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Galactus Ramp"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Shuri Sauron"
-        },
-        {
-            "tier": "Tier 2",
+            "tier": "Tier 3",
             "name": "InSheNaut"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Pure Evolutionary"
         },
         {
             "tier": "Tier 3",
@@ -47,7 +51,11 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Electro Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Shuri Sauron"
         }
     ]
 }
