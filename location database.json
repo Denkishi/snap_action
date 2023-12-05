@@ -11,7 +11,7 @@
                 {
                     "description": "On Reveal: Move an enemy card from here to another location.",
                     "name": "Stegron",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Stegron-a95066373adaa069d37928d8a39a27a4f563af05634400fe69eb5ebff9866942.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Stegron-a8c7be0eefd9686257481ada85dab7b84916858f0492ddd7bd75dde258eb9727.webp"
                 },
                 {
                     "description": "You can move this once. Nothing can stop you from moving or playing this to any location.",
@@ -26,7 +26,7 @@
                 {
                     "description": "On Reveal: Move an enemy card from here to another location.",
                     "name": "Stegron",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Stegron_02-db8236cefe389a2124ba70c099befeea5745a3fdc8cbe9c9df28f54e327d8eb0.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Stegron_02-1e5485279b45b1ca387d80e480c6088454eca62c5e4fcd6649ee0fe315825582.webp"
                 },
                 {
                     "description": "You can move this once. Nothing can stop you from moving or playing this to any location.",
@@ -51,7 +51,7 @@
                 {
                     "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)",
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer-7fe5ca5e4dae475fed7417b3650b6e27bdec45eb65d3455a13386e349330a5a4.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer-469df1d044f7a3750d186bd67de5e70b9bea08882f1c1b12ef3cc4097d2489b4.webp"
                 },
                 {
                     "description": "On Reveal: Merge your deck into this. (and gain its total Power) Ongoing: Can't be moved.",
@@ -66,7 +66,7 @@
                 {
                     "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)",
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_04-e72b5f4ddab32a4ee8353e9a7f84399a2a2c518ef6ec335a3b002d5a309c7d24.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_04-c635bb8b5b8a8d16cb99d9017315c160176e282c288d082101ddc0bdf23e9db2.webp"
                 }
             ]
         },
@@ -74,9 +74,9 @@
             "date": "Dec 19 - Dec 26",
             "cards": [
                 {
-                    "description": "After each turn, you lose 1 Max Energy and this gains +3 Power.",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power.",
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok-0db9c84d7bbdf7598c3bebd8c05c917b9fd3d03cb687424532f8e0bc353f9f9f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok-167906e1e6eebfbd006695f5f8a350365ad538477470c0c47ae3f0990c1dea71.webp"
                 },
                 {
                     "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
@@ -89,9 +89,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion-db4ce9349aecc9baa74287f6334bd9eb9c713510689f5abbebbd3c050d4528df.webp"
                 },
                 {
-                    "description": "After each turn, you lose 1 Max Energy and this gains +3 Power.",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power.",
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_07-a1dd7fa23f49a303868479ceb404d858ca44e73a832fe2843eeec7f76a9f03ce.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_07-746213f1ae5f7b77377faf3ece8a3651a19fef6685fda309fae68dff1baea35e.webp"
                 },
                 {
                     "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
@@ -236,12 +236,12 @@
                 {
                     "description": "On Reveal: Your cards with 0 or less Power switch sides. Destroy those that can't.",
                     "name": "Annihilus",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_06-be9e3df44b23c86bfa9d261c1e462fa1b7fb6fe25c0e9b3798f0f096690c6137.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_06-32760825523432a52dc2ce372ec1b14ad7cee670f80502d34c496b7cc392f781.webp"
                 },
                 {
                     "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
                     "name": "Phoenix Force",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_04-cb5bc46f7420e8620569e62ca0bb3c7117b04d45b414095a9d22625caa29de4a.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_04-b044e83f29d759bb53441ea97dcebc9a7def19e398bd4e29d648fafec2919918.webp"
                 }
             ]
         },
@@ -259,9 +259,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Loki-fd0954a7248e815c49dca118f1d17208e3830c2ebdd0018c5efc0af0fe65173d.webp"
                 },
                 {
-                    "description": "If you play another card to fill a location, give it +2 Power.",
+                    "description": "After you play a card that fills this location, give it +2 Power.",
                     "name": "Elsa Bloodstone",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone-8f0336722c9ca5768045092818c60a6eae098d174bf5e98f7553673df8d50e78.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone-32a571c79ad8083e053c946ea86fa047f71a0e612274ada420c90d23aae52e75.webp"
                 },
                 {
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again.",
@@ -271,12 +271,12 @@
                 {
                     "description": "On Reveal: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.",
                     "name": "Loki",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_06-7f63fa3d68eea6f397bc3c1b35862a1b5d34f58efa3e09f29edd4b91c746d990.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_06-c4c63e4fe9403129d3834d1240eac08092194f155f03ad8e27bf5035db6ce6bf.webp"
                 },
                 {
-                    "description": "If you play another card to fill a location, give it +2 Power.",
+                    "description": "After you play a card that fills this location, give it +2 Power.",
                     "name": "Elsa Bloodstone",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_07-ac5b2c287f5be01f03b521a0c7593f33649ff6f4dab20e190239e3df0f776247.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_07-60215ef17e6e073a88061865930631cbf540b868f3fd007e41b8eab791ef1bd7.webp"
                 }
             ]
         },
@@ -289,7 +289,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill-ca1c009c3101aa556b724d6468755187011ff377d6bb5d98286ce8622722e9cb.webp"
                 },
                 {
-                    "description": "After you play an On Reveal card at another location, move there and gain +2 Power.",
+                    "description": "After you play an On Reveal card at another location, move there to gain +2 Power.",
                     "name": "Werewolf By Night",
                     "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-0a3a67b73f07c25948cb26e9c23a92ed399f4c0e8de088ac4f68ce0ea56fe3cb.webp"
                 },
@@ -304,7 +304,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_03-788bf55500a3170dff749063f20099d676a9c6576bef932bdd38e3b6cb97657d.webp"
                 },
                 {
-                    "description": "After you play an On Reveal card at another location, move there and gain +2 Power.",
+                    "description": "After you play an On Reveal card at another location, move there to gain +2 Power.",
                     "name": "Werewolf By Night",
                     "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_03-3d4716315be1d4c88d016030bc2d47510f4296ab42983f0ef7f320463edeb2a1.webp"
                 },
@@ -312,6 +312,146 @@
                     "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
                     "name": "Nebula",
                     "image": "https://game-assets.snap.fan/card_variant_images/Nebula_08-1fb3c6490801ecfcc8c2a8e4a9424b42df368bc9d47613b8e8ae1d66a0d75b47.webp"
+                }
+            ]
+        },
+        {
+            "date": "Feb 6 - Feb 13",
+            "cards": [
+                {
+                    "description": "On Reveal: All cards played this turn and next turn don't reveal until the game ends.",
+                    "name": "Supergiant",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant-9efc7d3899eeb09c4870b497c413301fe391288425782113c77b4395788edc37.webp"
+                },
+                {
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck.",
+                    "name": "Darkhawk",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk-e8bf2eeb8aafc5f35d217d194b946c012bfdf6efd481b2bf683cd21cfc911d46.webp"
+                },
+                {
+                    "description": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)",
+                    "name": "Zabu",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu-c32913e6cd1deabd11178c2963b1103e9484de759cffc201fe454589f4d183ba.webp"
+                },
+                {
+                    "description": "On Reveal: All cards played this turn and next turn don't reveal until the game ends.",
+                    "name": "Supergiant",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_03-a8fbdcb0b6e1217a0ea5c96bbb4d70ed5075d9e20131a30ca333e79532b8112d.webp"
+                },
+                {
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck.",
+                    "name": "Darkhawk",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_09-e5d7e59a452dec5e94636e8a9ca1d57570024416af406fa16ab461d34eb2a705.webp"
+                },
+                {
+                    "description": "Ongoing: Your 4-Cost cards cost 1 less. (minimum 1)",
+                    "name": "Zabu",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_07-748a684288231bfb75676ec8b95815715ed0bf56c34b1298fae6e0a230254499.webp"
+                }
+            ]
+        },
+        {
+            "date": "Feb 13 - Feb 20",
+            "cards": [
+                {
+                    "description": "You can only play this at a location with an Infinity Stone. Ongoing: Can't be destroyed.",
+                    "name": "Cull Obsidian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian-b2513cdb78568ed444bf532550470fb5f9a24c1aeeddafdbbd26c25899285c42.webp"
+                },
+                {
+                    "description": "When this is destroyed, add a copy to each other location.",
+                    "name": "Nimrod",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nimrod-81b6e9a9c1b0bb420134943364405550e0517eb6f48dcdca9bb7c3a3ee9fb467.webp"
+                },
+                {
+                    "description": "At the start of the game, shuffle the six Infinity Stones into your deck.",
+                    "name": "Thanos",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos-8e4b03c0739293d54b8b2474a6715cc10c05f8edca583231b926516643eb61e3.webp"
+                },
+                {
+                    "description": "You can only play this at a location with an Infinity Stone. Ongoing: Can't be destroyed.",
+                    "name": "Cull Obsidian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian_03-843718762487bc3021b120f240f42d17b0cc46e00146e5b6e557dae3a178a7f4.webp"
+                },
+                {
+                    "description": "When this is destroyed, add a copy to each other location.",
+                    "name": "Nimrod",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nimrod_05-72c95befc6a424a4dd8aa4d5aa437e96803745fe9329744dde88921b8607181e.webp"
+                },
+                {
+                    "description": "At the start of the game, shuffle the six Infinity Stones into your deck.",
+                    "name": "Thanos",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos_08-a83b23b9e267aa046265c26a88af9f20399557bd90c2d5296ed02a1625598408.webp"
+                }
+            ]
+        },
+        {
+            "date": "Feb 20 - Feb 27",
+            "cards": [
+                {
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy.",
+                    "name": "Corvus Glaive",
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive-370aae28efeb98b3bac646691b4a84805e9abbc9aa06d772b0635d28aec59dc3.webp"
+                },
+                {
+                    "description": "Costs 1 if your opponent discarded a card this game.",
+                    "name": "Stature",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Stature-d2863bd71907d1ea7ee0cc8b1e8d1fae325f536505df7f0a3dcc9c51f2306328.webp"
+                },
+                {
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn.",
+                    "name": "X-23",
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23-917986465da8c89bb5c678c390e026676f5eba3b2f6c9eee1ffbf46ba7a2e01b.webp"
+                },
+                {
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy.",
+                    "name": "Corvus Glaive",
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_03-ec12974002dcceeb0a1a799b81d5af777e42b57bc930e965abb8d79e59c80f15.webp"
+                },
+                {
+                    "description": "Costs 1 if your opponent discarded a card this game.",
+                    "name": "Stature",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Stature_06-9208443ffc4c3a0f4de45d85a6d1b3819a68e05a5ee0e762095f1617cfd0a8b9.webp"
+                },
+                {
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn.",
+                    "name": "X-23",
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23_02-776dbbc9349f5ac1118e3d066d06314a7a11f683e465db99ea8e126bba7447cc.webp"
+                }
+            ]
+        },
+        {
+            "date": "Feb 27 - Mar 5",
+            "cards": [
+                {
+                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)",
+                    "name": "Proxima Midnight",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight-f2702ad87b76969dfc1a9c3c601e12b5a68a9a413a94ed6b7c3ad351abe13198.webp"
+                },
+                {
+                    "description": "On Reveal: Discard your hand.",
+                    "name": "M.O.D.O.K.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Modok-9d75c26dff078791f014161bdfea77c7edcedcc11bbe1290e0ebecf24040894a.webp"
+                },
+                {
+                    "description": "On Reveal: Add the Muramasa Shard to your hand.",
+                    "name": "Daken",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Daken-b8adb45d109b547a9d8cebefd96c1048b5504d265ef24b0b5907493b47675e6d.webp"
+                },
+                {
+                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)",
+                    "name": "Proxima Midnight",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_03-3c52d3cd3ed5b05fd25ff8dea550a12346920363f4b68882e555314a09ece44a.webp"
+                },
+                {
+                    "description": "On Reveal: Discard your hand.",
+                    "name": "M.O.D.O.K.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Modok_08-c0d8fffbc67367000ae478c18b47a49297f207336dcb9d5d75c55d485eda995d.webp"
+                },
+                {
+                    "description": "On Reveal: Add the Muramasa Shard to your hand.",
+                    "name": "Daken",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp"
                 }
             ]
         }
