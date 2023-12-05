@@ -91,7 +91,7 @@
                 {
                     "description": "After each turn, you lose 1 Max Energy and this gains +4 Power.",
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_07-746213f1ae5f7b77377faf3ece8a3651a19fef6685fda309fae68dff1baea35e.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_07-e8d3578a3cc1dff3c190fb25cd27a04f3fd3633c1a4a757b2a36cd7e9a72e221.webp"
                 },
                 {
                     "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)",
@@ -236,12 +236,12 @@
                 {
                     "description": "On Reveal: Your cards with 0 or less Power switch sides. Destroy those that can't.",
                     "name": "Annihilus",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_06-32760825523432a52dc2ce372ec1b14ad7cee670f80502d34c496b7cc392f781.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_06-be9e3df44b23c86bfa9d261c1e462fa1b7fb6fe25c0e9b3798f0f096690c6137.webp"
                 },
                 {
                     "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
                     "name": "Phoenix Force",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_04-b044e83f29d759bb53441ea97dcebc9a7def19e398bd4e29d648fafec2919918.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_04-cb5bc46f7420e8620569e62ca0bb3c7117b04d45b414095a9d22625caa29de4a.webp"
                 }
             ]
         },
@@ -271,7 +271,7 @@
                 {
                     "description": "On Reveal: Replace your hand with cards from your opponent's starting deck. Give them -1 cost.",
                     "name": "Loki",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_06-c4c63e4fe9403129d3834d1240eac08092194f155f03ad8e27bf5035db6ce6bf.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_06-7f63fa3d68eea6f397bc3c1b35862a1b5d34f58efa3e09f29edd4b91c746d990.webp"
                 },
                 {
                     "description": "After you play a card that fills this location, give it +2 Power.",
@@ -291,7 +291,7 @@
                 {
                     "description": "After you play an On Reveal card at another location, move there to gain +2 Power.",
                     "name": "Werewolf By Night",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-0a3a67b73f07c25948cb26e9c23a92ed399f4c0e8de088ac4f68ce0ea56fe3cb.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-5bca945ad78993bcb0fad4768a7b45b5ea0eb8c486fbaddd53a1df6d547f61f3.webp"
                 },
                 {
                     "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
@@ -366,7 +366,7 @@
                 {
                     "description": "At the start of the game, shuffle the six Infinity Stones into your deck.",
                     "name": "Thanos",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos-8e4b03c0739293d54b8b2474a6715cc10c05f8edca583231b926516643eb61e3.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thanos-82f8499e4d098da8e38c4ab2a8ec74e340ca9c61f16c04609e8b0f60d51a3001.webp"
                 },
                 {
                     "description": "You can only play this at a location with an Infinity Stone. Ongoing: Can't be destroyed.",
@@ -451,7 +451,7 @@
                 {
                     "description": "On Reveal: Add the Muramasa Shard to your hand.",
                     "name": "Daken",
-                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Daken_06-70bd8f2449ce7c6c15c461360fddb0d5ad8f724897ce7f32d136770e18d3f910.webp"
                 }
             ]
         }
