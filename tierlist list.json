@@ -3,59 +3,35 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Good Cards Darkhawk"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Lockdown"
-        },
-        {
-            "tier": "Tier 1",
             "name": "Bounce"
         },
         {
             "tier": "Tier 1",
-            "name": "Loki Werewolf"
+            "name": "Galactus"
         },
         {
             "tier": "Tier 1",
+            "name": "Good Cards Double Up!"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Loki Werewolf"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Lockdown"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Deadpool Destroy"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Cerebro 5"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Destroy Tempo"
         },
         {
             "tier": "Tier 3",
             "name": "InSheNaut"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Pure Evolutionary"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Thanos Control"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Electro Ramp"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Shuri Sauron"
         }
     ]
 }
