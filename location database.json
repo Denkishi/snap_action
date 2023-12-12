@@ -8,7 +8,11 @@
                     "name": "Man-Thing",
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing-ed58ad053261a7a4dbe00bc55df24a3526312cd202e38ed9ec12a3ad8d833d74.webp"
                 },
-                {},
+                {
+                    "description": "On Reveal: Move an enemy card from here to another location.",
+                    "name": "Stegron",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Stegron-b4b5226cd2699ba7d1e95b4a81772fcc1edb017c006c6f4061d6a63611e9f873.webp"
+                },
                 {
                     "description": "You can move this once. Nothing can stop you from moving or playing this to any location.",
                     "name": "Jeff the Baby Land Shark",
