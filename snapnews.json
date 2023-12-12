@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "CONQUERORS WINTER ROYALE",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_12_12_07_05_34/1643366561073_s424635.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296704761812900613",
+            "date": "12/12/2023",
+            "label": "NEWS"
+        },
+        {
             "name": "Patch Notes – Dec 05, 2023",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_11_20_12_03_23/1452076753153_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296704760047016710",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_10_12_18_26_44/429283981907_s204646.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7264575429514926854",
             "date": "10/12/2023",
-            "label": "NEWS"
-        },
-        {
-            "name": "🎉A YEAR OF MARVEL SNAP!🎉",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_10_11_15_32_45/1331088290984_s435215.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7264575429514861318",
-            "date": "10/10/2023",
             "label": "NEWS"
         }
     ]
