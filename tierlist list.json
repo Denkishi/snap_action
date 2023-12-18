@@ -3,35 +3,47 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Galactus"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Good Cards Double Up!"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Loki Werewolf"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Lockdown"
         },
         {
-            "tier": "Tier 2",
-            "name": "Silver Surfer"
+            "tier": "Tier 1",
+            "name": "Thanos Blob"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Devil Darkhawk"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Blob Ramp"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Loki Lockdown"
         },
         {
             "tier": "Tier 2",
-            "name": "Deadpool Destroy"
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Galactus Ramp"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "InSheNaut"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos Destroy"
         },
         {
             "tier": "Tier 3",
-            "name": "InSheNaut"
+            "name": "Junk"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Annihilus Discard Tempo"
         }
     ]
 }
