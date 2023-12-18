@@ -154,9 +154,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary-e54bd931c8b8927aed398cfa6901446f4a68b165e407f9a56fdb56fa49f8cefc.webp"
                 },
                 {
-                    "description": "On Reveal: Gain +2 Power for each other card you played this turn.",
-                    "name": "Hit-Monkey",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey-f11f9573c69ee4cadd8a009621d9fc25d67ecf36a0eaf557b5f8f143074c94a2.webp"
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
+                    "name": "Nebula",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula-1bd5f176812974b4865e189a886000393dde58a55a33902ef5c7822c4187246b.webp"
                 },
                 {
                     "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed.",
@@ -169,9 +169,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary_08-00d6555904041807d12d46a2014dc5dd06bb8d2e84c898f87c167a699f337568.webp"
                 },
                 {
-                    "description": "On Reveal: Gain +2 Power for each other card you played this turn.",
-                    "name": "Hit-Monkey",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_07-68710a6b998294375fc08febe7c10774b6b08e80b65efb0147bb5fac5166b5db.webp"
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
+                    "name": "Nebula",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_08-1fb3c6490801ecfcc8c2a8e4a9424b42df368bc9d47613b8e8ae1d66a0d75b47.webp"
                 }
             ]
         },
@@ -184,14 +184,14 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Hercules-f1ed3bcbac3f83ba2b889a87ded2151d6f1a51cb57484adac5e21c1081ba0842.webp"
                 },
                 {
-                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations.",
-                    "name": "Galactus",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus-c75f8a00acb53d146eabf4730775d149d552067c07012cf750099ec7050ca2fe.webp"
-                },
-                {
                     "description": "Ongoing: Tap this to see the top card of your deck.",
                     "name": "Howard the Duck",
                     "image": "https://game-assets.snap.fan/card_variant_images/HowardTheDuck-bb9eacd8d3e19e570b06c77e18c0600de2bb769da5336c32074d4b6e51b07221.webp"
+                },
+                {
+                    "description": "After you play an On Reveal card at another location, move there to gain +2 Power.",
+                    "name": "Werewolf By Night",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-5bca945ad78993bcb0fad4768a7b45b5ea0eb8c486fbaddd53a1df6d547f61f3.webp"
                 },
                 {
                     "description": "The first time another card moves here each turn, move it to another location.",
@@ -199,14 +199,14 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Hercules_06-64525992b13795ced80b7bd86f2720b2f33a4dacd1c764c1ccbc0698ac247dca.webp"
                 },
                 {
-                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations.",
-                    "name": "Galactus",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus_12-f74836486a3dbf962be27c3f35769bec3e79312b2c412d8da66aa2b342839cbf.webp"
-                },
-                {
                     "description": "Ongoing: Tap this to see the top card of your deck.",
                     "name": "Howard the Duck",
                     "image": "https://game-assets.snap.fan/card_variant_images/HowardTheDuck_06-3e75ce1228522ff8dd3bbf0da9795fcc9038981b094fc726160afa0108167a22.webp"
+                },
+                {
+                    "description": "After you play an On Reveal card at another location, move there to gain +2 Power.",
+                    "name": "Werewolf By Night",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_03-3d4716315be1d4c88d016030bc2d47510f4296ab42983f0ef7f320463edeb2a1.webp"
                 }
             ]
         },
@@ -259,9 +259,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Loki-fd0954a7248e815c49dca118f1d17208e3830c2ebdd0018c5efc0af0fe65173d.webp"
                 },
                 {
-                    "description": "After you play a card that fills this location, give it +2 Power.",
-                    "name": "Elsa Bloodstone",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone-32a571c79ad8083e053c946ea86fa047f71a0e612274ada420c90d23aae52e75.webp"
+                    "description": "On Reveal: Gain +2 Power for each other card you played this turn.",
+                    "name": "Hit-Monkey",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey-f11f9573c69ee4cadd8a009621d9fc25d67ecf36a0eaf557b5f8f143074c94a2.webp"
                 },
                 {
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again.",
@@ -274,9 +274,9 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Loki_06-7f63fa3d68eea6f397bc3c1b35862a1b5d34f58efa3e09f29edd4b91c746d990.webp"
                 },
                 {
-                    "description": "After you play a card that fills this location, give it +2 Power.",
-                    "name": "Elsa Bloodstone",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_07-60215ef17e6e073a88061865930631cbf540b868f3fd007e41b8eab791ef1bd7.webp"
+                    "description": "On Reveal: Gain +2 Power for each other card you played this turn.",
+                    "name": "Hit-Monkey",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_07-68710a6b998294375fc08febe7c10774b6b08e80b65efb0147bb5fac5166b5db.webp"
                 }
             ]
         },
@@ -289,14 +289,14 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill-ca1c009c3101aa556b724d6468755187011ff377d6bb5d98286ce8622722e9cb.webp"
                 },
                 {
-                    "description": "After you play an On Reveal card at another location, move there to gain +2 Power.",
-                    "name": "Werewolf By Night",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight-5bca945ad78993bcb0fad4768a7b45b5ea0eb8c486fbaddd53a1df6d547f61f3.webp"
+                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations.",
+                    "name": "Galactus",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus-c75f8a00acb53d146eabf4730775d149d552067c07012cf750099ec7050ca2fe.webp"
                 },
                 {
-                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
-                    "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula-1bd5f176812974b4865e189a886000393dde58a55a33902ef5c7822c4187246b.webp"
+                    "description": "After you play a card that fills this location, give it +2 Power.",
+                    "name": "Elsa Bloodstone",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone-32a571c79ad8083e053c946ea86fa047f71a0e612274ada420c90d23aae52e75.webp"
                 },
                 {
                     "description": "On Reveal: Shuffle Stormbreaker into your deck.",
@@ -304,14 +304,14 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_03-788bf55500a3170dff749063f20099d676a9c6576bef932bdd38e3b6cb97657d.webp"
                 },
                 {
-                    "description": "After you play an On Reveal card at another location, move there to gain +2 Power.",
-                    "name": "Werewolf By Night",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_03-3d4716315be1d4c88d016030bc2d47510f4296ab42983f0ef7f320463edeb2a1.webp"
+                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations.",
+                    "name": "Galactus",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus_12-f74836486a3dbf962be27c3f35769bec3e79312b2c412d8da66aa2b342839cbf.webp"
                 },
                 {
-                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
-                    "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_08-1fb3c6490801ecfcc8c2a8e4a9424b42df368bc9d47613b8e8ae1d66a0d75b47.webp"
+                    "description": "After you play a card that fills this location, give it +2 Power.",
+                    "name": "Elsa Bloodstone",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_07-60215ef17e6e073a88061865930631cbf540b868f3fd007e41b8eab791ef1bd7.webp"
                 }
             ]
         },
