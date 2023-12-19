@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Get Ready For The Drop",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_12_19_09_24_54/1659018790944_s1752417.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027448070",
+            "date": "12/19/2023",
+            "label": "series drop"
+        },
+        {
             "name": "CONQUERORS WINTER ROYALE",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_12_12_07_05_34/1643366561073_s424635.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296704761812900613",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_10_19_06_33_25/200819536880_s501390.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7264869749341821702",
             "date": "10/19/2023",
-            "label": "NEWS"
-        },
-        {
-            "name": "October 12 - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_10_12_18_26_44/429283981907_s204646.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7264575429514926854",
-            "date": "10/12/2023",
             "label": "NEWS"
         }
     ]
