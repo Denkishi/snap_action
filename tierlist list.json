@@ -3,47 +3,47 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Lockdown"
+            "name": "Good in Conquest"
         },
         {
             "tier": "Tier 1",
-            "name": "Thanos Blob"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Devil Darkhawk"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Blob Ramp"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Loki Lockdown"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Galactus Ramp"
         },
         {
-            "tier": "Tier 2",
-            "name": "InSheNaut"
+            "tier": "Tier 1",
+            "name": "Great in Conquest"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Destroy"
+            "name": "Deadpool Destroy"
         },
         {
-            "tier": "Tier 3",
+            "tier": "Tier 2",
+            "name": "Good in Conquest"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Junk"
         },
         {
+            "tier": "Tier 2",
+            "name": "Good in Conquest"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good in Conquest"
+        },
+        {
             "tier": "Tier 3",
-            "name": "Annihilus Discard Tempo"
+            "name": "Hela Tribunal"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Good in Conquest"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Ongoing"
         }
     ]
 }
