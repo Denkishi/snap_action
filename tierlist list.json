@@ -1,41 +1,53 @@
 {
-    "date": "December 30, 2023",
+    "date": "December 31, 2023",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Lockdown Move – Great in Conquest 🆕"
+            "name": "Lockdown Move – Good in Conquest"
         },
         {
             "tier": "Tier 1",
-            "name": "Thanos Blob – Good in Conquest 🔼"
+            "name": "Loki Collector 🔼"
         },
         {
             "tier": "Tier 1",
-            "name": "Galactus"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Deadpool Destroy 🔼"
+            "name": "InSheNaut – Good in Conquest 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Loki Collector – Great in Conquest"
+            "name": "Thanos Blob – Great in Conquest 🔽"
         },
         {
             "tier": "Tier 2",
             "name": "Good Cards Darkhawk – Great in Conquest"
         },
         {
-            "tier": "Tier 3",
-            "name": "InSheNaut"
+            "tier": "Tier 2",
+            "name": "Hela Lockjaw 🔼"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Electro Ramp – Good in Conquest 🔙"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool Destroy 🔽"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Black Knight– Good in Conquest 🆕"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Ongoing Tribunal 🆕"
         },
         {
             "tier": "Tier 3",
-            "name": "Silver Surfer 🔙"
+            "name": "Galactus 🔽"
         },
         {
             "tier": "Tier 3",
-            "name": "Hela Lockjaw"
+            "name": "Silver Surfer"
         }
     ]
 }
