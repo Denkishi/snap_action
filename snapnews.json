@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Planet Hulk",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_12_21_09_55_27/1058017478067_s620640.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027480838",
+            "date": "01/02/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "December 21st - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_12_21_03_56_22/356765083812_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027464454",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_11_03_09_58_22/1063054076952_s469090.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296687097623190278",
             "date": "11/03/2023",
-            "label": "NEWS"
-        },
-        {
-            "name": "Patch Notes – Oct 31, 2023",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_10_31_10_47_24/237665781722_s204646.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7295972246597769990",
-            "date": "10/31/2023",
             "label": "NEWS"
         }
     ]
