@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Goodbye 2023, Hello 2024!",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_02_07_41_43/765842426663_s1219449.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027513606",
+            "date": "01/04/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "SEASON RECAP - Hellfire Gala Season",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_02_08_38_59/620567701904_s1532129.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027529990",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_11_09_11_21_57/1088605155519_s204646.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296687100035029766",
             "date": "11/09/2023",
-            "label": "NEWS"
-        },
-        {
-            "name": "New Season: Higher, Further, Faster",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_11_06_11_01_10/463136822095_s214932.png",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296687100034980614",
-            "date": "11/06/2023",
             "label": "NEWS"
         }
     ]
