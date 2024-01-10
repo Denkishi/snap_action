@@ -17,7 +17,7 @@
                     "name": "Nebula",
                     "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
                     "image": "https://game-assets.snap.fan/card_variant_images/Nebula_08-1fb3c6490801ecfcc8c2a8e4a9424b42df368bc9d47613b8e8ae1d66a0d75b47.webp"
-                }
+                },
                  {
                     "name": "Caiera",
                     "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed.",
@@ -52,7 +52,7 @@
                     "name": "Werewolf By Night",
                     "description": "After you play a card, move there to gain +2 Power if it has an On Reveal.",
                     "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_03-abfcd24213133b970c22ea30f4055352f8b755902689b221048c173cab0eb6e0.webp"
-                }
+                },
                 {
                     "name": "Hercules",
                     "description": "The first time another card moves here each turn, move it to another location.",
@@ -88,7 +88,7 @@
                     "name": "Phoenix Force",
                     "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
                     "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_04-cb5bc46f7420e8620569e62ca0bb3c7117b04d45b414095a9d22625caa29de4a.webp"
-                }
+                },
                 {
                     "name": "Miek",
                     "description": "After each turn, if you discarded any cards, gain +1 Power for each and move.",
@@ -123,7 +123,7 @@
                     "name": "Hit-Monkey",
                     "description": "On Reveal: Gain +2 Power for each other card you played this turn.",
                     "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_07-68710a6b998294375fc08febe7c10774b6b08e80b65efb0147bb5fac5166b5db.webp"
-                }
+                },
                 {
                     "name": "Grand Master",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again.",
