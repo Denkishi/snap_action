@@ -18,6 +18,21 @@
                     "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
                     "image": "https://game-assets.snap.fan/card_variant_images/Nebula_08-1fb3c6490801ecfcc8c2a8e4a9424b42df368bc9d47613b8e8ae1d66a0d75b47.webp"
                 }
+                 {
+                    "name": "Caiera",
+                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_03-fcb394a742cd6801cdec58b871acbc8c65ae6f08d5027dd71f7e84beb0296722.webp"
+                },
+                {
+                    "name": "High Evolutionary",
+                    "description": "At the start of the game, unlock the potential of your cards with no abilities.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary_08-00d6555904041807d12d46a2014dc5dd06bb8d2e84c898f87c167a699f337568.webp"
+                },
+                {
+                    "name": "Nebula",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_08-1fb3c6490801ecfcc8c2a8e4a9424b42df368bc9d47613b8e8ae1d66a0d75b47.webp"
+                }
             ]
         },
         {
@@ -38,6 +53,22 @@
                     "description": "After you play a card, move there to gain +2 Power if it has an On Reveal.",
                     "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_03-abfcd24213133b970c22ea30f4055352f8b755902689b221048c173cab0eb6e0.webp"
                 }
+                {
+                    "name": "Hercules",
+                    "description": "The first time another card moves here each turn, move it to another location.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_06-64525992b13795ced80b7bd86f2720b2f33a4dacd1c764c1ccbc0698ac247dca.webp"
+                },
+                {
+                    "name": "Howard the Duck",
+                    "description": "Ongoing: Tap this to see the top card of your deck.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HowardTheDuck_06-3e75ce1228522ff8dd3bbf0da9795fcc9038981b094fc726160afa0108167a22.webp"
+                },
+                {
+                    "name": "Werewolf By Night",
+                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_03-abfcd24213133b970c22ea30f4055352f8b755902689b221048c173cab0eb6e0.webp"
+                }
+                
             ]
         },
         {
@@ -58,6 +89,21 @@
                     "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
                     "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_04-cb5bc46f7420e8620569e62ca0bb3c7117b04d45b414095a9d22625caa29de4a.webp"
                 }
+                {
+                    "name": "Miek",
+                    "description": "After each turn, if you discarded any cards, gain +1 Power for each and move.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_04-1344ef14d56a6342a19197b53015f5ee898e2de3e8b2b59ff6bb7e3bfc56ddcc.webp"
+                },
+                {
+                    "name": "Annihilus",
+                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_06-e872d73841b5b3c60c2c81f81b7d2995a32bbfad49429739ffbbf13225bd34cd.webp"
+                },
+                {
+                    "name": "Phoenix Force",
+                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_04-cb5bc46f7420e8620569e62ca0bb3c7117b04d45b414095a9d22625caa29de4a.webp"
+                }                
             ]
         },
         {
@@ -78,6 +124,21 @@
                     "description": "On Reveal: Gain +2 Power for each other card you played this turn.",
                     "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_07-68710a6b998294375fc08febe7c10774b6b08e80b65efb0147bb5fac5166b5db.webp"
                 }
+                {
+                    "name": "Grand Master",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_03-4d01ae35765c8d308e6f2dc49bf638aa48f47e142061ed07603ee7fda129253e.webp"
+                },
+                {
+                    "name": "Loki",
+                    "description": "On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_06-7f63fa3d68eea6f397bc3c1b35862a1b5d34f58efa3e09f29edd4b91c746d990.webp"
+                },
+                {
+                    "name": "Hit-Monkey",
+                    "description": "On Reveal: Gain +2 Power for each other card you played this turn.",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_07-68710a6b998294375fc08febe7c10774b6b08e80b65efb0147bb5fac5166b5db.webp"
+                }                
             ]
         },
         {
