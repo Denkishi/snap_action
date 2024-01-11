@@ -483,7 +483,7 @@
             "ability": "On Reveal: Add the Muramasa Shard to your hand.",
             "cost": "3",
             "power": "4",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "468"
         },
         {
@@ -672,7 +672,7 @@
             "ability": "After your opponent plays an Ongoing card here, remove its abilities.",
             "cost": "1",
             "power": "2",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "455"
         },
         {
@@ -861,7 +861,7 @@
             "ability": "On Reveal: The last card you played moves here.",
             "cost": "1",
             "power": "2",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "86"
         },
         {
@@ -1013,7 +1013,7 @@
             "ability": "The first time another card moves here each turn, move it to another location.",
             "cost": "4",
             "power": "6",
-            "pool": "None",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "501"
         },
         {
@@ -1031,7 +1031,7 @@
             "ability": "On Reveal: Gain +2 Power for each other card you played this turn.",
             "cost": "3",
             "power": "2",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "99"
         },
         {
@@ -1058,7 +1058,7 @@
             "ability": "Ongoing: Tap this to see the top card of your deck.",
             "cost": "1",
             "power": "2",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "444"
         },
         {
@@ -1265,7 +1265,7 @@
             "ability": "When this returns to your hand, +1 Power. Returns at the start of each turn.",
             "cost": "1",
             "power": "1",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "120"
         },
         {
@@ -1310,7 +1310,7 @@
             "ability": "On Reveal: Destroy each card here with less Power than this.",
             "cost": "5",
             "power": "4",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "127"
         },
         {
@@ -1463,7 +1463,7 @@
             "ability": "On Reveal: Add 2 Sentinel to your opponent's hand.",
             "cost": "2",
             "power": "2",
-            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
+            "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "314"
         },
         {
@@ -1733,7 +1733,7 @@
             "ability": "After an enemy card is played here, destroy it. (once per game)",
             "cost": "3",
             "power": "2",
-            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
+            "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "177"
         },
         {
@@ -2300,7 +2300,7 @@
             "ability": "On Reveal: Each player discards the lowest-Power card from their hand.",
             "cost": "4",
             "power": "5",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "231"
         },
         {
@@ -2327,7 +2327,7 @@
             "ability": "Costs 2 less for each of your cards that has 10 or more Power.",
             "cost": "6",
             "power": "11",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "503"
         },
         {
@@ -2417,7 +2417,7 @@
             "ability": "The first time this moves to any location, destroy an enemy card there.",
             "cost": "4",
             "power": "6",
-            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
+            "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "454"
         },
         {
@@ -2462,7 +2462,7 @@
             "ability": "Costs 1 if your opponent discarded a card this game.",
             "cost": "5",
             "power": "6",
-            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
+            "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "423"
         },
         {
@@ -2633,7 +2633,7 @@
             "ability": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
             "cost": "4",
             "power": "5",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
             "card_id": "413"
         },
         {
