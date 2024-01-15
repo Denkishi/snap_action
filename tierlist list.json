@@ -1,33 +1,57 @@
 {
-    "date": "January 13, 2024",
+    "date": "January 14, 2024",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Thanos Control – Good in Conquest 🔙"
+            "name": "Thanos Lockjaw – Good in Conquest 🆕"
         },
         {
-            "tier": "Tier 2",
-            "name": "Lockdown 🔽"
+            "tier": "Tier 1",
+            "name": "Thanos Control – Good in Conquest"
         },
         {
-            "tier": "Tier 2",
+            "tier": "Tier 1",
+            "name": "Lockdown – Good in Conquest 🔼"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Deadpool Destroy – Good in Conquest 🔼"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Hela Lockjaw"
         },
         {
             "tier": "Tier 2",
             "name": "Good Cards Black Knight"
         },
         {
-            "tier": "Tier 3",
-            "name": "Loki Werewolf 🔽"
+            "tier": "Tier 2",
+            "name": "Electro Ramp – Good in Conquest 🔙"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Hela Lockjaw"
         },
         {
             "tier": "Tier 3",
-            "name": "Cerebro 3 🆕"
+            "name": "Good Cards Darkhawk 🔙"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Pure Evolutionary 🔙"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Loki"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "InSheNaut 🔙"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Cerebro 3"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockjaw Thor 🆕"
         }
     ]
 }
