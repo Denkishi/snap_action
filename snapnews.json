@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "January 18th - Balance Updates",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_18_14_21_44/1312135956499_s34706.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296750520637610757",
+            "date": "01/18/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "Patch Notes - Jan 09, 2024",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_02_08_59_19/97019039739_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027562758",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7296704760047016710",
             "date": "12/05/2023",
             "label": "v22 patch notes"
-        },
-        {
-            "name": "New Season: Hellfire Gala",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_11_30_11_48_58/1570130434596_s433644.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296704761812835077",
-            "date": "12/05/2023",
-            "label": "NEWS"
         }
     ]
 }
