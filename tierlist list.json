@@ -1,65 +1,73 @@
 {
-    "date": "January 25, 2024",
+    "date": "January 28, 2024",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Deadpool Destroy – Good in Conquest 🔼"
+            "name": "Thanos Lockjaw 🔼🔼"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Black Knight 🔼"
+            "name": "Good Cards Darkhawk – Good in Conquest 🔼🔼"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Deadpool Destroy – Good in Conquest"
         },
         {
             "tier": "Tier 2",
-            "name": "Lockdown – Good in Conquest 🔽"
+            "name": "Cerebro 2 🔙"
         },
         {
             "tier": "Tier 2",
-            "name": "Discard Dracula – Good in Conquest 🔙"
+            "name": "Hela Lockjaw 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Control 🔽"
+            "name": "Junk – Good in Conquest 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Sera Control – Good in Conquest 🔙"
+            "name": "Pure Evolutionary – Good in Conquest 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Ongoing Tribunal 🔙"
+            "name": "Lockdown – Good in Conquest"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 3",
-            "name": "Junk 🔙"
+            "name": "Mister Negative 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Shuri Sauron 🔙"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Pure Evolutionary – Good in Conquest"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Hela Lockjaw – Good in Conquest 🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Thanos Lockjaw 🔽🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Good Cards Darkhawk"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "InSheNaut"
+            "name": "Good Cards Stature 🔙"
         },
         {
             "tier": "Tier 3",
             "name": "Loki"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Good Cards Black Knight 🔽🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "InSheNaut – Good in Conquest"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Silver Surfer 🔙"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Iron Patriot 🔙"
         }
     ]
 }
