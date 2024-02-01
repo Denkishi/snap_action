@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "February 1st, 2024 - Balance Updates",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_29_09_51_59/510286157582_s34706.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296750520637659909",
+            "date": "02/01/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "January 18th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_18_14_21_44/1312135956499_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296750520637610757",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7296704761812900613",
             "date": "12/12/2023",
             "label": "NEWS"
-        },
-        {
-            "name": "Patch Notes – Dec 05, 2023",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_11_20_12_03_23/1452076753153_s34706.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296704760047016710",
-            "date": "12/05/2023",
-            "label": "v22 patch notes"
         }
     ]
 }
