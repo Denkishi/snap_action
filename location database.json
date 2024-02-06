@@ -20,11 +20,6 @@
                 },
                 {
                     "name": "Supergiant",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_03-d2ebebfbff5c3b7cb2e4168662024f7580f781bb4055cc11f121429bb16f36c8.webp",
-                    "description": "On Reveal: All cards played next turn don't reveal until the game ends."
-                },
-                {
-                    "name": "Supergiant",
                     "image": "https://game-assets.snap.fan/card_variant_images/Supergiant-f64844dd4adc0033b78fe53b508c3b431f66f9d2ec394b312385fdb5d4d26042.webp",
                     "description": "On Reveal: All cards played next turn don't reveal until the game ends."
                 },
@@ -37,11 +32,6 @@
                     "name": "Darkhawk",
                     "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_09-e5d7e59a452dec5e94636e8a9ca1d57570024416af406fa16ab461d34eb2a705.webp",
                     "description": "Ongoing: +2 Power for each card in your opponent's deck."
-                },
-                {
-                    "name": "Supergiant",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_03-d2ebebfbff5c3b7cb2e4168662024f7580f781bb4055cc11f121429bb16f36c8.webp",
-                    "description": "On Reveal: All cards played next turn don't reveal until the game ends."
                 }
             ]
         },
@@ -65,11 +55,6 @@
                 },
                 {
                     "name": "Cull Obsidian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian_03-843718762487bc3021b120f240f42d17b0cc46e00146e5b6e557dae3a178a7f4.webp",
-                    "description": "You can only play this where you have a 1-Cost card."
-                },
-                {
-                    "name": "Cull Obsidian",
                     "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian-b2513cdb78568ed444bf532550470fb5f9a24c1aeeddafdbbd26c25899285c42.webp",
                     "description": "You can only play this where you have a 1-Cost card."
                 },
@@ -82,11 +67,6 @@
                     "name": "Thanos",
                     "image": "https://game-assets.snap.fan/card_variant_images/Thanos_08-a83b23b9e267aa046265c26a88af9f20399557bd90c2d5296ed02a1625598408.webp",
                     "description": "At the start of the game, shuffle the six Infinity Stones into your deck."
-                },
-                {
-                    "name": "Cull Obsidian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian_03-843718762487bc3021b120f240f42d17b0cc46e00146e5b6e557dae3a178a7f4.webp",
-                    "description": "You can only play this where you have a 1-Cost card."
                 }
             ]
         },
@@ -110,11 +90,6 @@
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_03-ee0ad6e27e24c74ecee0f6064b8bac41c0eb9a59bd07aa3a39d44ea73351638d.webp",
-                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
-                },
-                {
-                    "name": "Corvus Glaive",
                     "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive-9dac2e70a5580caa52f02b50bf20b4cff7bf5b55ce490444c7cdbe173f4ec789.webp",
                     "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 },
@@ -127,11 +102,6 @@
                     "name": "Gladiator",
                     "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_04-ca67dc51ee84f8a14af2e1234eac1443b01caf16291384c64d7f245d719e8fb2.webp",
                     "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
-                },
-                {
-                    "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_03-ee0ad6e27e24c74ecee0f6064b8bac41c0eb9a59bd07aa3a39d44ea73351638d.webp",
-                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 }
             ]
         },
@@ -154,11 +124,6 @@
                     "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
                 },
                 {
-                    "name": "Daken",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Daken_06-70bd8f2449ce7c6c15c461360fddb0d5ad8f724897ce7f32d136770e18d3f910.webp",
-                    "description": "On Reveal: Add the Muramasa Shard to your hand."
-                },
-                {
                     "name": "Proxima Midnight",
                     "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight-f44f87af14502cf6c113b08556aa3184d872559ef5f4feabb43dd804f4a58472.webp",
                     "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
@@ -172,11 +137,6 @@
                     "name": "Proxima Midnight",
                     "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_03-3d671d57bc1f0b0df209bc2f9d80faf0cdb2dcc6c03084dbc82fda0e68d9b940.webp",
                     "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
-                },
-                {
-                    "name": "Daken",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Daken_06-70bd8f2449ce7c6c15c461360fddb0d5ad8f724897ce7f32d136770e18d3f910.webp",
-                    "description": "On Reveal: Add the Muramasa Shard to your hand."
                 }
             ]
         },
@@ -200,11 +160,6 @@
                 },
                 {
                     "name": "Pixie",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Pixie_05-fa6fad8b5f06b555f57e1d0a56a7bad3ed447252f055dcdeebafc49c7f52452c.webp",
-                    "description": "On Reveal: Shuffle the Costs of all cards in your deck."
-                },
-                {
-                    "name": "Pixie",
                     "image": "https://game-assets.snap.fan/card_variant_images/Pixie-64bf7736558e7766f8e574f8207cfbf24582a9911fed9fbd24e590caf335b43f.webp",
                     "description": "On Reveal: Shuffle the Costs of all cards in your deck."
                 },
@@ -217,11 +172,6 @@
                     "name": "Mobius M. Mobius",
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
                     "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
-                },
-                {
-                    "name": "Pixie",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Pixie_05-fa6fad8b5f06b555f57e1d0a56a7bad3ed447252f055dcdeebafc49c7f52452c.webp",
-                    "description": "On Reveal: Shuffle the Costs of all cards in your deck."
                 }
             ]
         },
@@ -245,11 +195,6 @@
                 },
                 {
                     "name": "Mockingbird",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_09-bf65ef4ec584f7f7a2b0c5bb305c668a21b65125c2ba29577ee0b3c0dd248ed1.webp",
-                    "description": "Costs 1 less for each card you have in play that didn't start in your deck."
-                },
-                {
-                    "name": "Mockingbird",
                     "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp",
                     "description": "Costs 1 less for each card you have in play that didn't start in your deck."
                 },
@@ -262,11 +207,6 @@
                     "name": "Man-Thing",
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
-                },
-                {
-                    "name": "Mockingbird",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_09-bf65ef4ec584f7f7a2b0c5bb305c668a21b65125c2ba29577ee0b3c0dd248ed1.webp",
-                    "description": "Costs 1 less for each card you have in play that didn't start in your deck."
                 }
             ]
         },
@@ -290,11 +230,6 @@
                 },
                 {
                     "name": "Cannonball",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp",
-                    "description": "On Reveal: Move an enemy card away from here and add a Rock where it was. If it can't move, destroy it to add the Rock."
-                },
-                {
-                    "name": "Cannonball",
                     "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
                     "description": "On Reveal: Move an enemy card away from here and add a Rock where it was. If it can't move, destroy it to add the Rock."
                 },
@@ -307,11 +242,6 @@
                     "name": "Ghost-Spider",
                     "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
                     "description": "On Reveal: The last card you played moves here."
-                },
-                {
-                    "name": "Cannonball",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp",
-                    "description": "On Reveal: Move an enemy card away from here and add a Rock where it was. If it can't move, destroy it to add the Rock."
                 }
             ]
         },
@@ -334,11 +264,6 @@
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
-                    "name": "Silk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_08-af2c6723fa3a9dc092e221deb6cf1b74f0f54ca989e3eb6bdf82c77fdf8e2f10.webp",
-                    "description": "After ANY card is played here, this moves to another location."
-                },
-                {
                     "name": "War Machine",
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
@@ -352,11 +277,6 @@
                     "name": "War Machine",
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
-                },
-                {
-                    "name": "Silk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_08-af2c6723fa3a9dc092e221deb6cf1b74f0f54ca989e3eb6bdf82c77fdf8e2f10.webp",
-                    "description": "After ANY card is played here, this moves to another location."
                 }
             ]
         }
