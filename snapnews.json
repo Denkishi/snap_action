@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Black Order",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_29_10_47_28/1559280582868_s419665.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296750520637692677",
+            "date": "02/06/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "SEASON RECAP - Planet Hulk Season",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_02_02_04_41_34/1250220627714_s649535.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296750520637709061",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027448070",
             "date": "12/19/2023",
             "label": "series drop"
-        },
-        {
-            "name": "HAPPY WINTERVERSE",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_12_19_09_00_03/1662734330422_s1710678.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027431686",
-            "date": "12/19/2023",
-            "label": "NEWS"
         }
     ]
 }
