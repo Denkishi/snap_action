@@ -279,6 +279,181 @@
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 }
             ]
+        },
+        {
+            "date": "Apr 2 - Apr 9",
+            "cards": [
+                {
+                    "name": "Red Hulk",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
+                },
+                {
+                    "name": "Sebastian Shaw",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
+                },
+                {
+                    "name": "Echo",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp",
+                    "description": "After your opponent plays an Ongoing card here, remove its abilities."
+                },
+                {
+                    "name": "Red Hulk",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
+                },
+                {
+                    "name": "Sebastian Shaw",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
+                },
+                {
+                    "name": "Echo",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp",
+                    "description": "After your opponent plays an Ongoing card here, remove its abilities."
+                }
+            ]
+        },
+        {
+            "date": "Apr 9 - Apr 16",
+            "cards": [
+                {
+                    "name": "U.S. Agent",
+                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-dad143213b4b9cff402eb5790160358e400765b6ce24b788daccffec00810830.webp",
+                    "description": "Ongoing: -1 Power for each of your other cards here."
+                },
+                {
+                    "name": "Mirage",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
+                    "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
+                },
+                {
+                    "name": "Jeff the Baby Land Shark",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                },
+                {
+                    "name": "U.S. Agent",
+                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-dad143213b4b9cff402eb5790160358e400765b6ce24b788daccffec00810830.webp",
+                    "description": "Ongoing: -1 Power for each of your other cards here."
+                },
+                {
+                    "name": "Mirage",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
+                    "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
+                },
+                {
+                    "name": "Jeff the Baby Land Shark",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                }
+            ]
+        },
+        {
+            "date": "Apr 16 - Apr 23",
+            "cards": [
+                {
+                    "name": "Lady Deathstrike",
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
+                    "description": "On Reveal: Destroy each card here with less Power than this."
+                },
+                {
+                    "name": "Red Guardian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-352ed7c4cc2fd9cfd10b8f5bfe1ca5233fa2c227257a73ee27ff1e519fff8c91.webp",
+                    "description": "On Reveal: Remove the text of the lowest-Power enemy card here."
+                },
+                {
+                    "name": "High Evolutionary",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary_07-7112b492dedc56887923f81018ed29149cc72c3eb40157686424ca81f74b7942.webp",
+                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
+                },
+                {
+                    "name": "Lady Deathstrike",
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
+                    "description": "On Reveal: Destroy each card here with less Power than this."
+                },
+                {
+                    "name": "Red Guardian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-352ed7c4cc2fd9cfd10b8f5bfe1ca5233fa2c227257a73ee27ff1e519fff8c91.webp",
+                    "description": "On Reveal: Remove the text of the lowest-Power enemy card here."
+                },
+                {
+                    "name": "High Evolutionary",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary_07-7112b492dedc56887923f81018ed29149cc72c3eb40157686424ca81f74b7942.webp",
+                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
+                }
+            ]
+        },
+        {
+            "date": "Apr 23 - Apr 30",
+            "cards": [
+                {
+                    "name": "Snowguard",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp",
+                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
+                },
+                {
+                    "name": "Nico Minoru",
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                },
+                {
+                    "name": "White Widow",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow_06-c2a499a783c0e2a7344a3cd0f7a881e7c2a11d73099069284ae748c0e874940b.webp",
+                    "description": "On Reveal: Add a -1-Power Widow's Kiss to your opponent's side of here."
+                },
+                {
+                    "name": "Snowguard",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp",
+                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
+                },
+                {
+                    "name": "Nico Minoru",
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                },
+                {
+                    "name": "White Widow",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow_06-c2a499a783c0e2a7344a3cd0f7a881e7c2a11d73099069284ae748c0e874940b.webp",
+                    "description": "On Reveal: Add a -1-Power Widow's Kiss to your opponent's side of here."
+                }
+            ]
+        },
+        {
+            "date": "Apr 30 - May 7",
+            "cards": [
+                {
+                    "name": "Blob",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                },
+                {
+                    "name": "Knull",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
+                },
+                {
+                    "name": "Valentina",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina_05-531012b65b86b2a1b77feed259e162661e4d96963e411d8bfeeac0f4c6ed2a6f.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -2 Power."
+                },
+                {
+                    "name": "Blob",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                },
+                {
+                    "name": "Knull",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
+                },
+                {
+                    "name": "Valentina",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina_05-531012b65b86b2a1b77feed259e162661e4d96963e411d8bfeeac0f4c6ed2a6f.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -2 Power."
+                }
+            ]
         }
     ]
 }
