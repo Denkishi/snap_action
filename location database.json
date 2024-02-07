@@ -354,14 +354,14 @@
             "date": "Apr 16 - Apr 23",
             "cards": [
                 {
+                    "name": "White Widow",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-3a5157af2076eb02e5db338ed7a28bd7ed3942a3ed5033538b9b6466fe1e5952.webp",
+                    "description": "On Reveal: Add a -1-Power Widow's Kiss to your opponent's side of here."
+                },
+                {
                     "name": "Lady Deathstrike",
                     "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
                     "description": "On Reveal: Destroy each card here with less Power than this."
-                },
-                {
-                    "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-352ed7c4cc2fd9cfd10b8f5bfe1ca5233fa2c227257a73ee27ff1e519fff8c91.webp",
-                    "description": "On Reveal: Remove the text of the lowest-Power enemy card here."
                 },
                 {
                     "name": "High Evolutionary",
@@ -369,14 +369,14 @@
                     "description": "At the start of the game, unlock the potential of your cards with no abilities."
                 },
                 {
+                    "name": "White Widow",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-3a5157af2076eb02e5db338ed7a28bd7ed3942a3ed5033538b9b6466fe1e5952.webp",
+                    "description": "On Reveal: Add a -1-Power Widow's Kiss to your opponent's side of here."
+                },
+                {
                     "name": "Lady Deathstrike",
                     "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
                     "description": "On Reveal: Destroy each card here with less Power than this."
-                },
-                {
-                    "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-352ed7c4cc2fd9cfd10b8f5bfe1ca5233fa2c227257a73ee27ff1e519fff8c91.webp",
-                    "description": "On Reveal: Remove the text of the lowest-Power enemy card here."
                 },
                 {
                     "name": "High Evolutionary",
@@ -389,19 +389,9 @@
             "date": "Apr 23 - Apr 30",
             "cards": [
                 {
-                    "name": "Snowguard",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp",
-                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
-                },
-                {
-                    "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
-                },
-                {
-                    "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow_06-c2a499a783c0e2a7344a3cd0f7a881e7c2a11d73099069284ae748c0e874940b.webp",
-                    "description": "On Reveal: Add a -1-Power Widow's Kiss to your opponent's side of here."
+                    "name": "Valentina",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -2 Power."
                 },
                 {
                     "name": "Snowguard",
@@ -414,9 +404,19 @@
                     "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 },
                 {
-                    "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow_06-c2a499a783c0e2a7344a3cd0f7a881e7c2a11d73099069284ae748c0e874940b.webp",
-                    "description": "On Reveal: Add a -1-Power Widow's Kiss to your opponent's side of here."
+                    "name": "Valentina",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -2 Power."
+                },
+                {
+                    "name": "Snowguard",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp",
+                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
+                },
+                {
+                    "name": "Nico Minoru",
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 }
             ]
         },
@@ -424,19 +424,9 @@
             "date": "Apr 30 - May 7",
             "cards": [
                 {
-                    "name": "Blob",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
-                },
-                {
-                    "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
-                },
-                {
-                    "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina_05-531012b65b86b2a1b77feed259e162661e4d96963e411d8bfeeac0f4c6ed2a6f.webp",
-                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -2 Power."
+                    "name": "Red Guardian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-7f920adf0cce63a2113132f9a1a55e5c82b871edabd0d09e3084ad9fdd61ac23.webp",
+                    "description": "On Reveal: Remove the text of the lowest-Power enemy card here."
                 },
                 {
                     "name": "Blob",
@@ -444,14 +434,24 @@
                     "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
                 },
                 {
-                    "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
+                    "name": "Red Guardian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-352ed7c4cc2fd9cfd10b8f5bfe1ca5233fa2c227257a73ee27ff1e519fff8c91.webp",
+                    "description": "On Reveal: Remove the text of the lowest-Power enemy card here."
                 },
                 {
-                    "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina_05-531012b65b86b2a1b77feed259e162661e4d96963e411d8bfeeac0f4c6ed2a6f.webp",
-                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -2 Power."
+                    "name": "Red Guardian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-7f920adf0cce63a2113132f9a1a55e5c82b871edabd0d09e3084ad9fdd61ac23.webp",
+                    "description": "On Reveal: Remove the text of the lowest-Power enemy card here."
+                },
+                {
+                    "name": "Blob",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                },
+                {
+                    "name": "Red Guardian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-352ed7c4cc2fd9cfd10b8f5bfe1ca5233fa2c227257a73ee27ff1e519fff8c91.webp",
+                    "description": "On Reveal: Remove the text of the lowest-Power enemy card here."
                 }
             ]
         }
