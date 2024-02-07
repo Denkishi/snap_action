@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "JOIN THE CARNIVAL!",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_02_07_08_09_01/1651481762575_s1841028.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296750520637725445",
+            "date": "02/07/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "New Season: Black Order",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_29_10_47_28/1559280582868_s419665.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296750520637692677",
@@ -62,13 +69,6 @@
             "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027464454",
             "date": "12/21/2023",
             "label": "NEWS"
-        },
-        {
-            "name": "Get Ready For The Drop",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2023_12_19_09_24_54/1659018790944_s1752417.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027448070",
-            "date": "12/19/2023",
-            "label": "series drop"
         }
     ]
 }
