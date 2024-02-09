@@ -1,61 +1,37 @@
 {
-    "date": "February 6, 2024",
+    "date": "February 8, 2024",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Good Cards Junk – Good in Conquest 🆕"
+            "name": "Good Cards Hammer Hawk – Good in Conquest 🆕"
         },
         {
             "tier": "Tier 1",
-            "name": "Destroy – Good in Conquest"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Galactus Junk 🆕"
+            "name": "Thanos Lockjaw – Good in Conquest 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Hela Lockjaw – Good in Conquest"
+            "name": "Lockdown Junk – Good in Conquest 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Black Knight 🔼"
+            "name": "Hela Lockjaw"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Lockjaw – Good in Conquest 🔽"
+            "name": "Galactus Junk 🔽"
         },
         {
             "tier": "Tier 2",
-            "name": "Hammer Control – Good in Conquest 🆕"
+            "name": "Bounce 🔙"
         },
         {
             "tier": "Tier 2",
-            "name": "InSheNaut – Good in Conquest 🔼"
+            "name": "Destroy – Good in Conquest 🔽"
         },
         {
-            "tier": "Tier 3",
-            "name": "Lockdown – Good in Conquest 🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Hammer Bounce 🆕"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Good Cards Stature"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Ongoing Tribunal 🔙"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Shuri Sauron 🔙"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Lockjaw Thor"
+            "tier": "Tier 2",
+            "name": "InSheNaut – Good in Conquest"
         }
     ]
 }
