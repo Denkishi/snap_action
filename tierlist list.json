@@ -1,17 +1,9 @@
 {
-    "date": "February 9, 2024",
+    "date": "February 11, 2024",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Good Cards Hammer Hawk – Good in Conquest 🆕"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Thanos Lockjaw – Good in Conquest 🔼"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Lockdown Junk – Good in Conquest 🔼"
+            "name": "Destroy – Good in Conquest 🔼"
         },
         {
             "tier": "Tier 2",
@@ -19,19 +11,43 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Galactus Junk 🔽"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Bounce 🔙"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Destroy – Good in Conquest 🔽"
+            "name": "Loki 🔙"
         },
         {
             "tier": "Tier 2",
             "name": "InSheNaut – Good in Conquest"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Lockdown – Good in Conquest 🔙"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Hammer 🔽"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Junk – Good in Conquest 🔙"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Lockjaw 🔽🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Sera Control 🔙"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Zoo 🔙"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula 🔙"
         }
     ]
 }
