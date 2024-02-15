@@ -3,51 +3,51 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Destroy – Good in Conquest 🔼"
+            "name": "Bounce Junk – Good in Conquest 🔼"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Destroy"
         },
         {
             "tier": "Tier 2",
-            "name": "Hela Lockjaw"
+            "name": "Hela Lockjaw – Good in Conquest"
         },
         {
             "tier": "Tier 2",
-            "name": "Loki 🔙"
+            "name": "Thanos Lockjaw 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "InSheNaut – Good in Conquest"
+            "name": "Good Cards Hammer"
         },
         {
             "tier": "Tier 2",
-            "name": "Lockdown – Good in Conquest 🔙"
+            "name": "Lockdown – Power Couple, Good in Conquest"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Hammer 🔽"
+            "name": "InSheNaut – Power Couple"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Junk – Good in Conquest 🔙"
+            "name": "Loki Discard"
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce"
+            "name": "Good Cards Darkhawk – Good in Conquest"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Lockjaw 🔽🔽"
+            "name": "Galactus Junk"
         },
         {
             "tier": "Tier 3",
-            "name": "Sera Control 🔙"
+            "name": "Discard Dracula – Power Couple"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Zoo 🔙"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Discard Dracula 🔙"
+            "name": "Kazoo – Power Couple 🆕"
         }
     ]
 }
