@@ -1,13 +1,21 @@
 {
-    "date": "February 15, 2024",
+    "date": "February 22, 2024",
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Bounce Junk – Good in Conquest 🔼"
+            "name": "Thanos Lockjaw – Good in Conquest 🔼"
         },
         {
             "tier": "Tier 1",
-            "name": "Destroy"
+            "name": "Corvus Ramp 🆕"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Destroy – Good in Conquest"
         },
         {
             "tier": "Tier 2",
@@ -15,39 +23,35 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Lockjaw 🔼"
+            "name": "Discard Dracula 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Hammer"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Lockdown – Power Couple, Good in Conquest"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "InSheNaut – Power Couple"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Loki Discard"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Darkhawk – Good in Conquest"
+            "name": "Good Cards Junk"
         },
         {
             "tier": "Tier 3",
-            "name": "Galactus Junk"
+            "name": "Sera Control 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula – Power Couple"
+            "name": "Lockdown 🔽"
         },
         {
             "tier": "Tier 3",
-            "name": "Kazoo – Power Couple 🆕"
+            "name": "Galactus Junk – Good in Conquest"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Good Cards Darkhawk 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Loki"
+        },
+        {
+            "tier": "Conquest",
+            "name": "InSheNaut"
         }
     ]
 }
