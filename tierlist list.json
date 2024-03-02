@@ -1,73 +1,61 @@
 {
-    "date": "February 28, 2024",
+    "date": "March 2, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Corvus Discard"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Hammer Control"
+            "name": "Phoenix Force"
         },
         {
             "tier": "Silent Performer",
             "name": "Mister Negative"
         },
         {
-            "tier": "Tier 1",
-            "name": "Thanos Lockjaw – Good in Conquest 🔼"
+            "tier": "Silent Performer",
+            "name": "InSheNaut – Good in Conquest"
         },
         {
             "tier": "Tier 1",
-            "name": "Corvus Ramp 🆕"
+            "name": "Thanos Control – Good in Conquest 🔙"
         },
         {
             "tier": "Tier 1",
-            "name": "Bounce"
+            "name": "Discard Hela – Good in Conquest 🆕"
         },
         {
             "tier": "Tier 1",
-            "name": "Destroy – Good in Conquest"
+            "name": "Discard Collector – Good in Conquest 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Hela Lockjaw – Good in Conquest"
+            "name": "Good Cards Black Knight – Good in Conquest 🔙"
         },
         {
             "tier": "Tier 2",
-            "name": "Discard Dracula 🔼"
+            "name": "Destroy 🔽"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Ongoing Tribunal 🔙"
         },
         {
             "tier": "Tier 2",
             "name": "Good Cards Junk"
         },
         {
-            "tier": "Tier 3",
-            "name": "Sera Control 🔙"
+            "tier": "Tier 2",
+            "name": "Lockdown – Good in Conquest 🔼"
         },
         {
             "tier": "Tier 3",
-            "name": "Lockdown 🔽"
+            "name": "Corvus Ramp 🔽🔽"
         },
         {
             "tier": "Tier 3",
-            "name": "Galactus Junk – Good in Conquest"
+            "name": "Patriot Zoo 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Good Cards Darkhawk 🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Loki"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "Cerebro"
-        },
-        {
-            "tier": "Conquest",
-            "name": "InSheNaut"
+            "name": "Good Cards Loki"
         }
     ]
 }
