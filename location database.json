@@ -76,7 +76,7 @@
                 {
                     "name": "Cannonball",
                     "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
-                    "description": "On Reveal: Move an enemy card away from here and add a Rock where it was. If it can't move, destroy it to add the Rock."
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
                     "name": "Kitty Pryde",
@@ -91,7 +91,7 @@
                 {
                     "name": "Cannonball",
                     "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
-                    "description": "On Reveal: Move an enemy card away from here and add a Rock where it was. If it can't move, destroy it to add the Rock."
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
                     "name": "Kitty Pryde",
