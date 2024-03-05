@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Avengers vs. X-Men",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_03_04_07_02_17/1151530648762_s485321.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296750522168531718",
+            "date": "03/05/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "February 29th, 2024 - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_02_29_07_09_29/938602046302_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296750522168515334",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_02_08_59_19/97019039739_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027562758",
             "date": "01/09/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "Goodbye 2023, Hello 2024!",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_02_07_41_43/765842426663_s1219449.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027513606",
-            "date": "01/04/2024",
             "label": "NEWS"
         }
     ]
