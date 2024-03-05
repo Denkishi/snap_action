@@ -44,14 +44,14 @@
                     "description": "Costs 1 less for each card you have in play that didn't start in your deck."
                 },
                 {
-                    "name": "Ms. Marvel",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-f0057e38e8af94c9e41d56ddbaaab54b50509aa31a07b8a25ca1fca716b4c1a8.webp",
-                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
-                },
-                {
                     "name": "Man-Thing",
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
+                {
+                    "name": "Ghost-Spider",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
+                    "description": "On Reveal: The last card you played moves here."
                 },
                 {
                     "name": "Mockingbird",
@@ -59,14 +59,14 @@
                     "description": "Costs 1 less for each card you have in play that didn't start in your deck."
                 },
                 {
-                    "name": "Ms. Marvel",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-f0057e38e8af94c9e41d56ddbaaab54b50509aa31a07b8a25ca1fca716b4c1a8.webp",
-                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
-                },
-                {
                     "name": "Man-Thing",
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
+                {
+                    "name": "Ghost-Spider",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
+                    "description": "On Reveal: The last card you played moves here."
                 }
             ]
         },
@@ -79,14 +79,14 @@
                     "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
+                    "name": "Ms. Marvel",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
+                },
+                {
                     "name": "Kitty Pryde",
                     "image": "https://game-assets.snap.fan/card_variant_images/KittyPryde_08-3f808befcc8ff7662ee3e09fe54270c1ba2146269a7a433d2fb3db628925a0f3.webp",
                     "description": "When this returns to your hand, +1 Power. Returns at the start of each turn."
-                },
-                {
-                    "name": "Ghost-Spider",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
-                    "description": "On Reveal: The last card you played moves here."
                 },
                 {
                     "name": "Cannonball",
@@ -94,14 +94,14 @@
                     "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
+                    "name": "Ms. Marvel",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
+                },
+                {
                     "name": "Kitty Pryde",
                     "image": "https://game-assets.snap.fan/card_variant_images/KittyPryde_08-3f808befcc8ff7662ee3e09fe54270c1ba2146269a7a433d2fb3db628925a0f3.webp",
                     "description": "When this returns to your hand, +1 Power. Returns at the start of each turn."
-                },
-                {
-                    "name": "Ghost-Spider",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
-                    "description": "On Reveal: The last card you played moves here."
                 }
             ]
         },

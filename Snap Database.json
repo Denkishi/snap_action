@@ -354,7 +354,7 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cannonball.webp?v=170",
             "name": "Cannonball",
-            "ability": "On Reveal: Move an enemy card away from here and add a Rock where it was. If it can't move, destroy it to add the Rock.",
+            "ability": "On Reveal: Move the highest-Power enemy card here away. If you can’t, destroy it with a Rock.",
             "cost": "5",
             "power": "8",
             "pool": "None",
