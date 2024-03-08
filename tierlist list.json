@@ -3,59 +3,55 @@
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Phoenix Force"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "InSheNaut – Good in Conquest"
+            "name": "Destroy – Good in Conquest"
         },
         {
             "tier": "Tier 1",
-            "name": "Thanos Control – Good in Conquest 🔙"
+            "name": "Discard Dracula – Good in Conquest"
         },
         {
             "tier": "Tier 1",
-            "name": "Discard Hela – Good in Conquest 🆕"
+            "name": "Move Summers 🆕"
         },
         {
             "tier": "Tier 1",
-            "name": "Discard Collector – Good in Conquest 🆕"
+            "name": "Thanos Lockjaw 🔙"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Hela Discard – Good in Conquest"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Black Knight – Good in Conquest 🔙"
+            "name": "Good Cards Black Knight"
         },
         {
             "tier": "Tier 2",
-            "name": "Destroy 🔽"
+            "name": "Good Cards Loki 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Ongoing Tribunal 🔙"
+            "name": "Bounce 🔙"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Junk"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Lockdown – Good in Conquest 🔼"
+            "name": "InSheNaut – Good in Conquest 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Corvus Ramp 🔽🔽"
+            "name": "Galactus Junk 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Patriot Zoo 🔙"
+            "name": "Sera Control 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Good Cards Loki"
+            "name": "Corvus Ramp – Good in Conquest"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Negative Tribunal 🔙"
         }
     ]
 }
