@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Patch Notes - Mar 12, 2024",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_03_11_08_25_02/129376883036_s34706.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296750522168548102",
+            "date": "03/12/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "New Season: Avengers vs. X-Men",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_03_04_07_02_17/1151530648762_s485321.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296750522168531718",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_18_14_21_44/1312135956499_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296750520637610757",
             "date": "01/18/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "Patch Notes - Jan 09, 2024",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_01_02_08_59_19/97019039739_s34706.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296743796027562758",
-            "date": "01/09/2024",
             "label": "NEWS"
         }
     ]
