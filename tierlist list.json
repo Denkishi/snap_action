@@ -1,53 +1,45 @@
 {
-    "date": "March 9, 2024",
+    "date": "March 15, 2024",
     "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Thanos Control – Good in Conquest 🔙"
+        },
         {
             "tier": "Tier 1",
             "name": "Discard Dracula – Good in Conquest"
         },
         {
-            "tier": "Tier 1",
-            "name": "Move Summers 🆕"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Thanos Lockjaw 🔙"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Hela Discard – Good in Conquest"
+            "tier": "Tier 2",
+            "name": "Phoenix Force 🔙"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Black Knight"
+            "name": "Pure Evolutionary 🔙"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Loki 🔼"
+            "name": "InSheNaut – Good in Conquest"
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce 🔙"
+            "name": "Hela Lockjaw 🔙"
         },
         {
             "tier": "Tier 2",
-            "name": "InSheNaut – Good in Conquest 🔙"
+            "name": "Destroy 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Galactus Junk 🔙"
+            "name": "Iron Zoo Patriot 🆕"
         },
         {
             "tier": "Tier 3",
-            "name": "Sera Control 🔙"
+            "name": "Galactus Junk"
         },
         {
             "tier": "Tier 3",
-            "name": "Corvus Ramp – Good in Conquest"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Negative Tribunal 🔙"
+            "name": "Good Cards Black Knight 🔽"
         }
     ]
 }
