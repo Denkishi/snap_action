@@ -15,7 +15,8 @@
                 },
                 {
                     "name": "Mobius M. Mobius",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
                 },
                 {
                     "name": "Pixie",
@@ -27,24 +28,65 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
                     "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
-                {}
+                {
+                    "name": "Mobius M. Mobius",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp"
+                }
             ]
         },
         {
             "date": "Mar 12 - Mar 19",
             "cards": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
+                {
+                    "name": "Mockingbird",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck. AvX: Locations with 3 Avengers have +3 Power."
+                },
+                {
+                    "name": "Man-Thing",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
+                {
+                    "name": "Ghost-Spider",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
+                    "description": "On Reveal: The last card you played moves here."
+                },
+                {
+                    "name": "Mockingbird",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck. AvX: Locations with 3 Avengers have +3 Power."
+                },
+                {
+                    "name": "Man-Thing",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
+                {
+                    "name": "Ghost-Spider",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
+                    "description": "On Reveal: The last card you played moves here."
+                }
             ]
         },
         {
             "date": "Mar 19 - Mar 26",
             "cards": [
-                {},
+                {
+                    "name": "Cannonball",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock. AvX: Once you play 4, X-Men have +1 Power."
+                },
+                {
+                    "name": "Ms. Marvel",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power. AvX: Locations with 3 Avengers have +3 Power."
+                },
+                {
+                    "name": "Cannonball",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp",
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock. AvX: Once you play 4, X-Men have +1 Power."
+                },
                 {
                     "name": "Cannonball",
                     "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
