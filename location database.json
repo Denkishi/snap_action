@@ -30,8 +30,7 @@
                 },
                 {
                     "name": "Mobius M. Mobius",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
-                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp"
                 }
             ]
         },
@@ -40,13 +39,11 @@
             "cards": [
                 {
                     "name": "Mockingbird",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp",
-                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck. AvX: Locations with 3 Avengers have +3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp"
                 },
                 {
                     "name": "Man-Thing",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
-                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp"
                 },
                 {
                     "name": "Ghost-Spider",
@@ -185,8 +182,7 @@
                 },
                 {
                     "name": "Mirage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
-                    "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power. AvX: Once you play 4, X-Men have +1 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp"
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
@@ -195,8 +191,7 @@
                 },
                 {
                     "name": "U.S. Agent",
-                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-04ab977720b9c9778962611fa35bf4a5df55793cbb8868c8fea88dbf07fa4e5e.webp",
-                    "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-04ab977720b9c9778962611fa35bf4a5df55793cbb8868c8fea88dbf07fa4e5e.webp"
                 },
                 {
                     "name": "Mirage",
@@ -410,8 +405,7 @@
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-b8e52b7b7887fd55681cf8d8eda69ea10d0a5f861937a39b67ae4ba757d3a1b7.webp",
-                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-b8e52b7b7887fd55681cf8d8eda69ea10d0a5f861937a39b67ae4ba757d3a1b7.webp"
                 },
                 {
                     "name": "Skaar",
@@ -440,7 +434,8 @@
                 },
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
+                    "description": "Costs 1 less for each card you played last turn."
                 },
                 {
                     "name": "Havok",
