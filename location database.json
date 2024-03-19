@@ -15,8 +15,7 @@
                 },
                 {
                     "name": "Mobius M. Mobius",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
-                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp"
                 },
                 {
                     "name": "Pixie",
@@ -50,12 +49,12 @@
                 },
                 {
                     "name": "Ghost-Spider",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
-                    "description": "On Reveal: The last card you played moves here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp"
                 },
                 {
                     "name": "Mockingbird",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck. AvX: Locations with 3 Avengers have +3 Power."
                 },
                 {
                     "name": "Man-Thing",
@@ -94,8 +93,7 @@
                 },
                 {
                     "name": "Ms. Marvel",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp",
-                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power. AvX: Locations with 3 Avengers have +3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp"
                 },
                 {
                     "name": "Cannonball",
@@ -169,8 +167,7 @@
                 },
                 {
                     "name": "Echo",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp",
-                    "description": "After your opponent plays an Ongoing card here, remove its abilities. AvX: Locations with 3 Avengers have +3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp"
                 }
             ]
         },
@@ -189,8 +186,7 @@
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
-                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp"
                 },
                 {
                     "name": "U.S. Agent",
@@ -219,13 +215,11 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
-                    "description": "On Reveal: Destroy each card here with less Power than this."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp"
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp"
                 },
                 {
                     "name": "Red Guardian",
@@ -234,8 +228,7 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
-                    "description": "On Reveal: Destroy each card here with less Power than this."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp"
                 },
                 {
                     "name": "Red Guardian",
@@ -294,8 +287,7 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
                 },
                 {
                     "name": "Valentina",
