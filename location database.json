@@ -265,7 +265,8 @@
                 },
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
+                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
                 },
                 {
                     "name": "Snowguard",
