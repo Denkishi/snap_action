@@ -39,6 +39,11 @@
             "date": "Mar 12 - Mar 19, 2024",
             "cards": [
                 {
+                    "name": "Mockingbird",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
+                },
+                {
                     "name": "Man-Thing",
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
@@ -104,6 +109,11 @@
             "date": "Mar 26 - Apr 2",
             "cards": [
                 {
+                    "name": "War Machine",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
+                },
+                {
                     "name": "Silver Samurai",
                     "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
                     "description": "On Reveal: Each player discards the lowest-Power card from their hand."
@@ -135,7 +145,8 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -154,7 +165,8 @@
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
                 {
                     "name": "Echo",
@@ -203,7 +215,8 @@
             "cards": [
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
                 },
                 {
                     "name": "Lady Deathstrike",
@@ -217,7 +230,8 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
                 },
                 {
                     "name": "Lady Deathstrike",
@@ -276,7 +290,8 @@
                 },
                 {
                     "name": "Blob",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
                 },
                 {
                     "name": "Knull",
@@ -350,7 +365,8 @@
                 },
                 {
                     "name": "Legion",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
+                    "description": "On Reveal: Replace each other location with this one."
                 },
                 {
                     "name": "Sage",
@@ -389,7 +405,8 @@
                 },
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
