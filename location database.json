@@ -50,8 +50,7 @@
                 },
                 {
                     "name": "Ghost-Spider",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
-                    "description": "On Reveal: The last card you played moves here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp"
                 },
                 {
                     "name": "Mockingbird",
@@ -65,8 +64,7 @@
                 },
                 {
                     "name": "Ghost-Spider",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
-                    "description": "On Reveal: The last card you played moves here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp"
                 }
             ]
         },
@@ -125,7 +123,8 @@
                 },
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
                     "name": "Silver Samurai",
@@ -134,7 +133,8 @@
                 },
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 }
             ]
         },
@@ -163,8 +163,7 @@
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
-                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
                 },
                 {
                     "name": "Echo",
@@ -233,8 +232,7 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
-                    "description": "On Reveal: Destroy each card here with less Power than this."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp"
                 },
                 {
                     "name": "Red Guardian",
@@ -263,8 +261,7 @@
                 },
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
-                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
                 },
                 {
                     "name": "Snowguard",
