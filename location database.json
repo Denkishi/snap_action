@@ -93,7 +93,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
                     "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock. AvX: Once you play 4, X-Men have +1 Power."
                 },
-                {},
+                {
+                    "name": "Ms. Marvel",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power. AvX: Locations with 3 Avengers have +3 Power."
+                },
                 {
                     "name": "Cannonball",
                     "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp",
@@ -104,20 +108,6 @@
         {
             "date": "Mar 26 - Apr 2",
             "cards": [
-                {
-                    "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
-                },
-                {
-                    "name": "Silver Samurai",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
-                    "description": "On Reveal: Each player discards the lowest-Power card from their hand."
-                },
-                {
-                    "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
-                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
-                },
                 {
                     "name": "War Machine",
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
@@ -132,6 +122,19 @@
                     "name": "War Machine",
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
+                },
+                {
+                    "name": "War Machine",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
+                },
+                {
+                    "name": "Silver Samurai",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
+                    "description": "On Reveal: Each player discards the lowest-Power card from their hand."
+                },
+                {
+                    "name": "War Machine",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp"
                 }
             ]
         },
