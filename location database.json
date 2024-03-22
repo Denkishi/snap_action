@@ -95,7 +95,8 @@
                 },
                 {
                     "name": "Ms. Marvel",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
                 },
                 {
                     "name": "Cannonball",
@@ -129,7 +130,8 @@
                 },
                 {
                     "name": "Silver Samurai",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
+                    "description": "On Reveal: Each player discards the lowest-Power card from their hand."
                 },
                 {
                     "name": "War Machine",
@@ -188,7 +190,8 @@
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
                 },
                 {
                     "name": "U.S. Agent",
@@ -222,7 +225,8 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
                 },
                 {
                     "name": "Red Guardian",
@@ -256,8 +260,7 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
                 },
                 {
                     "name": "White Widow",
@@ -336,8 +339,7 @@
                 },
                 {
                     "name": "Caiera",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
-                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp"
                 },
                 {
                     "name": "Nocturne",
