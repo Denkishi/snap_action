@@ -25,7 +25,8 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
+                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
                 {
                     "name": "Mobius M. Mobius",
@@ -122,16 +123,8 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
-                {
-                    "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
-                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
-                },
-                {
-                    "name": "Silver Samurai",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
-                    "description": "On Reveal: Each player discards the lowest-Power card from their hand."
-                },
+                {},
+                {},
                 {
                     "name": "War Machine",
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
