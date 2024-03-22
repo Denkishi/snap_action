@@ -1,58 +1,4 @@
 {
-    "Colors": [
-        {
-            "tier_name": "Silent Performer",
-            "surname": "Bounce Move"
-        },
-        {
-            "tier_name": "Silent Performer",
-            "surname": "Double-Up"
-        },
-        {
-            "tier_name": "Silent Performer",
-            "surname": "Cerebro 3"
-        },
-        {
-            "tier_name": "Tier 1",
-            "surname": "Thanos Control"
-        },
-        {
-            "tier_name": "Tier 1",
-            "surname": "Discard Dracula"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "Phoenix Force"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "Pure Evolutionary"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "InSheNaut"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "Hela Lockjaw"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "Destroy"
-        },
-        {
-            "tier_name": "Tier 3",
-            "surname": "Iron Zoo Patriot"
-        },
-        {
-            "tier_name": "Tier 3",
-            "surname": "Galactus Junk"
-        },
-        {
-            "tier_name": "Tier 3",
-            "surname": "Good Cards Black Knight"
-        }
-    ],
     "tier": [
         {
             "name": "Bounce Move",
@@ -355,7 +301,6 @@
         {
             "name": "InSheNaut",
             "surname": "InSheNaut",
-            "code": "eyJOYW1lIjoiSW5TaGVOYXV0IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IlN1bnNwb3QifSx7IkNhcmREZWZJZCI6Ik5lYnVsYSJ9LHsiQ2FyZERlZklkIjoiTWlzdHlLbmlnaHQifSx7IkNhcmREZWZJZCI6IkFybW9yIn0seyJDYXJkRGVmSWQiOiJNYWdpayJ9LHsiQ2FyZERlZklkIjoiQ3ljbG9wcyJ9LHsiQ2FyZERlZklkIjoiSGlnaEV2b2x1dGlvbmFyeSJ9LHsiQ2FyZERlZklkIjoiTGVlY2gifSx7IkNhcmREZWZJZCI6IkFib21pbmF0aW9uIn0seyJDYXJkRGVmSWQiOiJTaGVIdWxrIn0seyJDYXJkRGVmSWQiOiJIdWxrIn0seyJDYXJkRGVmSWQiOiJJbmZpbmF1dCJ9XX0=",
             "cards": [
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sunspot.webp?v=176"
