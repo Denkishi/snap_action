@@ -145,8 +145,7 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp",
-                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -190,8 +189,7 @@
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
-                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp"
                 },
                 {
                     "name": "U.S. Agent",
@@ -295,11 +293,13 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 },
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -388,8 +388,7 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
-                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
                 },
                 {
                     "name": "Black Knight",
@@ -433,7 +432,8 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
+                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
                 },
                 {
                     "name": "Sasquatch",
