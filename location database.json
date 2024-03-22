@@ -39,11 +39,6 @@
             "date": "Mar 12 - Mar 19, 2024",
             "cards": [
                 {
-                    "name": "Mockingbird",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp",
-                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
-                },
-                {
                     "name": "Man-Thing",
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
