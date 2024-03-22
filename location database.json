@@ -123,8 +123,16 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
-                {},
-                {},
+                {
+                    "name": "War Machine",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
+                },
+                {
+                    "name": "Silver Samurai",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
+                    "description": "On Reveal: Each player discards the lowest-Power card from their hand."
+                },
                 {
                     "name": "War Machine",
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
