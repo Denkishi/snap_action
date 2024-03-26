@@ -90,7 +90,8 @@
                 },
                 {
                     "name": "Cannonball",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
                     "name": "Ms. Marvel",
@@ -99,8 +100,7 @@
                 },
                 {
                     "name": "Cannonball",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp",
-                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp"
                 }
             ]
         },
@@ -124,7 +124,8 @@
                 },
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
                     "name": "Silver Samurai",
@@ -143,11 +144,13 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
                 {
                     "name": "Echo",
@@ -161,7 +164,8 @@
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
                 {
                     "name": "Echo",
@@ -173,6 +177,20 @@
         {
             "date": "Apr 9 - Apr 16",
             "cards": [
+                {
+                    "name": "U.S. Agent",
+                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-04ab977720b9c9778962611fa35bf4a5df55793cbb8868c8fea88dbf07fa4e5e.webp"
+                },
+                {
+                    "name": "Mirage",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
+                    "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
+                },
+                {
+                    "name": "Jeff the Baby Land Shark",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                },
                 {
                     "name": "U.S. Agent",
                     "image": "https://game-assets.snap.fan/card_variant_images/USAgent-04ab977720b9c9778962611fa35bf4a5df55793cbb8868c8fea88dbf07fa4e5e.webp",
@@ -187,19 +205,6 @@
                     "name": "Jeff the Baby Land Shark",
                     "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
                     "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
-                },
-                {
-                    "name": "U.S. Agent",
-                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-04ab977720b9c9778962611fa35bf4a5df55793cbb8868c8fea88dbf07fa4e5e.webp"
-                },
-                {
-                    "name": "Mirage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
-                    "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
-                },
-                {
-                    "name": "Jeff the Baby Land Shark",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp"
                 }
             ]
         },
@@ -218,8 +223,7 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp"
                 },
                 {
                     "name": "Red Guardian",
@@ -253,8 +257,7 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
                 },
                 {
                     "name": "White Widow",
@@ -323,8 +326,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -338,7 +340,8 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 }
             ]
         },
@@ -347,7 +350,8 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
