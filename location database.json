@@ -60,7 +60,8 @@
                 },
                 {
                     "name": "Man-Thing",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
                 {
                     "name": "Ghost-Spider",
@@ -284,8 +285,7 @@
             "cards": [
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp",
-                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp"
                 },
                 {
                     "name": "Blob",
@@ -319,7 +319,8 @@
             "cards": [
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
                 {
                     "name": "Caiera",
@@ -358,8 +359,7 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
-                    "description": "Ongoing: Split your total Power evenly among all locations."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
                 },
                 {
                     "name": "Legion",
@@ -368,8 +368,7 @@
                 },
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
-                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
                 },
                 {
                     "name": "The Living Tribunal",
@@ -378,8 +377,7 @@
                 },
                 {
                     "name": "Legion",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
-                    "description": "On Reveal: Replace each other location with this one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp"
                 }
             ]
         },
@@ -408,8 +406,7 @@
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-b8e52b7b7887fd55681cf8d8eda69ea10d0a5f861937a39b67ae4ba757d3a1b7.webp",
-                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-b8e52b7b7887fd55681cf8d8eda69ea10d0a5f861937a39b67ae4ba757d3a1b7.webp"
                 },
                 {
                     "name": "Skaar",
@@ -423,8 +420,7 @@
             "cards": [
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
                 },
                 {
                     "name": "Havok",
@@ -448,8 +444,7 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
                 }
             ]
         },
