@@ -30,8 +30,7 @@
                 },
                 {
                     "name": "Mobius M. Mobius",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
-                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp"
                 }
             ]
         },
@@ -110,8 +109,7 @@
             "cards": [
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
-                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
                 },
                 {
                     "name": "Silver Samurai",
@@ -170,8 +168,7 @@
                 },
                 {
                     "name": "Echo",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp",
-                    "description": "After your opponent plays an Ongoing card here, remove its abilities."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp"
                 }
             ]
         },
@@ -180,8 +177,7 @@
             "cards": [
                 {
                     "name": "U.S. Agent",
-                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-04ab977720b9c9778962611fa35bf4a5df55793cbb8868c8fea88dbf07fa4e5e.webp",
-                    "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-04ab977720b9c9778962611fa35bf4a5df55793cbb8868c8fea88dbf07fa4e5e.webp"
                 },
                 {
                     "name": "Mirage",
@@ -285,7 +281,8 @@
             "cards": [
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -334,8 +331,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
                 },
                 {
                     "name": "Caiera",
@@ -359,7 +355,8 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
                     "name": "Legion",
@@ -406,7 +403,8 @@
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-b8e52b7b7887fd55681cf8d8eda69ea10d0a5f861937a39b67ae4ba757d3a1b7.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-b8e52b7b7887fd55681cf8d8eda69ea10d0a5f861937a39b67ae4ba757d3a1b7.webp",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
                 },
                 {
                     "name": "Skaar",
@@ -434,17 +432,16 @@
                 },
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
                 },
                 {
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp"
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
+                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
                 }
             ]
         },
