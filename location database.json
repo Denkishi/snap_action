@@ -160,7 +160,8 @@
                 },
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-0e227637ffb9a752792fdbe7b8e0022c73b0e205c1180f67bf6d16adb0a787eb.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
