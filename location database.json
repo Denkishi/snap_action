@@ -79,6 +79,11 @@
                     "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
+                    "name": "Ms. Marvel",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_05-c2980f1c879ff6eb18775fa3639f65689111e1d0757560f5afc9d9666e35d335.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
+                },
+                {
                     "name": "Cannonball",
                     "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp",
                     "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
@@ -368,11 +373,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
                     "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
-                {
-                    "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
-                    "description": "Ongoing: Split your total Power evenly among all locations."
-                },
+                {},
                 {
                     "name": "Legion",
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
