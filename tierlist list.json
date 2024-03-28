@@ -2,64 +2,56 @@
     "date": "March 25, 2024",
     "Tiers": [
         {
-            "tier": "Silent Performer",
-            "name": "Lockdown"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Patriot"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Silver Surfer"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Toxic Sera\nGood in Conquest"
+            "tier": "Tier 1",
+            "name": "Thanos 🔼"
         },
         {
             "tier": "Tier 1",
-            "name": "Discard Dracula\nGreat in Conquest"
+            "name": "Destroy"
         },
         {
             "tier": "Tier 1",
-            "name": "Destroy 🔼\nGreat in Conquest"
+            "name": "Lockdown 🔙"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Discard"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Control 🔽\nGood in Conquest"
+            "name": "Patriot 🔙"
         },
         {
             "tier": "Tier 2",
-            "name": "Galactus Junk 🔼"
+            "name": "Loki 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Hela Ramp"
+            "name": "Silver Surfer 🔙"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Black Knight"
         },
         {
             "tier": "Tier 2",
             "name": "Phoenix Force"
         },
         {
-            "tier": "Tier 3",
-            "name": "Loki 🔙"
+            "tier": "Tier 2",
+            "name": "Hela"
         },
         {
             "tier": "Tier 3",
-            "name": "Pure Evolutionary 🔽"
+            "name": "Pure Evolutionary"
         },
         {
-            "tier": "Conquest Only",
-            "name": "Ongoing Tribunal"
+            "tier": "Tier 3",
+            "name": "Toxic Sera"
         },
         {
-            "tier": "Conquest Only",
-            "name": "Good Cards Stature"
+            "tier": "Tier 3",
+            "name": "Move Machine"
         }
     ]
 }
