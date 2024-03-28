@@ -5,7 +5,8 @@
             "cards": [
                 {
                     "name": "Pixie",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Pixie-df319bb05ecfbe1a31272cd19f9515d734d35dc88a615dba0182ca5d174920c5.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Pixie-df319bb05ecfbe1a31272cd19f9515d734d35dc88a615dba0182ca5d174920c5.webp",
+                    "description": "On Reveal: Shuffle the Costs of all cards in your deck that started there."
                 },
                 {
                     "name": "Spider-Ham",
@@ -24,8 +25,7 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp"
                 },
                 {
                     "name": "Mobius M. Mobius",
@@ -59,7 +59,8 @@
                 },
                 {
                     "name": "Man-Thing",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
                 {
                     "name": "Ghost-Spider",
@@ -108,7 +109,8 @@
             "cards": [
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
                     "name": "Silver Samurai",
@@ -272,7 +274,8 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 }
             ]
         },
@@ -296,7 +299,8 @@
                 },
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-1c3285ed79ffa06a23c1069e2d880f56afc3ebfee252f1609404588efd71a55f.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -355,7 +359,8 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
                     "name": "Legion",
@@ -384,7 +389,8 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
