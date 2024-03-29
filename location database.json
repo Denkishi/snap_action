@@ -10,7 +10,8 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
+                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
                 {
                     "name": "Mobius M. Mobius",
@@ -22,11 +23,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Pixie-df319bb05ecfbe1a31272cd19f9515d734d35dc88a615dba0182ca5d174920c5.webp",
                     "description": "On Reveal: Shuffle the Costs of all cards in your deck that started there."
                 },
-                {
-                    "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
-                },
+                {},
                 {
                     "name": "Mobius M. Mobius",
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
@@ -114,13 +111,11 @@
                 },
                 {
                     "name": "Silver Samurai",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
-                    "description": "On Reveal: Each player discards the lowest-Power card from their hand."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp"
                 },
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp",
-                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_07-f50949b08f36566ff8476ebffea69c9d88d440b5bc9f07f586d8d8e27dc67a83.webp"
                 },
                 {
                     "name": "War Machine",
@@ -339,7 +334,8 @@
                 },
                 {
                     "name": "Caiera",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
+                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
                 },
                 {
                     "name": "Nocturne",
@@ -388,8 +384,7 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
-                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
                 },
                 {
                     "name": "Black Knight",
