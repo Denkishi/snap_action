@@ -5,8 +5,7 @@
             "cards": [
                 {
                     "name": "Pixie",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Pixie-df319bb05ecfbe1a31272cd19f9515d734d35dc88a615dba0182ca5d174920c5.webp",
-                    "description": "On Reveal: Shuffle the Costs of all cards in your deck that started there."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Pixie-df319bb05ecfbe1a31272cd19f9515d734d35dc88a615dba0182ca5d174920c5.webp"
                 },
                 {
                     "name": "Spider-Ham",
@@ -145,7 +144,8 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -379,8 +379,7 @@
                 },
                 {
                     "name": "Legion",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
-                    "description": "On Reveal: Replace each other location with this one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp"
                 }
             ]
         },
@@ -389,12 +388,12 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-b8e52b7b7887fd55681cf8d8eda69ea10d0a5f861937a39b67ae4ba757d3a1b7.webp",
-                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-b8e52b7b7887fd55681cf8d8eda69ea10d0a5f861937a39b67ae4ba757d3a1b7.webp"
                 },
                 {
                     "name": "Skaar",
