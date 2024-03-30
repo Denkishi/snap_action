@@ -10,8 +10,7 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp"
                 },
                 {
                     "name": "Mobius M. Mobius",
@@ -60,7 +59,8 @@
                 },
                 {
                     "name": "Man-Thing",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
                 {
                     "name": "Ghost-Spider",
@@ -74,8 +74,7 @@
             "cards": [
                 {
                     "name": "Cannonball",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
-                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp"
                 },
                 {
                     "name": "Ms. Marvel",
@@ -107,6 +106,11 @@
         {
             "date": "Mar 26 - Apr 2",
             "cards": [
+                {
+                    "name": "War Machine",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
+                },
                 {
                     "name": "Silver Samurai",
                     "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
@@ -269,8 +273,7 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
                 }
             ]
         },
@@ -279,8 +282,7 @@
             "cards": [
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
-                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
                 },
                 {
                     "name": "Blob",
@@ -299,8 +301,7 @@
                 },
                 {
                     "name": "Blob",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp"
                 },
                 {
                     "name": "Knull",
