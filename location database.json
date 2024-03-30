@@ -18,12 +18,12 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
                     "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
                 },
-                {},
                 {
-                    "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "name": "Pixie",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Pixie-df319bb05ecfbe1a31272cd19f9515d734d35dc88a615dba0182ca5d174920c5.webp",
+                    "description": "On Reveal: Shuffle the Costs of all cards in your deck that started there."
                 },
+                {},
                 {
                     "name": "Mobius M. Mobius",
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
@@ -61,8 +61,7 @@
                 },
                 {
                     "name": "Ghost-Spider",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
-                    "description": "On Reveal: The last card you played moves here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp"
                 }
             ]
         },
@@ -146,7 +145,8 @@
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
                 {
                     "name": "Echo",
@@ -185,7 +185,8 @@
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
                 },
                 {
                     "name": "U.S. Agent",
