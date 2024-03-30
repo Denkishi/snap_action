@@ -18,7 +18,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
                     "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
                 },
-                {},
+                {
+                    "name": "Pixie",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Pixie-df319bb05ecfbe1a31272cd19f9515d734d35dc88a615dba0182ca5d174920c5.webp",
+                    "description": "On Reveal: Shuffle the Costs of all cards in your deck that started there."
+                },
                 {
                     "name": "Spider-Ham",
                     "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
@@ -56,8 +60,7 @@
                 },
                 {
                     "name": "Man-Thing",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp",
-                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_04-af832d7272c5965355807f948db4289ad0ee3d5a4a5298abc4a0e16799a7327c.webp"
                 },
                 {
                     "name": "Ghost-Spider",
@@ -105,11 +108,6 @@
             "date": "Mar 26 - Apr 2",
             "cards": [
                 {
-                    "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
-                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
-                },
-                {
                     "name": "Silver Samurai",
                     "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
                     "description": "On Reveal: Each player discards the lowest-Power card from their hand."
@@ -156,7 +154,8 @@
                 },
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -185,7 +184,8 @@
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
                 },
                 {
                     "name": "U.S. Agent",
@@ -269,7 +269,8 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 }
             ]
         },
@@ -338,7 +339,8 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 }
             ]
         },
@@ -397,7 +399,8 @@
                 },
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
