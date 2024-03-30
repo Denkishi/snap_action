@@ -25,7 +25,8 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
+                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
                 {
                     "name": "Mobius M. Mobius",
@@ -64,7 +65,8 @@
                 },
                 {
                     "name": "Ghost-Spider",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/GhostSpider_12-973dc9291c29765a39033f0ac805cc2dc17d504c0f140ae70f355b9403d84532.webp",
+                    "description": "On Reveal: The last card you played moves here."
                 }
             ]
         },
@@ -143,8 +145,7 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
-                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -353,7 +354,8 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
@@ -387,8 +389,7 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
-                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
                 },
                 {
                     "name": "Black Knight",
