@@ -25,10 +25,13 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp"
                 },
-                {}
+                {
+                    "name": "Mobius M. Mobius",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_05-8bd57b12fcf7948f4f93f032e6386902b9b8d4b647ffae896d96500b1e3e25ba.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                }
             ]
         },
         {
@@ -51,7 +54,8 @@
                 },
                 {
                     "name": "Mockingbird",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird-7dde5d3ea472253ddf7d03ae4ea590c8280d3210ffa5439c8d0f03a8e201db7d.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
                 },
                 {
                     "name": "Man-Thing",
@@ -105,7 +109,8 @@
             "cards": [
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
                     "name": "Silver Samurai",
@@ -119,12 +124,12 @@
                 },
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
-                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
                 },
                 {
                     "name": "Silver Samurai",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
+                    "description": "On Reveal: Each player discards the lowest-Power card from their hand."
                 },
                 {
                     "name": "War Machine",
@@ -213,7 +218,8 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
+                    "description": "On Reveal: Destroy each card here with less Power than this."
                 },
                 {
                     "name": "Red Guardian",
@@ -242,7 +248,8 @@
             "cards": [
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
+                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
                 },
                 {
                     "name": "Snowguard",
@@ -256,7 +263,8 @@
                 },
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
+                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
                 },
                 {
                     "name": "Snowguard",
@@ -300,7 +308,8 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 }
             ]
         },
@@ -454,7 +463,8 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 }
             ]
         }
