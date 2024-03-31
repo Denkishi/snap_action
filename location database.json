@@ -85,8 +85,7 @@
                 },
                 {
                     "name": "Cannonball",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp",
-                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_05-ce53cfb1683d0036d6ee3c9b6357625ab7d010a46b59100f6fc051ec214d669e.webp"
                 },
                 {
                     "name": "Cannonball",
@@ -115,8 +114,7 @@
                 },
                 {
                     "name": "Silver Samurai",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp",
-                    "description": "On Reveal: Each player discards the lowest-Power card from their hand."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSamurai_03-354c76eaa86070db79455bfe31efcaf24d6386091685cd1a0bb048baacdd625b.webp"
                 },
                 {
                     "name": "War Machine",
@@ -345,8 +343,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
                 }
             ]
         },
@@ -435,8 +432,7 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
                 },
                 {
                     "name": "Sasquatch",
@@ -465,8 +461,7 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
                 }
             ]
         }
