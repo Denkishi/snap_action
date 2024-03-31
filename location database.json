@@ -10,8 +10,7 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_08-e41a1256ef82c3c29212efbbceeaeb3fddd4c3d224165cf018174df02a006254.webp"
                 },
                 {
                     "name": "Mobius M. Mobius",
@@ -90,7 +89,8 @@
                 },
                 {
                     "name": "Cannonball",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball-8257aa410f5fb14a2e8f0d2397a107318efa66d5c33fed49bc44e3376504fd2c.webp",
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
                     "name": "Ms. Marvel",
@@ -109,8 +109,7 @@
             "cards": [
                 {
                     "name": "War Machine",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp",
-                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine-c9c781db4cd49b478a5c4fd3dda50f00a3fdeb8aff44306e93084b4d759e9665.webp"
                 },
                 {
                     "name": "Silver Samurai",
@@ -334,8 +333,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
                 },
                 {
                     "name": "Caiera",
@@ -429,8 +427,7 @@
                 },
                 {
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp"
                 },
                 {
                     "name": "Ravonna Renslayer",
@@ -444,8 +441,7 @@
                 },
                 {
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp"
                 },
                 {
                     "name": "Ravonna Renslayer",
@@ -459,12 +455,12 @@
             "cards": [
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
                 }
             ]
         }
