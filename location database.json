@@ -185,7 +185,8 @@
                 },
                 {
                     "name": "Mirage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
+                    "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
@@ -229,8 +230,7 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp"
                 },
                 {
                     "name": "Lady Deathstrike",
@@ -309,8 +309,7 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
                 }
             ]
         },
@@ -319,8 +318,7 @@
             "cards": [
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
                 },
                 {
                     "name": "Caiera",
@@ -449,7 +447,8 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
+                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
                 }
             ]
         },
@@ -463,7 +462,8 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 }
             ]
         }
