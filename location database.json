@@ -28,11 +28,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
                     "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
-                {
-                    "name": "Echo",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp",
-                    "description": "After your opponent plays an Ongoing card here, remove its abilities."
-                }
+                {}
             ]
         },
         {
@@ -110,7 +106,8 @@
             "cards": [
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
+                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
                 },
                 {
                     "name": "Snowguard",
@@ -129,8 +126,7 @@
                 },
                 {
                     "name": "Snowguard",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp",
-                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp"
                 },
                 {
                     "name": "Nico Minoru",
@@ -172,46 +168,6 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
                     "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 }
-            ]
-        },
-        {
-            "date": "Apr 2 - Apr 9",
-            "cards": [
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "Apr 9 - Apr 16",
-            "cards": [
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "Apr 16 - Apr 23",
-            "cards": [
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "Apr 23 - Apr 30",
-            "cards": [
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "Apr 30 - May 7",
-            "cards": [
-                {},
-                {},
-                {}
             ]
         },
         {
