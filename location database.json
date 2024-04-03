@@ -155,8 +155,7 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
                 },
                 {
                     "name": "Valentina",
@@ -215,7 +214,8 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
@@ -274,7 +274,8 @@
                 },
                 {
                     "name": "Skaar",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp",
+                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 }
             ]
         },
@@ -288,7 +289,8 @@
                 },
                 {
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
                 },
                 {
                     "name": "Ravonna Renslayer",
