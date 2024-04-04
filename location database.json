@@ -20,7 +20,8 @@
                 },
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -149,8 +150,7 @@
                 },
                 {
                     "name": "Blob",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp"
                 },
                 {
                     "name": "Knull",
@@ -194,7 +194,8 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
                 {
                     "name": "Caiera",
@@ -203,8 +204,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
                 }
             ]
         },
@@ -228,7 +228,8 @@
                 },
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
@@ -247,7 +248,8 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
@@ -316,8 +318,7 @@
             "cards": [
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
                 },
                 {
                     "name": "Grand Master",
