@@ -45,7 +45,8 @@
                 },
                 {
                     "name": "Mirage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
+                    "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
@@ -89,8 +90,7 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp"
                 },
                 {
                     "name": "Lady Deathstrike",
@@ -99,8 +99,7 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp"
                 }
             ]
         },
@@ -214,8 +213,7 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
-                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
                 },
                 {
                     "name": "The Living Tribunal",
