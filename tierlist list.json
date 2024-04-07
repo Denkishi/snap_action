@@ -3,7 +3,15 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Thanos 🔼"
+            "name": "Move 🔙"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Thanos"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Bounce 🔙"
         },
         {
             "tier": "Tier 1",
@@ -11,47 +19,39 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Lockdown 🔙"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Discard"
+            "name": "Hela 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Patriot 🔙"
+            "name": "Lockdown 🔽"
         },
         {
             "tier": "Tier 2",
-            "name": "Loki 🔼"
+            "name": "Loki"
         },
         {
             "tier": "Tier 2",
-            "name": "Silver Surfer 🔙"
+            "name": "Discard 🔽"
         },
         {
             "tier": "Tier 2",
-            "name": "Black Knight"
+            "name": "Zemo Mill 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Phoenix Force"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Hela"
+            "name": "Toxic Surfer 🆕"
         },
         {
             "tier": "Tier 3",
-            "name": "Pure Evolutionary"
+            "name": "Negative Tribunal 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Toxic Sera"
+            "name": "Patriot 🔽"
         },
         {
             "tier": "Tier 3",
-            "name": "Move Machine"
+            "name": "Phoenix Force 🔽"
         }
     ]
 }
