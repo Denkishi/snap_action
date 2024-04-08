@@ -179,8 +179,7 @@
             "cards": [
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
                 },
                 {
                     "name": "Caiera",
@@ -224,7 +223,8 @@
                 },
                 {
                     "name": "Legion",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
+                    "description": "On Reveal: Replace each other location with this one."
                 },
                 {
                     "name": "Sage",
