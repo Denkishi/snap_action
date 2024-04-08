@@ -4,6 +4,11 @@
             "date": "Apr 2 - Apr 9",
             "cards": [
                 {
+                    "name": "Red Hulk",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
+                },
+                {
                     "name": "Sebastian Shaw",
                     "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
                     "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
@@ -164,8 +169,7 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
-                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
                 }
             ]
         },
@@ -184,7 +188,8 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
                 {
                     "name": "Nocturne",
@@ -213,7 +218,8 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
                     "name": "Legion",
