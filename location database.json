@@ -155,7 +155,8 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 },
                 {
                     "name": "Valentina",
@@ -264,7 +265,8 @@
                 },
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
@@ -303,7 +305,8 @@
                 },
                 {
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
                 },
                 {
                     "name": "Ravonna Renslayer",
