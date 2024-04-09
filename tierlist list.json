@@ -1,1 +1,57 @@
-{}
+{
+    "date": "April 1, 2024",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Move 🔙"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Thanos"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Bounce 🔙"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Hela 🔼"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Lockdown 🔽"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Loki"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard 🔽"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Zemo Mill 🆕"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Toxic Surfer 🆕"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Negative Tribunal 🔙"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Patriot 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Phoenix Force 🔽"
+        }
+    ]
+}
