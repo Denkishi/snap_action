@@ -305,7 +305,8 @@
                 },
                 {
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
                 },
                 {
                     "name": "Ravonna Renslayer",
@@ -364,16 +365,17 @@
                 },
                 {
                     "name": "Miek",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
                 {
                     "name": "Sersi",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp",
+                    "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if able)"
                 },
                 {
                     "name": "Phoenix Force",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp",
-                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp"
                 },
                 {
                     "name": "Miek",
@@ -497,7 +499,8 @@
                 },
                 {
                     "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 }
             ]
         },
