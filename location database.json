@@ -95,13 +95,11 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp",
-                    "description": "On Reveal: Destroy each card here with less Power than this."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-1c61d0f76b1bd2eb166937d196521fdfd5debe3e9765ce8e647b940b01dd7322.webp"
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp"
                 }
             ]
         },
@@ -150,16 +148,17 @@
                 },
                 {
                     "name": "Blob",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp"
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 },
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -168,7 +167,8 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 }
             ]
         },
@@ -182,7 +182,8 @@
                 },
                 {
                     "name": "Caiera",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
+                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
                 },
                 {
                     "name": "Nocturne",
@@ -196,7 +197,8 @@
                 },
                 {
                     "name": "Caiera",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
+                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
                 },
                 {
                     "name": "Nocturne",
@@ -225,7 +227,8 @@
                 },
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
@@ -319,8 +322,7 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
                 }
             ]
         }
