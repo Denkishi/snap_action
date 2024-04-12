@@ -65,7 +65,8 @@
                 },
                 {
                     "name": "Jeff the Baby Land Shark",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
                 }
             ]
         },
@@ -154,7 +155,8 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 },
                 {
                     "name": "Valentina",
@@ -403,7 +405,8 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "Makkari",
@@ -497,7 +500,8 @@
                 },
                 {
                     "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 }
             ]
         },
