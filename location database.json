@@ -5,8 +5,7 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
-                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -110,7 +109,8 @@
             "cards": [
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
+                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
                 },
                 {
                     "name": "Snowguard",
@@ -128,13 +128,11 @@
                 },
                 {
                     "name": "Snowguard",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp",
-                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp"
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
                 }
             ]
         },
@@ -158,7 +156,8 @@
                 },
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -187,8 +186,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -212,8 +210,7 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
-                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
                 },
                 {
                     "name": "The Living Tribunal",
@@ -272,8 +269,7 @@
                 },
                 {
                     "name": "Skaar",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp",
-                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp"
                 }
             ]
         },
@@ -282,8 +278,7 @@
             "cards": [
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
                 },
                 {
                     "name": "Havok",
@@ -357,8 +352,7 @@
                 },
                 {
                     "name": "Phoenix Force",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp",
-                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp"
                 },
                 {
                     "name": "Miek",
@@ -392,8 +386,7 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
                 },
                 {
                     "name": "X-23",
@@ -472,8 +465,7 @@
                 },
                 {
                     "name": "Arishem",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp",
-                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp"
                 },
                 {
                     "name": "Hercules",
