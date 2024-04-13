@@ -1,29 +1,21 @@
 {
-    "date": "April 12, 2024",
+    "date": "April 13, 2024",
     "Tiers": [
         {
-            "tier": "Tier 1",
-            "name": "Move 🔙"
+            "tier": "Silent Performer",
+            "name": "Pixie Junk"
         },
         {
             "tier": "Tier 1",
-            "name": "Thanos"
+            "name": "Hela"
         },
         {
             "tier": "Tier 1",
-            "name": "Bounce 🔙"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Destroy"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Hela 🔼"
+            "name": "Phoenix Force 🔼🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Lockdown 🔽"
+            "name": "Destroy 🔽"
         },
         {
             "tier": "Tier 2",
@@ -31,27 +23,31 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Discard 🔽"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Zemo Mill 🆕"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Toxic Surfer 🆕"
+            "name": "Mister Negative 🔼"
         },
         {
             "tier": "Tier 3",
-            "name": "Negative Tribunal 🔙"
+            "name": "Discard Dracula 🔽"
         },
         {
             "tier": "Tier 3",
-            "name": "Patriot 🔽"
+            "name": "Thanos 🔽🔽"
         },
         {
             "tier": "Tier 3",
-            "name": "Phoenix Force 🔽"
+            "name": "Zemo Mill 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Silver Surfer 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Move 🔽🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Shuri Kitty 🔙"
         }
     ]
 }
