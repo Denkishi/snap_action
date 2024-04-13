@@ -130,7 +130,8 @@
                 },
                 {
                     "name": "Snowguard",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp",
+                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
                 },
                 {
                     "name": "Nico Minoru",
@@ -214,7 +215,8 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
@@ -228,7 +230,8 @@
                 },
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
@@ -247,7 +250,8 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
@@ -266,7 +270,8 @@
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
                 },
                 {
                     "name": "Skaar",
@@ -330,7 +335,8 @@
                 },
                 {
                     "name": "Thena",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
                 },
                 {
                     "name": "Grand Master",
@@ -339,7 +345,8 @@
                 },
                 {
                     "name": "Gladiator",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_06-fe8be91ffd9d5bdc8ac9e9191426f1cc50633ca617a35f2a2353080a2ecdff56.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_06-fe8be91ffd9d5bdc8ac9e9191426f1cc50633ca617a35f2a2353080a2ecdff56.webp",
+                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
                 }
             ]
         },
@@ -363,7 +370,8 @@
                 },
                 {
                     "name": "Sersi",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp",
+                    "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if able)"
                 },
                 {
                     "name": "Phoenix Force",
@@ -417,8 +425,7 @@
             "cards": [
                 {
                     "name": "Phastos",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Phastos-cf5b5a550dedcf7a99fd20aa9a5875ec4d61d31bb307591832faee52cfeee124.webp",
-                    "description": "On Reveal: Give each card in your deck -1 Cost or +2 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Phastos-cf5b5a550dedcf7a99fd20aa9a5875ec4d61d31bb307591832faee52cfeee124.webp"
                 },
                 {
                     "name": "Spider-Ham",
@@ -487,7 +494,8 @@
             "cards": [
                 {
                     "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 },
                 {
                     "name": "Nebula",
@@ -516,7 +524,8 @@
                 },
                 {
                     "name": "Beta Ray Bill",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp",
+                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
                 }
             ]
         },
