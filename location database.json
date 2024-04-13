@@ -10,7 +10,8 @@
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
                 {
                     "name": "Echo",
@@ -109,7 +110,8 @@
             "cards": [
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
+                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
                 },
                 {
                     "name": "Snowguard",
@@ -213,7 +215,8 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
