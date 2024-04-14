@@ -1,3 +1,53 @@
 {
-    "date": "April 14, 2024"
+    "date": "April 14, 2024",
+    "Tiers": [
+        {
+            "tier": "Silent Performer",
+            "name": "Pixie Junk"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Hela"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Phoenix Force 🔼🔼"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Destroy 🔽"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Loki"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mister Negative 🔼"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos 🔽🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Zemo Mill 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Silver Surfer 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Move 🔽🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Shuri Kitty 🔙"
+        }
+    ]
 }
