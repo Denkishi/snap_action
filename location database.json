@@ -5,7 +5,8 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -79,8 +80,7 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp",
-                    "description": "On Reveal: Destroy each card here with 3 or less Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp"
                 },
                 {
                     "name": "Red Guardian",
@@ -143,8 +143,7 @@
             "cards": [
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
-                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
                 },
                 {
                     "name": "Blob",
@@ -213,8 +212,7 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
-                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
                 },
                 {
                     "name": "The Living Tribunal",
@@ -233,8 +231,7 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
-                    "description": "Ongoing: Split your total Power evenly among all locations."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
                 },
                 {
                     "name": "Legion",
@@ -282,7 +279,8 @@
             "cards": [
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
+                    "description": "Costs 1 less for each card you played last turn."
                 },
                 {
                     "name": "Havok",
@@ -331,8 +329,7 @@
                 },
                 {
                     "name": "Thena",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp",
-                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp"
                 },
                 {
                     "name": "Grand Master",
@@ -406,8 +403,7 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
                 },
                 {
                     "name": "X-23",
@@ -446,8 +442,7 @@
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
-                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
                 }
             ]
         },
@@ -511,8 +506,7 @@
                 },
                 {
                     "name": "Beta Ray Bill",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp",
-                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp"
                 },
                 {
                     "name": "Darkhawk",
