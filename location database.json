@@ -80,7 +80,8 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp",
+                    "description": "On Reveal: Destroy each card here with 3 or less Power."
                 },
                 {
                     "name": "Red Guardian",
@@ -119,7 +120,8 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 },
                 {
                     "name": "White Widow",
@@ -143,7 +145,8 @@
             "cards": [
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -182,8 +185,7 @@
                 },
                 {
                     "name": "Caiera",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
-                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -212,12 +214,12 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
-                    "description": "Ongoing: Split your total Power evenly among all locations."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
                 },
                 {
                     "name": "Legion",
@@ -231,7 +233,8 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
                     "name": "Legion",
@@ -260,7 +263,8 @@
                 },
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
@@ -329,7 +333,8 @@
                 },
                 {
                     "name": "Thena",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
                 },
                 {
                     "name": "Grand Master",
@@ -403,7 +408,8 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "X-23",
@@ -422,8 +428,7 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp"
                 },
                 {
                     "name": "Corvus Glaive",
@@ -442,7 +447,8 @@
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 }
             ]
         },
@@ -506,7 +512,8 @@
                 },
                 {
                     "name": "Beta Ray Bill",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp",
+                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
                 },
                 {
                     "name": "Darkhawk",
