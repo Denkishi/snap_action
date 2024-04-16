@@ -195,7 +195,8 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
                 {
                     "name": "Caiera",
@@ -249,16 +250,17 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp",
-                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp"
                 },
                 {
                     "name": "Skaar",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp",
+                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 },
                 {
                     "name": "Namora",
@@ -321,7 +323,8 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
                 {
                     "name": "Gladiator",
@@ -335,7 +338,8 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
                 {
                     "name": "Gladiator",
@@ -354,11 +358,13 @@
                 },
                 {
                     "name": "Phoenix Force",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp",
+                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn."
                 },
                 {
                     "name": "Miek",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
                 {
                     "name": "Sersi",
@@ -387,11 +393,13 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "X-23",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp",
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
                 },
                 {
                     "name": "Makkari",
@@ -460,11 +468,13 @@
                 },
                 {
                     "name": "Black Swan",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp",
+                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
                 },
                 {
                     "name": "Arishem",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp",
+                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
                 },
                 {
                     "name": "Hercules",
