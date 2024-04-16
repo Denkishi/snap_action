@@ -80,8 +80,7 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp",
-                    "description": "On Reveal: Destroy each card here with 3 or less Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp"
                 },
                 {
                     "name": "Red Guardian",
@@ -90,8 +89,7 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp"
                 },
                 {
                     "name": "Lady Deathstrike",
@@ -145,8 +143,7 @@
             "cards": [
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
-                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
                 },
                 {
                     "name": "Blob",
@@ -235,7 +232,8 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
                     "name": "Legion",
@@ -254,7 +252,8 @@
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
                 },
                 {
                     "name": "Skaar",
@@ -268,11 +267,13 @@
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
                 },
                 {
                     "name": "Skaar",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp",
+                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 }
             ]
         },
@@ -391,7 +392,8 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "X-23",
@@ -400,7 +402,8 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "Makkari",
@@ -439,8 +442,7 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp"
                 },
                 {
                     "name": "Corvus Glaive",
@@ -474,11 +476,13 @@
                 },
                 {
                     "name": "Hercules",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-70f213af8ef6c09c9a13f54d210bde5cbee2e33cc25bc7413eb615d3677ddf6f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-70f213af8ef6c09c9a13f54d210bde5cbee2e33cc25bc7413eb615d3677ddf6f.webp",
+                    "description": "The first time another card moves here each turn, move it to another location."
                 },
                 {
                     "name": "Black Swan",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp",
+                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
                 }
             ]
         },
