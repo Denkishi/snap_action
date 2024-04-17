@@ -150,8 +150,7 @@
                 },
                 {
                     "name": "Blob",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp"
                 },
                 {
                     "name": "Knull",
@@ -190,8 +189,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -220,8 +218,7 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
-                    "description": "Ongoing: Split your total Power evenly among all locations."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
                 },
                 {
                     "name": "Legion",
@@ -285,8 +282,7 @@
             "cards": [
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
                 },
                 {
                     "name": "Havok",
@@ -340,8 +336,7 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
                 },
                 {
                     "name": "Gladiator",
