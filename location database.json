@@ -10,7 +10,8 @@
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
                 {
                     "name": "Echo",
@@ -89,8 +90,7 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp"
                 },
                 {
                     "name": "Lady Deathstrike",
@@ -144,7 +144,8 @@
             "cards": [
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -183,8 +184,7 @@
                 },
                 {
                     "name": "Caiera",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
-                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -293,8 +293,7 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
                 },
                 {
                     "name": "Sasquatch",
@@ -388,8 +387,7 @@
             "cards": [
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp"
                 },
                 {
                     "name": "Makkari",
