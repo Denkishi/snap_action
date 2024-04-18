@@ -58,7 +58,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/USAgent-97d3d929fc5f76dc1cb4bc80818fcaff03010077ef9fe481d10067220b4dddff.webp",
                     "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
                 },
-                {},
+                {
+                    "name": "Mirage",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
+                    "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
+                },
                 {
                     "name": "Jeff the Baby Land Shark",
                     "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
@@ -131,7 +135,8 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 }
             ]
         },
@@ -150,7 +155,8 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 },
                 {
                     "name": "Valentina",
@@ -534,7 +540,8 @@
                 },
                 {
                     "name": "Hope Summers",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp",
+                    "description": "After you play a card here, you get +1 Energy next turn."
                 },
                 {
                     "name": "Proxima Midnight",
