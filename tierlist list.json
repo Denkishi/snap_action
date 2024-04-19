@@ -1,53 +1,77 @@
 {
-    "date": "April 17, 2024",
+    "date": "April 19, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Pixie Junk"
+            "name": "Phoenix Force Tribunal"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "War Machine Pixie"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Bounce Disrupt"
         },
         {
             "tier": "Tier 1",
-            "name": "Hela"
+            "name": "Hela Tribunal 🔙"
         },
         {
             "tier": "Tier 1",
-            "name": "Phoenix Force 🔼🔼"
+            "name": "Negative Tribunal 🔼"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Junk 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Destroy 🔽"
+            "name": "Move 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Loki"
+            "name": "Thanos 🔼"
         },
         {
             "tier": "Tier 2",
-            "name": "Mister Negative 🔼"
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Patriot 🔙"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Silver Surfer 🔼"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula 🔼"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Lockdown 🔙"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Hela Corvus"
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula 🔽"
+            "name": "Zemo Mill"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos 🔽🔽"
+            "name": "Cerebro 2 🔙"
         },
         {
             "tier": "Tier 3",
-            "name": "Zemo Mill 🔽"
+            "name": "Shuri Kitty"
         },
         {
             "tier": "Tier 3",
-            "name": "Silver Surfer 🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Move 🔽🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Shuri Kitty 🔙"
+            "name": "Loki 🔽"
         }
     ]
 }
