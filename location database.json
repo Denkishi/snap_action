@@ -39,6 +39,11 @@
             "date": "Apr 9 - Apr 16, 2024",
             "cards": [
                 {
+                    "name": "U.S. Agent",
+                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-97d3d929fc5f76dc1cb4bc80818fcaff03010077ef9fe481d10067220b4dddff.webp",
+                    "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
+                },
+                {
                     "name": "Mirage",
                     "image": "https://game-assets.snap.fan/card_variant_images/Mirage_07-e658ba94809f8174a01722d62092f7f582fd1f8949eeceae74484bc51b7b5566.webp",
                     "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
@@ -365,7 +370,8 @@
                 },
                 {
                     "name": "Sersi",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp",
+                    "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if able)"
                 },
                 {
                     "name": "Phoenix Force",
@@ -374,7 +380,8 @@
                 },
                 {
                     "name": "Miek",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 }
             ]
         },
@@ -393,7 +400,8 @@
                 },
                 {
                     "name": "X-23",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp",
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
                 },
                 {
                     "name": "Makkari",
@@ -502,7 +510,8 @@
             "cards": [
                 {
                     "name": "Darkhawk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-9b24aaa7193e9bc6eb4f2cd1f42c5aa22754c1b51be81cabe232e332a5906788.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-9b24aaa7193e9bc6eb4f2cd1f42c5aa22754c1b51be81cabe232e332a5906788.webp",
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck."
                 },
                 {
                     "name": "Beta Ray Bill",
