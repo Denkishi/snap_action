@@ -445,7 +445,8 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
+                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
                 {
                     "name": "Corvus Glaive",
@@ -464,7 +465,8 @@
                 },
                 {
                     "name": "Hercules",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-70f213af8ef6c09c9a13f54d210bde5cbee2e33cc25bc7413eb615d3677ddf6f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-70f213af8ef6c09c9a13f54d210bde5cbee2e33cc25bc7413eb615d3677ddf6f.webp",
+                    "description": "The first time another card moves here each turn, move it to another location."
                 },
                 {
                     "name": "Black Swan",
