@@ -240,7 +240,8 @@
                 },
                 {
                     "name": "Legion",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
+                    "description": "On Reveal: Replace each other location with this one."
                 }
             ]
         },
@@ -414,8 +415,7 @@
                 },
                 {
                     "name": "X-23",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp"
                 }
             ]
         },
@@ -532,11 +532,6 @@
         {
             "date": "Jul 30 - Aug 6",
             "cards": [
-                {
-                    "name": "Proxima Midnight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-e7fe379a9a838ef940413217fb5df9003ded3fd1f8db5d8ceec9f1d3a0f10af3.webp",
-                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
-                },
                 {
                     "name": "Hope Summers",
                     "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp",
