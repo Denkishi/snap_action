@@ -18,11 +18,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp",
                     "description": "After your opponent plays an Ongoing card here, remove its abilities."
                 },
-                {
-                    "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
-                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
-                },
+                {},
                 {
                     "name": "Sebastian Shaw",
                     "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
@@ -109,8 +105,7 @@
             "cards": [
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
-                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
                 },
                 {
                     "name": "Snowguard",
@@ -119,8 +114,7 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
                 },
                 {
                     "name": "White Widow",
@@ -199,8 +193,7 @@
                 },
                 {
                     "name": "Caiera",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
-                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -219,8 +212,7 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
-                    "description": "Ongoing: Split your total Power evenly among all locations."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
                 },
                 {
                     "name": "Legion",
@@ -464,8 +456,7 @@
                 },
                 {
                     "name": "Hercules",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-70f213af8ef6c09c9a13f54d210bde5cbee2e33cc25bc7413eb615d3677ddf6f.webp",
-                    "description": "The first time another card moves here each turn, move it to another location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-70f213af8ef6c09c9a13f54d210bde5cbee2e33cc25bc7413eb615d3677ddf6f.webp"
                 },
                 {
                     "name": "Black Swan",
