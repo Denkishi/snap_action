@@ -10,8 +10,7 @@
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
-                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
                 },
                 {
                     "name": "Echo",
@@ -135,8 +134,7 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
                 }
             ]
         },
@@ -145,7 +143,8 @@
             "cards": [
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -159,8 +158,7 @@
                 },
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
-                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
                 },
                 {
                     "name": "Blob",
@@ -179,8 +177,7 @@
             "cards": [
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
                 },
                 {
                     "name": "Caiera",
@@ -194,7 +191,8 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
                 {
                     "name": "Caiera",
@@ -218,7 +216,8 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
                     "name": "Legion",
@@ -282,7 +281,8 @@
             "cards": [
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
+                    "description": "Costs 1 less for each card you played last turn."
                 },
                 {
                     "name": "Havok",
@@ -376,7 +376,8 @@
                 },
                 {
                     "name": "Miek",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 }
             ]
         },
@@ -440,8 +441,7 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp"
                 },
                 {
                     "name": "Corvus Glaive",
@@ -455,8 +455,7 @@
             "cards": [
                 {
                     "name": "Arishem",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp",
-                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp"
                 },
                 {
                     "name": "Hercules",
@@ -545,7 +544,8 @@
                 },
                 {
                     "name": "Hope Summers",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp",
+                    "description": "After you play a card here, you get +1 Energy next turn."
                 }
             ]
         }
