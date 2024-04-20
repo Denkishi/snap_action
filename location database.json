@@ -120,7 +120,8 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
+                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 },
                 {
                     "name": "White Widow",
@@ -224,8 +225,7 @@
                 },
                 {
                     "name": "Legion",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
-                    "description": "On Reveal: Replace each other location with this one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp"
                 },
                 {
                     "name": "Sage",
@@ -494,7 +494,8 @@
             "cards": [
                 {
                     "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 },
                 {
                     "name": "Nebula",
@@ -543,8 +544,7 @@
                 },
                 {
                     "name": "Proxima Midnight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-e7fe379a9a838ef940413217fb5df9003ded3fd1f8db5d8ceec9f1d3a0f10af3.webp",
-                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-e7fe379a9a838ef940413217fb5df9003ded3fd1f8db5d8ceec9f1d3a0f10af3.webp"
                 },
                 {
                     "name": "Hope Summers",
