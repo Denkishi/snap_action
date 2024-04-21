@@ -224,11 +224,6 @@
                     "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
-                    "name": "Legion",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
-                    "description": "On Reveal: Replace each other location with this one."
-                },
-                {
                     "name": "Sage",
                     "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
                     "description": "On Reveal: +2 Power for each different Power among all other cards here."
