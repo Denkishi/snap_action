@@ -74,6 +74,11 @@
             "date": "Apr 16 - Apr 23",
             "cards": [
                 {
+                    "name": "Red Guardian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
                     "name": "Lady Deathstrike",
                     "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp",
                     "description": "On Reveal: Destroy each card here with 3 or less Power."
@@ -386,6 +391,11 @@
                 {
                     "name": "Makkari",
                     "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                },
+                {
+                    "name": "Makkari",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
                     "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
