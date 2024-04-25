@@ -5,7 +5,8 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-b954774fb64d1457bc1f96a5b8f5507f8284281403df8aecb7db339b60ca6b90.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -164,7 +165,8 @@
                 },
                 {
                     "name": "Blob",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
                 },
                 {
                     "name": "Knull",
@@ -303,7 +305,8 @@
                 },
                 {
                     "name": "Havok",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_04-cf6aa1867a7e4c9bbc9d137230de6866250f5d16fbb691d79c170a95e682c246.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
                 },
                 {
                     "name": "Ravonna Renslayer",
@@ -377,7 +380,8 @@
                 },
                 {
                     "name": "Miek",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 }
             ]
         },
@@ -386,7 +390,8 @@
             "cards": [
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "Makkari",
@@ -470,7 +475,8 @@
                 },
                 {
                     "name": "Arishem",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp",
+                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
                 },
                 {
                     "name": "Hercules",
@@ -503,7 +509,8 @@
             "cards": [
                 {
                     "name": "Darkhawk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-9b24aaa7193e9bc6eb4f2cd1f42c5aa22754c1b51be81cabe232e332a5906788.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-9b24aaa7193e9bc6eb4f2cd1f42c5aa22754c1b51be81cabe232e332a5906788.webp",
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck."
                 },
                 {
                     "name": "Beta Ray Bill",
@@ -527,7 +534,8 @@
             "cards": [
                 {
                     "name": "Proxima Midnight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-e7fe379a9a838ef940413217fb5df9003ded3fd1f8db5d8ceec9f1d3a0f10af3.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-e7fe379a9a838ef940413217fb5df9003ded3fd1f8db5d8ceec9f1d3a0f10af3.webp",
+                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
                 },
                 {
                     "name": "Hope Summers",
