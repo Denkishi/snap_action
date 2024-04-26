@@ -20,8 +20,7 @@
                 },
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-549f0a308b4b60f3c048a23a63d80a92b1a51c79ee2468af4e69c3428d85094d.webp",
-                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-549f0a308b4b60f3c048a23a63d80a92b1a51c79ee2468af4e69c3428d85094d.webp"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -335,7 +334,8 @@
                 },
                 {
                     "name": "Thena",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
                 },
                 {
                     "name": "Grand Master",
@@ -404,8 +404,7 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp"
                 },
                 {
                     "name": "Makkari",
