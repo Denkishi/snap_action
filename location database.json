@@ -120,13 +120,11 @@
                 },
                 {
                     "name": "Nico Minoru",
-                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp",
-                    "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/NicoMinoru_05-b32ce807fae21d4b909286a2f6b34ae6adfdf0e74e3f1fbd26f847e0ec8c61d6.webp"
                 },
                 {
                     "name": "White Widow",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp",
-                    "description": "On Reveal: Add a Widow's Kiss to your opponent's side of this location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/WhiteWidow-c19e7aa28816ff42666d0b5a79b4b85240b9e641df04d8817354bdf4fc82a94d.webp"
                 },
                 {
                     "name": "Snowguard",
@@ -430,11 +428,13 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
+                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 },
                 {
                     "name": "Phastos",
@@ -443,11 +443,13 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
+                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 }
             ]
         },
