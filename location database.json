@@ -30,8 +30,7 @@
                 },
                 {
                     "name": "Echo",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp",
-                    "description": "After your opponent plays an Ongoing card here, remove its abilities."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp"
                 }
             ]
         },
@@ -170,7 +169,8 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 }
             ]
         },
@@ -399,7 +399,8 @@
                 },
                 {
                     "name": "X-23",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp",
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
                 },
                 {
                     "name": "Makkari",
@@ -413,7 +414,8 @@
                 },
                 {
                     "name": "X-23",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp",
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
                 }
             ]
         },
@@ -447,7 +449,8 @@
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 }
             ]
         },
