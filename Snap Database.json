@@ -37,6 +37,33 @@
             "card_id": "4"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agatha-harkness.webp?v=182",
+            "name": "Agatha Harkness",
+            "ability": "Agatha starts in your hand and plays your cards for you.",
+            "cost": "6",
+            "power": "14",
+            "pool": "Collection Level 486+ (Pool 3)",
+            "card_id": "5"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-13.webp?v=182",
+            "name": "Agent 13",
+            "ability": "On Reveal: Add a random card to your hand.",
+            "cost": "1",
+            "power": "2",
+            "pool": "Collection Level 222-474 (Pool 2)",
+            "card_id": "6"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-coulson.webp?v=182",
+            "name": "Agent Coulson",
+            "ability": "On Reveal: Add a random 4-Cost and 5-Cost card to your hand.",
+            "cost": "3",
+            "power": "4",
+            "pool": "Collection Level 486+ (Pool 3)",
+            "card_id": "7"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/alioth.webp?v=182",
             "name": "Alioth",
             "ability": "On Reveal: Remove the text from all unrevealed enemy cards here.",
