@@ -20,7 +20,8 @@
                 },
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-549f0a308b4b60f3c048a23a63d80a92b1a51c79ee2468af4e69c3428d85094d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-549f0a308b4b60f3c048a23a63d80a92b1a51c79ee2468af4e69c3428d85094d.webp",
+                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -94,7 +95,8 @@
                 },
                 {
                     "name": "Lady Deathstrike",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp",
+                    "description": "On Reveal: Destroy each card here with 3 or less Power."
                 },
                 {
                     "name": "Red Guardian",
@@ -188,8 +190,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -413,7 +414,8 @@
                 },
                 {
                     "name": "X-23",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp",
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
                 }
             ]
         },
@@ -447,7 +449,8 @@
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 }
             ]
         },
@@ -521,7 +524,8 @@
                 },
                 {
                     "name": "Beta Ray Bill",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp",
+                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
                 }
             ]
         },
