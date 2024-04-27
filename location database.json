@@ -10,7 +10,8 @@
                 },
                 {
                     "name": "Sebastian Shaw",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
+                    "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
                 {
                     "name": "Echo",
@@ -54,7 +55,8 @@
                 },
                 {
                     "name": "U.S. Agent",
-                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-97d3d929fc5f76dc1cb4bc80818fcaff03010077ef9fe481d10067220b4dddff.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/USAgent-97d3d929fc5f76dc1cb4bc80818fcaff03010077ef9fe481d10067220b4dddff.webp",
+                    "description": "Ongoing: 4, 5, and 6-Cost cards here have -4 Power."
                 },
                 {
                     "name": "Mirage",
@@ -158,13 +160,11 @@
                 },
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
-                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
                 },
                 {
                     "name": "Blob",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_03-50d83920425387e10c0eae70ada4a28fd8f390560474510e6c7a479d5d2ea3dd.webp"
                 },
                 {
                     "name": "Knull",
@@ -213,7 +213,8 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
@@ -227,7 +228,8 @@
                 },
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-3dba70244455cf278da79f80ad30c8d0008cc67d71792c91db6eb2568b98b5ec.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
                 {
                     "name": "The Living Tribunal",
@@ -246,7 +248,8 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
                 },
                 {
                     "name": "Black Knight",
@@ -270,7 +273,8 @@
                 },
                 {
                     "name": "Skaar",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp",
+                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 }
             ]
         },
@@ -289,7 +293,8 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
+                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
                 },
                 {
                     "name": "Sasquatch",
@@ -333,7 +338,8 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
                 {
                     "name": "Gladiator",
@@ -357,7 +363,8 @@
                 },
                 {
                     "name": "Miek",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
                 {
                     "name": "Sersi",
@@ -371,8 +378,7 @@
                 },
                 {
                     "name": "Miek",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp",
-                    "description": "When you discard a card, this gains +1 Power and can move next turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp"
                 }
             ]
         },
@@ -396,12 +402,12 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
                 },
                 {
                     "name": "X-23",
@@ -448,8 +454,7 @@
             "cards": [
                 {
                     "name": "Arishem",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp",
-                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp"
                 },
                 {
                     "name": "Hercules",
@@ -463,11 +468,13 @@
                 },
                 {
                     "name": "Arishem",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp",
+                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
                 },
                 {
                     "name": "Hercules",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-70f213af8ef6c09c9a13f54d210bde5cbee2e33cc25bc7413eb615d3677ddf6f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-70f213af8ef6c09c9a13f54d210bde5cbee2e33cc25bc7413eb615d3677ddf6f.webp",
+                    "description": "The first time another card moves here each turn, move it to another location."
                 },
                 {
                     "name": "Black Swan",
