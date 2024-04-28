@@ -1192,7 +1192,7 @@
             "name": "Jane Foster Mighty Thor",
             "ability": "On Reveal: Draw all cards that Cost 0 from your deck.",
             "cost": "5",
-            "power": "8",
+            "power": "9",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "408"
         },
@@ -1201,7 +1201,7 @@
             "name": "Jean Grey",
             "ability": "Ongoing: Players must play their first card here each turn. (if possible)",
             "cost": "3",
-            "power": "3",
+            "power": "4",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "110"
         },
@@ -1461,7 +1461,7 @@
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mantis.webp?v=182",
             "name": "Mantis",
             "ability": "On Reveal: If your opponent played any cards here this turn, copy one of them into your hand.",
-            "cost": "2",
+            "cost": "1",
             "power": "2",
             "pool": "Collection Level 18-214 (Pool 1)",
             "card_id": "143"
@@ -2119,7 +2119,7 @@
             "name": "Red Hulk",
             "ability": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)",
             "cost": "6",
-            "power": "11",
+            "power": "9",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "520"
         },
@@ -2551,7 +2551,7 @@
             "name": "Stature",
             "ability": "Costs 1 if your opponent discarded a card this game.",
             "cost": "5",
-            "power": "6",
+            "power": "7",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "423"
         },
@@ -2810,7 +2810,7 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/us-agent.webp?v=182",
             "name": "U.S. Agent",
-            "ability": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power.",
+            "ability": "Ongoing: 4, 5, and 6-Cost cards here have -4 Power.",
             "cost": "2",
             "power": "3",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
