@@ -160,7 +160,8 @@
                 },
                 {
                     "name": "Valentina",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Valentina-ba17e731163ffa92aad3d10ba8063bddd66f786d4b213f342b421fb85fb0a9af.webp",
+                    "description": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power."
                 },
                 {
                     "name": "Blob",
@@ -199,7 +200,8 @@
                 },
                 {
                     "name": "Caiera",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
+                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
                 },
                 {
                     "name": "Nocturne",
@@ -233,7 +235,8 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
                     "name": "Legion",
@@ -327,7 +330,8 @@
                 },
                 {
                     "name": "Gladiator",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_06-fe8be91ffd9d5bdc8ac9e9191426f1cc50633ca617a35f2a2353080a2ecdff56.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_06-fe8be91ffd9d5bdc8ac9e9191426f1cc50633ca617a35f2a2353080a2ecdff56.webp",
+                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
                 },
                 {
                     "name": "Thena",
