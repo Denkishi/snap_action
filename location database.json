@@ -5,8 +5,7 @@
             "cards": [
                 {
                     "name": "Red Hulk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-549f0a308b4b60f3c048a23a63d80a92b1a51c79ee2468af4e69c3428d85094d.webp",
-                    "description": "When your opponent ends a turn with unspent Energy, +4 Power. (if in hand or in play)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedHulk-549f0a308b4b60f3c048a23a63d80a92b1a51c79ee2468af4e69c3428d85094d.webp"
                 },
                 {
                     "name": "Sebastian Shaw",
@@ -395,7 +394,8 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "X-23",
@@ -429,11 +429,13 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
+                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 },
                 {
                     "name": "Phastos",
@@ -492,7 +494,8 @@
             "cards": [
                 {
                     "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 },
                 {
                     "name": "Nebula",
@@ -516,7 +519,8 @@
                 },
                 {
                     "name": "Darkhawk",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-9b24aaa7193e9bc6eb4f2cd1f42c5aa22754c1b51be81cabe232e332a5906788.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-9b24aaa7193e9bc6eb4f2cd1f42c5aa22754c1b51be81cabe232e332a5906788.webp",
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck."
                 },
                 {
                     "name": "Beta Ray Bill",
