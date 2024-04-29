@@ -28,11 +28,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/SebastianShaw_03-23f14c46871666e0fd05c9e96beb8d35ecc6fa1d91801fc9f40e75fdb999879f.webp",
                     "description": "When this card permanently gains Power, gain +2 more Power. (wherever this is)"
                 },
-                {
-                    "name": "Echo",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Echo_07-e12b83a3945e6ab575cffde275816e3d5744f623c4c62787a7a7c4e1435f9e42.webp",
-                    "description": "After your opponent plays an Ongoing card here, remove its abilities."
-                }
+                {}
             ]
         },
         {
@@ -90,7 +86,8 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
                 },
                 {
                     "name": "Lady Deathstrike",
@@ -129,8 +126,7 @@
                 },
                 {
                     "name": "Snowguard",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp",
-                    "description": "On Reveal: Add the Hawk and Bear auroras to your hand."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Snowguard_06-473262e48c2778bab4e3e8bd9719c6bd456c6e633e12719d36216c41b9db078f.webp"
                 },
                 {
                     "name": "Nico Minoru",
@@ -189,8 +185,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -259,13 +254,11 @@
                 },
                 {
                     "name": "Skaar",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp",
-                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp"
                 },
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
-                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
                 },
                 {
                     "name": "Black Knight",
@@ -284,8 +277,7 @@
             "cards": [
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
                 },
                 {
                     "name": "Havok",
@@ -359,8 +351,7 @@
                 },
                 {
                     "name": "Phoenix Force",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp",
-                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp"
                 },
                 {
                     "name": "Miek",
@@ -374,8 +365,7 @@
                 },
                 {
                     "name": "Phoenix Force",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp",
-                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-522925228148b83190c1818ccfe7bd159c0cc9fb2c3a16ce7e5ded11fb058a9f.webp"
                 },
                 {
                     "name": "Miek",
@@ -429,8 +419,7 @@
                 },
                 {
                     "name": "Spider-Ham",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp"
                 },
                 {
                     "name": "Corvus Glaive",
@@ -469,8 +458,7 @@
                 },
                 {
                     "name": "Black Swan",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp",
-                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp"
                 },
                 {
                     "name": "Arishem",
@@ -494,8 +482,7 @@
             "cards": [
                 {
                     "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp",
-                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-05a959c55afd65358df0498b2ef69472a0c2b6f0c33e6b26add0dad00c2e4749.webp"
                 },
                 {
                     "name": "Nebula",
@@ -539,8 +526,7 @@
                 },
                 {
                     "name": "Hope Summers",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp",
-                    "description": "After you play a card here, you get +1 Energy next turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp"
                 },
                 {
                     "name": "Proxima Midnight",
@@ -549,8 +535,7 @@
                 },
                 {
                     "name": "Hope Summers",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp",
-                    "description": "After you play a card here, you get +1 Energy next turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp"
                 }
             ]
         }
