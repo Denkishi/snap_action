@@ -190,8 +190,7 @@
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp"
                 },
                 {
                     "name": "Nocturne",
@@ -235,8 +234,7 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
-                    "description": "Ongoing: Split your total Power evenly among all locations."
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
                 },
                 {
                     "name": "Legion",
@@ -260,8 +258,7 @@
                 },
                 {
                     "name": "Skaar",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp",
-                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp"
                 },
                 {
                     "name": "Namora",
@@ -320,8 +317,7 @@
             "cards": [
                 {
                     "name": "Thena",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp",
-                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp"
                 },
                 {
                     "name": "Grand Master",
@@ -390,8 +386,7 @@
             "cards": [
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp"
                 },
                 {
                     "name": "Makkari",
@@ -410,13 +405,11 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
                 },
                 {
                     "name": "X-23",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-9c394553925bfb7ba6cec1779686c33ea41558dfedc7db099a15fbcb88a6971d.webp"
                 }
             ]
         },
@@ -425,8 +418,7 @@
             "cards": [
                 {
                     "name": "Phastos",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Phastos-cf5b5a550dedcf7a99fd20aa9a5875ec4d61d31bb307591832faee52cfeee124.webp",
-                    "description": "On Reveal: Give each card in your deck -1 Cost or +2 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Phastos-cf5b5a550dedcf7a99fd20aa9a5875ec4d61d31bb307591832faee52cfeee124.webp"
                 },
                 {
                     "name": "Spider-Ham",
@@ -450,8 +442,7 @@
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
-                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
                 }
             ]
         },
@@ -525,8 +516,7 @@
                 },
                 {
                     "name": "Beta Ray Bill",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp",
-                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp"
                 }
             ]
         },
