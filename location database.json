@@ -85,6 +85,11 @@
                 },
                 {
                     "name": "Red Guardian",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "Red Guardian",
                     "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
                     "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
                 },
@@ -305,8 +310,7 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
                 }
             ]
         },
@@ -435,8 +439,7 @@
                 },
                 {
                     "name": "Phastos",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Phastos-cf5b5a550dedcf7a99fd20aa9a5875ec4d61d31bb307591832faee52cfeee124.webp",
-                    "description": "On Reveal: Give each card in your deck -1 Cost or +2 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Phastos-cf5b5a550dedcf7a99fd20aa9a5875ec4d61d31bb307591832faee52cfeee124.webp"
                 },
                 {
                     "name": "Spider-Ham",
