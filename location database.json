@@ -49,6 +49,11 @@
                     "description": "On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power."
                 },
                 {
+                    "name": "Jeff the Baby Land Shark",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_09-093a3f788700cba7794cd1294f57ced57b16b931fbb3c498aaadfd5262ab1874.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                },
+                {
                     "name": "U.S. Agent",
                     "image": "https://game-assets.snap.fan/card_variant_images/USAgent-97d3d929fc5f76dc1cb4bc80818fcaff03010077ef9fe481d10067220b4dddff.webp",
                     "description": "Ongoing: 4, 5, and 6-Cost cards here have -4 Power."
@@ -80,7 +85,8 @@
                 },
                 {
                     "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_07-0775db791d67536725becb8bf95b45e476e44760b7b13890898c73202384b198.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
                 },
                 {
                     "name": "Red Guardian",
@@ -149,7 +155,8 @@
                 },
                 {
                     "name": "Knull",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Knull_10-c9a136ceea8fcfddb4c06100ef0351d6724187a3cabca02176c52942b6131d7c.webp",
+                    "description": "Ongoing: Has the combined Power of all cards destroyed this game."
                 },
                 {
                     "name": "Valentina",
@@ -213,7 +220,8 @@
                 },
                 {
                     "name": "The Living Tribunal",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
                 },
                 {
                     "name": "Legion",
@@ -255,7 +263,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Skaar_04-ee4171a7c59d9c9cd23081abca6a6a44cc3864efb6c5cd246a88e436c0321c8e.webp",
                     "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 },
-                {},
+                {
+                    "name": "Namora",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                },
                 {
                     "name": "Black Knight",
                     "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp",
@@ -423,7 +435,8 @@
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
+                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 },
                 {
                     "name": "Phastos",
@@ -482,11 +495,13 @@
             "cards": [
                 {
                     "name": "Bob from Hydra",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp",
+                    "description": "After each turn, move to another location if you're losing here."
                 },
                 {
                     "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-0422035c2e8e07eb5c2d2dd9f7d6d7126ea10378432db3f0b6152dc601e0189a.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-0422035c2e8e07eb5c2d2dd9f7d6d7126ea10378432db3f0b6152dc601e0189a.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 },
                 {
                     "name": "Galactus",
