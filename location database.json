@@ -5,8 +5,7 @@
             "cards": [
                 {
                     "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp"
                 },
                 {
                     "name": "Caiera",
@@ -18,11 +17,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
                     "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
-                {
-                    "name": "Nocturne",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
-                },
+                {},
                 {
                     "name": "Caiera",
                     "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
@@ -40,8 +35,7 @@
             "cards": [
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-f2d8e991191fd67fb3c8e95c0ab6ddd29590497e187fa315c29a27691f2c3e5b.webp",
-                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-f2d8e991191fd67fb3c8e95c0ab6ddd29590497e187fa315c29a27691f2c3e5b.webp"
                 },
                 {
                     "name": "The Living Tribunal",
@@ -95,7 +89,8 @@
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp",
+                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
                 },
                 {
                     "name": "Skaar",
@@ -134,8 +129,7 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
                 }
             ]
         },
@@ -164,8 +158,7 @@
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
                 },
                 {
                     "name": "Gladiator",
@@ -259,8 +252,7 @@
                 },
                 {
                     "name": "Corvus Glaive",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp",
-                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
+                    "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-a6213d0688c4846666fbbf92e349f5bbdd674f5e1a5ee8317ed118dda369f28b.webp"
                 },
                 {
                     "name": "Phastos",
@@ -294,13 +286,11 @@
                 },
                 {
                     "name": "Black Swan",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp",
-                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp"
                 },
                 {
                     "name": "Arishem",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp",
-                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp"
                 },
                 {
                     "name": "Hercules",
@@ -334,8 +324,7 @@
                 },
                 {
                     "name": "Bob from Hydra",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp",
-                    "description": "After each turn, move to another location if you're losing here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp"
                 },
                 {
                     "name": "Nebula",
@@ -414,8 +403,7 @@
                 },
                 {
                     "name": "Hope Summers",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp",
-                    "description": "After you play a card here, you get +1 Energy next turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp"
                 }
             ]
         },
@@ -424,13 +412,11 @@
             "cards": [
                 {
                     "name": "Copycat",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-794b1f0bbc812da0cf5b59dfe85476c4e00b2f5be7baf2669d7fb36beaf119a8.webp",
-                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-794b1f0bbc812da0cf5b59dfe85476c4e00b2f5be7baf2669d7fb36beaf119a8.webp"
                 },
                 {
                     "name": "Copycat",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-da4af44ceccc8051680d8d6bb3be1672c6ad46d1637ec2ab248df1a3d3af75d0.webp",
-                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-da4af44ceccc8051680d8d6bb3be1672c6ad46d1637ec2ab248df1a3d3af75d0.webp"
                 },
                 {
                     "name": "Cull Obsidian",
