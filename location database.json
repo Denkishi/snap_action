@@ -235,7 +235,8 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
                 {
                     "name": "X-23",
@@ -294,7 +295,8 @@
                 },
                 {
                     "name": "Black Swan",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-2f74b83ae114c2482dbea81f7edb53b9df7be0adc42fe69f55d2a8fcd651c0cb.webp",
+                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
                 },
                 {
                     "name": "Arishem",
@@ -318,7 +320,8 @@
             "cards": [
                 {
                     "name": "Bob from Hydra",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp",
+                    "description": "After each turn, move to another location if you're losing here."
                 },
                 {
                     "name": "Nebula",
@@ -412,7 +415,8 @@
                 },
                 {
                     "name": "Hope Summers",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-fa08fc1232d45121f1e57994b76a7455efe25dfb9e7fcda20ea57f14c5f99efd.webp",
+                    "description": "After you play a card here, you get +1 Energy next turn."
                 }
             ]
         },
@@ -436,7 +440,8 @@
                 },
                 {
                     "name": "Copycat",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-794b1f0bbc812da0cf5b59dfe85476c4e00b2f5be7baf2669d7fb36beaf119a8.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-794b1f0bbc812da0cf5b59dfe85476c4e00b2f5be7baf2669d7fb36beaf119a8.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 },
                 {
                     "name": "Copycat",
