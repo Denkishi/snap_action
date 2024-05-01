@@ -1,3 +1,61 @@
 {
-    "date": "April 30, 2024"
+    "date": "April 30, 2024",
+    "Tiers": [
+        {
+            "tier": "Silent Performer",
+            "name": "Ongoing Affliction"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Junk"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Hela Tribunal"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Loki"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Hela Corvus"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Hammer Control 🔙"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Move"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockdown 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Hammer Miracle 🆕"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "DeathJunk 🆕"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Zemo Mill"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Phoenix Force 🔙"
+        }
+    ]
 }
