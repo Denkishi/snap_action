@@ -74,11 +74,6 @@
             "date": "Apr 16 - Apr 23, 2024",
             "cards": [
                 {
-                    "name": "Red Guardian",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian-f6e4d04e3e4513c7b7bc48473a269b7b83b020dc695e1001da73d7df7f3aea61.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
-                },
-                {
                     "name": "Lady Deathstrike",
                     "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_03-5a39d9282d073f34468175c2fac39e11455c171ef8b54cb75f269fac078d8d26.webp",
                     "description": "On Reveal: Destroy each card here with 3 or less Power."
@@ -255,8 +250,7 @@
                 },
                 {
                     "name": "Black Knight",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp",
-                    "description": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackKnight_04-4ab8d99e8e8eaf00b5c76a54bdf072c6c224dbb443b2d2ee049a81d4ca52cd15.webp"
                 },
                 {
                     "name": "Skaar",
@@ -345,8 +339,7 @@
                 },
                 {
                     "name": "Gladiator",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_06-fe8be91ffd9d5bdc8ac9e9191426f1cc50633ca617a35f2a2353080a2ecdff56.webp",
-                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_06-fe8be91ffd9d5bdc8ac9e9191426f1cc50633ca617a35f2a2353080a2ecdff56.webp"
                 }
             ]
         },
