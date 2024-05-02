@@ -63,7 +63,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
                     "description": "Ongoing: Split your total Power evenly among all locations."
                 },
-                {}
+                {
+                    "name": "Legion",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
+                    "description": "On Reveal: Replace each other location with this one."
+                }
             ]
         },
         {
@@ -436,8 +440,7 @@
                 },
                 {
                     "name": "Copycat",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-794b1f0bbc812da0cf5b59dfe85476c4e00b2f5be7baf2669d7fb36beaf119a8.webp",
-                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-794b1f0bbc812da0cf5b59dfe85476c4e00b2f5be7baf2669d7fb36beaf119a8.webp"
                 },
                 {
                     "name": "Copycat",
