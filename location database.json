@@ -55,8 +55,7 @@
                 },
                 {
                     "name": "Sage",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-f2d8e991191fd67fb3c8e95c0ab6ddd29590497e187fa315c29a27691f2c3e5b.webp",
-                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-f2d8e991191fd67fb3c8e95c0ab6ddd29590497e187fa315c29a27691f2c3e5b.webp"
                 },
                 {
                     "name": "The Living Tribunal",
@@ -75,8 +74,7 @@
             "cards": [
                 {
                     "name": "Namora",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
-                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
                 },
                 {
                     "name": "Black Knight",
@@ -110,8 +108,7 @@
             "cards": [
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
                 },
                 {
                     "name": "Havok",
@@ -125,8 +122,7 @@
                 },
                 {
                     "name": "Sasquatch",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sasquatch-011b96abb528164bc2337723ea0ce0cd02fc49a5584619b1467f9cb148a894af.webp"
                 },
                 {
                     "name": "Havok",
@@ -135,8 +131,7 @@
                 },
                 {
                     "name": "Ravonna Renslayer",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/RavonnaRenslayer_05-aec86422a4b7a1c98019a8b70ea0980d5acf06c64bba1ea757a93b206a3f9c26.webp"
                 }
             ]
         },
@@ -155,18 +150,15 @@
                 },
                 {
                     "name": "Gladiator",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_06-fe8be91ffd9d5bdc8ac9e9191426f1cc50633ca617a35f2a2353080a2ecdff56.webp",
-                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_06-fe8be91ffd9d5bdc8ac9e9191426f1cc50633ca617a35f2a2353080a2ecdff56.webp"
                 },
                 {
                     "name": "Thena",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp",
-                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp"
                 },
                 {
                     "name": "Grand Master",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp"
                 },
                 {
                     "name": "Gladiator",
@@ -195,8 +187,7 @@
                 },
                 {
                     "name": "Sersi",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp",
-                    "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if able)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp"
                 },
                 {
                     "name": "Phoenix Force",
@@ -235,8 +226,7 @@
                 },
                 {
                     "name": "Makkari",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
                 },
                 {
                     "name": "X-23",
@@ -300,8 +290,7 @@
                 },
                 {
                     "name": "Arishem",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp",
-                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-b51663c2380dc6c1df0f48b64b683de5824e779500549bd46923f1446d75ccab.webp"
                 },
                 {
                     "name": "Hercules",
@@ -325,8 +314,7 @@
                 },
                 {
                     "name": "Nebula",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-0422035c2e8e07eb5c2d2dd9f7d6d7126ea10378432db3f0b6152dc601e0189a.webp",
-                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-0422035c2e8e07eb5c2d2dd9f7d6d7126ea10378432db3f0b6152dc601e0189a.webp"
                 },
                 {
                     "name": "Galactus",
