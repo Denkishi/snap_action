@@ -45,6 +45,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
+                    "description": "Ongoing: Split your total Power evenly among all locations."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
                     "description": "On Reveal: Replace each other location with this one."
                 },
@@ -70,8 +75,7 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
-                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -85,8 +89,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp",
-                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Namora-975ebdbcdce6604b17d681f1e1fa884c9905d8762ef921cc93318cd74c9412b8.webp"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -215,8 +218,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-62e6be7227e662140f12051209333fe360e4f671e92d191f086014bedf95c770.webp"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -225,8 +227,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-faee0d3c74f83a86d1c0871b12dc661e66e149fd9bda934e69cfc27774cda0bf.webp"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -330,12 +331,12 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp",
+                    "description": "After each turn, move to another location if you're losing here."
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-0422035c2e8e07eb5c2d2dd9f7d6d7126ea10378432db3f0b6152dc601e0189a.webp",
-                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-0422035c2e8e07eb5c2d2dd9f7d6d7126ea10378432db3f0b6152dc601e0189a.webp"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -424,7 +425,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-da4af44ceccc8051680d8d6bb3be1672c6ad46d1637ec2ab248df1a3d3af75d0.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-da4af44ceccc8051680d8d6bb3be1672c6ad46d1637ec2ab248df1a3d3af75d0.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -438,7 +440,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-da4af44ceccc8051680d8d6bb3be1672c6ad46d1637ec2ab248df1a3d3af75d0.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-da4af44ceccc8051680d8d6bb3be1672c6ad46d1637ec2ab248df1a3d3af75d0.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 },
                 {
                     "name": "SNAP.FAN App",
