@@ -53,7 +53,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion_09-2bb7dc11217eb2af93da22afab5fe52edf827947653f6b3ab899a57f1c3eb2d4.webp",
                     "description": "On Reveal: Replace each other location with this one."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-f2d8e991191fd67fb3c8e95c0ab6ddd29590497e187fa315c29a27691f2c3e5b.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
@@ -174,11 +178,6 @@
         {
             "date": "Jun 11 - Jun 18",
             "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp",
-                    "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if able)"
-                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-bd82d1c0cd4dad0d11c03315c64869a30d90ae419dd03cb7ca1606d28331b221.webp",
