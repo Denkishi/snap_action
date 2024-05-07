@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: A Blink in Time",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_05_07_06_28_02/990804561381_s413912.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296765558303857414",
+            "date": "05/07/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "Patch Notes - Apr 30, 2024",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_04_28_03_43_14/1099876341611_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296765558303841030",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_03_04_07_02_17/1151530648762_s485321.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296750522168531718",
             "date": "03/05/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "February 29th, 2024 - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_02_29_07_09_29/938602046302_s34706.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296750522168515334",
-            "date": "02/29/2024",
             "label": "NEWS"
         }
     ]
