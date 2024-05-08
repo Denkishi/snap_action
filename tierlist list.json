@@ -1,9 +1,21 @@
 {
-    "date": "May 5, 2024",
+    "date": "May 8, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Ongoing Affliction"
+            "name": "Cerebro 3"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Move (Feat. Nocturne)"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Hela Corvus (Feat. Blink)"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Bounce 🆕"
         },
         {
             "tier": "Tier 1",
@@ -11,51 +23,35 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Hela Tribunal"
+            "name": "DeathJunk 🔼"
         },
         {
             "tier": "Tier 1",
-            "name": "Loki"
+            "name": "Ongoing 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Hela Corvus"
+            "name": "Patriot 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Hammer Control 🔙"
+            "name": "Loki 🔽"
         },
         {
             "tier": "Tier 2",
-            "name": "Silver Surfer"
+            "name": "Discard Dracula 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Move"
+            "name": "Supergiant Control 🆕"
         },
         {
             "tier": "Tier 3",
-            "name": "Lockdown 🔽"
+            "name": "Hammer Control 🔽"
         },
         {
             "tier": "Tier 3",
-            "name": "Hammer Miracle 🆕"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "DeathJunk 🆕"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Zemo Mill"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroy 🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Phoenix Force 🔙"
+            "name": "Electro Ramp (Feat. Blink) 🆕"
         }
     ]
 }
