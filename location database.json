@@ -448,11 +448,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-da4af44ceccc8051680d8d6bb3be1672c6ad46d1637ec2ab248df1a3d3af75d0.webp",
                     "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian_06-addce3d0bc0982b54d1fd257003c41d2ccb56863013ab6a16d1060f7952d0ce7.webp",
-                    "description": "You can only play this where you have a 1-Cost card."
-                }
+                {}
             ]
         }
     ]
