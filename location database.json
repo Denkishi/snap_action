@@ -40,11 +40,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sage-f2d8e991191fd67fb3c8e95c0ab6ddd29590497e187fa315c29a27691f2c3e5b.webp",
-                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/LivingTribunal_07-5eb39cc554886dca41247e7baee5be2aea8a8cf8b60a4ac4c93674015d5b5ce6.webp",
                     "description": "Ongoing: Split your total Power evenly among all locations."
                 },
