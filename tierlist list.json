@@ -1,57 +1,53 @@
 {
-    "date": "May 15, 2024",
+    "date": "May 16, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Cerebro 3"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Move (Feat. Nocturne)"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Hela Corvus (Feat. Blink)"
+            "name": "Pixie Hammer"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Bounce 🆕"
+            "name": "Good Cards Blink 🆕"
         },
         {
             "tier": "Tier 1",
-            "name": "Junk"
+            "name": "Ongoing"
         },
         {
             "tier": "Tier 1",
-            "name": "DeathJunk 🔼"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Ongoing 🆕"
+            "name": "Hela Tribunal 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Patriot 🆕"
+            "name": "Phoenix Force 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Loki 🔽"
+            "name": "Hela Corvus 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Discard Dracula 🆕"
+            "name": "Cerebro 3 🆕"
         },
         {
             "tier": "Tier 2",
-            "name": "Supergiant Control 🆕"
+            "name": "DeathJunk 🔽"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Loki"
         },
         {
             "tier": "Tier 3",
-            "name": "Hammer Control 🔽"
+            "name": "Junk 🔽"
         },
         {
             "tier": "Tier 3",
-            "name": "Electro Ramp (Feat. Blink) 🆕"
+            "name": "Patriot 🔽"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy 🆕"
         }
     ]
 }
