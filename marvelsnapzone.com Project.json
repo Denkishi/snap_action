@@ -95,7 +95,6 @@
         },
         {
             "name": "Good Cards Blink",
-            "surname": "Good Cards Blink",
             "code": "eyJOYW1lIjoiR29vZCBDYXJkcyBCbGluayIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJOZWJ1bGEifSx7IkNhcmREZWZJZCI6IldoaXRlV2lkb3cifSx7IkNhcmREZWZJZCI6IkplZmZUaGVCYWJ5TGFuZFNoYXJrIn0seyJDYXJkRGVmSWQiOiJRdWFrZSJ9LHsiQ2FyZERlZklkIjoiUmVkR3VhcmRpYW4ifSx7IkNhcmREZWZJZCI6Ik5vY3R1cm5lIn0seyJDYXJkRGVmSWQiOiJKdWJpbGVlIn0seyJDYXJkRGVmSWQiOiJMZWVjaCJ9LHsiQ2FyZERlZklkIjoiS2xhdyJ9LHsiQ2FyZERlZklkIjoiQmxpbmsifSx7IkNhcmREZWZJZCI6IlJlZEh1bGsifSx7IkNhcmREZWZJZCI6Ik1hZ25ldG8ifV19",
             "cards": [
                 {
@@ -138,7 +137,6 @@
         },
         {
             "name": "Ongoing",
-            "surname": "Ongoing",
             "code": "eyJOYW1lIjoiT25nb2luZyIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJBbnRNYW4ifSx7IkNhcmREZWZJZCI6Ik5pZ2h0Y3Jhd2xlciJ9LHsiQ2FyZERlZklkIjoiSmVmZlRoZUJhYnlMYW5kU2hhcmsifSx7IkNhcmREZWZJZCI6IlVTQWdlbnQifSx7IkNhcmREZWZJZCI6IkNvc21vIn0seyJDYXJkRGVmSWQiOiJKZWFuR3JleSJ9LHsiQ2FyZERlZklkIjoiTHVrZUNhZ2UifSx7IkNhcmREZWZJZCI6Ik5vY3R1cm5lIn0seyJDYXJkRGVmSWQiOiJNc01hcnZlbCJ9LHsiQ2FyZERlZklkIjoiSXJvbk1hbiJ9LHsiQ2FyZERlZklkIjoiS2xhdyJ9LHsiQ2FyZERlZklkIjoiT25zbGF1Z2h0In1dfQ==",
             "cards": [
                 {
@@ -181,7 +179,6 @@
         },
         {
             "name": "Hela Tribunal",
-            "surname": "Hela Tribunal",
             "code": "eyJOYW1lIjoiSGVsYSBUcmlidW5hbCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJJbnZpc2libGVXb21hbiJ9LHsiQ2FyZERlZklkIjoiTWFnaWsifSx7IkNhcmREZWZJZCI6IlN1cGVyU2tydWxsIn0seyJDYXJkRGVmSWQiOiJTdXBlcmdpYW50In0seyJDYXJkRGVmSWQiOiJJcm9uTGFkIn0seyJDYXJkRGVmSWQiOiJJcm9uTWFuIn0seyJDYXJkRGVmSWQiOiJNb2RvayJ9LHsiQ2FyZERlZklkIjoiSGVsYSJ9LHsiQ2FyZERlZklkIjoiT25zbGF1Z2h0In0seyJDYXJkRGVmSWQiOiJSZWRIdWxrIn0seyJDYXJkRGVmSWQiOiJMaXZpbmdUcmlidW5hbCJ9LHsiQ2FyZERlZklkIjoiSW5maW5hdXQifV19",
             "cards": [
                 {
@@ -266,7 +263,6 @@
         },
         {
             "name": "Phoenix Force",
-            "surname": "Phoenix Force",
             "code": "eyJOYW1lIjoiUGhvZW5peCBGb3JjZSIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJIdW1hblRvcmNoIn0seyJDYXJkRGVmSWQiOiJOaWNvTWlub3J1In0seyJDYXJkRGVmSWQiOiJDYXJuYWdlIn0seyJDYXJkRGVmSWQiOiJEb2N0b3JTdHJhbmdlIn0seyJDYXJkRGVmSWQiOiJNdWx0aXBsZU1hbiJ9LHsiQ2FyZERlZklkIjoiVmVub20ifSx7IkNhcmREZWZJZCI6IkRlYXRobG9rIn0seyJDYXJkRGVmSWQiOiJTaHVyaSJ9LHsiQ2FyZERlZklkIjoiVGhlUGhvZW5peEZvcmNlIn0seyJDYXJkRGVmSWQiOiJUYXNrbWFzdGVyIn0seyJDYXJkRGVmSWQiOiJOaW1yb2QifSx7IkNhcmREZWZJZCI6IkFybmltWm9sYSJ9XX0=",
             "cards": [
                 {
@@ -309,7 +305,6 @@
         },
         {
             "name": "Hela Corvus",
-            "surname": "Hela Corvus",
             "code": "eyJOYW1lIjoiSGVsYSBDb3J2dXMiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQmxhZGUifSx7IkNhcmREZWZJZCI6IkNvcnZ1c0dsYWl2ZSJ9LHsiQ2FyZERlZklkIjoiTGFkeVNpZiJ9LHsiQ2FyZERlZklkIjoiRHJhY3VsYSJ9LHsiQ2FyZERlZklkIjoiSnViaWxlZSJ9LHsiQ2FyZERlZklkIjoiR2hvc3RSaWRlciJ9LHsiQ2FyZERlZklkIjoiQmxhY2tDYXQifSx7IkNhcmREZWZJZCI6IkhlbGEifSx7IkNhcmREZWZJZCI6Ik1hZ25ldG8ifSx7IkNhcmREZWZJZCI6IkdpZ2FudG8ifSx7IkNhcmREZWZJZCI6IkluZmluYXV0In0seyJDYXJkRGVmSWQiOiJEZWF0aCJ9XX0=",
             "cards": [
                 {
@@ -352,7 +347,6 @@
         },
         {
             "name": "Cerebro 3",
-            "surname": "Cerebro 3",
             "code": "eyJOYW1lIjoiQ2VyZWJybyAzIiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IkJhc3QifSx7IkNhcmREZWZJZCI6IkplZmZUaGVCYWJ5TGFuZFNoYXJrIn0seyJDYXJkRGVmSWQiOiJRdWFrZSJ9LHsiQ2FyZERlZklkIjoiUmF2b25uYVJlbnNsYXllciJ9LHsiQ2FyZERlZklkIjoiU2VudGluZWwifSx7IkNhcmREZWZJZCI6IlVTQWdlbnQifSx7IkNhcmREZWZJZCI6IkNlcmVicm8ifSx7IkNhcmREZWZJZCI6Ik15c3RpcXVlIn0seyJDYXJkRGVmSWQiOiJLaWxsbW9uZ2VyIn0seyJDYXJkRGVmSWQiOiJNb2JpdXNNTW9iaXVzIn0seyJDYXJkRGVmSWQiOiJJcm9uTWFuIn0seyJDYXJkRGVmSWQiOiJWYWxreXJpZSJ9XX0=",
             "cards": [
                 {
@@ -395,7 +389,6 @@
         },
         {
             "name": "DeathJunk",
-            "surname": "DeathJunk",
             "code": "eyJOYW1lIjoiRGVhdGhKdW5rIiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6Ikhvb2QifSx7IkNhcmREZWZJZCI6Ik5pY29NaW5vcnUifSx7IkNhcmREZWZJZCI6IlNxdWlycmVsR2lybCJ9LHsiQ2FyZERlZklkIjoiWDIzIn0seyJDYXJkRGVmSWQiOiJCdWNreUJhcm5lcyJ9LHsiQ2FyZERlZklkIjoiQ2FybmFnZSJ9LHsiQ2FyZERlZklkIjoiS2lsbG1vbmdlciJ9LHsiQ2FyZERlZklkIjoiU2VudHJ5In0seyJDYXJkRGVmSWQiOiJBbm5paGlsdXMifSx7IkNhcmREZWZJZCI6IkxhZHlEZWF0aHN0cmlrZSJ9LHsiQ2FyZERlZklkIjoiTW9ja2luZ2JpcmQifSx7IkNhcmREZWZJZCI6IkRlYXRoIn1dfQ==",
             "cards": [
                 {
@@ -438,7 +431,6 @@
         },
         {
             "name": "Loki",
-            "surname": "Loki",
             "code": "eyJOYW1lIjoiTG9raSIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJLaXR0eVByeWRlIn0seyJDYXJkRGVmSWQiOiJRdWluamV0In0seyJDYXJkRGVmSWQiOiJTbm93Z3VhcmQifSx7IkNhcmREZWZJZCI6IkFuZ2VsYSJ9LHsiQ2FyZERlZklkIjoiQ2FibGUifSx7IkNhcmREZWZJZCI6IkplZmZUaGVCYWJ5TGFuZFNoYXJrIn0seyJDYXJkRGVmSWQiOiJFbHNhQmxvb2RzdG9uZSJ9LHsiQ2FyZERlZklkIjoiUmVkR3VhcmRpYW4ifSx7IkNhcmREZWZJZCI6IkFnZW50Q291bHNvbiJ9LHsiQ2FyZERlZklkIjoiTm9jdHVybmUifSx7IkNhcmREZWZJZCI6Ikxva2kifSx7IkNhcmREZWZJZCI6Ik1vY2tpbmdiaXJkIn1dfQ==",
             "cards": [
                 {
@@ -481,7 +473,6 @@
         },
         {
             "name": "Junk",
-            "surname": "Junk",
             "code": "eyJOYW1lIjoiSnVuayIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJOZWJ1bGEifSx7IkNhcmREZWZJZCI6IlRpdGFuaWEifSx7IkNhcmREZWZJZCI6IkRhcmVkZXZpbCJ9LHsiQ2FyZERlZklkIjoiV2hpdGVXaWRvdyJ9LHsiQ2FyZERlZklkIjoiSmVmZlRoZUJhYnlMYW5kU2hhcmsifSx7IkNhcmREZWZJZCI6IlJhdm9ubmFSZW5zbGF5ZXIifSx7IkNhcmREZWZJZCI6IkdyZWVuR29ibGluIn0seyJDYXJkRGVmSWQiOiJEZWJyaWkifSx7IkNhcmREZWZJZCI6IlByb2Zlc3NvclgifSx7IkNhcmREZWZJZCI6IkNhbm5vbmJhbGwifSx7IkNhcmREZWZJZCI6IkRvY3Rvck9jdG9wdXMifSx7IkNhcmREZWZJZCI6IlJlZEh1bGsifV19",
             "cards": [
                 {
@@ -524,7 +515,6 @@
         },
         {
             "name": "Patriot",
-            "surname": "Patriot",
             "code": "eyJOYW1lIjoiUGF0cmlvdCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJXYXNwIn0seyJDYXJkRGVmSWQiOiJTcXVpcnJlbEdpcmwifSx7IkNhcmREZWZJZCI6IkRhenpsZXIifSx7IkNhcmREZWZJZCI6Ik15c3RlcmlvIn0seyJDYXJkRGVmSWQiOiJQYXRyaW90In0seyJDYXJkRGVmSWQiOiJXYXZlIn0seyJDYXJkRGVmSWQiOiJJcm9uTGFkIn0seyJDYXJkRGVmSWQiOiJJcm9uTWFuIn0seyJDYXJkRGVmSWQiOiJCbHVlTWFydmVsIn0seyJDYXJkRGVmSWQiOiJNb2NraW5nYmlyZCJ9LHsiQ2FyZERlZklkIjoiT25zbGF1Z2h0In0seyJDYXJkRGVmSWQiOiJVbHRyb24ifV19",
             "cards": [
                 {
@@ -567,7 +557,6 @@
         },
         {
             "name": "Destroy",
-            "surname": "Destroy",
             "code": "eyJOYW1lIjoiRGVzdHJveSIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJEZWFkcG9vbCJ9LHsiQ2FyZERlZklkIjoiTmljb01pbm9ydSJ9LHsiQ2FyZERlZklkIjoiWDIzIn0seyJDYXJkRGVmSWQiOiJDYXJuYWdlIn0seyJDYXJkRGVmSWQiOiJXb2x2ZXJpbmUifSx7IkNhcmREZWZJZCI6Ikh1bGtidXN0ZXIifSx7IkNhcmREZWZJZCI6IktpbGxtb25nZXIifSx7IkNhcmREZWZJZCI6IlZlbm9tIn0seyJDYXJkRGVmSWQiOiJEZWF0aGxvayJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IktudWxsIn0seyJDYXJkRGVmSWQiOiJEZWF0aCJ9XX0=",
             "cards": [
                 {
