@@ -338,7 +338,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-84499da62c343ce655802e8992a0ef59e214b9dd3411663948f9bcb63cbb60fe.webp",
                     "description": "After each turn, move to another location if you're losing here."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-0422035c2e8e07eb5c2d2dd9f7d6d7126ea10378432db3f0b6152dc601e0189a.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Galactus_14-e271a84059892bdaf50f68f64c37131d2ad13e407f2fc856f74f65a964ab446d.webp",
@@ -358,6 +362,11 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-e4acbb89f83ce1f7fede3beed6664d31e245db7593453a682feb8aa1cc913fc3.webp",
                     "description": "Ongoing: +2 Power for each card in your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-545d71da515093656d0edc62798861e581d9512ca1e148424ece7d622818bd6d.webp",
+                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
                 },
                 {
                     "name": "SNAP.FAN App",
