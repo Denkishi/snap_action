@@ -250,11 +250,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Phastos-cf5b5a550dedcf7a99fd20aa9a5875ec4d61d31bb307591832faee52cfeee124.webp",
-                    "description": "On Reveal: Give each card in your deck -1 Cost or +2 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-1eca485543c9d90eb54307d704431cd6ecc40582d9861f6df8237fa7e25782d2.webp",
                     "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
