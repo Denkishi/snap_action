@@ -388,11 +388,7 @@
         {
             "date": "Jul 30 - Aug 6",
             "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/CassandraNova-4932a1ed4832cb2e78d03d5e2690d16ad8b060a830ceef0e494fd83e13ce7f67.webp",
-                    "description": "On Reveal: Drain 1 Power from each card in your opponent's deck."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-e7fe379a9a838ef940413217fb5df9003ded3fd1f8db5d8ceec9f1d3a0f10af3.webp",
