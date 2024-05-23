@@ -23,11 +23,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Nocturne-b67f4c66c266706c6830d023d5a5f59e840732310240343ea163d706b7eef2f7.webp",
                     "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_04-3980e8c1f2b7aa916b2bdc89ab3596f458d1427c8e8f65410a51b7784f9870fa.webp",
-                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Nocturne_07-134dba9b91ef2fd8cb42d2050b93af442b7e67943edd43f342bce7f46f4c4c45.webp",
@@ -150,7 +146,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-bde3d0e0a9b378dc90742fb714dfc2c0d507ac8102bbdd6751d0d7c3c414a934.webp",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
                 {
@@ -165,7 +161,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-290d7a483e53a1ba01a4db3a31d3995854fe51bcfe0fc40b4825f73bb3df978b.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-bde3d0e0a9b378dc90742fb714dfc2c0d507ac8102bbdd6751d0d7c3c414a934.webp",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
                 {
