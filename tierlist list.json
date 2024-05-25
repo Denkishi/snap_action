@@ -1,53 +1,53 @@
 {
-    "date": "May 20, 2024",
+    "date": "May 25, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Pixie Hammer"
+            "name": "Loki Control"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Proactive Bounce"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Cerebro 3"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "On Reveal"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Blink 🆕"
+            "name": "DeathJunk 🔼"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Ravonna Lockdown 🆕"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Junk 🔼"
         },
         {
             "tier": "Tier 1",
             "name": "Ongoing"
         },
         {
-            "tier": "Tier 1",
-            "name": "Hela Tribunal 🆕"
+            "tier": "Tier 2",
+            "name": "Hela Corvus"
         },
         {
             "tier": "Tier 2",
-            "name": "Phoenix Force 🆕"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Hela Corvus 🆕"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Cerebro 3 🆕"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "DeathJunk 🔽"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Loki"
+            "name": "Destroy 🔼"
         },
         {
             "tier": "Tier 3",
-            "name": "Junk 🔽"
+            "name": "Bounce Darkhawk 🆕"
         },
         {
             "tier": "Tier 3",
-            "name": "Patriot 🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroy 🆕"
+            "name": "Patriot"
         }
     ]
 }
