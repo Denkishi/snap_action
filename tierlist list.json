@@ -1,1 +1,53 @@
-{}
+{
+    "date": "May 29, 2024",
+    "Tiers": [
+        {
+            "tier": "Silent Performer",
+            "name": "Loki Control"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Proactive Bounce"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Cerebro 3"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "On Reveal"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "DeathJunk 🔼"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Ravonna Lockdown 🆕"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Junk 🔼"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Ongoing"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Hela Corvus"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Destroy 🔼"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce Darkhawk 🆕"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Patriot"
+        }
+    ]
+}
