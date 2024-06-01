@@ -53,11 +53,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-dd4b941f24e8fc3c3f7e286005f7a0f5195cf928bc29464d1c5302dbb29967e1.webp",
                     "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-53c171b0ff4ca78668e4fa14a57f5e6d4c8d853c59f99971c1cb52875fa85a5a.webp",
-                    "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if able)"
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-bd82d1c0cd4dad0d11c03315c64869a30d90ae419dd03cb7ca1606d28331b221.webp",
