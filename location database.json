@@ -23,7 +23,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Thena-ab98cf244d9ad34e9c743829f24544cd6e771e4a7f011a2d36ed30968f2a0ffc.webp",
                     "description": "After each turn, +3 Power if you played (exactly) 2 cards."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-bde3d0e0a9b378dc90742fb714dfc2c0d507ac8102bbdd6751d0d7c3c414a934.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-e9a485a875ccd55b2d879a1357b86c672335fd6a023398e3dbe3dd6d1edbe73d.webp",
