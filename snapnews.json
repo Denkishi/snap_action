@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: The Celestials’ Finest",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_06_04_07_57_18/1173152376586_s506334.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7296800681082559237",
+            "date": "06/04/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "Patch Notes - June 04, 2024",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_06_04_07_51_07/835359539809_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296800681082575621",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_04_04_04_16_58/232286181811_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296765558303791878",
             "date": "04/04/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "New Season: Thunderbolts",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_04_01_03_09_34/996610962136_s517559.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296765558303775494",
-            "date": "04/02/2024",
             "label": "NEWS"
         }
     ]
