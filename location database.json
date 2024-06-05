@@ -28,17 +28,16 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-b00433dcf94e342a7a683df77b5a2bd8294b0b8d6cbf11bca7861ac90adce176.webp",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-4f657c78ade792943d01d960e5b0ab340fe31393e9da3aa0831f9d0771f97171.webp",
+                    "description": "On Reveal: Discard your hand."
+                }
             ]
         },
         {
             "date": "Jun 11 - Jun 18",
             "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Sersi-883007daf945c2609e542458e6f12c89f56def41871fed03c189ed3331b9caf7.webp",
-                    "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if able)"
-                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-77fc8927d8d99545dce7eedc006a80a7deb85f85ca21ac2d39c5f959a0636667.webp",
@@ -64,14 +63,6 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-551ad212a67efcf5b988eae1decb266b0edfbf7d59fd9eb905647babc51404a1.webp",
                     "description": "When you discard a card, this gains +1 Power and can move next turn."
                 }
-            ]
-        },
-        {
-            "date": "Jun 11 - Jun 18",
-            "cards": [
-                {},
-                {},
-                {}
             ]
         },
         {
@@ -110,14 +101,6 @@
             ]
         },
         {
-            "date": "Jun 18 - Jun 25",
-            "cards": [
-                {},
-                {},
-                {}
-            ]
-        },
-        {
             "date": "Jun 25 - Jul 2",
             "cards": [
                 {
@@ -153,14 +136,6 @@
             ]
         },
         {
-            "date": "Jun 25 - Jul 2",
-            "cards": [
-                {},
-                {},
-                {}
-            ]
-        },
-        {
             "date": "Jul 2 - Jul 9",
             "cards": [
                 {
@@ -193,14 +168,6 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-7e0f136c58e444b6fff04305d3ecc7d3e1736e0a3d7b118fa2e1c26af65fdbca.webp",
                     "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
                 }
-            ]
-        },
-        {
-            "date": "Jul 2 - Jul 9",
-            "cards": [
-                {},
-                {},
-                {}
             ]
         },
         {
