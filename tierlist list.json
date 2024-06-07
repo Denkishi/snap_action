@@ -1,37 +1,25 @@
 {
-    "date": "June 6, 2024",
+    "date": "June 7, 2024",
     "Tiers": [
-        {
-            "tier": "Silent Performer",
-            "name": "Hammer Control"
-        },
         {
             "tier": "Tier 1",
             "name": "Ravonna Lockdown"
         },
         {
             "tier": "Tier 1",
-            "name": "On Reveal 🔼"
+            "name": "Junk"
         },
         {
             "tier": "Tier 1",
-            "name": "SkaMora 🆕"
+            "name": "On Reveal"
         },
         {
             "tier": "Tier 1",
-            "name": "Silver Surfer 🆕"
+            "name": "Loki"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Blink 🆕"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Loki Bounce 🔼"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Phoenix Tribunal 🆕"
+            "name": "Good Cards Blink"
         },
         {
             "tier": "Tier 2",
@@ -39,27 +27,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Hela Tribunal 🆕"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Pixie Junk 🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroy 🔽"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Ongoing 🔽"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Patriot"
         },
         {
+            "tier": "Tier 2",
+            "name": "Kazoolgamesh"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Negative Tribunal"
+        },
+        {
             "tier": "Tier 3",
-            "name": "Bounce"
+            "name": "Hela Tribunal"
         }
     ]
 }
