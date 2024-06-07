@@ -420,7 +420,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_03-b8cf488fcd37543b9b87b1bba6a9f941e067f86c99868c5212b75961365ee1e9.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_03-b8cf488fcd37543b9b87b1bba6a9f941e067f86c99868c5212b75961365ee1e9.webp",
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
                     "name": "SNAP.FAN App",
