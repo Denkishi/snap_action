@@ -233,7 +233,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Ajax-b69e2ee7badb2c45b06d46f8a1530f24bbfc369daa521ab2f1ddcc0948732219.webp",
                     "description": "Ongoing: +1 Power for each card in play afflicted with negative Power."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-1dff15da282c8129620c646df62a3e1f7dd72cbca9a92172b1e21418e790f868.webp",
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-8f9c06798053d2922ca368b352ff11cafed537e80f2255de7d0f74be3eff8b40.webp",
@@ -386,6 +390,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-223a4266bfc4f20fce5329867af2171454e6e2ef0e98b3555aabb17ec8a526e4.webp",
+                    "description": "On Reveal: Copy the text of your deck's top card."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Speed-8897094ead899fe2fa525bfe80e52ceeef127d931c0bd19da339e8c14596825e.webp",
                     "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
                 },
@@ -396,7 +405,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-223a4266bfc4f20fce5329867af2171454e6e2ef0e98b3555aabb17ec8a526e4.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-223a4266bfc4f20fce5329867af2171454e6e2ef0e98b3555aabb17ec8a526e4.webp",
+                    "description": "On Reveal: Copy the text of your deck's top card."
                 }
             ]
         },
