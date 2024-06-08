@@ -15,11 +15,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-4f657c78ade792943d01d960e5b0ab340fe31393e9da3aa0831f9d0771f97171.webp",
-                    "description": "On Reveal: Discard your hand."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Thena-9a09c711c8cdd61f218ccefa67a07aeadaed36887d8f637edeb3202cef6806f8.webp",
                     "description": "After each turn, +3 Power if you played (exactly) 2 cards."
                 },
@@ -220,7 +215,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-1dff15da282c8129620c646df62a3e1f7dd72cbca9a92172b1e21418e790f868.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-1dff15da282c8129620c646df62a3e1f7dd72cbca9a92172b1e21418e790f868.webp",
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck."
                 },
                 {
                     "name": "SNAP.FAN App",
