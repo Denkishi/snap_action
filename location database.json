@@ -98,21 +98,12 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-168fe30c58afd4f71cffd755dfa3e307d30643824ee28cc296187ff0708f7703.webp",
                     "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-3361be5d1d989ebd0c89ab0a9471b3a8e5823e0ce66b09b90e8757079ac116c6.webp",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
-                }
+                {}
             ]
         },
         {
             "date": "Jun 25 - Jul 2",
             "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Phastos-4927b1ac49c8b005958ede37eb3b04bc003acd4a8655e529472b4573a03895d0.webp",
-                    "description": "On Reveal: Give each card in your deck -1 Cost or +2 Power."
-                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-7efef3d3ed930eb2127be38ef8b8ff3c255119307f1a43d69aff3ad39a0a9bdd.webp",
@@ -343,6 +334,11 @@
         {
             "date": "Aug 13 - Aug 20",
             "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-4badf2235ce381d65282a5475474eb78c4010e6956e6184721920c57fcaea4b0.webp",
+                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-ba36c2bde74a9ffb5001a8a27639a90b038a2f90634b78fdd3111d57f21f2213.webp",
