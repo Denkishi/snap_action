@@ -28,7 +28,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-b00433dcf94e342a7a683df77b5a2bd8294b0b8d6cbf11bca7861ac90adce176.webp",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-4f657c78ade792943d01d960e5b0ab340fe31393e9da3aa0831f9d0771f97171.webp",
+                    "description": "On Reveal: Discard your hand."
+                }
             ]
         },
         {
@@ -341,7 +345,8 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-4badf2235ce381d65282a5475474eb78c4010e6956e6184721920c57fcaea4b0.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-4badf2235ce381d65282a5475474eb78c4010e6956e6184721920c57fcaea4b0.webp",
+                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -365,7 +370,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-92ea86b03d4631816de4ad63c00fbe594a80b589f5346b57fc31e17f1ea54d5d.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-92ea86b03d4631816de4ad63c00fbe594a80b589f5346b57fc31e17f1ea54d5d.webp",
+                    "description": "On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost."
                 }
             ]
         },
