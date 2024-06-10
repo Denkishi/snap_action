@@ -398,7 +398,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Speed-8897094ead899fe2fa525bfe80e52ceeef127d931c0bd19da339e8c14596825e.webp",
                     "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_08-4b508c5d4ea5d8bf6b7d285e97775f969cc37475129b3cfcc21a1df58fa9e5c3.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-223a4266bfc4f20fce5329867af2171454e6e2ef0e98b3555aabb17ec8a526e4.webp",
