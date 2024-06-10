@@ -345,7 +345,8 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-4badf2235ce381d65282a5475474eb78c4010e6956e6184721920c57fcaea4b0.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-4badf2235ce381d65282a5475474eb78c4010e6956e6184721920c57fcaea4b0.webp",
+                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
                 },
                 {
                     "name": "SNAP.FAN App",
