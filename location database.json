@@ -18,9 +18,21 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-4f657c78ade792943d01d960e5b0ab340fe31393e9da3aa0831f9d0771f97171.webp",
                     "description": "On Reveal: Discard your hand."
                 },
-                {},
-                {},
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena-9a09c711c8cdd61f218ccefa67a07aeadaed36887d8f637edeb3202cef6806f8.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-b00433dcf94e342a7a683df77b5a2bd8294b0b8d6cbf11bca7861ac90adce176.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-4f657c78ade792943d01d960e5b0ab340fe31393e9da3aa0831f9d0771f97171.webp",
+                    "description": "On Reveal: Discard your hand."
+                }
             ]
         },
         {
