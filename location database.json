@@ -28,7 +28,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-b00433dcf94e342a7a683df77b5a2bd8294b0b8d6cbf11bca7861ac90adce176.webp",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-4f657c78ade792943d01d960e5b0ab340fe31393e9da3aa0831f9d0771f97171.webp",
+                    "description": "On Reveal: Discard your hand."
+                }
             ]
         },
         {
@@ -59,11 +63,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-168fe30c58afd4f71cffd755dfa3e307d30643824ee28cc296187ff0708f7703.webp",
                     "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/X23_11-3361be5d1d989ebd0c89ab0a9471b3a8e5823e0ce66b09b90e8757079ac116c6.webp",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
-                }
+                {}
             ]
         },
         {
