@@ -45,11 +45,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-168fe30c58afd4f71cffd755dfa3e307d30643824ee28cc296187ff0708f7703.webp",
-                    "description": "After the turn, runs from your hand to a random location. (if possible)"
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/X23_11-3361be5d1d989ebd0c89ab0a9471b3a8e5823e0ce66b09b90e8757079ac116c6.webp",
                     "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
                 },
