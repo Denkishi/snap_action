@@ -28,11 +28,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-b00433dcf94e342a7a683df77b5a2bd8294b0b8d6cbf11bca7861ac90adce176.webp",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-4f657c78ade792943d01d960e5b0ab340fe31393e9da3aa0831f9d0771f97171.webp",
-                    "description": "On Reveal: Discard your hand."
-                }
+                {}
             ]
         },
         {
@@ -248,6 +244,11 @@
         {
             "date": "Jul 30 - Aug 6",
             "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-64b2a229ef1b64c9711a63ee0193479ca5835b56f87396f40b016906e35a8fd8.webp",
+                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-f404e2171f6e5b3e189a569bdc62dce2229419d10a908ae5a15fb700c9253c0b.webp",
