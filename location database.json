@@ -168,7 +168,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-e47720964eb11665b877a92cfc50c8bd68f20190637f4f1852a2aa0eaa4aac92.webp",
                     "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus_14-dc4c17a533bf72c12a000009f2cbac85e89af2565c37b42cf496915d1c1ace1b.webp",
+                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations."
+                }
             ]
         },
         {
