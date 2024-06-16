@@ -1,25 +1,25 @@
 {
-    "date": "June 10, 2024",
+    "date": "June 16, 2024",
     "Tiers": [
         {
-            "tier": "Tier 1",
-            "name": "Ravonna Lockdown"
+            "tier": "Silent Performer",
+            "name": "Phoenix Force"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Good Cards Discard"
         },
         {
             "tier": "Tier 1",
-            "name": "Junk"
+            "name": "Kazoolgamesh"
         },
         {
             "tier": "Tier 1",
-            "name": "On Reveal"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Loki"
+            "name": "Sera Control"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Blink"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 2",
@@ -27,19 +27,23 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Patriot"
+            "name": "Silver Surfer"
         },
         {
             "tier": "Tier 2",
-            "name": "Kazoolgamesh"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Negative Tribunal"
+            "name": "Loki"
         },
         {
             "tier": "Tier 3",
-            "name": "Hela Tribunal"
+            "name": "Junk"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "On Reveal"
         }
     ]
 }
