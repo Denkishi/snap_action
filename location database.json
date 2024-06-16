@@ -40,6 +40,11 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Makkari-36c47524d357d0e7c6c31717f3f6a27f42d4bc97a28310605f37d8870b8d81c3.webp",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Makkari_07-02dddfbc254ec047eb651ef992e51c290e0a4d96f29264ce38eb5cf8d2af541c.webp",
                     "description": "After the turn, runs from your hand to a random location. (if possible)"
                 },
@@ -72,6 +77,11 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Phastos-4927b1ac49c8b005958ede37eb3b04bc003acd4a8655e529472b4573a03895d0.webp",
                     "description": "On Reveal: Give each card in your deck -1 Cost or +2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-7efef3d3ed930eb2127be38ef8b8ff3c255119307f1a43d69aff3ad39a0a9bdd.webp",
+                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
                 },
                 {
                     "name": "SNAP.FAN App",
