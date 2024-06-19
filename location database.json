@@ -23,7 +23,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Thena-9a09c711c8cdd61f218ccefa67a07aeadaed36887d8f637edeb3202cef6806f8.webp",
                     "description": "After each turn, +3 Power if you played (exactly) 2 cards."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_05-b00433dcf94e342a7a683df77b5a2bd8294b0b8d6cbf11bca7861ac90adce176.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Modok_10-4f657c78ade792943d01d960e5b0ab340fe31393e9da3aa0831f9d0771f97171.webp",
@@ -78,11 +82,6 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-f5169c81b4d3552a46befa8758d5d90ba667d794e0541e09d98deece02b50b0d.webp",
                     "description": "The first time another card moves here each turn, move it to another location."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-7e0f136c58e444b6fff04305d3ecc7d3e1736e0a3d7b118fa2e1c26af65fdbca.webp",
-                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -254,7 +253,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy-9622287df20de998eebbf6ce788d2243f21152d72d34e1e62a2fb149fd9503f8.webp",
                     "description": "After each turn, give 3 of your 1-Cost cards +2 Power."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-a83eca675ad6a9d63dd0f32315a37193c13ecf6dec8a4227aea6e975cf57dcae.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy_02-dfa52a403ac6a3629ff563ffed46f64db4bce583b3a11d4c986f043ad6ee2c70.webp",
