@@ -85,6 +85,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-7e0f136c58e444b6fff04305d3ecc7d3e1736e0a3d7b118fa2e1c26af65fdbca.webp",
+                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Arishem-491a716f355692caf691c7307c22e6102f092eedb99e0fe70c0423296c2d1c84.webp",
                     "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
                 },
