@@ -1,21 +1,29 @@
 {
-    "date": "June 19, 2024",
+    "date": "June 24, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Phoenix Force"
+            "name": "Hammer Pixie"
         },
         {
             "tier": "Silent Performer",
-            "name": "Good Cards Discard"
+            "name": "Double Up Makkari"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Junk"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Ravonna"
         },
         {
             "tier": "Tier 1",
             "name": "Kazoolgamesh"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Sera Control"
         },
         {
             "tier": "Tier 2",
@@ -23,27 +31,47 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Hela Corvus"
+            "name": "Phoenix Force"
         },
         {
             "tier": "Tier 2",
-            "name": "Silver Surfer"
+            "name": "Good Cards Discard Blink"
         },
         {
             "tier": "Tier 2",
-            "name": "Loki"
+            "name": "On Reveal"
         },
         {
-            "tier": "Tier 3",
-            "name": "Junk"
+            "tier": "Tier 2",
+            "name": "DeathJunk"
         },
         {
-            "tier": "Tier 3",
+            "tier": "Tier 2",
             "name": "Bounce"
         },
         {
             "tier": "Tier 3",
-            "name": "On Reveal"
+            "name": "Sera Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Hela"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Galactus"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Loki"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula"
         }
     ]
 }
