@@ -260,6 +260,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian_06-e9754f9467360f965175c80553908918f2796c268323122c76e73a1088d26389.webp",
+                    "description": "You can only play this where you have a 1-Cost card."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat-00434915457a5cfa826d855c47e598cb1f31b9001a23d1122a06355f346417fb.webp",
                     "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 },
@@ -441,8 +446,48 @@
             ]
         },
         {
+            "date": "Sep 3 - Sep 10",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-f58ac6fc1b41463e59eaa7b1e07a1c5474474e5252d53237db79e26a949d251d.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-b9e3e67acab9c4d7ca98087874337e558b57bb6c7ff51d8f19221756e3fef49f.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-377ba57d9db66a9afc70a4d2aa8cb8d1fe9a521da7691b3e2f9f53e202022a50.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-f58ac6fc1b41463e59eaa7b1e07a1c5474474e5252d53237db79e26a949d251d.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-b9e3e67acab9c4d7ca98087874337e558b57bb6c7ff51d8f19221756e3fef49f.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-377ba57d9db66a9afc70a4d2aa8cb8d1fe9a521da7691b3e2f9f53e202022a50.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                }
+            ]
+        },
+        {
             "date": "Sep 10 - Sep 17",
             "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-a7002be0d9bde4816a82b7ddbceee71830e2423a54bdaf578bc3a3d0feaf3688.webp",
+                    "description": "Ongoing: You can move one of your other cards away from here each turn."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-13e00fd81bfd4eb40540f01a78d52f63cf3dc34db053aeb7297acfba9c3b2630.webp",
@@ -452,6 +497,11 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Alioth_07-45e95b1848e179878d92a90077facf06216ba6a6ead4d46234a473b6db46f066.webp",
                     "description": "On Reveal: Remove the text from all unrevealed enemy cards here."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-a7002be0d9bde4816a82b7ddbceee71830e2423a54bdaf578bc3a3d0feaf3688.webp",
+                    "description": "Ongoing: You can move one of your other cards away from here each turn."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -470,8 +520,28 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-38102ad9f716270ab74b5a0c385af7cc2b0d2d6073137512ceba3addb8682dfb.webp",
+                    "description": "Activate: Give the last card you played +2 Power and move it to the right."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-5b6020af314312108a4e6a10f2dc5fc32951d7416024874fb59ab609d91756bb.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Sage_03-d972b326c5291b6ae57dacdbb0a92223f69c496afd6b851f99cc9b66c1dbfefe.webp",
                     "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-38102ad9f716270ab74b5a0c385af7cc2b0d2d6073137512ceba3addb8682dfb.webp",
+                    "description": "Activate: Give the last card you played +2 Power and move it to the right."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-5b6020af314312108a4e6a10f2dc5fc32951d7416024874fb59ab609d91756bb.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -487,6 +557,11 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider-047ba030d79ecd9ed97f54bfcc49669454b0e8d6bbe4303b5b41644a308afab2.webp",
                     "description": "Activate: Add an exact clone of this to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_06-8dd0ff11a4934b4cfff772aa2c3ea9cfde9dfc588cef3faffb9a246c97c7995e.webp",
+                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 },
                 {
                     "name": "SNAP.FAN App",
