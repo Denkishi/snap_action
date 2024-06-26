@@ -45,11 +45,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ThePhoenixForce_07-2dcf8d16343322768facad853947e086a718aecbb63276c879630aa2515a4931.webp",
-                    "description": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Miek_05-84464e9c1385f394c19c84fccb8fed8db48d928537c86a4fc5371d9e96d4f2cb.webp",
                     "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
