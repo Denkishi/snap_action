@@ -225,11 +225,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-18587a6c1600c184538a4ea8a61cf2c300740524f162fc6b48ebec8881f3a5f7.webp",
-                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Ajax-30b17e11dabc880aa24e3f6ae19df7615bb9335bd8064eca9503aec4b5922222.webp",
                     "description": "Ongoing: +1 Power for each card in play afflicted with negative Power."
                 },
