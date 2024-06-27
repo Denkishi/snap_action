@@ -115,11 +115,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SpiderHam_10-7efef3d3ed930eb2127be38ef8b8ff3c255119307f1a43d69aff3ad39a0a9bdd.webp",
-                    "description": "On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/CorvusGlaive_04-dfdce1ed24ecf907dc60ae86aab0c197970f3b686aedead0a8a5d18724be0de5.webp",
                     "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 },
