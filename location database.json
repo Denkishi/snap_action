@@ -370,7 +370,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-6d2905e3d7299f3e280821db53e31f20259970ec00227a9d9830eeed84a688b9.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-6d2905e3d7299f3e280821db53e31f20259970ec00227a9d9830eeed84a688b9.webp",
+                    "description": "On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost."
                 }
             ]
         },
