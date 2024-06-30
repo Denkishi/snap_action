@@ -3,11 +3,7 @@
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Hammer Pixie"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Double Up Makkari"
+            "name": "Zabu Discard"
         },
         {
             "tier": "Tier 1",
@@ -15,31 +11,23 @@
         },
         {
             "tier": "Tier 1",
+            "name": "Small Good Cards"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Silver Surfer"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Ravonna"
+            "name": "On Reveal"
         },
         {
             "tier": "Tier 1",
+            "name": "Good Cards Blink"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Kazoolgamesh"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Phoenix Force"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Discard Blink"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "On Reveal"
         },
         {
             "tier": "Tier 2",
@@ -47,19 +35,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce"
+            "name": "Electro Ramp"
         },
         {
-            "tier": "Tier 3",
-            "name": "Sera Control"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroy"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Hela"
+            "tier": "Tier 2",
+            "name": "Mill"
         },
         {
             "tier": "Tier 3",
@@ -67,11 +47,19 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Loki"
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Phoenix Force"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Loki"
         }
     ]
 }
