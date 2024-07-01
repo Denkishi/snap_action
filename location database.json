@@ -59,7 +59,7 @@
                     "description": "After each turn, this moves if a player Snapped."
                 },
                 {
-                    "name": "Switch now",
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-1f0ed3213752f5810d8649135e18bc4a46fc091e5a34709db5000cb0be990759.webp",
                     "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 },
@@ -242,6 +242,11 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Speed-0fd4b08d999374622b8be0fb6ffcc3925b70e0ac659a17608f2e6892a06f8ff4.webp",
                     "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_08-af3bfa4f091952e3c50e1a3ca3cf50e060db902079ff33bb868650e83cfccec8.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
                 },
                 {
                     "name": "SNAP.FAN App",
