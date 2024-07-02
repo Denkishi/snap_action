@@ -18,11 +18,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-1ab3352d41802aa59f8695ffc1428a0abf2838305b73a2044abc34b79e6219d7.webp",
                     "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-491a716f355692caf691c7307c22e6102f092eedb99e0fe70c0423296c2d1c84.webp",
-                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-e8cafd685144c4941be728453bfc2978fad0f08b8a4d0fb820eb07eae59881c7.webp",
@@ -417,11 +413,6 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider-047ba030d79ecd9ed97f54bfcc49669454b0e8d6bbe4303b5b41644a308afab2.webp",
                     "description": "Activate: Add an exact clone of this to another location."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_06-8dd0ff11a4934b4cfff772aa2c3ea9cfde9dfc588cef3faffb9a246c97c7995e.webp",
-                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 },
                 {
                     "name": "SNAP.FAN App",
