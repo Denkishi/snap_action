@@ -23,7 +23,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Arishem-491a716f355692caf691c7307c22e6102f092eedb99e0fe70c0423296c2d1c84.webp",
                     "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-e8cafd685144c4941be728453bfc2978fad0f08b8a4d0fb820eb07eae59881c7.webp",
+                    "description": "The first time another card moves here each turn, move it to another location."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-1ab3352d41802aa59f8695ffc1428a0abf2838305b73a2044abc34b79e6219d7.webp",
