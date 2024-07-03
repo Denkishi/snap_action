@@ -1,1 +1,449 @@
-{}
+{
+    "spotlight": [
+        {
+            "date": "Jul 2 - Jul 9",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-491a716f355692caf691c7307c22e6102f092eedb99e0fe70c0423296c2d1c84.webp",
+                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-e8cafd685144c4941be728453bfc2978fad0f08b8a4d0fb820eb07eae59881c7.webp",
+                    "description": "The first time another card moves here each turn, move it to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-1ab3352d41802aa59f8695ffc1428a0abf2838305b73a2044abc34b79e6219d7.webp",
+                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-491a716f355692caf691c7307c22e6102f092eedb99e0fe70c0423296c2d1c84.webp",
+                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-e8cafd685144c4941be728453bfc2978fad0f08b8a4d0fb820eb07eae59881c7.webp",
+                    "description": "The first time another card moves here each turn, move it to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_05-1ab3352d41802aa59f8695ffc1428a0abf2838305b73a2044abc34b79e6219d7.webp",
+                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+                }
+            ]
+        },
+        {
+            "date": "Jul 9 - Jul 16",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-b92ff3b70d282629624075885dd83706bcadb7cd8e939ec3d4bf612b57272179.webp",
+                    "description": "After each turn, this moves if a player Snapped."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-1f0ed3213752f5810d8649135e18bc4a46fc091e5a34709db5000cb0be990759.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus_14-ffd124089bd1df38c132f7b80cd327b9348140380f4a059fb126260bed564bee.webp",
+                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-b92ff3b70d282629624075885dd83706bcadb7cd8e939ec3d4bf612b57272179.webp",
+                    "description": "After each turn, this moves if a player Snapped."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-1f0ed3213752f5810d8649135e18bc4a46fc091e5a34709db5000cb0be990759.webp",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus_14-ffd124089bd1df38c132f7b80cd327b9348140380f4a059fb126260bed564bee.webp",
+                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations."
+                }
+            ]
+        },
+        {
+            "date": "Jul 16 - Jul 23",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Ajax-52814fbaf50f5c3c310bb2b1e38ac6031428610b0967e7ad2c926bad6949d86f.webp",
+                    "description": "Ongoing: +1 Power for each card in play afflicted with negative Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-ed62b954ed1bfc291bf479f0a87c222c610c595546721c00f7a1c8fde30e76b5.webp",
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-18587a6c1600c184538a4ea8a61cf2c300740524f162fc6b48ebec8881f3a5f7.webp",
+                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Ajax-52814fbaf50f5c3c310bb2b1e38ac6031428610b0967e7ad2c926bad6949d86f.webp",
+                    "description": "Ongoing: +1 Power for each card in play afflicted with negative Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-ed62b954ed1bfc291bf479f0a87c222c610c595546721c00f7a1c8fde30e76b5.webp",
+                    "description": "Ongoing: +2 Power for each card in your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/BetaRayBill_04-18587a6c1600c184538a4ea8a61cf2c300740524f162fc6b48ebec8881f3a5f7.webp",
+                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
+                }
+            ]
+        },
+        {
+            "date": "Jul 23 - Jul 30",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-00434915457a5cfa826d855c47e598cb1f31b9001a23d1122a06355f346417fb.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-b175f3fcf569b40f2235a8ce0aca933032415082d0420ee829ab41f3d3da0b59.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian_06-e9754f9467360f965175c80553908918f2796c268323122c76e73a1088d26389.webp",
+                    "description": "You can only play this where you have a 1-Cost card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-00434915457a5cfa826d855c47e598cb1f31b9001a23d1122a06355f346417fb.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-b175f3fcf569b40f2235a8ce0aca933032415082d0420ee829ab41f3d3da0b59.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian_06-e9754f9467360f965175c80553908918f2796c268323122c76e73a1088d26389.webp",
+                    "description": "You can only play this where you have a 1-Cost card."
+                }
+            ]
+        },
+        {
+            "date": "Jul 30 - Aug 6",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-64b2a229ef1b64c9711a63ee0193479ca5835b56f87396f40b016906e35a8fd8.webp",
+                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-1530ed634cd51b4409fa283776a4dd8b3950550976e3347eb62e97115c614a14.webp",
+                    "description": "After you play a card here, you get +1 Energy next turn."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-64b2a229ef1b64c9711a63ee0193479ca5835b56f87396f40b016906e35a8fd8.webp",
+                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-1530ed634cd51b4409fa283776a4dd8b3950550976e3347eb62e97115c614a14.webp",
+                    "description": "After you play a card here, you get +1 Energy next turn."
+                }
+            ]
+        },
+        {
+            "date": "Aug 6 - Aug 13",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy-9c7f362cfa1a909a1fd77676a6f2aafa1b12cfec5b7abf983c87a2219140e4ed.webp",
+                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-e3b5be552ad2023bdf9f532aa0e6600705f361a09efd820ade95ac607c07c441.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy_02-0647f6efeae25719c6a0a4cbf4d97b1bcdda7fd8740ca651f956d294316bb9aa.webp",
+                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy-9c7f362cfa1a909a1fd77676a6f2aafa1b12cfec5b7abf983c87a2219140e4ed.webp",
+                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-e3b5be552ad2023bdf9f532aa0e6600705f361a09efd820ade95ac607c07c441.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy_02-0647f6efeae25719c6a0a4cbf4d97b1bcdda7fd8740ca651f956d294316bb9aa.webp",
+                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+                }
+            ]
+        },
+        {
+            "date": "Aug 13 - Aug 20",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-864434d23802ba403dc5ad4f45a69dab0f787fac77213eca3d955e584cc61fad.webp",
+                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-6dd20030c3d585708f1123534594ce774d2f34ba2632bd8f334ed77dec769330.webp",
+                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-6d2905e3d7299f3e280821db53e31f20259970ec00227a9d9830eeed84a688b9.webp",
+                    "description": "On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-864434d23802ba403dc5ad4f45a69dab0f787fac77213eca3d955e584cc61fad.webp",
+                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-6dd20030c3d585708f1123534594ce774d2f34ba2632bd8f334ed77dec769330.webp",
+                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-6d2905e3d7299f3e280821db53e31f20259970ec00227a9d9830eeed84a688b9.webp",
+                    "description": "On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost."
+                }
+            ]
+        },
+        {
+            "date": "Aug 20 - Aug 27",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Speed-0fd4b08d999374622b8be0fb6ffcc3925b70e0ac659a17608f2e6892a06f8ff4.webp",
+                    "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_08-af3bfa4f091952e3c50e1a3ca3cf50e060db902079ff33bb868650e83cfccec8.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-bee037360441bbf119cffcf15a6781dc7b960d1e527be942e0c148b50e41d49f.webp",
+                    "description": "On Reveal: Copy the text of your deck's top card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Speed-0fd4b08d999374622b8be0fb6ffcc3925b70e0ac659a17608f2e6892a06f8ff4.webp",
+                    "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeffTheBabyLandShark_08-af3bfa4f091952e3c50e1a3ca3cf50e060db902079ff33bb868650e83cfccec8.webp",
+                    "description": "You can move this once. Nothing can stop you from moving or playing this to any location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-bee037360441bbf119cffcf15a6781dc7b960d1e527be942e0c148b50e41d49f.webp",
+                    "description": "On Reveal: Copy the text of your deck's top card."
+                }
+            ]
+        },
+        {
+            "date": "Aug 27 - Sep 3",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling-8b524f5d291a017de31e0c68877db20def7f6e50ea3b27d7fd09a6a54716e5e1.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_03-6accd29820ee7273921559f4f474ceb1b48613e1c99b9203b086932e3eb85404.webp",
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling_02-cf695fb7d768b2045b678b682c6c3978e5a210eb2d46b2cbb8873cd4ceb6d6f8.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling-8b524f5d291a017de31e0c68877db20def7f6e50ea3b27d7fd09a6a54716e5e1.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_03-6accd29820ee7273921559f4f474ceb1b48613e1c99b9203b086932e3eb85404.webp",
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling_02-cf695fb7d768b2045b678b682c6c3978e5a210eb2d46b2cbb8873cd4ceb6d6f8.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
+                }
+            ]
+        },
+        {
+            "date": "Sep 3 - Sep 10",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-f58ac6fc1b41463e59eaa7b1e07a1c5474474e5252d53237db79e26a949d251d.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-b9e3e67acab9c4d7ca98087874337e558b57bb6c7ff51d8f19221756e3fef49f.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-377ba57d9db66a9afc70a4d2aa8cb8d1fe9a521da7691b3e2f9f53e202022a50.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-f58ac6fc1b41463e59eaa7b1e07a1c5474474e5252d53237db79e26a949d251d.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-b9e3e67acab9c4d7ca98087874337e558b57bb6c7ff51d8f19221756e3fef49f.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-377ba57d9db66a9afc70a4d2aa8cb8d1fe9a521da7691b3e2f9f53e202022a50.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                }
+            ]
+        },
+        {
+            "date": "Sep 10 - Sep 17",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-a7002be0d9bde4816a82b7ddbceee71830e2423a54bdaf578bc3a3d0feaf3688.webp",
+                    "description": "Ongoing: You can move one of your other cards away from here each turn."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-13e00fd81bfd4eb40540f01a78d52f63cf3dc34db053aeb7297acfba9c3b2630.webp",
+                    "description": "After ANY card is played here, this moves to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth_07-bf8dff2ab87dd03b36e00856772053eb843e1fb850f4019a4d83b8e98bdcfa31.webp",
+                    "description": "On Reveal: Remove the text from all unrevealed enemy cards here."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-a7002be0d9bde4816a82b7ddbceee71830e2423a54bdaf578bc3a3d0feaf3688.webp",
+                    "description": "Ongoing: You can move one of your other cards away from here each turn."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-13e00fd81bfd4eb40540f01a78d52f63cf3dc34db053aeb7297acfba9c3b2630.webp",
+                    "description": "After ANY card is played here, this moves to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth_07-bf8dff2ab87dd03b36e00856772053eb843e1fb850f4019a4d83b8e98bdcfa31.webp",
+                    "description": "On Reveal: Remove the text from all unrevealed enemy cards here."
+                }
+            ]
+        },
+        {
+            "date": "Sep 17 - Sep 24",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-38102ad9f716270ab74b5a0c385af7cc2b0d2d6073137512ceba3addb8682dfb.webp",
+                    "description": "Activate: Give the last card you played +2 Power and move it to the right."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-5b6020af314312108a4e6a10f2dc5fc32951d7416024874fb59ab609d91756bb.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage_03-d972b326c5291b6ae57dacdbb0a92223f69c496afd6b851f99cc9b66c1dbfefe.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-38102ad9f716270ab74b5a0c385af7cc2b0d2d6073137512ceba3addb8682dfb.webp",
+                    "description": "Activate: Give the last card you played +2 Power and move it to the right."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-5b6020af314312108a4e6a10f2dc5fc32951d7416024874fb59ab609d91756bb.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Sage_03-d972b326c5291b6ae57dacdbb0a92223f69c496afd6b851f99cc9b66c1dbfefe.webp",
+                    "description": "On Reveal: +2 Power for each different Power among all other cards here."
+                }
+            ]
+        },
+        {
+            "date": "Sep 24 - Oct 1",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider-047ba030d79ecd9ed97f54bfcc49669454b0e8d6bbe4303b5b41644a308afab2.webp",
+                    "description": "Activate: Add an exact clone of this to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_06-8dd0ff11a4934b4cfff772aa2c3ea9cfde9dfc588cef3faffb9a246c97c7995e.webp",
+                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider_02-22e99107f45b2f394a69dc407832cbe52e5d00365aeed2ec625b1dce6ac4e3e7.webp",
+                    "description": "Activate: Add an exact clone of this to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider-047ba030d79ecd9ed97f54bfcc49669454b0e8d6bbe4303b5b41644a308afab2.webp",
+                    "description": "Activate: Add an exact clone of this to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_06-8dd0ff11a4934b4cfff772aa2c3ea9cfde9dfc588cef3faffb9a246c97c7995e.webp",
+                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider_02-22e99107f45b2f394a69dc407832cbe52e5d00365aeed2ec625b1dce6ac4e3e7.webp",
+                    "description": "Activate: Add an exact clone of this to another location."
+                }
+            ]
+        }
+    ]
+}
