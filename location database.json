@@ -393,7 +393,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Sage_03-d972b326c5291b6ae57dacdbb0a92223f69c496afd6b851f99cc9b66c1dbfefe.webp",
                     "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-38102ad9f716270ab74b5a0c385af7cc2b0d2d6073137512ceba3addb8682dfb.webp",
+                    "description": "Activate: Give the last card you played +2 Power and move it to the right."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-5b6020af314312108a4e6a10f2dc5fc32951d7416024874fb59ab609d91756bb.webp",
