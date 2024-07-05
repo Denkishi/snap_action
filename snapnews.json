@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Deadpool Domination",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_05_12_17_50/149078723883_s336026.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7298290871080999685",
+            "date": "07/05/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "Power Up Your Decks with New Bundles!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_06_28_09_30_04/236658194147_s1319579.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7298290871080966917",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_05_23_16_09_27/1401076940909_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296800681082493701",
             "date": "05/23/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "The Drop Is Coming",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_05_13_21_45_24/110080908341_s1251333.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296765558303906566",
-            "date": "05/13/2024",
             "label": "NEWS"
         }
     ]
