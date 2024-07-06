@@ -2,64 +2,36 @@
     "date": "July 6, 2024",
     "Tiers": [
         {
-            "tier": "Silent Performer",
-            "name": "Zabu Discard"
+            "tier": "Tier 1",
+            "name": "Good Cards Ravonna"
         },
         {
             "tier": "Tier 1",
-            "name": "Junk"
+            "name": "Junk Move"
         },
         {
-            "tier": "Tier 1",
-            "name": "Small Good Cards"
+            "tier": "Tier 2",
+            "name": "Darkhawk Control"
         },
         {
-            "tier": "Tier 1",
-            "name": "Silver Surfer"
+            "tier": "Tier 2",
+            "name": "Arishem Loki"
         },
         {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
+            "name": "Toxic Surfer"
+        },
+        {
+            "tier": "Tier 2",
             "name": "On Reveal"
         },
         {
-            "tier": "Tier 1",
-            "name": "Good Cards Blink"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Kazoolgamesh"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "DeathJunk"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Electro Ramp"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Mill"
-        },
-        {
             "tier": "Tier 3",
-            "name": "Galactus"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Kazoo"
         },
         {
             "tier": "Tier 3",
             "name": "Phoenix Force"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroy"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Loki"
         }
     ]
 }

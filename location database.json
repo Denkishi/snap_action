@@ -110,6 +110,11 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat-00434915457a5cfa826d855c47e598cb1f31b9001a23d1122a06355f346417fb.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-b175f3fcf569b40f2235a8ce0aca933032415082d0420ee829ab41f3d3da0b59.webp",
                     "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 },
