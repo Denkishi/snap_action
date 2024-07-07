@@ -128,7 +128,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat-00434915457a5cfa826d855c47e598cb1f31b9001a23d1122a06355f346417fb.webp",
                     "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_02-b175f3fcf569b40f2235a8ce0aca933032415082d0420ee829ab41f3d3da0b59.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/CullObsidian_06-e9754f9467360f965175c80553908918f2796c268323122c76e73a1088d26389.webp",
@@ -279,12 +283,36 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_03-6accd29820ee7273921559f4f474ceb1b48613e1c99b9203b086932e3eb85404.webp",
                     "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling_02-cf695fb7d768b2045b678b682c6c3978e5a210eb2d46b2cbb8873cd4ceb6d6f8.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling-8b524f5d291a017de31e0c68877db20def7f6e50ea3b27d7fd09a6a54716e5e1.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Cannonball_03-6accd29820ee7273921559f4f474ceb1b48613e1c99b9203b086932e3eb85404.webp",
+                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling_02-cf695fb7d768b2045b678b682c6c3978e5a210eb2d46b2cbb8873cd4ceb6d6f8.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
+                }
             ]
         },
         {
             "date": "Sep 3 - Sep 10",
             "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-f58ac6fc1b41463e59eaa7b1e07a1c5474474e5252d53237db79e26a949d251d.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-b9e3e67acab9c4d7ca98087874337e558b57bb6c7ff51d8f19221756e3fef49f.webp",
@@ -305,7 +333,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-b9e3e67acab9c4d7ca98087874337e558b57bb6c7ff51d8f19221756e3fef49f.webp",
                     "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-377ba57d9db66a9afc70a4d2aa8cb8d1fe9a521da7691b3e2f9f53e202022a50.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                }
             ]
         },
         {
