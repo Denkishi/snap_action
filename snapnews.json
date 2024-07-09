@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Maximum Effort",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_08_03_12_38/426377336814_s419266.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7299710525754891013",
+            "date": "07/08/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "Deadpool Domination",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_05_12_17_50/149078723883_s336026.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7298290871080999685",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_06_04_07_51_07/835359539809_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296800681082575621",
             "date": "06/04/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "May 23rd - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_05_23_16_09_27/1401076940909_s34706.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296800681082493701",
-            "date": "05/23/2024",
             "label": "NEWS"
         }
     ]
