@@ -75,11 +75,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Ajax-52814fbaf50f5c3c310bb2b1e38ac6031428610b0967e7ad2c926bad6949d86f.webp",
-                    "description": "Ongoing: +1 Power for each card in play afflicted with negative Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Darkhawk_10-ed62b954ed1bfc291bf479f0a87c222c610c595546721c00f7a1c8fde30e76b5.webp",
                     "description": "Ongoing: +2 Power for each card in your opponent's deck."
                 },
