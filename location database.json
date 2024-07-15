@@ -5,11 +5,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arishem-491a716f355692caf691c7307c22e6102f092eedb99e0fe70c0423296c2d1c84.webp",
-                    "description": "At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Hercules_04-e8cafd685144c4941be728453bfc2978fad0f08b8a4d0fb820eb07eae59881c7.webp",
                     "description": "The first time another card moves here each turn, move it to another location."
                 },
@@ -47,11 +42,6 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-1f0ed3213752f5810d8649135e18bc4a46fc091e5a34709db5000cb0be990759.webp",
                     "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus_14-ffd124089bd1df38c132f7b80cd327b9348140380f4a059fb126260bed564bee.webp",
-                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations."
                 },
                 {
                     "name": "SNAP.FAN App",
