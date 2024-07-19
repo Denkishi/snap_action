@@ -40,11 +40,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-33ec6627743450a7c619ddb20a79bb077dec864a8902d0a9b4ed2a34bec538e4.webp",
-                    "description": "After each turn, this moves if a player Snapped."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-1f0ed3213752f5810d8649135e18bc4a46fc091e5a34709db5000cb0be990759.webp",
                     "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
                 },
