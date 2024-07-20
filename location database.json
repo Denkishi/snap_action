@@ -285,6 +285,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling_02-cf695fb7d768b2045b678b682c6c3978e5a210eb2d46b2cbb8873cd4ceb6d6f8.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Hulkling-8b524f5d291a017de31e0c68877db20def7f6e50ea3b27d7fd09a6a54716e5e1.webp",
                     "description": "At the start of the game, copy the text of a random 6-Cost card."
                 },
