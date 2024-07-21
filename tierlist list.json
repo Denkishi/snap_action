@@ -3,51 +3,43 @@
     "Tiers": [
         {
             "tier": "Tier 1",
-            "name": "Silver Surfer"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Good Cards Ravonna"
-        },
-        {
-            "tier": "Tier 1",
             "name": "Arishem Loki"
         },
         {
             "tier": "Tier 1",
-            "name": "Loki"
+            "name": "Darkhawk Stature"
         },
         {
-            "tier": "Tier 2",
-            "name": "Phoenix Force"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Junk Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Iron Patriot"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "On Reveal"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 3",
+            "tier": "Tier 1",
             "name": "Destroy"
         },
         {
-            "tier": "Tier 3",
-            "name": "Shuri Gwenpool"
+            "tier": "Tier 2",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Mockingbird"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Loki"
         },
         {
             "tier": "Tier 3",
-            "name": "Kazoo"
+            "name": "Good Cards Ajax"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockjaw Thor"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "On Reveal"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Junk"
         }
     ]
 }
