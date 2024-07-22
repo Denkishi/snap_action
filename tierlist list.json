@@ -1,1 +1,45 @@
-{}
+{
+    "date": "July 21, 2024",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Arishem Loki"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Darkhawk Stature"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Mockingbird"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Loki"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Good Cards Ajax"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockjaw Thor"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "On Reveal"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Junk"
+        }
+    ]
+}
