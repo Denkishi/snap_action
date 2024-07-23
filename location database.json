@@ -183,7 +183,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy_02-0647f6efeae25719c6a0a4cbf4d97b1bcdda7fd8740ca651f956d294316bb9aa.webp",
                     "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy-9c7f362cfa1a909a1fd77676a6f2aafa1b12cfec5b7abf983c87a2219140e4ed.webp",
+                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-e3b5be552ad2023bdf9f532aa0e6600705f361a09efd820ade95ac607c07c441.webp",
