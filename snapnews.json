@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Deadpool’s Diner",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_23_10_58_08/1196509253378_s609781.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7389829092872428293",
+            "date": "07/23/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "Limited-Time Bundle Deals available now!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_22_02_15_24/716320167373_s432571.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829092872379141",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_06_13_07_51_47/206861618391_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7296800681082624773",
             "date": "06/13/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "Dev Roadmap - June 2024",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_06_07_08_10_43/985000051760_s202147.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7296800681082608389",
-            "date": "06/07/2024",
             "label": "NEWS"
         }
     ]
