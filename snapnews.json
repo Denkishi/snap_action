@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Refer A Friend Event",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_26_17_08_34/356143847644_s447967.jpeg",
+            "page": "https://www.marvelsnap.com/referraljuly?from_source=sitenews",
+            "date": "07/26/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "New Weekly Login Rewards!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_25_11_42_49/432060286119_s1812051.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829092872444677",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_06_27_06_44_06/1464821303229_s34706.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7298290871080884997",
             "date": "06/27/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "Patch Notes - June 25, 2024",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_06_25_08_27_37/595027490760_s34706.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7298290871080852229",
-            "date": "06/25/2024",
             "label": "NEWS"
         }
     ]
