@@ -2,16 +2,24 @@
     "date": "July 26, 2024",
     "Tiers": [
         {
+            "tier": "Silent Performer",
+            "name": "Skarmora"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Silver Surfer"
+        },
+        {
             "tier": "Tier 1",
             "name": "Arishem Loki"
         },
         {
             "tier": "Tier 1",
-            "name": "Darkhawk Stature"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Destroy"
+            "name": "Good Cards Move"
         },
         {
             "tier": "Tier 2",
@@ -19,19 +27,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Mockingbird"
+            "name": "Darkhawk Stature"
         },
         {
             "tier": "Tier 2",
-            "name": "Loki"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Good Cards Ajax"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Lockjaw Thor"
+            "name": "Junk"
         },
         {
             "tier": "Tier 3",
@@ -39,7 +39,15 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Junk"
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Arishem High Evo"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockjaw Hammer"
         }
     ]
 }
