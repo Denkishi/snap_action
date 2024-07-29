@@ -45,11 +45,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Nebula_10-1f0ed3213752f5810d8649135e18bc4a46fc091e5a34709db5000cb0be990759.webp",
-                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Galactus_14-ffd124089bd1df38c132f7b80cd327b9348140380f4a059fb126260bed564bee.webp",
                     "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations."
                 },
@@ -143,6 +138,11 @@
         {
             "date": "Jul 30 - Aug 6",
             "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ProximaMidnight_04-64b2a229ef1b64c9711a63ee0193479ca5835b56f87396f40b016906e35a8fd8.webp",
+                    "description": "When this is discarded, jumps to your lowest-Power location. (that isn't full)"
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/HopeSummers_03-1530ed634cd51b4409fa283776a4dd8b3950550976e3347eb62e97115c614a14.webp",
