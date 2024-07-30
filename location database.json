@@ -333,11 +333,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-91a9f9ce001d02b519aed6dbc51e661bbb8a7442081b126cfd75c72cdbd89acc.webp",
                     "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-377ba57d9db66a9afc70a4d2aa8cb8d1fe9a521da7691b3e2f9f53e202022a50.webp",
-                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
-                }
+                {}
             ]
         },
         {
