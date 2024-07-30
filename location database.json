@@ -50,6 +50,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Galactus_14-b7b0e03176c0954c3aee858d247d511e5a170477c9d646fa98da841f49d256c5.webp",
+                    "description": "On Reveal: If you're winning this location and this is your only card here, destroy all other locations."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/HydraBob-a7916317493f0a5f716d5fea802e3ab923620a663a0152e737f082704c0feb57.webp",
                     "description": "After each turn, this moves if a player Snapped."
                 },
