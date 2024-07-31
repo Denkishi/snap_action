@@ -490,11 +490,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-ae9a4f42e01d789a6f5a77299d01de82f3a1bbaa0ac9a8aea5f92daf9b1e688f.webp",
-                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Misery_03-cb1dd2d567a2efeaf440f6ee9c95c5dd1e46620fecf3de14522e5225c96f540d.webp",
                     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
                 },
