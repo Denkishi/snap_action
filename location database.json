@@ -11,7 +11,7 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-205350fe36536b6dd0c7081ea774705910dd7966d41dbfc9ff06db210c388a0f.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power."
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -26,7 +26,7 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-205350fe36536b6dd0c7081ea774705910dd7966d41dbfc9ff06db210c388a0f.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power."
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -50,8 +50,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-1e36213375194f81ea0659fd2fef907ddfde504cc2568bab6329794b5514c733.webp",
-                    "description": "On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-ba858f9fc958e8f1e0389c3225472e15a064de49065b93bef4f1180790bafd64.webp",
+                    "description": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -65,8 +65,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-1e36213375194f81ea0659fd2fef907ddfde504cc2568bab6329794b5514c733.webp",
-                    "description": "On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-ba858f9fc958e8f1e0389c3225472e15a064de49065b93bef4f1180790bafd64.webp",
+                    "description": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card."
                 }
             ]
         },
@@ -325,7 +325,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-ae9a4f42e01d789a6f5a77299d01de82f3a1bbaa0ac9a8aea5f92daf9b1e688f.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-d0be61996d94030b331d4fea8b08dfd77d0fd67b7660e34d6f08472950db8905.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
@@ -340,7 +340,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-ae9a4f42e01d789a6f5a77299d01de82f3a1bbaa0ac9a8aea5f92daf9b1e688f.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-d0be61996d94030b331d4fea8b08dfd77d0fd67b7660e34d6f08472950db8905.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
