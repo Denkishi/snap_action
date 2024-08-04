@@ -198,7 +198,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-7236b22c1396eb77ac42406056eee9914ebef98e7ff0745bd043b06212ace159.webp",
                     "description": "Ongoing: You can move one of your other cards away from here each turn."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-995deb362ab07fdf60bcce23ab2fd80bbe8d834fde007dd6efe75ee5cac4fd3f.webp",
+                    "description": "After ANY card is played here, this moves to another location."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Alioth_07-f9eb2fbc03f42d06cd721968d0e25fd209ff4fc399c8dc2f0a922102c982a61a.webp",
