@@ -18,7 +18,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy_02-2ba1704c0526a803169696587f6105f1fcc75b90191ccfba8de646266686cc0b.webp",
                     "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy-d14318cc9a1dc665a1c19fb53146ab796ef7d4d762d32a0918139e091d016c06.webp",
+                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-205350fe36536b6dd0c7081ea774705910dd7966d41dbfc9ff06db210c388a0f.webp",
@@ -194,11 +198,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-7236b22c1396eb77ac42406056eee9914ebef98e7ff0745bd043b06212ace159.webp",
                     "description": "Ongoing: You can move one of your other cards away from here each turn."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-995deb362ab07fdf60bcce23ab2fd80bbe8d834fde007dd6efe75ee5cac4fd3f.webp",
-                    "description": "After ANY card is played here, this moves to another location."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Alioth_07-f9eb2fbc03f42d06cd721968d0e25fd209ff4fc399c8dc2f0a922102c982a61a.webp",
