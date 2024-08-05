@@ -2,12 +2,8 @@
     "date": "August 2, 2024",
     "Tiers": [
         {
-            "tier": "Silent Performer",
-            "name": "Skarmora"
-        },
-        {
             "tier": "Tier 1",
-            "name": "Mister Negative"
+            "name": "Midrange Sandman"
         },
         {
             "tier": "Tier 1",
@@ -15,39 +11,31 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Arishem Loki"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Good Cards Move"
+            "name": "Good Cards Thena"
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce"
+            "name": "Arishem Loki"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Kazoolgamesh"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Patriot"
         },
         {
             "tier": "Tier 2",
             "name": "Darkhawk Stature"
         },
         {
-            "tier": "Tier 2",
-            "name": "Junk"
+            "tier": "Tier 3",
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 3",
-            "name": "On Reveal"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroy"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Arishem High Evo"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Lockjaw Hammer"
+            "name": "Toxic Surfer"
         }
     ]
 }
