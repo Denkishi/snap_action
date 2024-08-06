@@ -23,11 +23,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy-d14318cc9a1dc665a1c19fb53146ab796ef7d4d762d32a0918139e091d016c06.webp",
                     "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-205350fe36536b6dd0c7081ea774705910dd7966d41dbfc9ff06db210c388a0f.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy_02-2ba1704c0526a803169696587f6105f1fcc75b90191ccfba8de646266686cc0b.webp",
