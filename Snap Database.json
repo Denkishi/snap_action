@@ -1064,7 +1064,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/havok.webp?v=217",
             "name": "Havok",
-            "ability": "After each turn, you lose 1 Max Energy and this gains +4 Power.",
             "cost": "2",
             "power": "0",
             "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
@@ -1166,21 +1165,10 @@
             "ability": "After you play a card here, you get +1 Energy next turn.",
             "cost": "3",
             "power": "4",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "516"
         },
         {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/howard-the-duck.webp?v=217",
-            "name": "Howard the Duck",
-            "ability": "Ongoing: Tap this to see the top card of your deck.",
-            "cost": "1",
-            "power": "2",
-            "pool": "Collection Level 486+ (Pool 3)",
-            "card_id": "444"
-        },
-        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulk.webp?v=217",
-            "name": "Hulk",
             "ability": "\"HULK SMASH!\"",
             "cost": "6",
             "power": "12",
