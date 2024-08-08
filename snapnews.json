@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Deadpool League",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_08_03_24_50/1356967254611_s228780.jpeg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7389829092880816901",
+            "date": "08/08/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "Get Ready for Rewards & Free Credits!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_07_02_11_33/582937747829_s2043225.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829092880800517",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_22_02_15_24/716320167373_s432571.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829092872379141",
             "date": "07/22/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "July 18th - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_18_08_44_00/721683508488_s34706.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7389829092872362757",
-            "date": "07/18/2024",
             "label": "NEWS"
         }
     ]
