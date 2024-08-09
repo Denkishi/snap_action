@@ -53,11 +53,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-ba858f9fc958e8f1e0389c3225472e15a064de49065b93bef4f1180790bafd64.webp",
                     "description": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-5b461f8d179d844c9b3deb4f574b93a8b720713041bd5279e2da76c8aed8fc16.webp",
-                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-3871710176b27b85f66b580d46bedd77cd449f28468c0441e35d51ccf185f1ec.webp",
