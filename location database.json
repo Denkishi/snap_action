@@ -50,6 +50,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-ba858f9fc958e8f1e0389c3225472e15a064de49065b93bef4f1180790bafd64.webp",
+                    "description": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-5b461f8d179d844c9b3deb4f574b93a8b720713041bd5279e2da76c8aed8fc16.webp",
                     "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
                 },
@@ -383,11 +388,6 @@
         {
             "date": "Oct 22 - Oct 29",
             "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Toxin-2f2d8128f3b4ddd5a4b794becfa8c4028329b4a1e55fec93d9255235c600e4e3.webp",
-                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
-                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-78a9244a3bb6a4eed0952c746f597e16723188013b609608423be0b796f1ffbe.webp",
