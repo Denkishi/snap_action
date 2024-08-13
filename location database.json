@@ -390,6 +390,11 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Toxin-2f2d8128f3b4ddd5a4b794becfa8c4028329b4a1e55fec93d9255235c600e4e3.webp",
+                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-78a9244a3bb6a4eed0952c746f597e16723188013b609608423be0b796f1ffbe.webp",
                     "description": "On Reveal: Until the end of next turn, your 4-Cost cards cost 1 less."
                 },
