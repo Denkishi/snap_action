@@ -10,7 +10,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-205350fe36536b6dd0c7081ea774705910dd7966d41dbfc9ff06db210c388a0f.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-a2770a4ac62cecb983a12ca4c103afdde4c8b0fdc25912d4be6c79050e11eac8.webp",
                     "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
                 },
                 {
@@ -25,7 +25,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-205350fe36536b6dd0c7081ea774705910dd7966d41dbfc9ff06db210c388a0f.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_02-a2770a4ac62cecb983a12ca4c103afdde4c8b0fdc25912d4be6c79050e11eac8.webp",
                     "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
                 },
                 {
@@ -40,32 +40,32 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-5b461f8d179d844c9b3deb4f574b93a8b720713041bd5279e2da76c8aed8fc16.webp",
-                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-452d79bd13b51765b6eae33b7634acdb1f308ac8b5f6e12623bf1db563703bde.webp",
+                    "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-3871710176b27b85f66b580d46bedd77cd449f28468c0441e35d51ccf185f1ec.webp",
-                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-b7a7e7288a7566991663c2c89a5a6453dd1949fe126bb0cc10b5f75d0b6731b8.webp",
+                    "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-ba858f9fc958e8f1e0389c3225472e15a064de49065b93bef4f1180790bafd64.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-935f1d6ddf98902b8b41a3879425cad7de21f38af1f6c56c3567349ba12b1fa0.webp",
                     "description": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card."
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-5b461f8d179d844c9b3deb4f574b93a8b720713041bd5279e2da76c8aed8fc16.webp",
-                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-452d79bd13b51765b6eae33b7634acdb1f308ac8b5f6e12623bf1db563703bde.webp",
+                    "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-3871710176b27b85f66b580d46bedd77cd449f28468c0441e35d51ccf185f1ec.webp",
-                    "description": "On Reveal: If you've spent all your Energy this game, +2 Max Energy."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-b7a7e7288a7566991663c2c89a5a6453dd1949fe126bb0cc10b5f75d0b6731b8.webp",
+                    "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-ba858f9fc958e8f1e0389c3225472e15a064de49065b93bef4f1180790bafd64.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-935f1d6ddf98902b8b41a3879425cad7de21f38af1f6c56c3567349ba12b1fa0.webp",
                     "description": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card."
                 }
             ]
@@ -215,6 +215,11 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-65910b23db2b7090f46a56c2e0040b792f7318b6a58ad4ce810e6d0fbdc6a41c.webp",
+                    "description": "Activate: Give the last card you played +2 Power and move it to the right."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-c79173655e00dabbcb46e676954b6b1c79cc8e3f1123cfe280ff449252fe779b.webp",
                     "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
                 },
@@ -285,7 +290,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-ea4d96103b231c6bea675ed6a17c4d4b4ffbabc44ec836806acd73ab1e0e2220.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
                 {
@@ -300,7 +305,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-ea4d96103b231c6bea675ed6a17c4d4b4ffbabc44ec836806acd73ab1e0e2220.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
                 {
@@ -320,7 +325,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-d0be61996d94030b331d4fea8b08dfd77d0fd67b7660e34d6f08472950db8905.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-18d509c9887ecee0263c274073d847652edd918e9da23d9fdbad62555bb0caee.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
@@ -335,7 +340,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-d0be61996d94030b331d4fea8b08dfd77d0fd67b7660e34d6f08472950db8905.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-18d509c9887ecee0263c274073d847652edd918e9da23d9fdbad62555bb0caee.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
