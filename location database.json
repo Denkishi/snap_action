@@ -368,7 +368,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-3de7a80ebfe72cfd3dc40c5aa92ce904a36b3e5d34ef95f2a67b2566ba71dc41.webp",
                     "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-c29dfccded89666b699ebb223526f2dfeffaf7fd812d4fb68782753919c6647f.webp",
+                    "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
@@ -409,7 +413,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-78a9244a3bb6a4eed0952c746f597e16723188013b609608423be0b796f1ffbe.webp",
                     "description": "On Reveal: Until the end of next turn, your 4-Cost cards cost 1 less."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-d45bb3bfce9799191e56f802fabee0ccabc73ea5b269a8abfc5572df9c2d58f5.webp",
+                    "description": "Each card you play to fill your side of a location gains +2 Power."
+                }
             ]
         },
         {
