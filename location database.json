@@ -40,11 +40,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Wiccan-452d79bd13b51765b6eae33b7634acdb1f308ac8b5f6e12623bf1db563703bde.webp",
-                    "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-b7a7e7288a7566991663c2c89a5a6453dd1949fe126bb0cc10b5f75d0b6731b8.webp",
                     "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 },
