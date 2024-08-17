@@ -120,7 +120,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling_02-67fe7dda6c38f14c11c78d8cc0db3b96abed2478a2cd5db923adcd741c66dbd9.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Hulkling_02-67fe7dda6c38f14c11c78d8cc0db3b96abed2478a2cd5db923adcd741c66dbd9.webp",
+                    "description": "At the start of the game, copy the text of a random 6-Cost card."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -394,7 +395,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-78a9244a3bb6a4eed0952c746f597e16723188013b609608423be0b796f1ffbe.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-78a9244a3bb6a4eed0952c746f597e16723188013b609608423be0b796f1ffbe.webp",
+                    "description": "On Reveal: Until the end of next turn, your 4-Cost cards cost 1 less."
                 },
                 {
                     "name": "SNAP.FAN App",
