@@ -2,20 +2,28 @@
     "date": "August 18, 2024",
     "Tiers": [
         {
+            "tier": "Silent Performer",
+            "name": "Good Cards Wiccan"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Galactus"
+        },
+        {
             "tier": "Tier 1",
             "name": "Arishem Loki"
         },
         {
-            "tier": "Tier 2",
-            "name": "Midrange Sandman"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Thena"
-        },
-        {
-            "tier": "Tier 2",
+            "tier": "Tier 1",
             "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Sandman Midrange"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Kazoo"
         },
         {
             "tier": "Tier 2",
@@ -23,15 +31,23 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Patriot"
+            "name": "Loki Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Phoenix Force"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Destroy"
         },
         {
             "tier": "Tier 3",
-            "name": "Galactus"
+            "name": "Junk Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Move Junk"
+            "name": "Discard"
         }
     ]
 }
