@@ -63,7 +63,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-b7a7e7288a7566991663c2c89a5a6453dd1949fe126bb0cc10b5f75d0b6731b8.webp",
                     "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-935f1d6ddf98902b8b41a3879425cad7de21f38af1f6c56c3567349ba12b1fa0.webp",
+                    "description": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card."
+                }
             ]
         },
         {
@@ -139,6 +143,11 @@
         {
             "date": "Sep 3 - Sep 10",
             "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-5768c4f384104ec09ab648efcfc3f0b75fbc57128aeaee9adca53debb108d3ba.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent’s deck."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-33182988a45521fa32f435b7a63c926d8ef3009c6d18e0760cf494c036f77644.webp",
