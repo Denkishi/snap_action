@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "BREAKING NEWS: JEFF DECLARED BEST BOI!",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_19_11_03_18/149922324620_s327265.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7389829962724842245",
+            "date": "08/19/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "August 15th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_15_08_02_46/257209202615_s34706.jpeg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829962724809477",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_25_11_42_49/432060286119_s1812051.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829092872444677",
             "date": "07/25/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "Deadpool’s Diner",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_07_23_10_58_08/1196509253378_s609781.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7389829092872428293",
-            "date": "07/23/2024",
             "label": "NEWS"
         }
     ]
