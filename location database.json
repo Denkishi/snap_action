@@ -100,7 +100,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-bac9cffafd14d1a1cb659394c21a2d6e19bc65a76932f85d1604a9f6d72a1143.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-bac9cffafd14d1a1cb659394c21a2d6e19bc65a76932f85d1604a9f6d72a1143.webp",
+                    "description": "On Reveal: Copy the text of your deck's top card."
                 }
             ]
         },
