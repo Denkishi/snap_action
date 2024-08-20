@@ -460,13 +460,8 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp",
-                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-893304305f4b69fcc70f2a89ecfc222c15dca8d3686973dea43776974005791b.webp",
-                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
+                    "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
+                    "description": "Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -477,6 +472,116 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-893304305f4b69fcc70f2a89ecfc222c15dca8d3686973dea43776974005791b.webp",
                     "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
+                    "description": "Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp",
+                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-893304305f4b69fcc70f2a89ecfc222c15dca8d3686973dea43776974005791b.webp",
+                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
+                }
+            ]
+        },
+        {
+            "date": "Nov 12 - Nov 19",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-ec328c1c276c0ceaa13ec6019d5ad2fc886e7214f68cb73c10e03e7c9f48d906.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga_04-f914521a9e4fb539542cbea5b61b55284d6967bbd6b5d69bd626f45f0001eb52.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena_08-1c8f3ee326fe79982d5ab4d53569cf9493a3e0151315157c92731b04ea7075e2.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-ec328c1c276c0ceaa13ec6019d5ad2fc886e7214f68cb73c10e03e7c9f48d906.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga_04-f914521a9e4fb539542cbea5b61b55284d6967bbd6b5d69bd626f45f0001eb52.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena_08-1c8f3ee326fe79982d5ab4d53569cf9493a3e0151315157c92731b04ea7075e2.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                }
+            ]
+        },
+        {
+            "date": "Nov 19 - Nov 26",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-164c05c62959c7b4f33ed122c9c5b33bd216b8815ee744bd8f46293e88790ff5.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-3851b28dc67265eddf4b688db6d0f4fdafa363f5c12b8f12caf020142301eaa8.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-164c05c62959c7b4f33ed122c9c5b33bd216b8815ee744bd8f46293e88790ff5.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-3851b28dc67265eddf4b688db6d0f4fdafa363f5c12b8f12caf020142301eaa8.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
+                }
+            ]
+        },
+        {
+            "date": "Nov 26 - Dec 3",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
+                    "description": "On Reveal: Replace each other location with this one."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
+                    "description": "On Reveal: Replace each other location with this one."
                 }
             ]
         }
