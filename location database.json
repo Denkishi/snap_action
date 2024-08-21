@@ -85,11 +85,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/IronLad_12-8c5327f57821d082355c1e1fb6b06b30c643bb5915159aba0e9d4fce3373d855.webp",
-                    "description": "On Reveal: Copy the text of your deck's top card."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Speed-704fd6607c8007bfa4441ae490ec44c80dbaa6cc0122b174b86b14d73dbfee17.webp",
                     "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
                 },
