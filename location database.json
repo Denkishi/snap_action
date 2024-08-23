@@ -480,7 +480,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp",
+                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
                 },
                 {
                     "name": "SNAP.FAN App",
