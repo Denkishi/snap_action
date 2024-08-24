@@ -1,13 +1,9 @@
 {
-    "date": "August 20, 2024",
+    "date": "August 24, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Good Cards Wiccan"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Galactus"
+            "name": "Discard Supergiant"
         },
         {
             "tier": "Tier 1",
@@ -23,7 +19,7 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Kazoo"
+            "name": "Good Cards Wiccan"
         },
         {
             "tier": "Tier 2",
@@ -31,23 +27,23 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Loki Bounce"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 2",
-            "name": "Phoenix Force"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Destroy"
+            "name": "KaZoo"
         },
         {
             "tier": "Tier 3",
-            "name": "Junk Move"
+            "name": "Ongoing"
         },
         {
             "tier": "Tier 3",
-            "name": "Discard"
+            "name": "Pure Evolutionary"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce Move"
         }
     ]
 }
