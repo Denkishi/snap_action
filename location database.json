@@ -63,11 +63,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Wiccan_02-b7a7e7288a7566991663c2c89a5a6453dd1949fe126bb0cc10b5f75d0b6731b8.webp",
                     "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Loki_10-935f1d6ddf98902b8b41a3879425cad7de21f38af1f6c56c3567349ba12b1fa0.webp",
-                    "description": "On Reveal: Replace your deck with your opponent's starting deck. Give them -1 Cost and draw a card."
-                }
+                {}
             ]
         },
         {
@@ -410,8 +406,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-dc914b76bf98708b007d4013a5912e20c7f2abe599d786fa65e40d1d9226db13.webp",
-                    "description": "On Reveal: Until the end of next turn, your 4-Cost cards cost 1 less."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-dc914b76bf98708b007d4013a5912e20c7f2abe599d786fa65e40d1d9226db13.webp"
                 },
                 {
                     "name": "SNAP.FAN App",
