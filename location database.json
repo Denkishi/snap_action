@@ -215,7 +215,8 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-973b13bd7893e8d99158e4df18b1fc34013f5dfa72f1d44696f261c5b47d3c68.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-973b13bd7893e8d99158e4df18b1fc34013f5dfa72f1d44696f261c5b47d3c68.webp",
+                    "description": "Activate: Give the next card you play +2 Power and move it to the right."
                 },
                 {
                     "name": "SNAP.FAN App",
