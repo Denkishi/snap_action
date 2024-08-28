@@ -255,6 +255,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_06-cd5bddd070a07c96029ad80e9323e2cf269a520274d186370d164acba41af43e.webp",
+                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider_02-ceb643f1aed101f8a9faaf781b28e85ca851ed54bb142441303a198254cd5417.webp",
                     "description": "Activate: Add an exact clone of this to another location."
                 },
