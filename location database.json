@@ -163,7 +163,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Scream-3160db5bcdeb197ba170ffe7e97bf1869d677098895e6017b19d82ca618a411f.webp",
                     "description": "When an enemy card moves, steal 2 Power from it. (once per turn)"
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
