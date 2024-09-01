@@ -3,11 +3,7 @@
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Discard Supergiant"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Arishem Loki"
+            "name": "Ongoing"
         },
         {
             "tier": "Tier 1",
@@ -15,7 +11,11 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Sandman Midrange"
+            "name": "KaZoo"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 2",
@@ -23,7 +23,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Stature Darkhawk"
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Loki"
         },
         {
             "tier": "Tier 2",
@@ -31,19 +35,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "KaZoo"
+            "name": "Stature Darkhawk"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Toxic Bounce"
         },
         {
             "tier": "Tier 3",
-            "name": "Ongoing"
+            "name": "Sandman Midrange"
         },
         {
             "tier": "Tier 3",
-            "name": "Pure Evolutionary"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Bounce Move"
+            "name": "Pixie Ramp"
         }
     ]
 }
