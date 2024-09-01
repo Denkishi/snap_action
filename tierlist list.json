@@ -1,1 +1,53 @@
-{}
+{
+    "date": "September 1, 2024",
+    "Tiers": [
+        {
+            "tier": "Silent Performer",
+            "name": "Ongoing"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "KaZoo"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Wiccan"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Loki"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Stature Darkhawk"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Toxic Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Sandman Midrange"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Pixie Ramp"
+        }
+    ]
+}
