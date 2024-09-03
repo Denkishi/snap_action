@@ -10,6 +10,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-a8b050f02d0aea29549bcce2fa69aaf5e4a1816c01b8c28e393198b312b7d641.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-0cee94486abc300f68a6d0fbbce9a5ad25c2f88dfb7fde90acf8ca1f0ac07d49.webp",
                     "description": "On Reveal: Steal 2 Power from the top card of your opponent's deck."
                 },
@@ -37,11 +42,6 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-b531f395d076b09bbe1fb63da949b9673dda054ffab79a29dc8897c5b70de51a.webp",
                     "description": "Ongoing: You can move one of your other cards away from here each turn."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-98f9824c5900efb677caab5ebe0d422c4a27688c663755269ee02ac215d95785.webp",
-                    "description": "After ANY card is played here, this moves to another location."
                 },
                 {
                     "name": "SNAP.FAN App",
