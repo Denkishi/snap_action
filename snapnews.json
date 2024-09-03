@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: The Amazing Spider-Season",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_09_02_07_10_36/1476802999769_s419982.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7389829962724940549",
+            "date": "09/03/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "OUR FIRST BRAND NEW ABILITY: ACTIVATE!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_30_15_07_31/1110842427504_s255376.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829962724907781",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_05_09_21_00/825465286472_s495230.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829092880784133",
             "date": "08/05/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "August 1st - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_01_08_43_38/309310434098_s34706.jpeg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7389829092880767749",
-            "date": "08/01/2024",
             "label": "NEWS"
         }
     ]
