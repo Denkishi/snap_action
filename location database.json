@@ -3,7 +3,11 @@
         {
             "date": "Sep 3 - Sep 10",
             "cards": [
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-4d5b3d442713494ea7da570f0f2e47d083997fd258131a7d619db3df515507ac.webp",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent's deck."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-a8b050f02d0aea29549bcce2fa69aaf5e4a1816c01b8c28e393198b312b7d641.webp",
