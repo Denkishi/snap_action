@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Get Ready for Rewards & Free Credits!",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_09_04_06_44_08/852581461734_s889995.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7389829962724956933",
+            "date": "09/05/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "New Season: The Amazing Spider-Season",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_09_02_07_10_36/1476802999769_s419982.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829962724940549",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_07_02_11_33/582937747829_s2043225.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7389829092880800517",
             "date": "08/07/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "New Season: Young Avengers",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_08_05_09_21_00/825465286472_s495230.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7389829092880784133",
-            "date": "08/05/2024",
             "label": "NEWS"
         }
     ]
