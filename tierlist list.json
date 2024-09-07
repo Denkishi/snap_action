@@ -1,9 +1,33 @@
 {
-    "date": "September 5, 2024",
+    "date": "September 7, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Ongoing"
+            "name": "10 Power"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Midrange Sandman"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "KaZoo"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Junk"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Thena"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Patriot"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Arishem Loki"
         },
         {
             "tier": "Tier 1",
@@ -11,15 +35,7 @@
         },
         {
             "tier": "Tier 1",
-            "name": "KaZoo"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Wiccan"
+            "name": "Stature Darkhawk"
         },
         {
             "tier": "Tier 2",
@@ -27,27 +43,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Arishem Loki"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Stature Darkhawk"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Toxic Bounce"
+            "name": "Galactus"
         },
         {
             "tier": "Tier 3",
-            "name": "Sandman Midrange"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Pixie Ramp"
+            "name": "Discard Dracula"
         }
     ]
 }
