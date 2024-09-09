@@ -55,7 +55,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-b531f395d076b09bbe1fb63da949b9673dda054ffab79a29dc8897c5b70de51a.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-b531f395d076b09bbe1fb63da949b9673dda054ffab79a29dc8897c5b70de51a.webp",
+                    "description": "Ongoing: You can move one of your other cards away from here each turn."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -214,8 +215,7 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
-                    "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp"
                 },
                 {
                     "name": "SNAP.FAN App",
