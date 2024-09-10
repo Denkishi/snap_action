@@ -23,7 +23,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-4d5b3d442713494ea7da570f0f2e47d083997fd258131a7d619db3df515507ac.webp",
                     "description": "On Reveal: Steal 2 Power from the top card of your opponent's deck."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-a8b050f02d0aea29549bcce2fa69aaf5e4a1816c01b8c28e393198b312b7d641.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-0cee94486abc300f68a6d0fbbce9a5ad25c2f88dfb7fde90acf8ca1f0ac07d49.webp",
@@ -178,6 +182,11 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Misery-a8aefcd11d9c53a79472022b52ca50d7b64cbe2533ae17d22815aa79c5a7674a.webp",
                     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-18d509c9887ecee0263c274073d847652edd918e9da23d9fdbad62555bb0caee.webp",
+                    "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
                 {
                     "name": "SNAP.FAN App",
