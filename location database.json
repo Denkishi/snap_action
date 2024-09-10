@@ -290,7 +290,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_05-a84ba629dc5229881ce5ccdf46f93fb48c7b8be585f1d2b14fa6abb64fc6ac49.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_05-a84ba629dc5229881ce5ccdf46f93fb48c7b8be585f1d2b14fa6abb64fc6ac49.webp",
+                    "description": "On Reveal: All cards played next turn don't reveal until the game ends."
                 },
                 {
                     "name": "SNAP.FAN App",
