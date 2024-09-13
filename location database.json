@@ -260,7 +260,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-9c4b75023106673c9b838ed1148b5cf77929c3e3208e2d257c59384fe4eae41e.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-9c4b75023106673c9b838ed1148b5cf77929c3e3208e2d257c59384fe4eae41e.webp",
+                    "description": "Each card you play to fill your side of a location gains +2 Power."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -339,7 +340,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp",
+                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -353,8 +355,7 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-ec328c1c276c0ceaa13ec6019d5ad2fc886e7214f68cb73c10e03e7c9f48d906.webp",
-                    "description": "Unknown"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-ec328c1c276c0ceaa13ec6019d5ad2fc886e7214f68cb73c10e03e7c9f48d906.webp"
                 },
                 {
                     "name": "SNAP.FAN App",
