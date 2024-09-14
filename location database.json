@@ -128,11 +128,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider-e8aa01cd484f1a963cdca94b131912e9764f0922f317235302d6709d6c16cefc.webp",
                     "description": "Activate: Add an exact clone of this to another location."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Skaar_06-cd5bddd070a07c96029ad80e9323e2cf269a520274d186370d164acba41af43e.webp",
-                    "description": "Costs 2 less for each of your cards that has 10 or more Power."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ScarletSpider_02-ceb643f1aed101f8a9faaf781b28e85ca851ed54bb142441303a198254cd5417.webp",
@@ -215,7 +211,8 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
+                    "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
                 },
                 {
                     "name": "SNAP.FAN App",
