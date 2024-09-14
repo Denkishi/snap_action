@@ -1,53 +1,41 @@
 {
-    "date": "September 11, 2024",
+    "date": "September 14, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "10 Power"
+            "name": "Phoenix Nimrod"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Move Tribunal"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Ongoing"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Fast Junk Bounce"
         },
         {
             "tier": "Tier 1",
-            "name": "Midrange Sandman"
+            "name": "Lockdown"
         },
         {
-            "tier": "Tier 1",
-            "name": "KaZoo"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Junk"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Good Cards Thena"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Patriot"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Arishem Loki"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Silver Surfer"
-        },
-        {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
             "name": "Stature Darkhawk"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "KaZoo"
         },
         {
             "tier": "Tier 2",
             "name": "Destroy"
         },
         {
-            "tier": "Tier 2",
-            "name": "Galactus"
-        },
-        {
             "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Agatha Discard"
         }
     ]
 }

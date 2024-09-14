@@ -80,6 +80,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-2a37cc9609762993e2e319213474cad97a115162acafcc0ca057f909666e4c3d.webp",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Sage_03-06d50b3eca8ff7bbabe79d1806485fdbf7974c5e77af5891fa8fa83bbab56088.webp",
                     "description": "On Reveal: +2 Power for each different Power among all other cards here."
                 },
