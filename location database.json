@@ -58,11 +58,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-b531f395d076b09bbe1fb63da949b9673dda054ffab79a29dc8897c5b70de51a.webp",
                     "description": "Ongoing: You can move one of your other cards away from here each turn."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-98f9824c5900efb677caab5ebe0d422c4a27688c663755269ee02ac215d95785.webp",
-                    "description": "After ANY card is played here, this moves to another location."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Alioth_07-01f3635bb6cac25fed7d22b102552a790dffb248370552c0a1b25c814b8a539d.webp",
@@ -240,8 +236,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp",
-                    "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp"
                 }
             ]
         },
