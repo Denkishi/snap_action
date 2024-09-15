@@ -23,7 +23,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-4d5b3d442713494ea7da570f0f2e47d083997fd258131a7d619db3df515507ac.webp",
                     "description": "On Reveal: Steal 2 Power from the top card of your opponent's deck."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-7c6c13fac2cb121f23d0de6dd9f1b495af60f748b45a6fde24ca42e88b9ec312.webp",
+                    "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/SilverSable_08-0cee94486abc300f68a6d0fbbce9a5ad25c2f88dfb7fde90acf8ca1f0ac07d49.webp",
@@ -424,7 +428,16 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
                     "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
+                    "description": "On Reveal: Replace each other location with this one."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
