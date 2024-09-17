@@ -216,7 +216,7 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
-                    "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -231,7 +231,7 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
-                    "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -355,13 +355,13 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-ec328c1c276c0ceaa13ec6019d5ad2fc886e7214f68cb73c10e03e7c9f48d906.webp",
-                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-164c05c62959c7b4f33ed122c9c5b33bd216b8815ee744bd8f46293e88790ff5.webp",
+                    "description": "Unknown"
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga_04-f914521a9e4fb539542cbea5b61b55284d6967bbd6b5d69bd626f45f0001eb52.webp",
-                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-d70ce4792a58498aa0e131a79c9ebf849f57e4782095fe78ea1a914fa555b06e.webp",
+                    "description": "Unknown"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -370,13 +370,13 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-ec328c1c276c0ceaa13ec6019d5ad2fc886e7214f68cb73c10e03e7c9f48d906.webp",
-                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-164c05c62959c7b4f33ed122c9c5b33bd216b8815ee744bd8f46293e88790ff5.webp",
+                    "description": "Unknown"
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga_04-f914521a9e4fb539542cbea5b61b55284d6967bbd6b5d69bd626f45f0001eb52.webp",
-                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-d70ce4792a58498aa0e131a79c9ebf849f57e4782095fe78ea1a914fa555b06e.webp",
+                    "description": "Unknown"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -390,8 +390,8 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-164c05c62959c7b4f33ed122c9c5b33bd216b8815ee744bd8f46293e88790ff5.webp",
-                    "description": "Unknown"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-e50be3696e02329db2039e902dbec695286315220e8c3617f92e44083b9d30f3.webp",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -405,8 +405,8 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-164c05c62959c7b4f33ed122c9c5b33bd216b8815ee744bd8f46293e88790ff5.webp",
-                    "description": "Unknown"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-e50be3696e02329db2039e902dbec695286315220e8c3617f92e44083b9d30f3.webp",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -435,6 +435,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr_10-c585d6b4389d61a8d69d8fed086df5fe410336dca9b447c19eb0adb18b708db0.webp",
+                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
                     "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
                 },
@@ -442,6 +447,11 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
                     "description": "On Reveal: Replace each other location with this one."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr_10-c585d6b4389d61a8d69d8fed086df5fe410336dca9b447c19eb0adb18b708db0.webp",
+                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
                 }
             ]
         }
