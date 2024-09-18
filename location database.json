@@ -5,11 +5,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/SilverSable-4d5b3d442713494ea7da570f0f2e47d083997fd258131a7d619db3df515507ac.webp",
-                    "description": "On Reveal: Steal 2 Power from the top card of your opponent's deck."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Mockingbird_08-7c6c13fac2cb121f23d0de6dd9f1b495af60f748b45a6fde24ca42e88b9ec312.webp",
                     "description": "Costs 1 less for each of your cards in play that didn't start in your deck."
                 },
@@ -180,11 +175,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Misery-a8aefcd11d9c53a79472022b52ca50d7b64cbe2533ae17d22815aa79c5a7674a.webp",
-                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-18d509c9887ecee0263c274073d847652edd918e9da23d9fdbad62555bb0caee.webp",
                     "description": "Ongoing: Nothing can stop you from playing cards anywhere."
                 },
@@ -338,11 +328,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
                     "description": "Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp",
-                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-893304305f4b69fcc70f2a89ecfc222c15dca8d3686973dea43776974005791b.webp",
