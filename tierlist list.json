@@ -1,41 +1,65 @@
 {
-    "date": "September 19, 2024",
+    "date": "September 21, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Phoenix Nimrod"
+            "name": "10 Power"
         },
         {
             "tier": "Silent Performer",
-            "name": "Move Tribunal"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Ongoing"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Fast Junk Bounce"
+            "name": "Ronan Darkhawk"
         },
         {
             "tier": "Tier 1",
-            "name": "Lockdown"
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "High Evo Affliction"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Junk"
         },
         {
             "tier": "Tier 2",
-            "name": "Stature Darkhawk"
+            "name": "Hela Discard"
         },
         {
             "tier": "Tier 2",
-            "name": "KaZoo"
+            "name": "Arishem Loki"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Agatha Discard"
         },
         {
             "tier": "Tier 2",
             "name": "Destroy"
         },
         {
+            "tier": "Tier 2",
+            "name": "Wiccan Move"
+        },
+        {
             "tier": "Tier 3",
-            "name": "Agatha Discard"
+            "name": "KaZoo"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockdown"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Phoenix Force"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Big Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Stature Darkhawk"
         }
     ]
 }
