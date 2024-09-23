@@ -40,11 +40,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-b531f395d076b09bbe1fb63da949b9673dda054ffab79a29dc8897c5b70de51a.webp",
-                    "description": "Ongoing: You can move one of your other cards away from here each turn."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-98f9824c5900efb677caab5ebe0d422c4a27688c663755269ee02ac215d95785.webp",
                     "description": "After ANY card is played here, this moves to another location."
                 },
@@ -392,11 +387,6 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Frigga-e50be3696e02329db2039e902dbec695286315220e8c3617f92e44083b9d30f3.webp",
                     "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-3851b28dc67265eddf4b688db6d0f4fdafa363f5c12b8f12caf020142301eaa8.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
                 },
                 {
                     "name": "SNAP.FAN App",
