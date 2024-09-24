@@ -75,6 +75,11 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Arana-973b13bd7893e8d99158e4df18b1fc34013f5dfa72f1d44696f261c5b47d3c68.webp",
+                    "description": "Activate: Give the next card you play +2 Power and move it to the right."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MsMarvel_02-2a37cc9609762993e2e319213474cad97a115162acafcc0ca057f909666e4c3d.webp",
                     "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
                 },
