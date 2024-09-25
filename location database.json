@@ -50,11 +50,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Alioth_07-01f3635bb6cac25fed7d22b102552a790dffb248370552c0a1b25c814b8a539d.webp",
-                    "description": "On Reveal: Remove the text from all unrevealed enemy cards here."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MadameWeb-b531f395d076b09bbe1fb63da949b9673dda054ffab79a29dc8897c5b70de51a.webp",
                     "description": "Ongoing: You can move one of your other cards away from here each turn."
                 },
