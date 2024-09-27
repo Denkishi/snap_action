@@ -45,6 +45,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Silk_06-98f9824c5900efb677caab5ebe0d422c4a27688c663755269ee02ac215d95785.webp",
+                    "description": "After ANY card is played here, this moves to another location."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Alioth_07-01f3635bb6cac25fed7d22b102552a790dffb248370552c0a1b25c814b8a539d.webp",
                     "description": "On Reveal: Remove the text from all unrevealed enemy cards here."
                 },
