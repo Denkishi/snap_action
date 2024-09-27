@@ -185,7 +185,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-18d509c9887ecee0263c274073d847652edd918e9da23d9fdbad62555bb0caee.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
                     "description": "Ongoing: Nothing can stop you from playing cards anywhere."
                 },
                 {
@@ -200,7 +200,7 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-18d509c9887ecee0263c274073d847652edd918e9da23d9fdbad62555bb0caee.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
                     "description": "Ongoing: Nothing can stop you from playing cards anywhere."
                 },
                 {
@@ -401,7 +401,7 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
-                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -416,7 +416,7 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
-                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
+                    "description": "When you draw this, steal the text from the bottom card of your opponent's deck."
                 }
             ]
         },
