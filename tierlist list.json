@@ -1,29 +1,29 @@
 {
-    "date": "September 22, 2024",
+    "date": "September 30, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "10 Power"
+            "name": "Shuri Sauron"
         },
         {
             "tier": "Silent Performer",
-            "name": "Ronan Darkhawk"
+            "name": "Cerebro 3"
         },
         {
-            "tier": "Tier 1",
-            "name": "Pure Move"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "High Evo Affliction"
+            "tier": "Silent Performer",
+            "name": "Patriot"
         },
         {
             "tier": "Tier 1",
             "name": "Junk"
         },
         {
+            "tier": "Tier 1",
+            "name": "Stature Darkhawk"
+        },
+        {
             "tier": "Tier 2",
-            "name": "Hela Discard"
+            "name": "Lockdown"
         },
         {
             "tier": "Tier 2",
@@ -31,7 +31,15 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Agatha Discard"
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Thena"
         },
         {
             "tier": "Tier 2",
@@ -39,15 +47,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Wiccan Move"
+            "name": "Hela"
         },
         {
             "tier": "Tier 3",
-            "name": "KaZoo"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Lockdown"
+            "name": "Bounce"
         },
         {
             "tier": "Tier 3",
@@ -55,11 +59,7 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Big Bounce"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Stature Darkhawk"
+            "name": "KaZoo"
         }
     ]
 }
