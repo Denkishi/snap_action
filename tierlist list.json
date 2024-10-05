@@ -1,21 +1,17 @@
 {
-    "date": "September 30, 2024",
+    "date": "October 2, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Shuri Sauron"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Cerebro 3"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Patriot"
+            "name": "Highroll Surfer"
         },
         {
             "tier": "Tier 1",
-            "name": "Junk"
+            "name": "Good Cards Agent Venom"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Agent Sera Control"
         },
         {
             "tier": "Tier 1",
@@ -23,43 +19,35 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Lockdown"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Arishem Loki"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Pure Move"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Mister Negative"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Thena"
+            "name": "Move Them"
         },
         {
             "tier": "Tier 2",
-            "name": "Destroy"
+            "name": "Junk"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce"
         },
         {
             "tier": "Tier 2",
             "name": "Hela"
         },
         {
-            "tier": "Tier 3",
-            "name": "Bounce"
+            "tier": "Tier 2",
+            "name": "Pure Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Phoenix Force"
+            "name": "Destroy"
         },
         {
             "tier": "Tier 3",
-            "name": "KaZoo"
+            "name": "Patriot Surfer"
         }
     ]
 }

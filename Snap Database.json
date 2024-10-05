@@ -78,7 +78,7 @@
             "ability": "On Reveal: Set the Power of all cards in your deck to 4.",
             "cost": "2",
             "power": "4",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "566"
         },
         {
@@ -2490,7 +2490,7 @@
             "ability": "When an enemy card moves, steal 2 Power from it. (once per turn)",
             "cost": "2",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "570"
         },
         {
@@ -2913,7 +2913,7 @@
             "ability": "Activate: Merge your lowest-Cost card here with this. Copy its text like it just revealed.",
             "cost": "4",
             "power": "7",
-            "pool": "Season Pass",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "564"
         },
         {
