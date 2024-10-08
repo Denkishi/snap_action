@@ -2666,6 +2666,7 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard-bear.webp?v=231",
+            "name": "Snowguard Bear",
             "ability": "On Reveal: Trigger the effect of this location.",
             "cost": "3",
             "power": "4",
@@ -2755,6 +2756,8 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-woman.webp?v=231",
+            "name": "Spider-Woman",
+            "ability": "On Reveal: Afflict all enemy cards here with -1 Power.",
             "cost": "5",
             "power": "8",
             "pool": "Collection Level 18-214 (Pool 1)",
@@ -3077,6 +3080,7 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/us-agent.webp?v=231",
+            "name": "U.S. Agent",
             "ability": "Ongoing: 4, 5, and 6-Cost cards here have -4 Power.",
             "cost": "2",
             "power": "3",
