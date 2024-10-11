@@ -262,6 +262,51 @@
             "card_id": "20"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/beta-ray-bill.webp?v=231",
+            "name": "Beta Ray Bill",
+            "ability": "On Reveal: Shuffle Stormbreaker into your deck.",
+            "cost": "4",
+            "power": "6",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "card_id": "498"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bishop.webp?v=231",
+            "name": "Bishop",
+            "ability": "After you play a card, this gains +1 Power.",
+            "cost": "3",
+            "power": "1",
+            "pool": "Collection Level 18-214 (Pool 1)",
+            "card_id": "21"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-bolt.webp?v=231",
+            "name": "Black Bolt",
+            "ability": "On Reveal: Discard the card that costs the least from your opponent's hand.",
+            "cost": "5",
+            "power": "7",
+            "pool": "Collection Level 486+ (Pool 3)",
+            "card_id": "22"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-cat.webp?v=231",
+            "name": "Black Cat",
+            "ability": "If this is in your hand after the turn, discard it.",
+            "cost": "4",
+            "power": "10",
+            "pool": "Collection Level 486+ (Pool 3)",
+            "card_id": "23"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-knight.webp?v=231",
+            "name": "Black Knight",
+            "ability": "After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)",
+            "cost": "1",
+            "power": "2",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "card_id": "24"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-panther.webp?v=231",
             "name": "Black Panther",
             "ability": "On Reveal: Double this card's Power.",
@@ -380,6 +425,9 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cannonball.webp?v=231",
+            "name": "Cannonball",
+            "ability": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock.",
+            "cost": "5",
             "power": "8",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "515"
@@ -430,6 +478,15 @@
             "card_id": "39"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/chimichanga.webp?v=231",
+            "name": "Chimichanga",
+            "ability": "On Reveal: Merge this with one of your cards here.",
+            "cost": "0",
+            "power": "2",
+            "pool": "None",
+            "card_id": "540"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cloak.webp?v=231",
             "name": "Cloak",
             "ability": "On Reveal: Next turn, both players can move cards to this location.",
@@ -441,6 +498,7 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colleen-wing.webp?v=231",
             "name": "Colleen Wing",
+            "ability": "On Reveal: Discard the card that costs the least from your hand.",
             "cost": "2",
             "power": "4",
             "pool": "Collection Level 486+ (Pool 3)",
@@ -448,6 +506,8 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colossus.webp?v=231",
+            "name": "Colossus",
+            "ability": "Ongoing: Can't be destroyed, moved, or have its Power reduced.",
             "cost": "2",
             "power": "3",
             "pool": "Recruit Season",
@@ -467,6 +527,7 @@
             "name": "Corvus Glaive",
             "ability": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy.",
             "cost": "3",
+            "power": "5",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "507"
         },
@@ -494,14 +555,17 @@
             "ability": "On Reveal: Each player draws a card.",
             "cost": "3",
             "power": "3",
+            "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "47"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cull-obsidian.webp?v=231",
             "name": "Cull Obsidian",
+            "ability": "You can only play this where you have a 1-Cost card.",
             "cost": "4",
             "power": "10",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
+            "card_id": "508"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops.webp?v=231",
@@ -740,6 +804,7 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elsa-bloodstone.webp?v=231",
             "name": "Elsa Bloodstone",
+            "ability": "Each card you play to fill your side of a location gains +2 Power.",
             "cost": "3",
             "power": "3",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
