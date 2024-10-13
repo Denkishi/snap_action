@@ -18,8 +18,12 @@ while i<proj_num:
 	title=data["projects"][i]["title"]
 	project_token=data["projects"][i]["token"]
 	latest_run=data["projects"][i]["last_ready_run"]["run_token"]
-	run_token_string="https://www.parsehub.com/api/v2/runs/"+latest_run
-	requests.delete(run_token_string, params=params)
-	project_token_string="https://www.parsehub.com/api/v2/projects/"+project_token+"/run"
-	requests.post(project_token_string, data=params)
+	if latest_run is None:
+		project_token_string="https://www.parsehub.com/api/v2/projects/"+project_token+"/run"
+		requests.post(project_token_string, data=params)
+	if latest_run is not None:
+		run_token_string="https://www.parsehub.com/api/v2/runs/"+latest_run
+		requests.delete(run_token_string, params=params)
+		project_token_string="https://www.parsehub.com/api/v2/projects/"+project_token+"/run"
+		requests.post(project_token_string, data=params)
 	i+=1
