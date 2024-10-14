@@ -40,11 +40,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Misery-a8aefcd11d9c53a79472022b52ca50d7b64cbe2533ae17d22815aa79c5a7674a.webp",
-                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
                     "description": "On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere."
                 },
@@ -216,6 +211,11 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Malekith-164c05c62959c7b4f33ed122c9c5b33bd216b8815ee744bd8f46293e88790ff5.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-d70ce4792a58498aa0e131a79c9ebf849f57e4782095fe78ea1a914fa555b06e.webp",
                     "description": "Unknown"
                 },
                 {
