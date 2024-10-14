@@ -3,7 +3,15 @@
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Highroll Surfer"
+            "name": "Agent Sera Control"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "High Evo Affliction"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Scream Move"
         },
         {
             "tier": "Tier 1",
@@ -11,23 +19,15 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Agent Sera Control"
+            "name": "Pure Move"
         },
         {
             "tier": "Tier 1",
-            "name": "Stature Darkhawk"
+            "name": "Arishem"
         },
         {
             "tier": "Tier 2",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Move Them"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Junk"
+            "name": "Destroy"
         },
         {
             "tier": "Tier 2",
@@ -35,19 +35,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Hela"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Pure Move"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 3",
-            "name": "Destroy"
+            "name": "KaZoo"
         },
         {
             "tier": "Tier 3",
-            "name": "Patriot Surfer"
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockdown Move"
         }
     ]
 }
