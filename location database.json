@@ -120,6 +120,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-9c4b75023106673c9b838ed1148b5cf77929c3e3208e2d257c59384fe4eae41e.webp",
+                    "description": "Each card you play to fill your side of a location gains +2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Toxin-4a6ca624dd58114a8ceea593778dc28bc34f37ee57fa3bbc6dfe09b4215ec8bc.webp",
                     "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
                 },
