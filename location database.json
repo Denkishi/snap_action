@@ -5,6 +5,11 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scream-e2496f8ddc8fed97aaf92529e66c4f3ff80581ea0f88e1a5ee564cf2c3b5e70b.webp",
+                    "description": "When an enemy card moves, steal 2 Power from it. (once per turn)"
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
@@ -13,7 +18,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
                     "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scream-e2496f8ddc8fed97aaf92529e66c4f3ff80581ea0f88e1a5ee564cf2c3b5e70b.webp",
+                    "description": "When an enemy card moves, steal 2 Power from it. (once per turn)"
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
@@ -276,17 +285,7 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
-                    "description": "On Reveal: Replace each other location with this one."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr_10-c585d6b4389d61a8d69d8fed086df5fe410336dca9b447c19eb0adb18b708db0.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-5bbf0be3f07192dbd8051b57c0ecd6c574f57c4d4a232fb54c35295463f8c763.webp",
                     "description": "Ongoing: +2 Power for EACH On Reveal card in play."
                 },
                 {
@@ -301,8 +300,18 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr_10-c585d6b4389d61a8d69d8fed086df5fe410336dca9b447c19eb0adb18b708db0.webp",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-5bbf0be3f07192dbd8051b57c0ecd6c574f57c4d4a232fb54c35295463f8c763.webp",
                     "description": "Ongoing: +2 Power for EACH On Reveal card in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
+                    "description": "On Reveal: Replace each other location with this one."
                 }
             ]
         }
