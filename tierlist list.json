@@ -1,1 +1,53 @@
-{}
+{
+    "date": "October 13, 2024",
+    "Tiers": [
+        {
+            "tier": "Silent Performer",
+            "name": "Agent Sera Control"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "High Evo Affliction"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Agent Venom"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "KaZoo"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockdown Move"
+        }
+    ]
+}
