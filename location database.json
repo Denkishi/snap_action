@@ -58,7 +58,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Misery-a8aefcd11d9c53a79472022b52ca50d7b64cbe2533ae17d22815aa79c5a7674a.webp",
                     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
+                    "description": "Ongoing: Nothing can stop you from playing cards anywhere."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Misery_03-7f7b32a175a7249473a4d83a9c287ec2f22fd2f5403f893bedf3bb9f96248db1.webp",
@@ -148,6 +152,11 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_05-a84ba629dc5229881ce5ccdf46f93fb48c7b8be585f1d2b14fa6abb64fc6ac49.webp",
                     "description": "On Reveal: All cards played next turn don't reveal until the game ends."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom_03-0c88ad26d7b0cf4c30c7ccd03c3cdf89cbb4ef24f7229a3aa7a88acde38d4b28.webp",
+                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
                 },
                 {
                     "name": "SNAP.FAN App",
