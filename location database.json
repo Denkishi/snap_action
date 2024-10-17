@@ -58,11 +58,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Misery-a8aefcd11d9c53a79472022b52ca50d7b64cbe2533ae17d22815aa79c5a7674a.webp",
                     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
-                    "description": "Ongoing: Nothing can stop you from playing cards anywhere."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Misery_03-7f7b32a175a7249473a4d83a9c287ec2f22fd2f5403f893bedf3bb9f96248db1.webp",
@@ -155,11 +151,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom_03-0c88ad26d7b0cf4c30c7ccd03c3cdf89cbb4ef24f7229a3aa7a88acde38d4b28.webp",
-                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom-caeee0dace6a169abaf664ba0a6c0d061cbe2ed6bd70db19faed3c616a72e771.webp",
                     "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
                 },
@@ -182,6 +173,16 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Frigga-abafdf5124584c7a1b7673bdcc437b6730c73f8444fa22d79a8eb2f693b26722.webp",
                     "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-3851b28dc67265eddf4b688db6d0f4fdafa363f5c12b8f12caf020142301eaa8.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
+                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
                 },
                 {
                     "name": "SNAP.FAN App",
