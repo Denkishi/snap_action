@@ -28,7 +28,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                }
             ]
         },
         {
@@ -78,6 +82,61 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_16-5be0fb0517d7e6c14ecd479d42dc5a2fd88f609eca58385d627289ae48bb390b.webp",
                     "description": "Ongoing: Players must play their first card here each turn. (if possible)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp",
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_16-5be0fb0517d7e6c14ecd479d42dc5a2fd88f609eca58385d627289ae48bb390b.webp",
+                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp",
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
+                }
+            ]
+        },
+        {
+            "date": "Oct 22 - Oct 29",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Toxin-4a6ca624dd58114a8ceea593778dc28bc34f37ee57fa3bbc6dfe09b4215ec8bc.webp",
+                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-5fa191d5c5e290d987cdeac2f49cc766b033e652312d5c598da3192afdd0f546.webp",
+                    "description": "On Reveal: Give each 4-Cost card in your deck -1 Cost."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-9c4b75023106673c9b838ed1148b5cf77929c3e3208e2d257c59384fe4eae41e.webp",
+                    "description": "Each card you play to fill your side of a location gains +2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Toxin-4a6ca624dd58114a8ceea593778dc28bc34f37ee57fa3bbc6dfe09b4215ec8bc.webp",
+                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-5fa191d5c5e290d987cdeac2f49cc766b033e652312d5c598da3192afdd0f546.webp",
+                    "description": "On Reveal: Give each 4-Cost card in your deck -1 Cost."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-9c4b75023106673c9b838ed1148b5cf77929c3e3208e2d257c59384fe4eae41e.webp",
+                    "description": "Each card you play to fill your side of a location gains +2 Power."
                 }
             ]
         },
