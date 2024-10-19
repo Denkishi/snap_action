@@ -560,7 +560,10 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cull-obsidian.webp?v=234",
+            "name": "Cull Obsidian",
+            "ability": "You can only play this where you have a 1-Cost card.",
             "cost": "4",
+            "power": "10",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "508"
         },
