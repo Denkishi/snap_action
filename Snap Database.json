@@ -3243,6 +3243,7 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-queen.webp?v=234",
             "name": "White Queen",
+            "ability": "On Reveal: Copy the card that costs the most from your opponent's hand into your hand.",
             "cost": "4",
             "power": "6",
             "pool": "Collection Level 18-214 (Pool 1)",
