@@ -1,33 +1,41 @@
 {
-    "date": "October 18, 2024",
+    "date": "October 19, 2024",
     "Tiers": [
         {
-            "tier": "Silent Performer",
-            "name": "Agent Sera Control"
+            "tier": "Tier 1",
+            "name": "Small Good Cards"
         },
         {
-            "tier": "Silent Performer",
-            "name": "High Evo Affliction"
+            "tier": "Tier 1",
+            "name": "Lockdown"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Wiccan Affliction"
         },
         {
             "tier": "Tier 1",
             "name": "Scream Move"
         },
         {
-            "tier": "Tier 1",
-            "name": "Good Cards Agent Venom"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Pure Move"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Arishem"
+            "tier": "Tier 2",
+            "name": "Silver Surfer"
         },
         {
             "tier": "Tier 2",
-            "name": "Destroy"
+            "name": "Sera Control"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Darkhawk Misery"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem"
         },
         {
             "tier": "Tier 2",
@@ -35,7 +43,7 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Mister Negative"
+            "name": "Destroy"
         },
         {
             "tier": "Tier 3",
@@ -43,11 +51,11 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Pure Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Lockdown Move"
+            "name": "Hela Discard"
         }
     ]
 }
