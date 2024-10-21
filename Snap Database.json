@@ -78,7 +78,7 @@
             "ability": "On Reveal: Set the Power of all cards in your deck to 4.",
             "cost": "2",
             "power": "4",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "566"
         },
         {
@@ -3075,7 +3075,7 @@
             "ability": "On Reveal: Return your other cards here to your hand. +2 Power for each returned.",
             "cost": "2",
             "power": "1",
-            "pool": "None",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "571"
         },
         {
