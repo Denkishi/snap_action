@@ -80,11 +80,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_16-5be0fb0517d7e6c14ecd479d42dc5a2fd88f609eca58385d627289ae48bb390b.webp",
-                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp",
                     "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
                 },
