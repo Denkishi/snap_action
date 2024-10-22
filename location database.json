@@ -23,11 +23,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Scream-e2496f8ddc8fed97aaf92529e66c4f3ff80581ea0f88e1a5ee564cf2c3b5e70b.webp",
                     "description": "When an enemy card moves, steal 2 Power from it. (once per turn)"
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
-                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
@@ -42,66 +38,6 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Misery-a8aefcd11d9c53a79472022b52ca50d7b64cbe2533ae17d22815aa79c5a7674a.webp",
                     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
-                    "description": "Ongoing: Nothing can stop you from playing cards anywhere."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Misery_03-7f7b32a175a7249473a4d83a9c287ec2f22fd2f5403f893bedf3bb9f96248db1.webp",
-                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Misery-a8aefcd11d9c53a79472022b52ca50d7b64cbe2533ae17d22815aa79c5a7674a.webp",
-                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
-                    "description": "Ongoing: Nothing can stop you from playing cards anywhere."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Misery_03-7f7b32a175a7249473a4d83a9c287ec2f22fd2f5403f893bedf3bb9f96248db1.webp",
-                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
-                }
-            ]
-        },
-        {
-            "date": "Oct 15 - Oct 22",
-            "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
-                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_16-5be0fb0517d7e6c14ecd479d42dc5a2fd88f609eca58385d627289ae48bb390b.webp",
-                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp",
-                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
-                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_16-5be0fb0517d7e6c14ecd479d42dc5a2fd88f609eca58385d627289ae48bb390b.webp",
-                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp",
-                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
                 }
             ]
         },
