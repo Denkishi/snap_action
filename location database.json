@@ -10,6 +10,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
                     "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
                 },
@@ -23,7 +28,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                }
             ]
         },
         {
@@ -111,6 +120,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-9c4b75023106673c9b838ed1148b5cf77929c3e3208e2d257c59384fe4eae41e.webp",
+                    "description": "Each card you play to fill your side of a location gains +2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Toxin-4a6ca624dd58114a8ceea593778dc28bc34f37ee57fa3bbc6dfe09b4215ec8bc.webp",
                     "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
                 },
@@ -139,7 +153,26 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_05-a84ba629dc5229881ce5ccdf46f93fb48c7b8be585f1d2b14fa6abb64fc6ac49.webp",
                     "description": "On Reveal: All cards played next turn don't reveal until the game ends."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom_03-0c88ad26d7b0cf4c30c7ccd03c3cdf89cbb4ef24f7229a3aa7a88acde38d4b28.webp",
+                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom-caeee0dace6a169abaf664ba0a6c0d061cbe2ed6bd70db19faed3c616a72e771.webp",
+                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_05-a84ba629dc5229881ce5ccdf46f93fb48c7b8be585f1d2b14fa6abb64fc6ac49.webp",
+                    "description": "On Reveal: All cards played next turn don't reveal until the game ends."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom_03-0c88ad26d7b0cf4c30c7ccd03c3cdf89cbb4ef24f7229a3aa7a88acde38d4b28.webp",
+                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
+                }
             ]
         },
         {
@@ -160,15 +193,46 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
                     "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
                 },
-                {},
-                {},
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-abafdf5124584c7a1b7673bdcc437b6730c73f8444fa22d79a8eb2f693b26722.webp",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-3851b28dc67265eddf4b688db6d0f4fdafa363f5c12b8f12caf020142301eaa8.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
+                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
+                }
             ]
         },
         {
             "date": "Nov 12 - Nov 19",
             "cards": [
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-68680d0ba76aab7b1cb85c738667e6adebcb6160a87d8ffff4479a25bd24273d.webp",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-0f0b5cae609d9b5a0d6708c6ec83d903418b6cdab1df9cda839dacebba5d8ad6.webp",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena_08-1c8f3ee326fe79982d5ab4d53569cf9493a3e0151315157c92731b04ea7075e2.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-68680d0ba76aab7b1cb85c738667e6adebcb6160a87d8ffff4479a25bd24273d.webp",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-0f0b5cae609d9b5a0d6708c6ec83d903418b6cdab1df9cda839dacebba5d8ad6.webp",
@@ -223,6 +287,31 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Gorr-4ff3aa3f35d8b8b8d523544bfff3ec978f2b0738f8abe07db355400e1a1cdab7.webp",
                     "description": "Ongoing: +2 Power for EACH On Reveal card in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
+                    "description": "On Reveal: Replace each other location with this one."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-4ff3aa3f35d8b8b8d523544bfff3ec978f2b0738f8abe07db355400e1a1cdab7.webp",
+                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
+                    "description": "On Reveal: Replace each other location with this one."
                 }
             ]
         }
