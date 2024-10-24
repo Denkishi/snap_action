@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "The MARVEL SNAP Web Shop is back with even more offerings!",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_10_24_03_31_57/820576415647_s111015.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7415247892945984261",
+            "date": "10/26/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "New Limited Time Mode: High Voltage!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_10_12_09_52_08/240368225254_s197104.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7415247892945885957",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_09_16_14_31_18/1551743642709_s34706.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7415247892933253893",
             "date": "09/17/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "September 12th - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_09_11_10_33_35/1282688320343_s34706.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7392892117552651013",
-            "date": "09/12/2024",
             "label": "NEWS"
         }
     ]
