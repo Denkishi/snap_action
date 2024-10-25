@@ -1,1 +1,319 @@
-{}
+{
+    "spotlight": [
+        {
+            "date": "Oct 1 - Oct 8, 2024",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scream-e2496f8ddc8fed97aaf92529e66c4f3ff80581ea0f88e1a5ee564cf2c3b5e70b.webp",
+                    "description": "When an enemy card moves, steal 2 Power from it. (once per turn)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scream-e2496f8ddc8fed97aaf92529e66c4f3ff80581ea0f88e1a5ee564cf2c3b5e70b.webp",
+                    "description": "When an enemy card moves, steal 2 Power from it. (once per turn)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
+                    "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                }
+            ]
+        },
+        {
+            "date": "Oct 8 - Oct 15, 2024",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Misery-e640d2313fa188bc56308b145eb482198c8aaf12a8b9bc93d73da6302000cce6.webp",
+                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
+                    "description": "Ongoing: Nothing can stop you from playing cards anywhere."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Misery_03-9e4c9f90e2a03d99a4972ad88dcb6374391cab3b35514a18c305dee7b503b372.webp",
+                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Misery-e640d2313fa188bc56308b145eb482198c8aaf12a8b9bc93d73da6302000cce6.webp",
+                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WarMachine_02-0801cbe6826f01374c6383cbaf53df2b8cb9a49eb932fd3ba2d3b04d1bbbc656.webp",
+                    "description": "Ongoing: Nothing can stop you from playing cards anywhere."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Misery_03-9e4c9f90e2a03d99a4972ad88dcb6374391cab3b35514a18c305dee7b503b372.webp",
+                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
+                }
+            ]
+        },
+        {
+            "date": "Oct 15 - Oct 22, 2024",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_16-5be0fb0517d7e6c14ecd479d42dc5a2fd88f609eca58385d627289ae48bb390b.webp",
+                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp",
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn-7103740db3d57af1469fefcbd43027989eb7f7e7dd9ba0332679ff54477d370f.webp",
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/JeanGrey_16-5be0fb0517d7e6c14ecd479d42dc5a2fd88f609eca58385d627289ae48bb390b.webp",
+                    "description": "Ongoing: Players must play their first card here each turn. (if possible)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Scorn_03-5ac2e1d3525a718fd8716a4db19b9bb04935df80bd8a85af6d7607fd3fe3db99.webp",
+                    "description": "When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play."
+                }
+            ]
+        },
+        {
+            "date": "Oct 22 - Oct 29",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Toxin-4a6ca624dd58114a8ceea593778dc28bc34f37ee57fa3bbc6dfe09b4215ec8bc.webp",
+                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-5fa191d5c5e290d987cdeac2f49cc766b033e652312d5c598da3192afdd0f546.webp",
+                    "description": "On Reveal: Give each 4-Cost card in your deck -1 Cost."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-9c4b75023106673c9b838ed1148b5cf77929c3e3208e2d257c59384fe4eae41e.webp",
+                    "description": "Each card you play to fill your side of a location gains +2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Toxin-4a6ca624dd58114a8ceea593778dc28bc34f37ee57fa3bbc6dfe09b4215ec8bc.webp",
+                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Zabu_06-5fa191d5c5e290d987cdeac2f49cc766b033e652312d5c598da3192afdd0f546.webp",
+                    "description": "On Reveal: Give each 4-Cost card in your deck -1 Cost."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/ElsaBloodstone_10-9c4b75023106673c9b838ed1148b5cf77929c3e3208e2d257c59384fe4eae41e.webp",
+                    "description": "Each card you play to fill your side of a location gains +2 Power."
+                }
+            ]
+        },
+        {
+            "date": "Oct 29 - Nov 5",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom-65a2b1c9fb55c33d41d4e35ebfa7b2a11618394375f14f39424721a9d7dab302.webp",
+                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_05-a84ba629dc5229881ce5ccdf46f93fb48c7b8be585f1d2b14fa6abb64fc6ac49.webp",
+                    "description": "On Reveal: All cards played next turn don't reveal until the game ends."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom_03-97267d9d3fe30fe8afc28ff7b16394e26b0b20840262420a7e92f5245173e338.webp",
+                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom-65a2b1c9fb55c33d41d4e35ebfa7b2a11618394375f14f39424721a9d7dab302.webp",
+                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Supergiant_05-a84ba629dc5229881ce5ccdf46f93fb48c7b8be585f1d2b14fa6abb64fc6ac49.webp",
+                    "description": "On Reveal: All cards played next turn don't reveal until the game ends."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/AntiVenom_03-97267d9d3fe30fe8afc28ff7b16394e26b0b20840262420a7e92f5245173e338.webp",
+                    "description": "On Reveal: Set the Cost and Power of your deck's top card to 0."
+                }
+            ]
+        },
+        {
+            "date": "Nov 5 - Nov 12",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-abafdf5124584c7a1b7673bdcc437b6730c73f8444fa22d79a8eb2f693b26722.webp",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-3851b28dc67265eddf4b688db6d0f4fdafa363f5c12b8f12caf020142301eaa8.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
+                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-abafdf5124584c7a1b7673bdcc437b6730c73f8444fa22d79a8eb2f693b26722.webp",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-3851b28dc67265eddf4b688db6d0f4fdafa363f5c12b8f12caf020142301eaa8.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
+                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
+                }
+            ]
+        },
+        {
+            "date": "Nov 12 - Nov 19",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-68680d0ba76aab7b1cb85c738667e6adebcb6160a87d8ffff4479a25bd24273d.webp",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-0f0b5cae609d9b5a0d6708c6ec83d903418b6cdab1df9cda839dacebba5d8ad6.webp",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena_08-1c8f3ee326fe79982d5ab4d53569cf9493a3e0151315157c92731b04ea7075e2.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-68680d0ba76aab7b1cb85c738667e6adebcb6160a87d8ffff4479a25bd24273d.webp",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-0f0b5cae609d9b5a0d6708c6ec83d903418b6cdab1df9cda839dacebba5d8ad6.webp",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Thena_08-1c8f3ee326fe79982d5ab4d53569cf9493a3e0151315157c92731b04ea7075e2.webp",
+                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
+                }
+            ]
+        },
+        {
+            "date": "Nov 19 - Nov 26",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
+                    "description": "Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp",
+                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-893304305f4b69fcc70f2a89ecfc222c15dca8d3686973dea43776974005791b.webp",
+                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
+                    "description": "Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp",
+                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-893304305f4b69fcc70f2a89ecfc222c15dca8d3686973dea43776974005791b.webp",
+                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
+                }
+            ]
+        },
+        {
+            "date": "Nov 26 - Dec 3",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-4ff3aa3f35d8b8b8d523544bfff3ec978f2b0738f8abe07db355400e1a1cdab7.webp",
+                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
+                    "description": "On Reveal: Replace each other location with this one."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-4ff3aa3f35d8b8b8d523544bfff3ec978f2b0738f8abe07db355400e1a1cdab7.webp",
+                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
+                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
+                    "description": "On Reveal: Replace each other location with this one."
+                }
+            ]
+        }
+    ]
+}
