@@ -28,7 +28,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/ManThing_10-7ab0b3d660011498b7b226bb4feea7841d81b092a39af81ed258267f76789727.webp",
                     "description": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/MobiusMMobius_07-2b8c57002ff0286099d942d441a69941943c5a044a1a863b4e770b1f14beccb4.webp",
+                    "description": "Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced."
+                }
             ]
         },
         {
@@ -284,26 +288,8 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Gorr-4ff3aa3f35d8b8b8d523544bfff3ec978f2b0738f8abe07db355400e1a1cdab7.webp",
                     "description": "Ongoing: +2 Power for EACH On Reveal card in play."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
-                    "description": "On Reveal: Replace each other location with this one."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-4ff3aa3f35d8b8b8d523544bfff3ec978f2b0738f8abe07db355400e1a1cdab7.webp",
-                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-2262a5dfea02e5b966e3b58fb45423b21df8a67dbf8d9e71d130cc2b26f080c9.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
-                },
+                {},
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
