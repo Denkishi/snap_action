@@ -185,6 +185,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-3851b28dc67265eddf4b688db6d0f4fdafa363f5c12b8f12caf020142301eaa8.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
                     "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
                 },
