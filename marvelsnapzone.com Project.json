@@ -1,4 +1,46 @@
 {
+    "Colors": [
+        {
+            "tier_name": "Silent Performer",
+            "surname": "Misery Destroy Mill"
+        },
+        {
+            "tier_name": "Silent Performer",
+            "surname": "Misery Darkhawk"
+        },
+        {
+            "tier_name": "Tier 1",
+            "surname": "Sera Control"
+        },
+        {
+            "tier_name": "Tier 1",
+            "surname": "Discard Dracula"
+        },
+        {
+            "tier_name": "Tier 1",
+            "surname": "Scream Move"
+        },
+        {
+            "tier_name": "Tier 2",
+            "surname": "Bounce"
+        },
+        {
+            "tier_name": "Tier 2",
+            "surname": "Pure Move"
+        },
+        {
+            "tier_name": "Tier 2",
+            "surname": "Good Cards"
+        },
+        {
+            "tier_name": "Tier 3",
+            "surname": "Arishem"
+        },
+        {
+            "tier_name": "Tier 3",
+            "surname": "Destroy"
+        }
+    ],
     "tier": [
         {
             "name": "Misery Destroy Mill Ranked October 27",
@@ -74,7 +116,9 @@
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rockslide.webp?v=239"
                 },
-                {},
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-phoenix-force.webp?v=239"
+                },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/misery.webp?v=239"
                 },
