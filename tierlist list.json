@@ -1,1 +1,45 @@
-{}
+{
+    "date": "November 1, 2024",
+    "Tiers": [
+        {
+            "tier": "Silent Performer",
+            "name": "Misery Destroy Mill"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Misery Darkhawk"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Sera Control"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy"
+        }
+    ]
+}
