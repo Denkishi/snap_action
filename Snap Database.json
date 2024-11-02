@@ -1875,7 +1875,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morph.webp?v=240",
             "name": "Morph",
-            "ability": "On Reveal: Become a copy of a card in your opponent's hand.",
             "cost": "3",
             "power": "0",
             "pool": "Collection Level 18-214 (Pool 1)",
@@ -2749,7 +2748,6 @@
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=240",
             "name": "Spider-Man",
             "ability": "On Reveal: Move to another location and pull an enemy card from here to there.",
-            "cost": "3",
             "power": "5",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "240"
@@ -2802,7 +2800,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stature.webp?v=240",
             "name": "Stature",
-            "ability": "Costs 1 if your opponent discarded a card this game.",
             "cost": "5",
             "power": "7",
             "pool": "Collection Level 486+ (Pool 3)",
@@ -2811,8 +2808,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stegron.webp?v=240",
             "name": "Stegron",
-            "ability": "On Reveal: Move an enemy card here one location to the right.",
-            "cost": "4",
             "power": "7",
             "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "441"
@@ -2820,9 +2815,7 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/storm.webp?v=240",
             "name": "Storm",
-            "ability": "On Reveal: Flood this location. Next turn is the last turn cards can be played here.",
             "cost": "4",
-            "power": "5",
             "pool": "Collection Level 222-474 (Pool 2)",
             "card_id": "247"
         },
@@ -2838,7 +2831,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/strong-guy.webp?v=240",
             "name": "Strong Guy",
-            "ability": "Ongoing: +6 Power if your hand has 1 or fewer cards.",
             "cost": "3",
             "power": "3",
             "pool": "Collection Level 18-214 (Pool 1)",
@@ -2882,30 +2874,9 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/surtur.webp?v=240",
-            "name": "Surtur",
             "ability": "After you play a card with 10+ Power, this gains +3 Power.",
             "cost": "3",
-            "power": "5",
-            "pool": "Not Available",
-            "card_id": "254"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/swarm.webp?v=240",
-            "name": "Swarm",
-            "ability": "When you discard this, add two copies that cost 0 to your hand.",
-            "cost": "2",
-            "power": "3",
-            "pool": "Collection Level 222-474 (Pool 2)",
-            "card_id": "255"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sword-master.webp?v=240",
-            "name": "Sword Master",
-            "ability": "On Reveal: Discard an odd-costed card from your hand.",
-            "cost": "3",
-            "power": "7",
-            "pool": "Collection Level 18-214 (Pool 1)",
-            "card_id": "256"
+            "power": "5"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/symbiote.webp?v=240",
@@ -2918,30 +2889,10 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/symbiote-spider-man.webp?v=240",
-            "name": "Symbiote Spider-Man",
-            "ability": "Activate: Merge your lowest-Cost card here with this. Copy its text like it just revealed.",
             "cost": "4",
             "power": "7",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "564"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=240",
-            "name": "Taskmaster",
-            "ability": "On Reveal: Set this card's Power equal to that of the last card you played. (if able)",
-            "cost": "6",
-            "power": "0",
-            "pool": "Collection Level 486+ (Pool 3)",
-            "card_id": "257"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thanos.webp?v=240",
-            "name": "Thanos",
-            "ability": "Starts in your opening hand and shuffles the six Infinity Stones into your deck.",
-            "cost": "6",
-            "power": "10",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
-            "card_id": "258"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-collector.webp?v=240",
@@ -3000,7 +2951,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-void.webp?v=240",
             "name": "The Void",
-            "ability": "Hello again...",
             "cost": "4",
             "power": "-8",
             "pool": "Not Available",
@@ -3048,17 +2998,7 @@
             "ability": "After ANY card is played here, this card switches sides.",
             "cost": "1",
             "power": "5",
-            "pool": "Collection Level 486+ (Pool 3)",
-            "card_id": "277"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toad.webp?v=240",
-            "name": "Toad",
-            "ability": "On Reveal: Move the last card you played to this location.",
-            "cost": "2",
-            "power": "3",
-            "pool": "Not Available",
-            "card_id": "392"
+            "pool": "Collection Level 486+ (Pool 3)"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tombstone.webp?v=240",
@@ -3118,7 +3058,6 @@
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/uncle-ben.webp?v=240",
             "name": "Uncle Ben",
             "ability": "When this card is destroyed, replace it with Spider-Man.",
-            "cost": "1",
             "power": "2",
             "pool": "Not Available",
             "card_id": "282"
@@ -3128,14 +3067,11 @@
             "name": "Valentina",
             "ability": "On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -3 Power.",
             "cost": "2",
-            "power": "3",
-            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "522"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valkyrie.webp?v=240",
             "name": "Valkyrie",
-            "ability": "On Reveal: Set ALL cards here to 3 Power.",
             "cost": "5",
             "power": "3",
             "pool": "Collection Level 486+ (Pool 3)",
@@ -3144,7 +3080,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/venom.webp?v=240",
             "name": "Venom",
-            "ability": "On Reveal: Destroy your other cards here. Add their Power to this card.",
             "cost": "3",
             "power": "3",
             "pool": "Collection Level 486+ (Pool 3)",
@@ -3216,7 +3151,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wasp.webp?v=240",
             "name": "Wasp",
-            "ability": "\"My secret power is that I get things done.\"",
             "cost": "0",
             "power": "1",
             "pool": "Collection Level 486+ (Pool 3)",
