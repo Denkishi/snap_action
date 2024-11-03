@@ -3,15 +3,19 @@
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Misery Destroy Mill"
+            "name": "Galactus"
         },
         {
             "tier": "Silent Performer",
-            "name": "Misery Darkhawk"
+            "name": "Cerebro 3"
         },
         {
-            "tier": "Tier 1",
-            "name": "Sera Control"
+            "tier": "Silent Performer",
+            "name": "Spend Energy"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Black Knight 10 Power"
         },
         {
             "tier": "Tier 1",
@@ -19,11 +23,15 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Scream Move"
+            "name": "Sera Control"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Bounce"
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce"
+            "name": "Double-Up"
         },
         {
             "tier": "Tier 2",
@@ -31,15 +39,31 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards"
+            "name": "Small Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Anti-Venom Pixie"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "War Machine Ramp"
         },
         {
             "tier": "Tier 3",
-            "name": "Arishem"
+            "name": "Patriot"
         },
         {
             "tier": "Tier 3",
-            "name": "Destroy"
+            "name": "Arishem Loki"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "KaZoo"
         }
     ]
 }
