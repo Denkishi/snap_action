@@ -75,6 +75,11 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
+                    "description": "Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-05f484dce91caa882e303f916f8e2c5a2ab074004f681f7b38ff0eda5aff63c5.webp",
                     "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
                 },
