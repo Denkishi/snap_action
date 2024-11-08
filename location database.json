@@ -15,11 +15,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-92b1bcccf385d6484d7d8d6dbd726ffd391b68db97d7aea22bb031c630d4e284.webp",
-                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Frigga-abafdf5124584c7a1b7673bdcc437b6730c73f8444fa22d79a8eb2f693b26722.webp",
                     "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
                 },
