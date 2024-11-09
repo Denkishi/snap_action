@@ -2,24 +2,8 @@
     "date": "November 8, 2024",
     "Tiers": [
         {
-            "tier": "Silent Performer",
-            "name": "Galactus"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Cerebro 3"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Spend Energy"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Black Knight 10 Power"
-        },
-        {
             "tier": "Tier 1",
-            "name": "Discard Dracula"
+            "name": "Surtur Double Up"
         },
         {
             "tier": "Tier 1",
@@ -27,43 +11,19 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Bounce"
+            "name": "10 Power"
         },
         {
             "tier": "Tier 2",
-            "name": "Double-Up"
+            "name": "Good Cards Ongoing"
         },
         {
             "tier": "Tier 2",
-            "name": "Pure Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Small Good Cards"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Anti-Venom Pixie"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Scream Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "War Machine Ramp"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Patriot"
+            "name": "Bounce Move"
         },
         {
             "tier": "Tier 3",
             "name": "Arishem Loki"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "KaZoo"
         }
     ]
 }
