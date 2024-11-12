@@ -76,7 +76,7 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
-                    "description": "Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location."
+                    "description": "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -91,7 +91,7 @@
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
-                    "description": "Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location."
+                    "description": "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
                 },
                 {
                     "name": "SNAP.FAN App",
@@ -137,6 +137,321 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-6c7a33e0a2002517397f249ac98a7029f380d45e5168e9637839fb1e02616d60.webp",
                     "description": "On Reveal: Replace each other location with this one."
+                }
+            ]
+        },
+        {
+            "date": "Dec 3 - Dec 10",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Destroy each card here with 3 or less Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Add an Ice Cube to each side of this location."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Destroy each card here with 3 or less Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Add an Ice Cube to each side of this location."
+                }
+            ]
+        },
+        {
+            "date": "Dec 10 - Dec 17",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+                }
+            ]
+        },
+        {
+            "date": "Dec 17 - Dec 24",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
+                }
+            ]
+        },
+        {
+            "date": "Dec 24 - Dec 31",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Unknown"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
+                }
+            ]
+        },
+        {
+            "date": "Dec 31 - Jan 7",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_06-62e69283de667132cc9203258e70a61d2d1f2720122fd787cbb2ecacf993030c.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_06-62e69283de667132cc9203258e70a61d2d1f2720122fd787cbb2ecacf993030c.webp",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
+                }
+            ]
+        },
+        {
+            "date": "Jan 7 - Jan 14",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Ongoing: Your cards created in your hand have +2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Add 2 Arrows to your hand."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Ongoing: Your cards created in your hand have +2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Add 2 Arrows to your hand."
+                }
+            ]
+        },
+        {
+            "date": "Jan 14 - Jan 21",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye-7d69bc9dcf7f764d96f5ea23efdb16166b8d038091401204dc6655e7d561b33d.webp",
+                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye_07-5f0ce552889888cac47ad00468e9b9ef1f534c2c607be2049f0599a4937caaec.webp",
+                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye-7d69bc9dcf7f764d96f5ea23efdb16166b8d038091401204dc6655e7d561b33d.webp",
+                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye_07-5f0ce552889888cac47ad00468e9b9ef1f534c2c607be2049f0599a4937caaec.webp",
+                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
+                }
+            ]
+        },
+        {
+            "date": "Jan 21 - Jan 28",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+                }
+            ]
+        },
+        {
+            "date": "Jan 28 - Feb 4",
+            "cards": [
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without this)"
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
+                },
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://assets.snap.fan/files/game/fallback-card.588b964f7d05088b85a0.webp",
+                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without this)"
                 }
             ]
         }
