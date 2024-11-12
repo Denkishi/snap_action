@@ -50,11 +50,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena_08-1c8f3ee326fe79982d5ab4d53569cf9493a3e0151315157c92731b04ea7075e2.webp",
-                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Malekith-68680d0ba76aab7b1cb85c738667e6adebcb6160a87d8ffff4479a25bd24273d.webp",
                     "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game."
                 },
