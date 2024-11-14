@@ -1,13 +1,6 @@
 {
     "titles": [
         {
-            "name": "Patch Notes - November 12th, 2024",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_12_13_01_32/255750119969_s34706.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7415247896284568326",
-            "date": "11/12/2024",
-            "label": "NEWS"
-        },
-        {
             "name": "Exciting Rewards & Free Credits!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_06_07_00_40/412928527978_s976312.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7415247896284535558",
@@ -68,6 +61,13 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_10_10_06_20_19/1409336609959_s34706.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7415247892933368581",
             "date": "10/10/2024",
+            "label": "NEWS"
+        },
+        {
+            "name": "New Season:We Are Venom",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_09_30_10_02_22/240049784212_s233336.png",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7415247892933352197",
+            "date": "09/30/2024",
             "label": "NEWS"
         }
     ]
