@@ -2596,7 +2596,6 @@
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scorpion.webp?v=248",
             "name": "Scorpion",
             "ability": "On Reveal: Afflict cards in your opponent's hand with -1 Power.",
-            "cost": "2",
             "power": "2",
             "pool": "Collection Level 222-474 (Pool 2)",
             "card_id": "218"
@@ -2999,7 +2998,6 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/surtur.webp?v=248",
-            "name": "Surtur",
             "ability": "After you play a card with 10 or more Power, this gains +3 Power.",
             "cost": "3",
             "power": "4",
@@ -3063,7 +3061,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-collector.webp?v=248",
             "name": "The Collector",
-            "ability": "When a card enters your hand from anywhere (except your deck), +1 Power.",
             "cost": "2",
             "power": "2",
             "pool": "Collection Level 222-474 (Pool 2)",
@@ -3071,48 +3068,8 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=248",
-            "name": "The Hood",
-            "ability": "On Reveal: Add a Demon to your hand.",
-            "cost": "1",
             "power": "-3",
-            "pool": "Collection Level 486+ (Pool 3)",
             "card_id": "262"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-infinaut.webp?v=248",
-            "name": "The Infinaut",
-            "ability": "If you played a card last turn, you can't play this.",
-            "cost": "6",
-            "power": "20",
-            "pool": "Collection Level 222-474 (Pool 2)",
-            "card_id": "264"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-living-tribunal.webp?v=248",
-            "name": "The Living Tribunal",
-            "ability": "Ongoing: Split your total Power evenly among all locations.",
-            "cost": "6",
-            "power": "9",
-            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
-            "card_id": "265"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-phoenix-force.webp?v=248",
-            "name": "The Phoenix Force",
-            "ability": "On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
-            "cost": "4",
-            "power": "5",
-            "pool": "Series 4 Rare - Collection Level 486+ (Pool 4)",
-            "card_id": "413"
-        },
-        {
-            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-thing.webp?v=248",
-            "name": "The Thing",
-            "ability": "\"It's clobberin' time!\"",
-            "cost": "4",
-            "power": "6",
-            "pool": "Starter Card",
-            "card_id": "269"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-void.webp?v=248",
