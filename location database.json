@@ -98,7 +98,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-de1895cf49580c7fe159eb8496d6e77d599213b6a1c96708960e63ca2ffb3977.webp",
                     "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
                 },
-                {}
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-dfbdb8602f2350d34b6c399f5af038fab585cb42504cfb1d6e1d3457f5d23146.webp",
+                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
+                }
             ]
         },
         {
