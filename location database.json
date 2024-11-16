@@ -10,6 +10,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-79e55816f740ecc3292a470ea35c59dc4d21d96b272ff0f6bdaa2155403c658d.webp",
+                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-36be0b2ab715891827a25ad8f1a3c8f516baedba13ebaa5878909458a996fe05.webp",
                     "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
                 },
@@ -72,11 +77,6 @@
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
                     "description": "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-de1895cf49580c7fe159eb8496d6e77d599213b6a1c96708960e63ca2ffb3977.webp",
-                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
                 },
                 {
                     "name": "SNAP.FAN App",
