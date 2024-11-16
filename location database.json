@@ -430,11 +430,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Ares_02-f2a76863b7982a33927bee555fc4d85e43221966422e6f8225c5ccf43fd6ee2b.webp",
-                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Kang_09-12f09ca124098be72f74b6cb620bad22e1ba507f457e8575610f35dfd505d591.webp",
                     "description": "On Reveal: Look at what your opponent did, then restart the turn. (without this)"
                 },

@@ -1694,6 +1694,8 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/makkari.webp?v=248",
+            "name": "Makkari",
+            "ability": "After the turn, runs from your hand to a random location. (if possible)",
             "cost": "3",
             "power": "4",
             "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
@@ -1701,6 +1703,7 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/malekith.webp?v=248",
+            "name": "Malekith",
             "ability": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal it until the game ends.",
             "cost": "4",
             "power": "6",
