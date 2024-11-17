@@ -1,9 +1,9 @@
 {
-    "date": "November 11, 2024",
+    "date": "November 17, 2024",
     "Tiers": [
         {
-            "tier": "Tier 1",
-            "name": "Surtur Double Up"
+            "tier": "Silent Performer",
+            "name": "Double Up"
         },
         {
             "tier": "Tier 1",
@@ -11,19 +11,35 @@
         },
         {
             "tier": "Tier 1",
-            "name": "10 Power"
+            "name": "Arishem Thanos"
         },
         {
             "tier": "Tier 2",
-            "name": "Good Cards Ongoing"
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce Move"
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Toxic Affliction"
         },
         {
             "tier": "Tier 3",
-            "name": "Arishem Loki"
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Good Cards Wiccan"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "10 Power"
         }
     ]
 }
