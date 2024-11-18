@@ -148,11 +148,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/LunaSnow-5abfc16c9f3801718b002084ab9b9864c7e186c6efd0655e0de5f24d9e7574c1.webp",
                     "description": "On Reveal: Add an Ice Cube to each side of this location."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_11-03773d9e2dac4abf75f25f3a77888ee4f119d5986d7f8fe6704eff88d6e5f644.webp",
-                    "description": "On Reveal: Destroy each card here with 3 or less Power."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/LunaSnow_07-fdf26be571f8a3339913543ce433d07f549bac5d29ec8a35db06ae3c4ae4ba6b.webp",
