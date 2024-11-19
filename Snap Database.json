@@ -812,6 +812,8 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/echo.webp?v=248",
+            "name": "Echo",
+            "ability": "After your opponent plays an Ongoing card here, remove its abilities.",
             "cost": "1",
             "power": "2",
             "pool": "Collection Level 486+ (Pool 3)",
@@ -841,7 +843,17 @@
             "ability": "Each card you play to fill your side of a location gains +2 Power.",
             "cost": "3",
             "power": "3",
+            "pool": "Series 5 Ultra Rare - Collection Level 486+ (Pool 5)",
             "card_id": "77"
+        },
+        {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/enchantress.webp?v=248",
+            "name": "Enchantress",
+            "ability": "On Reveal: Remove the abilities from all Ongoing cards here.",
+            "cost": "4",
+            "power": "5",
+            "pool": "Collection Level 18-214 (Pool 1)",
+            "card_id": "79"
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/evolved-abomination.webp?v=248",
