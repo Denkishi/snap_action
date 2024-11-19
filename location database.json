@@ -15,11 +15,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-36be0b2ab715891827a25ad8f1a3c8f516baedba13ebaa5878909458a996fe05.webp",
-                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Frigga-7a8aacd0da3eb083123d76dcad612b78f8602459d79b23b9de2923b8fb26eced.webp",
                     "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
                 },
@@ -355,7 +350,8 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye-1a94b55a988f63b1466dee29a356ef28a1b800df68cabe3bf1342f6aada90816.webp"
+                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye-1a94b55a988f63b1466dee29a356ef28a1b800df68cabe3bf1342f6aada90816.webp",
+                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
                 },
                 {
                     "name": "SNAP.FAN App",
