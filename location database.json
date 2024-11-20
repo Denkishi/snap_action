@@ -178,11 +178,7 @@
         {
             "date": "Dec 10 - Dec 17",
             "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/PeniParker-ee9ba8535553434ee79020c95eae9525ca1aed78deea998e54066f47662f4719.webp",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_10-4bea0a91f993f07cf413e625709ffa9ad18ee599f3c5734037068674b03dfe3e.webp",
