@@ -1,458 +1,210 @@
 {
     "spotlight": [
         {
-            "date": "Nov 5 - Nov 12, 2024",
-            "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-7a8aacd0da3eb083123d76dcad612b78f8602459d79b23b9de2923b8fb26eced.webp",
-                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-79e55816f740ecc3292a470ea35c59dc4d21d96b272ff0f6bdaa2155403c658d.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-36be0b2ab715891827a25ad8f1a3c8f516baedba13ebaa5878909458a996fe05.webp",
-                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-7a8aacd0da3eb083123d76dcad612b78f8602459d79b23b9de2923b8fb26eced.webp",
-                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-79e55816f740ecc3292a470ea35c59dc4d21d96b272ff0f6bdaa2155403c658d.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-36be0b2ab715891827a25ad8f1a3c8f516baedba13ebaa5878909458a996fe05.webp",
-                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
-                }
-            ]
+            "date": " (19th Nov - 26th Nov 2024)"
         },
         {
-            "date": "Nov 12 - Nov 19, 2024",
-            "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-68680d0ba76aab7b1cb85c738667e6adebcb6160a87d8ffff4479a25bd24273d.webp",
-                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal it until the game ends."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-a9935bcf204cc07770395e31343c1e6da7f794f385f47707b3ba5168fbe9c62c.webp",
-                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal it until the game ends."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena_08-1b42ff41cfb7bb7ac4e3b3c4b6bceea20e329034e6b4e6b4787cfa1bf1f00c3a.webp",
-                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith-68680d0ba76aab7b1cb85c738667e6adebcb6160a87d8ffff4479a25bd24273d.webp",
-                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal it until the game ends."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Malekith_05-a9935bcf204cc07770395e31343c1e6da7f794f385f47707b3ba5168fbe9c62c.webp",
-                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal it until the game ends."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Thena_08-1b42ff41cfb7bb7ac4e3b3c4b6bceea20e329034e6b4e6b4787cfa1bf1f00c3a.webp",
-                    "description": "After each turn, +3 Power if you played (exactly) 2 cards."
-                }
-            ]
+            "date": "26th Nov - 3rd Dec"
         },
         {
-            "date": "Nov 19 - Nov 26",
+            "date": "3rd Dec - 10th Dec",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
-                    "description": "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-de1895cf49580c7fe159eb8496d6e77d599213b6a1c96708960e63ca2ffb3977.webp",
-                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-dfbdb8602f2350d34b6c399f5af038fab585cb42504cfb1d6e1d3457f5d23146.webp",
-                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
-                    "description": "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Annihilus_08-de1895cf49580c7fe159eb8496d6e77d599213b6a1c96708960e63ca2ffb3977.webp",
-                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-dfbdb8602f2350d34b6c399f5af038fab585cb42504cfb1d6e1d3457f5d23146.webp",
-                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
-                }
-            ]
-        },
-        {
-            "date": "Nov 26 - Dec 3",
-            "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-d6a15e81f47fe3658a33b2561a0734befb20eb7e80aaf510c8e276bd6674ce5c.webp",
-                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-a0fd0c7cc923cf6bd3d0da25661b3000c1f6e29787783eaea9b86ebb0f140e02.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-1d6f2ad234846c0d4bdaa7cf7c6b9faa06096be30d9fb78f2383063f851d2ae7.webp",
-                    "description": "On Reveal: Replace each other location with this one."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-d6a15e81f47fe3658a33b2561a0734befb20eb7e80aaf510c8e276bd6674ce5c.webp",
-                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-a0fd0c7cc923cf6bd3d0da25661b3000c1f6e29787783eaea9b86ebb0f140e02.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-1d6f2ad234846c0d4bdaa7cf7c6b9faa06096be30d9fb78f2383063f851d2ae7.webp",
-                    "description": "On Reveal: Replace each other location with this one."
-                }
-            ]
-        },
-        {
-            "date": "Dec 3 - Dec 10",
-            "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LunaSnow-5abfc16c9f3801718b002084ab9b9864c7e186c6efd0655e0de5f24d9e7574c1.webp",
+                    "name": "Luna Snow",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/21/LunaSnow.webp/revision/latest/scale-to-width-down/350?cb=20241112210423",
                     "description": "On Reveal: Add an Ice Cube to each side of this location."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_11-03773d9e2dac4abf75f25f3a77888ee4f119d5986d7f8fe6704eff88d6e5f644.webp",
+                    "name": "X-23",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/de/X23.webp/revision/latest/scale-to-width-down/350?cb=20240203223109",
+                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
+                },
+                {
+                    "name": "Lady Deathstrike",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7c/LadyDeathstrike.webp/revision/latest/scale-to-width-down/350?cb=20240203224354",
                     "description": "On Reveal: Destroy each card here with 3 or less Power."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LunaSnow_07-fdf26be571f8a3339913543ce433d07f549bac5d29ec8a35db06ae3c4ae4ba6b.webp",
-                    "description": "On Reveal: Add an Ice Cube to each side of this location."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LunaSnow-5abfc16c9f3801718b002084ab9b9864c7e186c6efd0655e0de5f24d9e7574c1.webp",
-                    "description": "On Reveal: Add an Ice Cube to each side of this location."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LadyDeathstrike_11-03773d9e2dac4abf75f25f3a77888ee4f119d5986d7f8fe6704eff88d6e5f644.webp",
-                    "description": "On Reveal: Destroy each card here with 3 or less Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/LunaSnow_07-fdf26be571f8a3339913543ce433d07f549bac5d29ec8a35db06ae3c4ae4ba6b.webp",
-                    "description": "On Reveal: Add an Ice Cube to each side of this location."
-                }
+                {},
+                {},
+                {}
             ]
         },
         {
-            "date": "Dec 10 - Dec 17",
+            "date": "10th Dec - 17th Dec",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/PeniParker-ee9ba8535553434ee79020c95eae9525ca1aed78deea998e54066f47662f4719.webp",
+                    "name": "Peni Parker",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0d/PeniParker.webp/revision/latest/scale-to-width-down/350?cb=20241112210854",
                     "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_10-4bea0a91f993f07cf413e625709ffa9ad18ee599f3c5734037068674b03dfe3e.webp",
+                    "name": "Sasquatch",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5a/Sasquatch.webp/revision/latest/scale-to-width-down/350?cb=20240411110103",
+                    "description": "Costs 1 less for each card you played last turn."
+                },
+                {
+                    "name": "Gladiator",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/44/Gladiator.png/revision/latest/scale-to-width-down/350?cb=20231227164333",
                     "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/PeniParker_08-773e9c61f68bf8470c174eff7c488bf867947895ac350809d19516a85f62779a.webp",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/PeniParker-ee9ba8535553434ee79020c95eae9525ca1aed78deea998e54066f47662f4719.webp",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_10-4bea0a91f993f07cf413e625709ffa9ad18ee599f3c5734037068674b03dfe3e.webp",
-                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/PeniParker_08-773e9c61f68bf8470c174eff7c488bf867947895ac350809d19516a85f62779a.webp",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
-                }
+                {},
+                {},
+                {}
             ]
         },
         {
-            "date": "Dec 17 - Dec 24",
+            "date": "17th Dec - 24th Dec",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Doom2099-6b78a55ddd899d4f773cf20ae0adb514697285bf27f564d9a3b03dad95e51fa3.webp",
+                    "name": "Doctor Doom 2099",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/2f/Doom2099.webp/revision/latest/scale-to-width-down/350?cb=20241112210932",
                     "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Doom2099_04-a8c277d7f93a16d441621dc7e0de3c9e1292059a9e06952e1284d34b90215bc8.webp",
-                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
+                    "name": "Miek",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e9/Miek.webp/revision/latest/scale-to-width-down/350?cb=20240125163038",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_08-ba50e7ee9d651b4f4c5c0ea388db430a82c8ffa11382fbf9348d8c096260dae1.webp",
-                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
+                    "name": "Hit-Monkey",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3e/Hit-monkey.webp/revision/latest/scale-to-width-down/350?cb=20230214210913"
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Doom2099-6b78a55ddd899d4f773cf20ae0adb514697285bf27f564d9a3b03dad95e51fa3.webp",
-                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Doom2099_04-a8c277d7f93a16d441621dc7e0de3c9e1292059a9e06952e1284d34b90215bc8.webp",
-                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_08-ba50e7ee9d651b4f4c5c0ea388db430a82c8ffa11382fbf9348d8c096260dae1.webp",
-                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
-                }
+                {},
+                {},
+                {}
             ]
         },
         {
-            "date": "Dec 24 - Dec 31",
+            "date": "24th Dec - 31st Dec",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BruceBanner-cb8808ff4079f61da5449fdbb5478b789fc30e7a1ac506afc1e840f96ef78e02.webp",
+                    "name": "Bruce Banner",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/96/BruceBanner.webp/revision/latest/scale-to-width-down/350?cb=20241112211003",
                     "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BruceBanner_08-484ed579f4956c284ed04652911dadc1261d78acf10f0b62299e36ea96332e09.webp",
-                    "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
+                    "name": "Ravonna Renslayer"
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary_09-8a05b169d9fd7324cdaf3632921926ac4afafe2d367de450ff355181ef07da32.webp",
+                    "name": "High Evolutionary",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e4/HighEvolutionary.webp/revision/latest/scale-to-width-down/350?cb=20240412135937",
                     "description": "At the start of the game, unlock the potential of your cards with no abilities."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BruceBanner-cb8808ff4079f61da5449fdbb5478b789fc30e7a1ac506afc1e840f96ef78e02.webp",
-                    "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BruceBanner_08-484ed579f4956c284ed04652911dadc1261d78acf10f0b62299e36ea96332e09.webp",
-                    "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HighEvolutionary_09-8a05b169d9fd7324cdaf3632921926ac4afafe2d367de450ff355181ef07da32.webp",
-                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
-                }
+                {},
+                {},
+                {}
             ]
         },
         {
-            "date": "Dec 31 - Jan 7",
+            "date": "31st Dec - 7th Jan",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RocketAndGroot-acd300eba0e1a6cf61be749c137c0f303ec3fc1004a8edcdf38f61b5d0c0c310.webp",
+                    "name": "Rocket and Groot",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/80/RocketAndGroot.webp/revision/latest/scale-to-width-down/350?cb=20241112211032",
                     "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_06-8280efc60a52f946937e741fea92fa7336c6791255bd0042087b2b3af4437eff.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
+                    "name": "Selene",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/Selene.png/revision/latest/scale-to-width-down/350?cb=20231227164102"
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RocketAndGroot_08-9e68cf6c57644cc3e6b9a4d3161e39163a45f4ebc85d64ef47835c3cedc3b7aa.webp",
-                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
+                    "name": "Blob",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9d/Blob.png/revision/latest/scale-to-width-down/350?cb=20231227164210",
+                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RocketAndGroot-acd300eba0e1a6cf61be749c137c0f303ec3fc1004a8edcdf38f61b5d0c0c310.webp",
-                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Blob_06-8280efc60a52f946937e741fea92fa7336c6791255bd0042087b2b3af4437eff.webp",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RocketAndGroot_08-9e68cf6c57644cc3e6b9a4d3161e39163a45f4ebc85d64ef47835c3cedc3b7aa.webp",
-                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
-                }
+                {},
+                {},
+                {}
             ]
         },
         {
-            "date": "Jan 7 - Jan 14",
+            "date": "7th Jan - 14th Jan",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/VictoriaHand-6db34e28e6257eccf0970ea23f646fe91059a127ffb3081666a190d6e577431c.webp",
+                    "name": "Victoria Hand",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f2/VictoriaHand.webp/revision/latest/scale-to-width-down/350?cb=20241112211118",
                     "description": "Ongoing: Your cards created in your hand have +2 Power."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_04-322399de53af1c4795abb06012609ee2147a53c311df2323475d7d21b27a6c25.webp",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/KateBishop_13-083bd31dae85e9349668b313af0c1b432cd3e54a86d871aa7d9103bcf75b3155.webp",
+                    "name": "Kate Bishop",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/KateBishop.webp/revision/latest/scale-to-width-down/350?cb=20240804165223",
                     "description": "On Reveal: Add 2 Arrows to your hand."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/VictoriaHand-6db34e28e6257eccf0970ea23f646fe91059a127ffb3081666a190d6e577431c.webp",
-                    "description": "Ongoing: Your cards created in your hand have +2 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_04-322399de53af1c4795abb06012609ee2147a53c311df2323475d7d21b27a6c25.webp",
+                    "name": "Grandmaster",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/42/GrandMaster.webp/revision/latest/scale-to-width-down/350?cb=20240125104723",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/KateBishop_13-083bd31dae85e9349668b313af0c1b432cd3e54a86d871aa7d9103bcf75b3155.webp",
-                    "description": "On Reveal: Add 2 Arrows to your hand."
-                }
+                {},
+                {},
+                {}
             ]
         },
         {
-            "date": "Jan 14 - Jan 21",
+            "date": "14th - 21st Jan",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye-1a94b55a988f63b1466dee29a356ef28a1b800df68cabe3bf1342f6aada90816.webp",
+                    "name": "Bullseye",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f1/Bullseye.webp/revision/latest/scale-to-width-down/350?cb=20241112211224",
                     "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye_07-d3537e87fa540a84e0dc6dd785793c92a93600cd52ce8804af667c6a7fffab20.webp",
-                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+                    "name": "Nocturne",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/63/Nocturne.webp/revision/latest/scale-to-width-down/350?cb=20240411105959",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_07-f2e12cea0d4deedf6434dee47b7812a2a268300d9d493d2c87ec0f056a116657.webp",
-                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
+                    "name": "Black Swan",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/77/BlackSwan.webp/revision/latest/scale-to-width-down/350?cb=20240131102946",
+                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye-1a94b55a988f63b1466dee29a356ef28a1b800df68cabe3bf1342f6aada90816.webp",
-                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Bullseye_07-d3537e87fa540a84e0dc6dd785793c92a93600cd52ce8804af667c6a7fffab20.webp",
-                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/BlackSwan_07-f2e12cea0d4deedf6434dee47b7812a2a268300d9d493d2c87ec0f056a116657.webp",
-                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
-                }
+                {},
+                {},
+                {}
             ]
         },
         {
-            "date": "Jan 21 - Jan 28",
+            "date": "21st - 28th Jan",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Moonstone-8a3065a66346a9adce150e09375a92e764e6045e9c5e0e47af1cc1963e177866.webp",
+                    "name": "Moonstone",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Moonstone.webp/revision/latest/scale-to-width-down/350?cb=20241112211254",
                     "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_08-185b932f3c98ee015436c1e5793e6dbe3038a7209b3254dbf2a2c849bbaa153c.webp",
-                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy_07-db7266bcac5f7786a42f253490c85b78b4f9042535380861697e4607764f2dd5.webp",
+                    "name": "Marvel Boy",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/MarvelBoy.webp/revision/latest/scale-to-width-down/350?cb=20240804183256",
                     "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Moonstone-8a3065a66346a9adce150e09375a92e764e6045e9c5e0e47af1cc1963e177866.webp",
-                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Caiera_08-185b932f3c98ee015436c1e5793e6dbe3038a7209b3254dbf2a2c849bbaa153c.webp",
+                    "name": "Caiera",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5b/Caiera.webp/revision/latest/scale-to-width-down/350?cb=20240125184643",
                     "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/MarvelBoy_07-db7266bcac5f7786a42f253490c85b78b4f9042535380861697e4607764f2dd5.webp",
-                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
-                }
+                {},
+                {},
+                {}
             ]
         },
         {
-            "date": "Jan 28 - Feb 4",
+            "date": "28th Jan - 4th Feb",
             "cards": [
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Ares-11cb0accfe75f07ecfbe2c4643d9addad48c08c9a556cedb8b8c897c390a538d.webp",
+                    "name": "Ares",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Ares.webp/revision/latest/scale-to-width-down/350?cb=20241112211309",
                     "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Ares_02-f2a76863b7982a33927bee555fc4d85e43221966422e6f8225c5ccf43fd6ee2b.webp",
-                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
+                    "name": "Misery",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/ae/Misery.webp/revision/latest/scale-to-width-down/350?cb=20240730172657",
+                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
                 },
                 {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Kang_09-12f09ca124098be72f74b6cb620bad22e1ba507f457e8575610f35dfd505d591.webp",
-                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without this)"
+                    "name": "Kang"
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Ares-11cb0accfe75f07ecfbe2c4643d9addad48c08c9a556cedb8b8c897c390a538d.webp",
-                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Ares_02-f2a76863b7982a33927bee555fc4d85e43221966422e6f8225c5ccf43fd6ee2b.webp",
-                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Kang_09-12f09ca124098be72f74b6cb620bad22e1ba507f457e8575610f35dfd505d591.webp",
-                    "description": "On Reveal: Look at what your opponent did, then restart the turn. (without this)"
-                }
+                {},
+                {},
+                {}
             ]
         }
     ]
