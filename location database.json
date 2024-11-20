@@ -1,211 +1,313 @@
 {
-    "spotlight": [
-        {
-            "date": " (19th Nov - 26th Nov 2024)"
-        },
-        {
-            "date": "26th Nov - 3rd Dec"
-        },
-        {
-            "date": "3rd Dec - 10th Dec",
-            "cards": [
-                {
-                    "name": "Luna Snow",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/21/LunaSnow.webp/revision/latest/scale-to-width-down/350?cb=20241112210423",
-                    "description": "On Reveal: Add an Ice Cube to each side of this location."
-                },
-                {
-                    "name": "X-23",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/de/X23.webp/revision/latest/scale-to-width-down/350?cb=20240203223109",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
-                },
-                {
-                    "name": "Lady Deathstrike",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7c/LadyDeathstrike.webp/revision/latest/scale-to-width-down/350?cb=20240203224354",
-                    "description": "On Reveal: Destroy each card here with 3 or less Power."
-                },
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "10th Dec - 17th Dec",
-            "cards": [
-                {
-                    "name": "Peni Parker",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0d/PeniParker.webp/revision/latest/scale-to-width-down/350?cb=20241112210854",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
-                },
-                {
-                    "name": "Sasquatch",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5a/Sasquatch.webp/revision/latest/scale-to-width-down/350?cb=20240411110103",
-                    "description": "Costs 1 less for each card you played last turn."
-                },
-                {
-                    "name": "Gladiator",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/44/Gladiator.png/revision/latest/scale-to-width-down/350?cb=20231227164333",
-                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
-                },
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "17th Dec - 24th Dec",
-            "cards": [
-                {
-                    "name": "Doctor Doom 2099",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/2f/Doom2099.webp/revision/latest/scale-to-width-down/350?cb=20241112210932",
-                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
-                },
-                {
-                    "name": "Miek",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e9/Miek.webp/revision/latest/scale-to-width-down/350?cb=20240125163038",
-                    "description": "When you discard a card, this gains +1 Power and can move next turn."
-                },
-                {
-                    "name": "Hit-Monkey",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3e/Hit-monkey.webp/revision/latest/scale-to-width-down/350?cb=20230214210913"
-                },
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "24th Dec - 31st Dec",
-            "cards": [
-                {
-                    "name": "Bruce Banner",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/96/BruceBanner.webp/revision/latest/scale-to-width-down/350?cb=20241112211003",
-                    "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
-                },
-                {
-                    "name": "Ravonna Renslayer"
-                },
-                {
-                    "name": "High Evolutionary",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e4/HighEvolutionary.webp/revision/latest/scale-to-width-down/350?cb=20240412135937",
-                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
-                },
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "31st Dec - 7th Jan",
-            "cards": [
-                {
-                    "name": "Rocket and Groot",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/80/RocketAndGroot.webp/revision/latest/scale-to-width-down/350?cb=20241112211032",
-                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
-                },
-                {
-                    "name": "Selene",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/Selene.png/revision/latest/scale-to-width-down/350?cb=20231227164102"
-                },
-                {
-                    "name": "Blob",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9d/Blob.png/revision/latest/scale-to-width-down/350?cb=20231227164210",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
-                },
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "7th Jan - 14th Jan",
-            "cards": [
-                {
-                    "name": "Victoria Hand",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f2/VictoriaHand.webp/revision/latest/scale-to-width-down/350?cb=20241112211118",
-                    "description": "Ongoing: Your cards created in your hand have +2 Power."
-                },
-                {
-                    "name": "Kate Bishop",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/KateBishop.webp/revision/latest/scale-to-width-down/350?cb=20240804165223",
-                    "description": "On Reveal: Add 2 Arrows to your hand."
-                },
-                {
-                    "name": "Grandmaster",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/42/GrandMaster.webp/revision/latest/scale-to-width-down/350?cb=20240125104723",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
-                },
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "14th - 21st Jan",
-            "cards": [
-                {
-                    "name": "Bullseye",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f1/Bullseye.webp/revision/latest/scale-to-width-down/350?cb=20241112211224",
-                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
-                },
-                {
-                    "name": "Nocturne",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/63/Nocturne.webp/revision/latest/scale-to-width-down/350?cb=20240411105959",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
-                },
-                {
-                    "name": "Black Swan",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/77/BlackSwan.webp/revision/latest/scale-to-width-down/350?cb=20240131102946",
-                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
-                },
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "21st - 28th Jan",
-            "cards": [
-                {
-                    "name": "Moonstone",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Moonstone.webp/revision/latest/scale-to-width-down/350?cb=20241112211254",
-                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
-                },
-                {
-                    "name": "Marvel Boy",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/MarvelBoy.webp/revision/latest/scale-to-width-down/350?cb=20240804183256",
-                    "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
-                },
-                {
-                    "name": "Caiera",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5b/Caiera.webp/revision/latest/scale-to-width-down/350?cb=20240125184643",
-                    "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
-                },
-                {},
-                {},
-                {}
-            ]
-        },
-        {
-            "date": "28th Jan - 4th Feb",
-            "cards": [
-                {
-                    "name": "Ares",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Ares.webp/revision/latest/scale-to-width-down/350?cb=20241112211309",
-                    "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
-                },
-                {
-                    "name": "Misery",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/ae/Misery.webp/revision/latest/scale-to-width-down/350?cb=20240730172657",
-                    "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
-                },
-                {
-                    "name": "Kang"
-                },
-                {},
-                {},
-                {}
-            ]
-        }
-    ]
+ "spotlight": [
+  {
+   "date": " (19th Nov - 26th Nov 2024)"
+  },
+  {
+   "date": "26th Nov - 3rd Dec"
+  },
+  {
+   "date": "3rd Dec - 10th Dec",
+   "cards": [
+    {
+     "name": "Luna Snow",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/21/LunaSnow.webp/revision/latest/scale-to-width-down/350?cb=20241112210423",
+     "description": "On Reveal: Add an Ice Cube to each side of this location."
+    },
+    {
+     "name": "X-23",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/de/X23.webp/revision/latest/scale-to-width-down/350?cb=20240203223109",
+     "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
+    },
+    {
+     "name": "Lady Deathstrike",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7c/LadyDeathstrike.webp/revision/latest/scale-to-width-down/350?cb=20240203224354",
+     "description": "On Reveal: Destroy each card here with 3 or less Power."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/21/LunaSnow.webp/revision/latest/scale-to-width-down/350?cb=20241112210423",
+     "name": "Luna Snow",
+     "description": "On Reveal: Add an Ice Cube to each side of this location."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/de/X23.webp/revision/latest/scale-to-width-down/350?cb=20240203223109",
+     "name": "X-23",
+     "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7c/LadyDeathstrike.webp/revision/latest/scale-to-width-down/350?cb=20240203224354",
+     "name": "Lady Deathstrike",
+     "description": "On Reveal: Destroy each card here with 3 or less Power."
+    }
+   ]
+  },
+  {
+   "date": "10th Dec - 17th Dec",
+   "cards": [
+    {
+     "name": "Peni Parker",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0d/PeniParker.webp/revision/latest/scale-to-width-down/350?cb=20241112210854",
+     "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+    },
+    {
+     "name": "Sasquatch",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5a/Sasquatch.webp/revision/latest/scale-to-width-down/350?cb=20240411110103",
+     "description": "Costs 1 less for each card you played last turn."
+    },
+    {
+     "name": "Gladiator",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/44/Gladiator.png/revision/latest/scale-to-width-down/350?cb=20231227164333",
+     "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0d/PeniParker.webp/revision/latest/scale-to-width-down/350?cb=20241112210854",
+     "name": "Peni Parker",
+     "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5a/Sasquatch.webp/revision/latest/scale-to-width-down/350?cb=20240411110103",
+     "name": "Sasquatch",
+     "description": "Costs 1 less for each card you played last turn."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/44/Gladiator.png/revision/latest/scale-to-width-down/350?cb=20231227164333",
+     "name": "Gladiator",
+     "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+    }
+   ]
+  },
+  {
+   "date": "17th Dec - 24th Dec",
+   "cards": [
+    {
+     "name": "Doctor Doom 2099",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/2f/Doom2099.webp/revision/latest/scale-to-width-down/350?cb=20241112210932",
+     "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
+    },
+    {
+     "name": "Miek",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e9/Miek.webp/revision/latest/scale-to-width-down/350?cb=20240125163038",
+     "description": "When you discard a card, this gains +1 Power and can move next turn."
+    },
+    {
+     "name": "Hit-Monkey",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3e/Hit-monkey.webp/revision/latest/scale-to-width-down/350?cb=20230214210913"
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/2f/Doom2099.webp/revision/latest/scale-to-width-down/350?cb=20241112210932",
+     "name": "Doctor Doom 2099",
+     "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e9/Miek.webp/revision/latest/scale-to-width-down/350?cb=20240125163038",
+     "name": "Miek",
+     "description": "When you discard a card, this gains +1 Power and can move next turn."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3e/Hit-monkey.webp/revision/latest/scale-to-width-down/350?cb=20230214210913",
+     "name": "Hit-Monkey"
+    }
+   ]
+  },
+  {
+   "date": "24th Dec - 31st Dec",
+   "cards": [
+    {
+     "name": "Bruce Banner",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/96/BruceBanner.webp/revision/latest/scale-to-width-down/350?cb=20241112211003",
+     "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
+    },
+    {
+     "name": "Ravonna Renslayer"
+    },
+    {
+     "name": "High Evolutionary",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e4/HighEvolutionary.webp/revision/latest/scale-to-width-down/350?cb=20240412135937",
+     "description": "At the start of the game, unlock the potential of your cards with no abilities."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/96/BruceBanner.webp/revision/latest/scale-to-width-down/350?cb=20241112211003",
+     "name": "Bruce Banner",
+     "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
+    },
+    {
+     "name": "Ravonna Renslayer"
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e4/HighEvolutionary.webp/revision/latest/scale-to-width-down/350?cb=20240412135937",
+     "name": "High Evolutionary",
+     "description": "At the start of the game, unlock the potential of your cards with no abilities."
+    }
+   ]
+  },
+  {
+   "date": "31st Dec - 7th Jan",
+   "cards": [
+    {
+     "name": "Rocket and Groot",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/80/RocketAndGroot.webp/revision/latest/scale-to-width-down/350?cb=20241112211032",
+     "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
+    },
+    {
+     "name": "Selene",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/Selene.png/revision/latest/scale-to-width-down/350?cb=20231227164102"
+    },
+    {
+     "name": "Blob",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9d/Blob.png/revision/latest/scale-to-width-down/350?cb=20231227164210",
+     "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/80/RocketAndGroot.webp/revision/latest/scale-to-width-down/350?cb=20241112211032",
+     "name": "Rocket and Groot",
+     "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/Selene.png/revision/latest/scale-to-width-down/350?cb=20231227164102",
+     "name": "Selene"
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9d/Blob.png/revision/latest/scale-to-width-down/350?cb=20231227164210",
+     "name": "Blob",
+     "description": "On Reveal: Merge cards from your deck into this until it gains 15 or more Power. Ongoing: Can't be moved."
+    }
+   ]
+  },
+  {
+   "date": "7th Jan - 14th Jan",
+   "cards": [
+    {
+     "name": "Victoria Hand",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f2/VictoriaHand.webp/revision/latest/scale-to-width-down/350?cb=20241112211118",
+     "description": "Ongoing: Your cards created in your hand have +2 Power."
+    },
+    {
+     "name": "Kate Bishop",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/KateBishop.webp/revision/latest/scale-to-width-down/350?cb=20240804165223",
+     "description": "On Reveal: Add 2 Arrows to your hand."
+    },
+    {
+     "name": "Grandmaster",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/42/GrandMaster.webp/revision/latest/scale-to-width-down/350?cb=20240125104723",
+     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f2/VictoriaHand.webp/revision/latest/scale-to-width-down/350?cb=20241112211118",
+     "name": "Victoria Hand",
+     "description": "Ongoing: Your cards created in your hand have +2 Power."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/KateBishop.webp/revision/latest/scale-to-width-down/350?cb=20240804165223",
+     "name": "Kate Bishop",
+     "description": "On Reveal: Add 2 Arrows to your hand."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/42/GrandMaster.webp/revision/latest/scale-to-width-down/350?cb=20240125104723",
+     "name": "Grandmaster",
+     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+    }
+   ]
+  },
+  {
+   "date": "14th - 21st Jan",
+   "cards": [
+    {
+     "name": "Bullseye",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f1/Bullseye.webp/revision/latest/scale-to-width-down/350?cb=20241112211224",
+     "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+    },
+    {
+     "name": "Nocturne",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/63/Nocturne.webp/revision/latest/scale-to-width-down/350?cb=20240411105959",
+     "description": "You can move this once. When this moves, replace its location with a random new one."
+    },
+    {
+     "name": "Black Swan",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/77/BlackSwan.webp/revision/latest/scale-to-width-down/350?cb=20240131102946",
+     "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f1/Bullseye.webp/revision/latest/scale-to-width-down/350?cb=20241112211224",
+     "name": "Bullseye",
+     "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/63/Nocturne.webp/revision/latest/scale-to-width-down/350?cb=20240411105959",
+     "name": "Nocturne",
+     "description": "You can move this once. When this moves, replace its location with a random new one."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/77/BlackSwan.webp/revision/latest/scale-to-width-down/350?cb=20240131102946",
+     "name": "Black Swan",
+     "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+    }
+   ]
+  },
+  {
+   "date": "21st - 28th Jan",
+   "cards": [
+    {
+     "name": "Moonstone",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Moonstone.webp/revision/latest/scale-to-width-down/350?cb=20241112211254",
+     "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
+    },
+    {
+     "name": "Marvel Boy",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/MarvelBoy.webp/revision/latest/scale-to-width-down/350?cb=20240804183256",
+     "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+    },
+    {
+     "name": "Caiera",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5b/Caiera.webp/revision/latest/scale-to-width-down/350?cb=20240125184643",
+     "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Moonstone.webp/revision/latest/scale-to-width-down/350?cb=20241112211254",
+     "name": "Moonstone",
+     "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/MarvelBoy.webp/revision/latest/scale-to-width-down/350?cb=20240804183256",
+     "name": "Marvel Boy",
+     "description": "After each turn, give 3 of your 1-Cost cards +1 Power."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5b/Caiera.webp/revision/latest/scale-to-width-down/350?cb=20240125184643",
+     "name": "Caiera",
+     "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
+    }
+   ]
+  },
+  {
+   "date": "28th Jan - 4th Feb",
+   "cards": [
+    {
+     "name": "Ares",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Ares.webp/revision/latest/scale-to-width-down/350?cb=20241112211309",
+     "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
+    },
+    {
+     "name": "Misery",
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/ae/Misery.webp/revision/latest/scale-to-width-down/350?cb=20240730172657",
+     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
+    },
+    {
+     "name": "Kang"
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Ares.webp/revision/latest/scale-to-width-down/350?cb=20241112211309",
+     "name": "Ares",
+     "description": "On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power."
+    },
+    {
+     "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/ae/Misery.webp/revision/latest/scale-to-width-down/350?cb=20240730172657",
+     "name": "Misery",
+     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
+    },
+    {
+     "name": "Kang"
+    }
+   ]
+  }
+ ]
 }
