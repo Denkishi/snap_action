@@ -5,6 +5,11 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-7a8aacd0da3eb083123d76dcad612b78f8602459d79b23b9de2923b8fb26eced.webp",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-79e55816f740ecc3292a470ea35c59dc4d21d96b272ff0f6bdaa2155403c658d.webp",
                     "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
                 },
@@ -180,11 +185,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_10-4bea0a91f993f07cf413e625709ffa9ad18ee599f3c5734037068674b03dfe3e.webp",
-                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/PeniParker_08-773e9c61f68bf8470c174eff7c488bf867947895ac350809d19516a85f62779a.webp",
                     "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
                 },
@@ -193,11 +193,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/PeniParker-ee9ba8535553434ee79020c95eae9525ca1aed78deea998e54066f47662f4719.webp",
                     "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_10-4bea0a91f993f07cf413e625709ffa9ad18ee599f3c5734037068674b03dfe3e.webp",
-                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/PeniParker_08-773e9c61f68bf8470c174eff7c488bf867947895ac350809d19516a85f62779a.webp",
