@@ -185,6 +185,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_10-4bea0a91f993f07cf413e625709ffa9ad18ee599f3c5734037068674b03dfe3e.webp",
+                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/PeniParker_08-773e9c61f68bf8470c174eff7c488bf867947895ac350809d19516a85f62779a.webp",
                     "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
                 },
@@ -193,7 +198,11 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/PeniParker-ee9ba8535553434ee79020c95eae9525ca1aed78deea998e54066f47662f4719.webp",
                     "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
                 },
-                {},
+                {
+                    "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/Gladiator_10-4bea0a91f993f07cf413e625709ffa9ad18ee599f3c5734037068674b03dfe3e.webp",
+                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/PeniParker_08-773e9c61f68bf8470c174eff7c488bf867947895ac350809d19516a85f62779a.webp",
