@@ -8,21 +8,7 @@
                     "image": "https://game-assets.snap.fan/card_variant_images/Frigga-7a8aacd0da3eb083123d76dcad612b78f8602459d79b23b9de2923b8fb26eced.webp",
                     "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
                 },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-79e55816f740ecc3292a470ea35c59dc4d21d96b272ff0f6bdaa2155403c658d.webp",
-                    "description": "On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Copycat_05-36be0b2ab715891827a25ad8f1a3c8f516baedba13ebaa5878909458a996fe05.webp",
-                    "description": "When you draw this, copy the text from the bottom card of your opponent's deck."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Frigga-7a8aacd0da3eb083123d76dcad612b78f8602459d79b23b9de2923b8fb26eced.webp",
-                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
-                },
+                {},
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/RedGuardian_06-79e55816f740ecc3292a470ea35c59dc4d21d96b272ff0f6bdaa2155403c658d.webp",
@@ -108,16 +94,6 @@
         {
             "date": "Nov 26 - Dec 3",
             "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Gorr-d6a15e81f47fe3658a33b2561a0734befb20eb7e80aaf510c8e276bd6674ce5c.webp",
-                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
-                },
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Havok_08-a0fd0c7cc923cf6bd3d0da25661b3000c1f6e29787783eaea9b86ebb0f140e02.webp",
-                    "description": "After each turn, you lose 1 Max Energy and this gains +4 Power."
-                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Legion_08-1d6f2ad234846c0d4bdaa7cf7c6b9faa06096be30d9fb78f2383063f851d2ae7.webp",
@@ -225,11 +201,6 @@
                 },
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/HitMonkey_08-ba50e7ee9d651b4f4c5c0ea388db430a82c8ffa11382fbf9348d8c096260dae1.webp",
-                    "description": "On Reveal: Gain +2 Power for each other card you played this turn."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Doom2099-6b78a55ddd899d4f773cf20ae0adb514697285bf27f564d9a3b03dad95e51fa3.webp",
                     "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
                 },
@@ -320,11 +291,6 @@
             "cards": [
                 {
                     "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/VictoriaHand-6db34e28e6257eccf0970ea23f646fe91059a127ffb3081666a190d6e577431c.webp",
-                    "description": "Ongoing: Your cards created in your hand have +2 Power."
-                },
-                {
-                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/GrandMaster_04-322399de53af1c4795abb06012609ee2147a53c311df2323475d7d21b27a6c25.webp",
                     "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
                 },
@@ -388,11 +354,6 @@
         {
             "date": "Jan 21 - Jan 28",
             "cards": [
-                {
-                    "name": "SNAP.FAN App",
-                    "image": "https://game-assets.snap.fan/card_variant_images/Moonstone-8a3065a66346a9adce150e09375a92e764e6045e9c5e0e47af1cc1963e177866.webp",
-                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
-                },
                 {
                     "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/Caiera_08-185b932f3c98ee015436c1e5793e6dbe3038a7209b3254dbf2a2c849bbaa153c.webp",
