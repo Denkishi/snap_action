@@ -85,6 +85,11 @@
                 },
                 {
                     "name": "SNAP.FAN App",
+                    "image": "https://game-assets.snap.fan/card_variant_images/WerewolfByNight_06-dfbdb8602f2350d34b6c399f5af038fab585cb42504cfb1d6e1d3457f5d23146.webp",
+                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
+                },
+                {
+                    "name": "SNAP.FAN App",
                     "image": "https://game-assets.snap.fan/card_variant_images/FenrisWolf-f5af9b35940bd6a3ee4500c43896cb411a91c325cd146ab023afe0417179d6b6.webp",
                     "description": "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
                 },
