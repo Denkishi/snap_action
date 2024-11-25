@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Upcoming Series Drop",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_25_19_06_17/769907862485_s1251333.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7415247896284601094",
+            "date": "11/24/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "November 14th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_14_08_50_47/1381819475496_s34706.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7415247896284584710",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_10_15_03_33_09/959166428234_s315777.png",
             "page": "https://www.marvelsnap.com/newsdetail?id=7415247892945902341",
             "date": "10/15/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "New Infinity Split Rates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_10_12_07_05_14/41433320611_s34706.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7415247892945853189",
-            "date": "10/12/2024",
             "label": "NEWS"
         }
     ]
