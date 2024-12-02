@@ -3,35 +3,27 @@
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Scream Move"
+            "name": "Pixie Hammers"
         },
         {
             "tier": "Silent Performer",
-            "name": "Thanos Zoo"
+            "name": "Junk"
         },
         {
             "tier": "Tier 1",
-            "name": "Bounce"
+            "name": "Stature Darkhawk"
         },
         {
             "tier": "Tier 1",
-            "name": "Arishem Loki"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Malekith"
+            "name": "Mill"
         },
         {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
             "name": "Good Cards Wiccan"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Double Up"
         },
         {
             "tier": "Tier 2",
@@ -42,12 +34,28 @@
             "name": "War Machine Ramp"
         },
         {
-            "tier": "Tier 3",
+            "tier": "Tier 2",
             "name": "Pure Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Thanos Destroy"
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Good On Reveal Cards"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Good Cards Malekith"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Wiccan"
         }
     ]
 }
