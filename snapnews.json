@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Marvel Rivals",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_12_03_19_49_42/31741106246_s1811971.png",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7417688494958549766",
+            "date": "12/03/2024",
+            "label": "NEWS"
+        },
+        {
             "name": "EXCLUSIVE BLACK FRIDAY SALE - 10% off Gold!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_26_04_59_47/707464789815_s1057653.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7417688494958467846",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_10_12_09_52_08/240368225254_s197104.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7415247892945885957",
             "date": "10/16/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "Patch Notes - October 15th, 2024",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_10_15_09_31_12/987619818704_s34706.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7415247892945918725",
-            "date": "10/15/2024",
             "label": "NEWS"
         }
     ]
