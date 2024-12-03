@@ -1,73 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (19th Nov - 26th Nov 2024)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/a3/FenrisWolf_04.webp/revision/latest/scale-to-width-down/200?cb=20240821210351",
-                    "name": "FenrisWolf",
-                    "description": "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/6b/Annihilus_08.webp/revision/latest/scale-to-width-down/200?cb=20240821211333",
-                    "name": "Annihilus",
-                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/55/WerewolfByNight_06.webp/revision/latest/scale-to-width-down/200?cb=20240821211236",
-                    "name": "WerewolfByNight",
-                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
-                },
-                {
-                    "name": "FenrisWolf",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/a3/FenrisWolf_04.webp/revision/latest/scale-to-width-down/200?cb=20240821210351",
-                    "description": "Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location."
-                },
-                {
-                    "name": "Annihilus",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/6b/Annihilus_08.webp/revision/latest/scale-to-width-down/200?cb=20240821211333",
-                    "description": "On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't."
-                },
-                {
-                    "name": "WerewolfByNight",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/55/WerewolfByNight_06.webp/revision/latest/scale-to-width-down/200?cb=20240821211236",
-                    "description": "After you play a card, move there to gain +2 Power if it has an On Reveal."
-                }
-            ]
-        },
-        {
-            "date": "26th Nov - 3rd Dec",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/45/Gorr_10.webp/revision/latest/scale-to-width-down/200?cb=20241102003601",
-                    "name": "Gorr",
-                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/12/Havok_08.webp/revision/latest/scale-to-width-down/200?cb=20240822124803",
-                    "name": "Havok"
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c3/Legion_08.webp/revision/latest/scale-to-width-down/200?cb=20240822124847",
-                    "name": "Legion"
-                },
-                {
-                    "name": "Gorr",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/45/Gorr_10.webp/revision/latest/scale-to-width-down/200?cb=20241102003601",
-                    "description": "Ongoing: +2 Power for EACH On Reveal card in play."
-                },
-                {
-                    "name": "Havok",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/12/Havok_08.webp/revision/latest/scale-to-width-down/200?cb=20240822124803"
-                },
-                {
-                    "name": "Legion",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c3/Legion_08.webp/revision/latest/scale-to-width-down/200?cb=20240822124847"
-                }
-            ]
-        },
-        {
-            "date": "3rd Dec - 10th Dec",
+            "date": " (3rd Dec - 10th Dec 2024)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c9/LunaSnow_07.webp/revision/latest/scale-to-width-down/200?cb=20241112212706",
@@ -150,8 +84,9 @@
                     "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/49/HitMonkey.webp/revision/latest/scale-to-width-down/200?cb=20241102234423",
-                    "name": "HitMonkey"
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/ce/Daken.webp/revision/latest/scale-to-width-down/200?cb=20240218172546",
+                    "name": "Daken",
+                    "description": "On Reveal: Add the Muramasa Shard to your hand."
                 },
                 {
                     "name": "Doom2099",
@@ -164,8 +99,9 @@
                     "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
                 {
-                    "name": "HitMonkey",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/49/HitMonkey.webp/revision/latest/scale-to-width-down/200?cb=20241102234423"
+                    "name": "Daken",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/ce/Daken.webp/revision/latest/scale-to-width-down/200?cb=20240218172546",
+                    "description": "On Reveal: Add the Muramasa Shard to your hand."
                 }
             ]
         },
