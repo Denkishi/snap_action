@@ -1,42 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (3rd Dec - 10th Dec 2024)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c9/LunaSnow_07.webp/revision/latest/scale-to-width-down/200?cb=20241112212706",
-                    "name": "LunaSnow",
-                    "description": "On Reveal: Add an Ice Cube to each side of this location."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/56/X23_14.webp/revision/latest/scale-to-width-down/200?cb=20241112212809",
-                    "name": "X23",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/59/LadyDeathstrike_11.webp/revision/latest/scale-to-width-down/200?cb=20241112212013",
-                    "name": "LadyDeathstrike",
-                    "description": "On Reveal: Destroy each card here with 3 or less Power."
-                },
-                {
-                    "name": "LunaSnow",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c9/LunaSnow_07.webp/revision/latest/scale-to-width-down/200?cb=20241112212706",
-                    "description": "On Reveal: Add an Ice Cube to each side of this location."
-                },
-                {
-                    "name": "X23",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/56/X23_14.webp/revision/latest/scale-to-width-down/200?cb=20241112212809",
-                    "description": "When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn."
-                },
-                {
-                    "name": "LadyDeathstrike",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/59/LadyDeathstrike_11.webp/revision/latest/scale-to-width-down/200?cb=20241112212013",
-                    "description": "On Reveal: Destroy each card here with 3 or less Power."
-                }
-            ]
-        },
-        {
-            "date": "10th Dec - 17th Dec",
+            "date": " (10th Dec - 17th Dec 2024)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c9/PeniParker_08.webp/revision/latest/scale-to-width-down/200?cb=20241112213425",
