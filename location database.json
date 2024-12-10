@@ -308,6 +308,142 @@
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0e/Kang_09.webp/revision/latest/scale-to-width-down/200?cb=20241113104518"
                 }
             ]
+        },
+        {
+            "date": "4th Feb - 11th Feb",
+            "cards": [
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
+                    "name": "No",
+                    "description": "Ongoing: The On Reveal abilities of your X-Cost cards at this location trigger twice."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/83/Makkari.webp/revision/latest/scale-to-width-down/200?cb=20240428121409",
+                    "name": "Makkari",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/72/Namora.webp/revision/latest/scale-to-width-down/200?cb=20240411105730",
+                    "name": "Namora",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                },
+                {
+                    "name": "No",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
+                    "description": "Ongoing: The On Reveal abilities of your X-Cost cards at this location trigger twice."
+                },
+                {
+                    "name": "Makkari",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/83/Makkari.webp/revision/latest/scale-to-width-down/200?cb=20240428121409",
+                    "description": "After the turn, runs from your hand to a random location. (if possible)"
+                },
+                {
+                    "name": "Namora",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/72/Namora.webp/revision/latest/scale-to-width-down/200?cb=20240411105730",
+                    "description": "On Reveal: Give +5 Power to each of your cards alone at another location."
+                }
+            ]
+        },
+        {
+            "date": "11th Feb - 18th Feb",
+            "cards": [
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
+                    "name": "No",
+                    "description": "Whenever your opponent ends their turn with unspent energy, draw a card with X or more power."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/fa/Blink.webp/revision/latest/scale-to-width-down/200?cb=20240303115037",
+                    "name": "Blink",
+                    "description": "On Reveal: Swap the last card you played with a higher-Cost card from your deck."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/fc/Nebula.webp/revision/latest/scale-to-width-down/200?cb=20240128172638",
+                    "name": "Nebula",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
+                },
+                {
+                    "name": "No",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
+                    "description": "Whenever your opponent ends their turn with unspent energy, draw a card with X or more power."
+                },
+                {
+                    "name": "Blink",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/fa/Blink.webp/revision/latest/scale-to-width-down/200?cb=20240303115037",
+                    "description": "On Reveal: Swap the last card you played with a higher-Cost card from your deck."
+                },
+                {
+                    "name": "Nebula",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/fc/Nebula.webp/revision/latest/scale-to-width-down/200?cb=20240128172638",
+                    "description": "Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)"
+                }
+            ]
+        },
+        {
+            "date": "18th Feb - 25th Feb",
+            "cards": [
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
+                    "name": "No",
+                    "description": "On Reveal: Return one of your X-Cost cards to your hand and give it +X Power."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/a4/BaronZemo.webp/revision/latest/scale-to-width-down/200?cb=20240219120926",
+                    "name": "BaronZemo",
+                    "description": "On Reveal: Recruit the lowest-Cost card from your opponent's deck to your side of this location."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0f/Loki.webp/revision/latest/scale-to-width-down/200?cb=20240402134208",
+                    "name": "Loki"
+                },
+                {
+                    "name": "No",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
+                    "description": "On Reveal: Return one of your X-Cost cards to your hand and give it +X Power."
+                },
+                {
+                    "name": "BaronZemo",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/a4/BaronZemo.webp/revision/latest/scale-to-width-down/200?cb=20240219120926",
+                    "description": "On Reveal: Recruit the lowest-Cost card from your opponent's deck to your side of this location."
+                },
+                {
+                    "name": "Loki",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0f/Loki.webp/revision/latest/scale-to-width-down/200?cb=20240402134208"
+                }
+            ]
+        },
+        {
+            "date": "25th Feb - 4th Mar",
+            "cards": [
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
+                    "name": "No",
+                    "description": "Opponent's cards at this location that lose power lose an additional -X power."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/54/Nimrod.webp/revision/latest/scale-to-width-down/200?cb=20240203224401",
+                    "name": "Nimrod",
+                    "description": "When this is destroyed, add a copy to each other location."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/4b/ThePhoenixForce.webp/revision/latest/scale-to-width-down/200?cb=20240128163815",
+                    "name": "ThePhoenixForce"
+                },
+                {
+                    "name": "No",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
+                    "description": "Opponent's cards at this location that lose power lose an additional -X power."
+                },
+                {
+                    "name": "Nimrod",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/54/Nimrod.webp/revision/latest/scale-to-width-down/200?cb=20240203224401",
+                    "description": "When this is destroyed, add a copy to each other location."
+                },
+                {
+                    "name": "ThePhoenixForce",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/4b/ThePhoenixForce.webp/revision/latest/scale-to-width-down/200?cb=20240128163815"
+                }
+            ]
         }
     ]
 }
