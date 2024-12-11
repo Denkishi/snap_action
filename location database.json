@@ -280,7 +280,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
                     "name": "No",
-                    "description": "Ongoing: The On Reveal abilities of your X-Cost cards at this location trigger twice."
+                    "description": "Ongoing: The On Reveal abilities of your 1-Cost cards here happen twice."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/83/Makkari.webp/revision/latest/scale-to-width-down/200?cb=20240428121409",
@@ -295,7 +295,7 @@
                 {
                     "name": "No",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
-                    "description": "Ongoing: The On Reveal abilities of your X-Cost cards at this location trigger twice."
+                    "description": "Ongoing: The On Reveal abilities of your 1-Cost cards here happen twice."
                 },
                 {
                     "name": "Makkari",
@@ -315,7 +315,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
                     "name": "No",
-                    "description": "Whenever your opponent ends their turn with unspent energy, draw a card with X or more power."
+                    "description": "When your opponent ends a turn with unspent Energy, draw a card with 10 or more Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/fa/Blink.webp/revision/latest/scale-to-width-down/200?cb=20240303115037",
@@ -330,7 +330,7 @@
                 {
                     "name": "No",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
-                    "description": "Whenever your opponent ends their turn with unspent energy, draw a card with X or more power."
+                    "description": "When your opponent ends a turn with unspent Energy, draw a card with 10 or more Power."
                 },
                 {
                     "name": "Blink",
@@ -350,7 +350,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
                     "name": "No",
-                    "description": "On Reveal: Return one of your X-Cost cards to your hand and give it +X Power."
+                    "description": "On Reveal: Return one of your other 1-Cost cards here to your hand to give it +2 Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/a4/BaronZemo.webp/revision/latest/scale-to-width-down/200?cb=20240219120926",
@@ -364,7 +364,7 @@
                 {
                     "name": "No",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
-                    "description": "On Reveal: Return one of your X-Cost cards to your hand and give it +X Power."
+                    "description": "On Reveal: Return one of your other 1-Cost cards here to your hand to give it +2 Power."
                 },
                 {
                     "name": "BaronZemo",
@@ -383,7 +383,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
                     "name": "No",
-                    "description": "Opponent's cards at this location that lose power lose an additional -X power."
+                    "description": "Ongoing: Enemy cards here afflicted with negative Power have an additional -2 Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/54/Nimrod.webp/revision/latest/scale-to-width-down/200?cb=20240203224401",
@@ -397,7 +397,7 @@
                 {
                     "name": "No",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5f/No_image.webp/revision/latest/scale-to-width-down/200?cb=20240127155215",
-                    "description": "Opponent's cards at this location that lose power lose an additional -X power."
+                    "description": "Ongoing: Enemy cards here afflicted with negative Power have an additional -2 Power."
                 },
                 {
                     "name": "Nimrod",
