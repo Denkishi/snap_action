@@ -2,44 +2,28 @@
     "date": "December 2, 2024",
     "Tiers": [
         {
-            "tier": "Silent Performer",
-            "name": "Pixie Hammers"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Junk"
-        },
-        {
             "tier": "Tier 1",
-            "name": "Stature Darkhawk"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Mill"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Wiccan"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "10 Power"
-        },
-        {
-            "tier": "Tier 2",
             "name": "War Machine Ramp"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Galacta"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Stature Darkhawk"
         },
         {
             "tier": "Tier 2",
             "name": "Pure Move"
         },
         {
-            "tier": "Tier 3",
-            "name": "Arishem"
+            "tier": "Tier 2",
+            "name": "Good Cards Wiccan (Alt Thanos Wiccan)"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Loki"
         },
         {
             "tier": "Tier 3",
@@ -47,15 +31,7 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Good On Reveal Cards"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Good Cards Malekith"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Thanos Wiccan"
+            "name": "Mister Negative"
         }
     ]
 }
