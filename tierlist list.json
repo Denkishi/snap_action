@@ -1,37 +1,53 @@
 {
-    "date": "December 15, 2024",
+    "date": "December 16, 2024",
     "Tiers": [
         {
-            "tier": "Tier 1",
-            "name": "War Machine Ramp"
+            "tier": "Silent Performer",
+            "name": "Mill"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Arishem"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Galacta"
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos 10 Power"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Small Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Lockjaw On Reveal Hammer"
         },
         {
             "tier": "Tier 2",
             "name": "Stature Darkhawk"
         },
         {
-            "tier": "Tier 2",
-            "name": "Pure Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Wiccan (Alt Thanos Wiccan)"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Arishem Loki"
+            "tier": "Tier 3",
+            "name": "Hela Discard"
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Mister Negative"
+            "name": "Galactus Destroy"
         }
     ]
 }
