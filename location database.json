@@ -1,37 +1,37 @@
 {
     "spotlight": [
         {
-            "date": " (10th Dec - 17th Dec 2024)",
+            "date": " (17th Dec - 24th Dec 2024)",
             "cards": [
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c9/PeniParker_08.webp/revision/latest/scale-to-width-down/200?cb=20241112213425",
-                    "name": "PeniParker",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227",
+                    "name": "Doom2099",
+                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bc/Sasquatch_06.webp/revision/latest/scale-to-width-down/200?cb=20241112213448",
-                    "name": "Sasquatch",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123",
+                    "name": "Miek",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/34/Gladiator_10.webp/revision/latest/scale-to-width-down/200?cb=20241112213508",
-                    "name": "Gladiator",
-                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/17/Daken_09.webp/revision/latest/scale-to-width-down/200?cb=20241211014723",
+                    "name": "Daken",
+                    "description": "On Reveal: Add the Muramasa Shard to your hand."
                 },
                 {
-                    "name": "PeniParker",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c9/PeniParker_08.webp/revision/latest/scale-to-width-down/200?cb=20241112213425",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+                    "name": "Doom2099",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227",
+                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
                 },
                 {
-                    "name": "Sasquatch",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bc/Sasquatch_06.webp/revision/latest/scale-to-width-down/200?cb=20241112213448",
-                    "description": "Costs 1 less for each card you played last turn."
+                    "name": "Miek",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123",
+                    "description": "When you discard a card, this gains +1 Power and can move next turn."
                 },
                 {
-                    "name": "Gladiator",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/34/Gladiator_10.webp/revision/latest/scale-to-width-down/200?cb=20241112213508",
-                    "description": "On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it."
+                    "name": "Daken",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/17/Daken_09.webp/revision/latest/scale-to-width-down/200?cb=20241211014723",
+                    "description": "On Reveal: Add the Muramasa Shard to your hand."
                 }
             ]
         },
@@ -40,33 +40,27 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227",
-                    "name": "Doom2099",
-                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
+                    "name": "Doom2099"
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123",
-                    "name": "Miek",
-                    "description": "When you discard a card, this gains +1 Power and can move next turn."
+                    "name": "Miek"
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/ce/Daken.webp/revision/latest/scale-to-width-down/200?cb=20240218172546",
-                    "name": "Daken",
-                    "description": "On Reveal: Add the Muramasa Shard to your hand."
+                    "name": "Daken"
                 },
                 {
                     "name": "Doom2099",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227",
-                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227"
                 },
                 {
                     "name": "Miek",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123",
-                    "description": "When you discard a card, this gains +1 Power and can move next turn."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123"
                 },
                 {
                     "name": "Daken",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/ce/Daken.webp/revision/latest/scale-to-width-down/200?cb=20240218172546",
-                    "description": "On Reveal: Add the Muramasa Shard to your hand."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/ce/Daken.webp/revision/latest/scale-to-width-down/200?cb=20240218172546"
                 }
             ]
         },
