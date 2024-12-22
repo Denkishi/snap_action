@@ -1,53 +1,53 @@
 {
-    "date": "December 16, 2024",
+    "date": "December 21, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Mill"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Arishem"
+            "name": "Double Up Hammer"
         },
         {
             "tier": "Tier 1",
-            "name": "Discard Dracula"
+            "name": "Good Cards Galacta"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Pure Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Thanos 10 Power"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Mister Negative"
         },
         {
+            "tier": "Tier 1",
+            "name": "Lockdown"
+        },
+        {
             "tier": "Tier 2",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Move Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "War Machine Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Small Good Cards"
         },
         {
-            "tier": "Tier 2",
-            "name": "Lockjaw On Reveal Hammer"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Stature Darkhawk"
+            "tier": "Tier 3",
+            "name": "KaZoo"
         },
         {
             "tier": "Tier 3",
-            "name": "Hela Discard"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Galactus Destroy"
+            "name": "Junk"
         }
     ]
 }
