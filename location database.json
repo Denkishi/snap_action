@@ -1,71 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (17th Dec - 24th Dec 2024)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227",
-                    "name": "Doom2099",
-                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123",
-                    "name": "Miek",
-                    "description": "When you discard a card, this gains +1 Power and can move next turn."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/17/Daken_09.webp/revision/latest/scale-to-width-down/200?cb=20241211014723",
-                    "name": "Daken",
-                    "description": "On Reveal: Add the Muramasa Shard to your hand."
-                },
-                {
-                    "name": "Doom2099",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227",
-                    "description": "After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card."
-                },
-                {
-                    "name": "Miek",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123",
-                    "description": "When you discard a card, this gains +1 Power and can move next turn."
-                },
-                {
-                    "name": "Daken",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/17/Daken_09.webp/revision/latest/scale-to-width-down/200?cb=20241211014723",
-                    "description": "On Reveal: Add the Muramasa Shard to your hand."
-                }
-            ]
-        },
-        {
-            "date": "17th Dec - 24th Dec",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227",
-                    "name": "Doom2099"
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123",
-                    "name": "Miek"
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/ce/Daken.webp/revision/latest/scale-to-width-down/200?cb=20240218172546",
-                    "name": "Daken"
-                },
-                {
-                    "name": "Doom2099",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/31/Doom2099_04.webp/revision/latest/scale-to-width-down/200?cb=20241112215227"
-                },
-                {
-                    "name": "Miek",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/af/Miek_03.webp/revision/latest/scale-to-width-down/200?cb=20241112215123"
-                },
-                {
-                    "name": "Daken",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/ce/Daken.webp/revision/latest/scale-to-width-down/200?cb=20240218172546"
-                }
-            ]
-        },
-        {
-            "date": "24th Dec - 31st Dec",
+            "date": " (24th Dec - 31st Dec 2024)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c2/BruceBanner_08.webp/revision/latest/scale-to-width-down/200?cb=20241112220122",
