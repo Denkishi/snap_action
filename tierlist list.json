@@ -1,53 +1,49 @@
 {
-    "date": "December 22, 2024",
+    "date": "December 29, 2024",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Double Up Hammer"
+            "name": "Bounce"
+        },
+        {
+            "tier": "Silent Performer",
+            "name": "Scream of Doom"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Galacta"
+            "name": "Toxic"
         },
         {
             "tier": "Tier 1",
-            "name": "Mister Negative"
+            "name": "Good Cards"
         },
         {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
             "name": "Lockdown"
         },
         {
             "tier": "Tier 2",
-            "name": "Toxic"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Move Bounce"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "War Machine Ramp"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Arishem"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Small Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mill"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 3",
             "name": "KaZoo"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Junk"
         }
     ]
 }
