@@ -45,7 +45,8 @@
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/8d/Selene_07.webp/revision/latest/scale-to-width-down/200?cb=20241112220528",
-                    "name": "Selene"
+                    "name": "Selene",
+                    "description": "On Reveal: Afflict the lowest-Power card in each player's hand with -3 Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3a/Blob_06.webp/revision/latest/scale-to-width-down/200?cb=20240426134021",
@@ -59,7 +60,8 @@
                 },
                 {
                     "name": "Selene",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/8d/Selene_07.webp/revision/latest/scale-to-width-down/200?cb=20241112220528"
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/8d/Selene_07.webp/revision/latest/scale-to-width-down/200?cb=20241112220528",
+                    "description": "On Reveal: Afflict the lowest-Power card in each player's hand with -3 Power."
                 },
                 {
                     "name": "Blob",
