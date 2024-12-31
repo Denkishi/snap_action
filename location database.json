@@ -1,42 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (24th Dec - 31st Dec 2024)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c2/BruceBanner_08.webp/revision/latest/scale-to-width-down/200?cb=20241112220122",
-                    "name": "BruceBanner",
-                    "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/RavonnaRenslayer_06.webp/revision/latest/scale-to-width-down/200?cb=20241112215927",
-                    "name": "RavonnaRenslayer",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/ff/HighEvolutionary_09.webp/revision/latest/scale-to-width-down/200?cb=20241112215948",
-                    "name": "HighEvolutionary",
-                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
-                },
-                {
-                    "name": "BruceBanner",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c2/BruceBanner_08.webp/revision/latest/scale-to-width-down/200?cb=20241112220122",
-                    "description": "When you end a turn with unspent Energy, 25% chance to HULK OUT!"
-                },
-                {
-                    "name": "RavonnaRenslayer",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/RavonnaRenslayer_06.webp/revision/latest/scale-to-width-down/200?cb=20241112215927",
-                    "description": "Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)"
-                },
-                {
-                    "name": "HighEvolutionary",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/ff/HighEvolutionary_09.webp/revision/latest/scale-to-width-down/200?cb=20241112215948",
-                    "description": "At the start of the game, unlock the potential of your cards with no abilities."
-                }
-            ]
-        },
-        {
-            "date": "31st Dec - 7th Jan",
+            "date": " (31st Dec 2024 - 7th Jan 2025)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/ac/RocketAndGroot_08.webp/revision/latest/scale-to-width-down/200?cb=20241112220357",
