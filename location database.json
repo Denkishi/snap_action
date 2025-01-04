@@ -86,7 +86,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929",
                     "name": "BlackSwan",
-                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
                 },
                 {
                     "name": "Bullseye",
@@ -101,7 +101,7 @@
                 {
                     "name": "BlackSwan",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929",
-                    "description": "On Reveal: Until the end of next turn, your 1-Cost cards cost 0."
+                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
                 }
             ]
         },
@@ -154,8 +154,9 @@
                     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0e/Kang_09.webp/revision/latest/scale-to-width-down/200?cb=20241113104518",
-                    "name": "Kang"
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/MsMarvel_04.webp/revision/latest/scale-to-width-down/200?cb=20240126121233",
+                    "name": "MsMarvel",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
                 },
                 {
                     "name": "Ares",
@@ -168,8 +169,9 @@
                     "description": "On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them."
                 },
                 {
-                    "name": "Kang",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0e/Kang_09.webp/revision/latest/scale-to-width-down/200?cb=20241113104518"
+                    "name": "MsMarvel",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/MsMarvel_04.webp/revision/latest/scale-to-width-down/200?cb=20240126121233",
+                    "description": "Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power."
                 }
             ]
         },
