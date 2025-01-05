@@ -1,13 +1,9 @@
 {
-    "date": "January 3, 2025",
+    "date": "January 5, 2025",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Silent Performer",
-            "name": "Scream of Doom"
+            "name": "High Evolutionary"
         },
         {
             "tier": "Tier 1",
@@ -15,35 +11,51 @@
         },
         {
             "tier": "Tier 1",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Good Cards"
         },
         {
             "tier": "Tier 2",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Clog"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos Wiccan"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Lockdown"
         },
         {
-            "tier": "Tier 2",
-            "name": "Small Good Cards"
+            "tier": "Tier 3",
+            "name": "Mister Negative"
         },
         {
-            "tier": "Tier 2",
-            "name": "Bounce Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Mill"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Silver Surfer"
+            "tier": "Tier 3",
+            "name": "Move"
         },
         {
             "tier": "Tier 3",
             "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "KaZoo"
         }
     ]
 }
