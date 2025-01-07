@@ -1,42 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (31st Dec 2024 - 7th Jan 2025)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/ac/RocketAndGroot_08.webp/revision/latest/scale-to-width-down/200?cb=20241112220357",
-                    "name": "RocketAndGroot",
-                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/8d/Selene_07.webp/revision/latest/scale-to-width-down/200?cb=20241112220528",
-                    "name": "Selene",
-                    "description": "On Reveal: Afflict the lowest-Power card in each player's hand with -3 Power."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3a/Blob_06.webp/revision/latest/scale-to-width-down/200?cb=20240426134021",
-                    "name": "Blob",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
-                },
-                {
-                    "name": "RocketAndGroot",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/a/ac/RocketAndGroot_08.webp/revision/latest/scale-to-width-down/200?cb=20241112220357",
-                    "description": "You can move this once. After your opponent plays a card here, steal 1 Power from it."
-                },
-                {
-                    "name": "Selene",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/8d/Selene_07.webp/revision/latest/scale-to-width-down/200?cb=20241112220528",
-                    "description": "On Reveal: Afflict the lowest-Power card in each player's hand with -3 Power."
-                },
-                {
-                    "name": "Blob",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3a/Blob_06.webp/revision/latest/scale-to-width-down/200?cb=20240426134021",
-                    "description": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power."
-                }
-            ]
-        },
-        {
-            "date": "7th Jan - 14th Jan",
+            "date": " (7th Jan - 14th Jan 2025)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/72/VictoriaHand_02.webp/revision/latest/scale-to-width-down/200?cb=20241112220958",
