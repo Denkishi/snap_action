@@ -225,7 +225,8 @@
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0f/Loki.webp/revision/latest/scale-to-width-down/200?cb=20240402134208",
-                    "name": "Loki"
+                    "name": "Loki",
+                    "description": "On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost."
                 },
                 {
                     "name": "Redwing",
@@ -239,7 +240,8 @@
                 },
                 {
                     "name": "Loki",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0f/Loki.webp/revision/latest/scale-to-width-down/200?cb=20240402134208"
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/0f/Loki.webp/revision/latest/scale-to-width-down/200?cb=20240402134208",
+                    "description": "On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost."
                 }
             ]
         },
