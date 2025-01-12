@@ -1,9 +1,9 @@
 {
-    "date": "January 5, 2025",
+    "date": "January 12, 2025",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "High Evolutionary"
+            "name": "Scream Move"
         },
         {
             "tier": "Tier 1",
@@ -11,51 +11,39 @@
         },
         {
             "tier": "Tier 1",
+            "name": "Good Cards Wiccan"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Silver Surfer"
         },
         {
-            "tier": "Tier 2",
-            "name": "Good Cards"
+            "tier": "Tier 1",
+            "name": "Small Good Cards"
         },
         {
-            "tier": "Tier 2",
-            "name": "Scream Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Clog"
-        },
-        {
-            "tier": "Tier 2",
+            "tier": "Tier 1",
             "name": "Arishem"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Wiccan"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 2",
-            "name": "Destroy"
+            "name": "Big Hand"
         },
         {
-            "tier": "Tier 3",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Tier 3",
+            "tier": "Tier 2",
             "name": "Lockdown"
         },
         {
             "tier": "Tier 3",
-            "name": "Mister Negative"
+            "name": "Bounce Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Move"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Discard"
         }
     ]
 }
