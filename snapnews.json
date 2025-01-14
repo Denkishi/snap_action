@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Patch Notes - Jan 14, 2025",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_13_10_06_00/1392578404668_s82394.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7424058144113859334",
+            "date": "01/13/2025",
+            "label": "NEWS"
+        },
+        {
             "name": "New Season: Dark Avengers",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_07_12_24_58/1735874655167_s316937.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7424058142499068678",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_25_19_06_17/769907862485_s1251333.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7415247896284601094",
             "date": "11/24/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "November 14th - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_14_08_50_47/1381819475496_s34706.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7415247896284584710",
-            "date": "11/15/2024",
             "label": "NEWS"
         }
     ]
