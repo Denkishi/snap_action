@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Join the Dark Avengers - Global Bounty!",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_14_19_14_53/1440284065606_s587217.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7424058144113892102",
+            "date": "01/14/2025",
+            "label": "NEWS"
+        },
+        {
             "name": "Patch Notes - Jan 14, 2025",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_13_10_06_00/1392578404668_s82394.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7424058144113859334",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_26_04_59_47/707464789815_s1057653.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7417688494958467846",
             "date": "11/26/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "Upcoming Series Drop",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_11_25_19_06_17/769907862485_s1251333.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7415247896284601094",
-            "date": "11/24/2024",
             "label": "NEWS"
         }
     ]
