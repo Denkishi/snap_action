@@ -1,37 +1,37 @@
 {
     "spotlight": [
         {
-            "date": " (7th Jan - 14th Jan 2025)",
+            "date": " (14th Jan - 21st Jan 2025)",
             "cards": [
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/72/VictoriaHand_02.webp/revision/latest/scale-to-width-down/200?cb=20241112220958",
-                    "name": "VictoriaHand",
-                    "description": "Ongoing: Your cards created in your hand have +2 Power."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Moonstone_02.webp/revision/latest/scale-to-width-down/200?cb=20241113103712",
+                    "name": "Moonstone",
+                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f3/KateBishop_13.webp/revision/latest/scale-to-width-down/200?cb=20241112221403",
-                    "name": "KateBishop",
-                    "description": "On Reveal: Add 2 Arrows to your hand."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/61/Nocturne_05.webp/revision/latest/scale-to-width-down/200?cb=20241112223820",
+                    "name": "Nocturne",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/40/GrandMaster_04.webp/revision/latest/scale-to-width-down/200?cb=20241112221508",
-                    "name": "GrandMaster",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929",
+                    "name": "BlackSwan",
+                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
                 },
                 {
-                    "name": "VictoriaHand",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/72/VictoriaHand_02.webp/revision/latest/scale-to-width-down/200?cb=20241112220958",
-                    "description": "Ongoing: Your cards created in your hand have +2 Power."
+                    "name": "Moonstone",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Moonstone_02.webp/revision/latest/scale-to-width-down/200?cb=20241113103712",
+                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
                 },
                 {
-                    "name": "KateBishop",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f3/KateBishop_13.webp/revision/latest/scale-to-width-down/200?cb=20241112221403",
-                    "description": "On Reveal: Add 2 Arrows to your hand."
+                    "name": "Nocturne",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/61/Nocturne_05.webp/revision/latest/scale-to-width-down/200?cb=20241112223820",
+                    "description": "You can move this once. When this moves, replace its location with a random new one."
                 },
                 {
-                    "name": "GrandMaster",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/40/GrandMaster_04.webp/revision/latest/scale-to-width-down/200?cb=20241112221508",
-                    "description": "On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again."
+                    "name": "BlackSwan",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929",
+                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
                 }
             ]
         },
@@ -39,34 +39,28 @@
             "date": "14th - 21st Jan",
             "cards": [
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/Bullseye_07.webp/revision/latest/scale-to-width-down/200?cb=20241112222328",
-                    "name": "Bullseye",
-                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Moonstone_02.webp/revision/latest/scale-to-width-down/200?cb=20241113103712",
+                    "name": "Moonstone"
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/61/Nocturne_05.webp/revision/latest/scale-to-width-down/200?cb=20241112223820",
-                    "name": "Nocturne",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "name": "Nocturne"
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929",
-                    "name": "BlackSwan",
-                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
+                    "name": "BlackSwan"
                 },
                 {
-                    "name": "Bullseye",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/Bullseye_07.webp/revision/latest/scale-to-width-down/200?cb=20241112222328",
-                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
+                    "name": "Moonstone",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Moonstone_02.webp/revision/latest/scale-to-width-down/200?cb=20241113103712"
                 },
                 {
                     "name": "Nocturne",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/61/Nocturne_05.webp/revision/latest/scale-to-width-down/200?cb=20241112223820",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/61/Nocturne_05.webp/revision/latest/scale-to-width-down/200?cb=20241112223820"
                 },
                 {
                     "name": "BlackSwan",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929",
-                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929"
                 }
             ]
         },
@@ -74,9 +68,9 @@
             "date": "21st - 28th Jan",
             "cards": [
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Moonstone_02.webp/revision/latest/scale-to-width-down/200?cb=20241113103712",
-                    "name": "Moonstone",
-                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/Bullseye_07.webp/revision/latest/scale-to-width-down/200?cb=20241112222328",
+                    "name": "Bullseye",
+                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/49/MarvelBoy_07.webp/revision/latest/scale-to-width-down/200?cb=20241113103747",
@@ -89,9 +83,9 @@
                     "description": "Ongoing: Your 1 and 6-Cost cards can't be destroyed."
                 },
                 {
-                    "name": "Moonstone",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Moonstone_02.webp/revision/latest/scale-to-width-down/200?cb=20241113103712",
-                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
+                    "name": "Bullseye",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/Bullseye_07.webp/revision/latest/scale-to-width-down/200?cb=20241112222328",
+                    "description": "Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power."
                 },
                 {
                     "name": "MarvelBoy",
