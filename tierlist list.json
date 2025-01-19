@@ -1,49 +1,37 @@
 {
-    "date": "January 16, 2025",
+    "date": "January 19, 2025",
     "Tiers": [
         {
             "tier": "Silent Performer",
-            "name": "Scream Move"
+            "name": "Lockdown – 57.5%"
         },
         {
             "tier": "Tier 1",
-            "name": "Toxic"
+            "name": "Mill – 58%"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Wiccan"
+            "name": "Mister Negative – 55.5%"
         },
         {
             "tier": "Tier 1",
-            "name": "Silver Surfer"
+            "name": "Bounce Move – 60%"
         },
         {
             "tier": "Tier 1",
-            "name": "Small Good Cards"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Arishem"
+            "name": "Good Cards Wiccan – 58%"
         },
         {
             "tier": "Tier 2",
-            "name": "Mister Negative"
+            "name": "Small Good Cards – 58%"
         },
         {
             "tier": "Tier 2",
-            "name": "Big Hand"
+            "name": "Ongoing Iron Hand – 54%"
         },
         {
             "tier": "Tier 2",
-            "name": "Lockdown"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Bounce Move"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Discard"
+            "name": "Discard Dracula – 57%"
         }
     ]
 }
