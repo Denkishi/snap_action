@@ -2,171 +2,35 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Lockdown\n130 Games\n57.5% Win Rate\n0.6 Cube Average"
+            "name": "Lockdown"
         },
         {
             "tier": "Tier 1",
-            "name": "Mill\n58% Win Rate\n0.5 Cube Average"
+            "name": "Mill"
         },
         {
             "tier": "Tier 1",
-            "name": "Mister Negative\n55.5% Win Rate\n0.5 Cube Average"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 1",
-            "name": "Bounce Move\n60% Win Rate\n0.4 Cube Average"
+            "name": "Bounce Move"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Wiccan\n58% Win Rate\n0.4 Cube Average"
+            "name": "Good Cards Wiccan"
         },
         {
             "tier": "Tier 2",
-            "name": "Small Good Cards\n58% Win Rate\n0.35 Cube Average"
+            "name": "Small Good Cards"
         },
         {
             "tier": "Tier 2",
-            "name": "Ongoing Iron Hand\n54% Win Rate\n0.35 Cube Average"
+            "name": "Ongoing Iron Hand"
         },
         {
             "tier": "Tier 2",
-            "name": "Discard Dracula\n57% Win Rate\n0.3 Cube Average"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Small Good Cards – 69%"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Discard Dracula – 63%"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Mister Negative – 60%"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Big Hand – 58%"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Destroy – 57%"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Toxic – 57%"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Arishem – 56% (Alt Thanos)"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Lockdown – 55%"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "• Alioth\n• Copycat\n• Galacta\n• Gorr\n• Hydra Bob\n• Nico Minoru\n• Red Guardian\n• Wiccan"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "• Ajax\n• Anti-Venom\n• Araña\n• Black Swan\n• Blob\n• Cassandra Nova\n• Doctor Doom 2099\n• Gwenpool\n• Kate Bishop\n• Madame Web\n• Malekith\n• Misery\n• Mockingbird\n• Sage\n• Sebastian Shaw\n• Scorn\n• Skaar\n• Thanos\n• Thena\n• U.S. Agent\n• War Machine"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "• Agent Venom\n• Arishem\n• Baron Zemo\n• Blink\n• Caiera\n• Cannonball\n• Cull Obsidian\n• Elsa Bloodstone\n• Fenris Wolf\n• Frigga\n• Hope Summers\n• Jeff the Baby Land Shark\n• Marvel Boy\n• Ms. Marvel\n• Peni Parker\n• Proxima Midnight\n• Red Hulk\n• Scarlet Spider\n• Scream\n• Silver Sable\n• Speed\n• Surtur\n• Rocket and Groot\n• Toxin\n• Victoria Hand*\n• Werewolf By Night"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "• Black Knight\n• Corvus Glaive\n• Galactus\n• Gilgamesh\n• High Evolutionary\n• Hulkling\n• Loki\n• Luna Snow\n• Makkari\n• Namora\n• Nocturne\n• Sersi\n• Symbiote Spider-Man\n• White Widow"
-        },
-        {
-            "tier": "Tier 5",
-            "name": "• Annihilus\n• Bruce Banner*"
-        },
-        {
-            "tier": "Kang",
-            "name": "• Kang"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "• Knull"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "• Gladiator\n• Grand Master\n• Hit Monkey\n• Lady Deathstrike\n• Legion\n• Man-Thing\n• Mobius M. Mobius\n• MODOK\n• Spider-Ham\n• Valentina\n• X-23\n• Zabu"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "• Darkhawk\n• Havok\n• Iron Lad\n• Lasher\n• Phastos\n• Pixie\n• Ravonna Renslayer\n• Nimrod\n• Ghost-Spider\n• The Phoenix Force"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "• Agony\n• Beta Ray Bill\n• Daken\n• Hercules\n• King Eitri\n• Nebula\n• Sasquatch\n• Selene\n• Silk\n• Supergiant\n• The Living Tribunal"
-        },
-        {
-            "tier": "Tier 5",
-            "name": "• Miek"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "• Deadpool\n• Death\n• Dracula\n• Sera\n• Shadow King\n• Silver Surfer\n• The Hood"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "• Aero\n• Beast\n• Brood\n• Captain Marvel\n• Dagger\n• Doctor Doom\n• Gambit\n• Hazmat\n• Human Torch\n• Jane Foster Mighty Thor\n• Juggernaut\n• Kitty Pryde\n• Luke Cage\n• Magneto\n• Mister Negative\n• Mysterio\n• Mystique\n• Psylocke\n• Rogue\n• Venom"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "• Absorbing Man\n• Agent Coulson\n• Arnim Zola\n• Attuma\n• Bast\n• Black Bolt\n• Cerebro\n• Colleen Wing\n• Dazzler\n• Debrii\n• Doctor Octopus\n• Electro\n• Falcon\n• Green Goblin\n• Hela\n• Invisible Woman\n• Magik\n• Maria Hill\n• Maximus\n• Mirage\n• Moon Knight\n• Negasonic Teenage Warhead\n• Patriot\n• Polaris\n• Quake\n• Quinjet\n• She-Hulk\n• Stature\n• Thor\n• Titania\n• Ultron\n• Viper\n• Wasp ***\n• Wong"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "• Agatha Harkness\n• Black Cat\n• Black Panther\n• Black Widow\n• Crossbones\n• Daredevil\n• Destroyer\n• Echo\n• Giganto\n• Goose\n• Helicarrier\n• Hellcow\n• Jean Grey\n• Kingpin\n• Lockjaw\n• Martyr\n• Master Mold\n• Miles Morales\n• Nick Fury\n• Omega Red\n• Red Skull\n• Rockslide\n• Ronan the Accuser\n• Sentry\n• Shanna\n• Shuri\n• Silver Samurai\n• Snowguard\n• Spider-Man\n• Spider-Man 2099\n• Stegron\n• Super-Skrull\n• Taskmaster\n• Typhoid Mary\n• Valkyrie\n• Wave"
-        },
-        {
-            "tier": "Tier 5",
-            "name": "• Adam Warlock\n• Baron Mordo\n• Crystal\n• Drax\n• Ghost\n• Ghost Rider\n• Howard the Duck\n• Leader\n• M'Baku\n• Mojo\n• Orka\n• Rescue\n• Sauron\n• Yellowjacket\n• Zero"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "• Killmonger\n• Shang-Chi"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "• Iceman\n• Morbius\n• Vulture\n• Swarm"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "• Cloak\n• Ebony Maw\n• Hobgoblin\n• Jubilee\n• Scorpion\n• Storm\n• Sunspot\n• The Collector\n• The Infinaut\n• Vision"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "• Agent 13\n• Bucky Barnes\n• Nakia\n• Okoye\n• Leech\n• Warpath"
-        },
-        {
-            "tier": "Tier 5",
-            "name": "• Rhino\n• Sandman\n• Sabretooth"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "• Angela\n• Ant Man\n• Blue Marvel\n• Carnage\n• Cosmo\n• Iron Man\n• Ka-Zar"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "• Apocalypse\n• Bishop\n• Blade\n• Cable\n• Devil Dinosaur\n• Enchantress\n• Hulkbuster\n• Ironheart\n• Klaw\n• Korg\n• Kraven\n• Lady Sif\n• Nightcrawler\n• Odin\n• Onslaught\n• Rocket Raccoon\n• Squirrel Girl\n• White Tiger\n• Wolverine"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "• America Chavez\n• Armor\n• Deathlok\n• Doctor Strange\n• Forge\n• Heimdall\n• Iron Fist\n• Jessica Jones\n• Lizard\n• Moon Girl\n• Multiple Man\n• Nova\n• Quicksilver\n• Scarlet Witch\n• Sentinel\n• Spider-Woman\n• Strong Guy\n• Sword Master\n• Wolfsbane\n• Yondu"
-        },
-        {
-            "tier": "Tier 4",
-            "name": "• Captain America\n• Domino\n• Elektra\n• Gamora\n• Groot\n• Hawkeye\n• Hulk ***\n• Medusa\n• Mister Fantastic\n• Mister Sinister\n• Morph\n• Namor\n• Punisher\n• Professor X\n• Spectrum\n• Star-Lord\n• White Queen"
-        },
-        {
-            "tier": "Tier 5",
-            "name": "• Abomination ***\n• Angel\n• Colossus\n• Cyclops ***\n• Mantis\n• Misty Knight ***\n• Shocker ***\n• The Thing ***\n• Uatu the Watcher"
+            "name": "Discard Dracula"
         }
     ]
 }
