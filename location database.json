@@ -1,42 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (14th Jan - 21st Jan 2025)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Moonstone_02.webp/revision/latest/scale-to-width-down/200?cb=20241113103712",
-                    "name": "Moonstone",
-                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/61/Nocturne_05.webp/revision/latest/scale-to-width-down/200?cb=20241112223820",
-                    "name": "Nocturne",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929",
-                    "name": "BlackSwan",
-                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
-                },
-                {
-                    "name": "Moonstone",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9e/Moonstone_02.webp/revision/latest/scale-to-width-down/200?cb=20241113103712",
-                    "description": "Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here."
-                },
-                {
-                    "name": "Nocturne",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/61/Nocturne_05.webp/revision/latest/scale-to-width-down/200?cb=20241112223820",
-                    "description": "You can move this once. When this moves, replace its location with a random new one."
-                },
-                {
-                    "name": "BlackSwan",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/46/BlackSwan_07.webp/revision/latest/scale-to-width-down/200?cb=20241112223929",
-                    "description": "Activate: Until the end of next turn, your 1-Cost cards cost 0."
-                }
-            ]
-        },
-        {
-            "date": "21st - 28th Jan",
+            "date": " (21st Jan - 28th Jan 2025)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/07/Bullseye_07.webp/revision/latest/scale-to-width-down/200?cb=20241112222328",
