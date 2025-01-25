@@ -78,7 +78,6 @@
         },
         {
             "name": "Lockdown Ranked January 19",
-            "surname": "Trending",
             "code": "eyJOYW1lIjoiTG9ja2Rvd24gUmFua2VkIEphbnVhcnkgMTkiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiWmFidSJ9LHsiQ2FyZERlZklkIjoiRWJvbnlNYXcifSx7IkNhcmREZWZJZCI6IlBzeWxvY2tlIn0seyJDYXJkRGVmSWQiOiJSZWRHdWFyZGlhbiJ9LHsiQ2FyZERlZklkIjoiRG9vbTIwOTkifSx7IkNhcmREZWZJZCI6IlN1cGVyU2tydWxsIn0seyJDYXJkRGVmSWQiOiJTdG9ybSJ9LHsiQ2FyZERlZklkIjoiSXJvbkxhZCJ9LHsiQ2FyZERlZklkIjoiV2FyTWFjaGluZSJ9LHsiQ2FyZERlZklkIjoiQmx1ZU1hcnZlbCJ9LHsiQ2FyZERlZklkIjoiRHJEb29tIn0seyJDYXJkRGVmSWQiOiJJbmZpbmF1dCJ9XX0=",
             "cards": [
                 {
@@ -121,6 +120,7 @@
         },
         {
             "name": "Mill Ranked January 19",
+            "surname": "Mill",
             "code": "eyJOYW1lIjoiTWlsbCBSYW5rZWQgSmFudWFyeSAxOSIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJIb29kIn0seyJDYXJkRGVmSWQiOiJZb25kdSJ9LHsiQ2FyZERlZklkIjoiQ2FibGUifSx7IkNhcmREZWZJZCI6IkZlbnJpc1dvbGYifSx7IkNhcmREZWZJZCI6Iklyb25QYXRyaW90In0seyJDYXJkRGVmSWQiOiJLaWxsbW9uZ2VyIn0seyJDYXJkRGVmSWQiOiJSZWRHdWFyZGlhbiJ9LHsiQ2FyZERlZklkIjoiQmFyb25aZW1vIn0seyJDYXJkRGVmSWQiOiJHbGFkaWF0b3IifSx7IkNhcmREZWZJZCI6IlNoYW5nQ2hpIn0seyJDYXJkRGVmSWQiOiJNaXNlcnkifSx7IkNhcmREZWZJZCI6IkRlYXRoIn1dfQ==",
             "cards": [
                 {
@@ -163,6 +163,7 @@
         },
         {
             "name": "Mister Negative Ranked January 19",
+            "surname": "Mister Negative",
             "code": "eyJOYW1lIjoiTWlzdGVyIE5lZ2F0aXZlIFJhbmtlZCBKYW51YXJ5IDE5IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IlBzeWxvY2tlIn0seyJDYXJkRGVmSWQiOiJSYXZvbm5hUmVuc2xheWVyIn0seyJDYXJkRGVmSWQiOiJJcm9uaGVhcnQifSx7IkNhcmREZWZJZCI6Ik15c3RpcXVlIn0seyJDYXJkRGVmSWQiOiJTYWdlIn0seyJDYXJkRGVmSWQiOiJNYWdpayJ9LHsiQ2FyZERlZklkIjoiTXJOZWdhdGl2ZSJ9LHsiQ2FyZERlZklkIjoiV29uZyJ9LHsiQ2FyZERlZklkIjoiSXJvbk1hbiJ9LHsiQ2FyZERlZklkIjoiSmFuZUZvc3RlciJ9LHsiQ2FyZERlZklkIjoiR29yciJ9LHsiQ2FyZERlZklkIjoiVGFza21hc3RlciJ9XX0=",
             "cards": [
                 {
@@ -205,6 +206,7 @@
         },
         {
             "name": "Move Bounce Ranked January 19",
+            "surname": "Bounce Move",
             "code": "eyJOYW1lIjoiTW92ZSBCb3VuY2UgUmFua2VkIEphbnVhcnkgMTkiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQXJhbmEifSx7IkNhcmREZWZJZCI6Ikdob3N0U3BpZGVyIn0seyJDYXJkRGVmSWQiOiJIdW1hblRvcmNoIn0seyJDYXJkRGVmSWQiOiJJcm9uRmlzdCJ9LHsiQ2FyZERlZklkIjoiRGFnZ2VyIn0seyJDYXJkRGVmSWQiOiJNYWRhbWVXZWIifSx7IkNhcmREZWZJZCI6IlRveGluIn0seyJDYXJkRGVmSWQiOiJEb2N0b3JTdHJhbmdlIn0seyJDYXJkRGVmSWQiOiJJcm9uUGF0cmlvdCJ9LHsiQ2FyZERlZklkIjoiVnVsdHVyZSJ9LHsiQ2FyZERlZklkIjoiRnJpZ2dhIn0seyJDYXJkRGVmSWQiOiJCZWFzdCJ9XX0=",
             "cards": [
                 {
@@ -247,6 +249,7 @@
         },
         {
             "name": "Wiccan Good Cards Ranked January 19",
+            "surname": "Good Cards Wiccan",
             "code": "eyJOYW1lIjoiV2ljY2FuIEdvb2QgQ2FyZHMgUmFua2VkIEphbnVhcnkgMTkiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiUXVpY2tzaWx2ZXIifSx7IkNhcmREZWZJZCI6IkNhYmxlIn0seyJDYXJkRGVmSWQiOiJGZW5yaXNXb2xmIn0seyJDYXJkRGVmSWQiOiJJcm9uUGF0cmlvdCJ9LHsiQ2FyZERlZklkIjoiS2F0ZUJpc2hvcCJ9LHsiQ2FyZERlZklkIjoiUmVkR3VhcmRpYW4ifSx7IkNhcmREZWZJZCI6IlJvY2tldEFuZEdyb290In0seyJDYXJkRGVmSWQiOiJHbGFkaWF0b3IifSx7IkNhcmREZWZJZCI6IlNoYW5nQ2hpIn0seyJDYXJkRGVmSWQiOiJFbmNoYW50cmVzcyJ9LHsiQ2FyZERlZklkIjoiV2ljY2FuIn0seyJDYXJkRGVmSWQiOiJBbGlvdGgifV19",
             "cards": [
                 {
@@ -289,6 +292,7 @@
         },
         {
             "name": "Small Good Cards Ranked January 19",
+            "surname": "Small Good Cards",
             "code": "eyJOYW1lIjoiU21hbGwgR29vZCBDYXJkcyBSYW5rZWQgSmFudWFyeSAxOSIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJIb29kIn0seyJDYXJkRGVmSWQiOiJCYXN0In0seyJDYXJkRGVmSWQiOiJLaXR0eVByeWRlIn0seyJDYXJkRGVmSWQiOiJOaWNvTWlub3J1In0seyJDYXJkRGVmSWQiOiJIYXZvayJ9LHsiQ2FyZERlZklkIjoiVGhlbmEifSx7IkNhcmREZWZJZCI6IlVTQWdlbnQifSx7IkNhcmREZWZJZCI6IkFnZW50VmVub20ifSx7IkNhcmREZWZJZCI6IkNhc3NhbmRyYU5vdmEifSx7IkNhcmREZWZJZCI6IlNhZ2UifSx7IkNhcmREZWZJZCI6IkNvc21vIn0seyJDYXJkRGVmSWQiOiJSZWRHdWFyZGlhbiJ9XX0=",
             "cards": [
                 {
@@ -331,6 +335,7 @@
         },
         {
             "name": "Ongoing Iron Hand Ranked January 19",
+            "surname": "Ongoing Iron Hand",
             "code": "eyJOYW1lIjoiT25nb2luZyBJcm9uIEhhbmQgUmFua2VkIEphbnVhcnkgMTkiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQW50TWFuIn0seyJDYXJkRGVmSWQiOiJNYXJpYUhpbGwifSx7IkNhcmREZWZJZCI6IlF1aW5qZXQifSx7IkNhcmREZWZJZCI6Iklyb25QYXRyaW90In0seyJDYXJkRGVmSWQiOiJLYXRlQmlzaG9wIn0seyJDYXJkRGVmSWQiOiJWaWN0b3JpYUhhbmQifSx7IkNhcmREZWZJZCI6Ik1yRmFudGFzdGljIn0seyJDYXJkRGVmSWQiOiJSb2d1ZSJ9LHsiQ2FyZERlZklkIjoiQWdlbnRDb3Vsc29uIn0seyJDYXJkRGVmSWQiOiJNb29uc3RvbmUifSx7IkNhcmREZWZJZCI6IldpY2NhbiJ9LHsiQ2FyZERlZklkIjoiT25zbGF1Z2h0In1dfQ==",
             "cards": [
                 {
@@ -373,6 +378,7 @@
         },
         {
             "name": "Discard Dracula Ranked January 19",
+            "surname": "Discard Dracula",
             "code": "eyJOYW1lIjoiRGlzY2FyZCBEcmFjdWxhIFJhbmtlZCBKYW51YXJ5IDE5IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IlNjb3JuIn0seyJDYXJkRGVmSWQiOiJCbGFkZSJ9LHsiQ2FyZERlZklkIjoiTW9yYml1cyJ9LHsiQ2FyZERlZklkIjoiRmVucmlzV29sZiJ9LHsiQ2FyZERlZklkIjoiU3dhcm0ifSx7IkNhcmREZWZJZCI6IkNvbGxlZW5XaW5nIn0seyJDYXJkRGVmSWQiOiJHYW1iaXQifSx7IkNhcmREZWZJZCI6Ik1vb25LbmlnaHQifSx7IkNhcmREZWZJZCI6IkRyYWN1bGEifSx7IkNhcmREZWZJZCI6IlByb3hpbWFNaWRuaWdodCJ9LHsiQ2FyZERlZklkIjoiTW9kb2sifSx7IkNhcmREZWZJZCI6IkFwb2NhbHlwc2UifV19",
             "cards": [
                 {
