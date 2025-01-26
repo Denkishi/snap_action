@@ -1,3 +1,53 @@
 {
-    "date": "January 26, 2025"
+    "date": "January 26, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Hela"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Bounce Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Mill"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Wiccan Control"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bullseye Discard"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Ronan Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockdown"
+        }
+    ]
 }
