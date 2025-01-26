@@ -3,11 +3,11 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Lockdown"
+            "name": "Hela"
         },
         {
             "tier": "Tier 1",
-            "name": "Mill"
+            "name": "Arishem"
         },
         {
             "tier": "Tier 1",
@@ -15,23 +15,39 @@
         },
         {
             "tier": "Tier 1",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Bounce Move"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Wiccan"
+            "name": "Mill"
         },
         {
             "tier": "Tier 2",
-            "name": "Small Good Cards"
+            "name": "Wiccan Control"
         },
         {
             "tier": "Tier 2",
-            "name": "Ongoing Iron Hand"
+            "name": "Iron Hand"
         },
         {
             "tier": "Tier 2",
-            "name": "Discard Dracula"
+            "name": "Bullseye Discard"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Ronan Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Lockdown"
         }
     ]
 }
