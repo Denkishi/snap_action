@@ -3,27 +3,19 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Hela"
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Surtur 10 Power"
         },
         {
             "tier": "Tier 1",
             "name": "Arishem"
         },
         {
-            "tier": "Tier 1",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Toxic"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Bounce Move"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Mill"
+            "tier": "Tier 2",
+            "name": "Bullseye Discard"
         },
         {
             "tier": "Tier 2",
@@ -31,23 +23,19 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Iron Hand"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Bullseye Discard"
+            "name": "Small Good Cards"
         },
         {
             "tier": "Tier 3",
-            "name": "Destroy"
+            "name": "Mill"
         },
         {
             "tier": "Tier 3",
-            "name": "Ronan Control"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 3",
-            "name": "Lockdown"
+            "name": "Clog"
         }
     ]
 }
