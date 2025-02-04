@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "New Season: Brave New World",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_27_10_34_23/1626771658125_s360724.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7463042844802980614",
+            "date": "02/04/2025",
+            "label": "NEWS"
+        },
+        {
             "name": "January 30th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_23_09_38_51/1086929501454_s82394.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7463042844802947846",
@@ -61,13 +68,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_12_10_07_48_40/1053114257637_s34706.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7417688494958566150",
             "date": "12/10/2024",
-            "label": "NEWS"
-        },
-        {
-            "name": "New Rewards Are Here – Bigger and Better!",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2024_12_04_07_46_25/1309952147465_s421515.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7417688494958533382",
-            "date": "12/03/2024",
             "label": "NEWS"
         }
     ]
