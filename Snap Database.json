@@ -1472,7 +1472,7 @@
             "ability": "On Reveal: Add a random 4, 5, or 6-Cost card to your hand. If you're winning here after next turn, give it -4 Cost.",
             "cost": "2",
             "power": "3",
-            "pool": "Season Pass",
+            "pool": "Series 5",
             "card_id": "593"
         },
         {
@@ -1535,7 +1535,7 @@
             "ability": "Ongoing: The On Reveal abilities of your 1-Cost cards here happen twice.",
             "cost": "3",
             "power": "4",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "605"
         },
         {
@@ -2678,7 +2678,7 @@
             "ability": "Game Start: Add Cap's Shield to a random location. Ongoing: You can move Cap's Shield.",
             "cost": "2",
             "power": "3",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "607"
         },
         {
