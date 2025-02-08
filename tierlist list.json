@@ -2,12 +2,12 @@
     "date": "February 8, 2025",
     "Tiers": [
         {
-            "tier": "Trending",
-            "name": "Toxic"
+            "tier": "Tier 1",
+            "name": "10 Power"
         },
         {
             "tier": "Tier 1",
-            "name": "Surtur 10 Power"
+            "name": "Scream Move"
         },
         {
             "tier": "Tier 1",
@@ -19,15 +19,11 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Wiccan Control"
+            "name": "Ongoing Doom"
         },
         {
             "tier": "Tier 2",
-            "name": "Small Good Cards"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Mill"
+            "name": "Bounce"
         },
         {
             "tier": "Tier 3",
@@ -35,7 +31,11 @@
         },
         {
             "tier": "Tier 3",
-            "name": "Clog"
+            "name": "Good Cards Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Mill"
         }
     ]
 }
