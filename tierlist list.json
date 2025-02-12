@@ -1,3 +1,41 @@
 {
-    "date": "February 11, 2025"
+    "date": "February 12, 2025",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "10 Power"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bullseye Discard"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Ongoing Doom"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Good Cards Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Mill"
+        }
+    ]
 }
