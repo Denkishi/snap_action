@@ -1,13 +1,21 @@
 {
-    "date": "February 15, 2025",
+    "date": "February 16, 2025",
     "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Good Cards Control"
+        },
         {
             "tier": "Tier 1",
             "name": "10 Power"
         },
         {
             "tier": "Tier 1",
-            "name": "Scream Move"
+            "name": "High Evo Toxic"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Ongoing Doom"
         },
         {
             "tier": "Tier 1",
@@ -15,27 +23,27 @@
         },
         {
             "tier": "Tier 2",
+            "name": "Scream Doom"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Bullseye Discard"
         },
         {
             "tier": "Tier 2",
-            "name": "Ongoing Doom"
+            "name": "Hela Discard"
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Good Cards Control"
+            "name": "Small Good Cards"
         },
         {
             "tier": "Tier 3",
             "name": "Mill"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Mister Negative"
         }
     ]
 }
