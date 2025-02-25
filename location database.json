@@ -5,31 +5,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/88/Redwing_04.webp/revision/latest/scale-to-width-down/200?cb=20241211012842",
-                    "name": "Redwing",
+                    "name": "",
                     "description": "The first time this moves, add a card from your hand to the old location."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/08/BaronZemo_09.webp/revision/latest/scale-to-width-down/200?cb=20250109224535",
-                    "name": "BaronZemo",
+                    "name": "",
                     "description": "On Reveal: Recruit a card that costs the least from your opponent's deck to your side of this location."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5a/Loki_14.webp/revision/latest/scale-to-width-down/200?cb=20250111183633",
-                    "name": "Loki",
+                    "name": "",
                     "description": "On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost."
                 },
                 {
-                    "name": "Redwing",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/88/Redwing_04.webp/revision/latest/scale-to-width-down/200?cb=20241211012842",
                     "description": "The first time this moves, add a card from your hand to the old location."
                 },
                 {
-                    "name": "BaronZemo",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/08/BaronZemo_09.webp/revision/latest/scale-to-width-down/200?cb=20250109224535",
                     "description": "On Reveal: Recruit a card that costs the least from your opponent's deck to your side of this location."
                 },
                 {
-                    "name": "Loki",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5a/Loki_14.webp/revision/latest/scale-to-width-down/200?cb=20250111183633",
                     "description": "On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost."
                 }
@@ -40,30 +40,30 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/00/Diamondback_05.webp/revision/latest/scale-to-width-down/200?cb=20241211012131",
-                    "name": "Diamondback",
+                    "name": "",
                     "description": "Ongoing: Enemy cards here afflicted with negative Power have an additional -2 Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f3/Nimrod_12.webp/revision/latest/scale-to-width-down/200?cb=20250201015436",
-                    "name": "Nimrod",
+                    "name": "",
                     "description": "When this is destroyed, add a copy to each other location."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3b/ThePhoenixForce_09.webp/revision/latest/scale-to-width-down/200?cb=20250203213344",
-                    "name": "ThePhoenixForce"
+                    "name": ""
                 },
                 {
-                    "name": "Diamondback",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/00/Diamondback_05.webp/revision/latest/scale-to-width-down/200?cb=20241211012131",
                     "description": "Ongoing: Enemy cards here afflicted with negative Power have an additional -2 Power."
                 },
                 {
-                    "name": "Nimrod",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f3/Nimrod_12.webp/revision/latest/scale-to-width-down/200?cb=20250201015436",
                     "description": "When this is destroyed, add a copy to each other location."
                 },
                 {
-                    "name": "ThePhoenixForce",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/3b/ThePhoenixForce_09.webp/revision/latest/scale-to-width-down/200?cb=20250203213344"
                 }
             ]
@@ -73,31 +73,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/Eson_03.webp/revision/latest/scale-to-width-down/200?cb=20250201145717",
-                    "name": "Eson",
+                    "name": "",
                     "description": "After each turn, put a card from your hand that didn't start in your deck here."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/BetaRayBill_09.webp/revision/latest/scale-to-width-down/200?cb=20250129163239",
-                    "name": "BetaRayBill",
+                    "name": "",
                     "description": "On Reveal: Shuffle Stormbreaker into your deck."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/23/Wiccan_05.webp/revision/latest/scale-to-width-down/200?cb=20250129162144",
-                    "name": "Wiccan",
+                    "name": "",
                     "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 },
                 {
-                    "name": "Eson",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/Eson_03.webp/revision/latest/scale-to-width-down/200?cb=20250201145717",
                     "description": "After each turn, put a card from your hand that didn't start in your deck here."
                 },
                 {
-                    "name": "BetaRayBill",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/BetaRayBill_09.webp/revision/latest/scale-to-width-down/200?cb=20250129163239",
                     "description": "On Reveal: Shuffle Stormbreaker into your deck."
                 },
                 {
-                    "name": "Wiccan",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/23/Wiccan_05.webp/revision/latest/scale-to-width-down/200?cb=20250129162144",
                     "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
                 }
@@ -108,31 +108,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/30/Starbrand_02.webp/revision/latest/scale-to-width-down/200?cb=20250201145417",
-                    "name": "Starbrand",
+                    "name": "",
                     "description": "Ongoing: Your opponent has +3 Power at each other location."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/03/Skaar_05.webp/revision/latest/scale-to-width-down/200?cb=20240125190214",
-                    "name": "Skaar",
+                    "name": "",
                     "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/ef/Phastos_02.webp/revision/latest/scale-to-width-down/200?cb=20250129164540",
-                    "name": "Phastos",
+                    "name": "",
                     "description": "On Reveal: Give each card in your deck -1 Cost or +2 Power."
                 },
                 {
-                    "name": "Starbrand",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/30/Starbrand_02.webp/revision/latest/scale-to-width-down/200?cb=20250201145417",
                     "description": "Ongoing: Your opponent has +3 Power at each other location."
                 },
                 {
-                    "name": "Skaar",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/0/03/Skaar_05.webp/revision/latest/scale-to-width-down/200?cb=20240125190214",
                     "description": "Costs 2 less for each of your cards that has 10 or more Power."
                 },
                 {
-                    "name": "Phastos",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/ef/Phastos_02.webp/revision/latest/scale-to-width-down/200?cb=20250129164540",
                     "description": "On Reveal: Give each card in your deck -1 Cost or +2 Power."
                 }
@@ -143,31 +143,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/db/Firehair_06.webp/revision/latest/scale-to-width-down/200?cb=20250201145531",
-                    "name": "Firehair",
+                    "name": "",
                     "description": "When one of your cards is destroyed, this uses that card's On Reveal."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5c/CassandraNova_08.webp/revision/latest/scale-to-width-down/200?cb=20250129171324",
-                    "name": "CassandraNova",
+                    "name": "",
                     "description": "On Reveal: Steal 1 Power from each card in your opponent's deck."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/8e/NicoMinoru_08.webp/revision/latest/scale-to-width-down/200?cb=20250203213405",
-                    "name": "NicoMinoru",
+                    "name": "",
                     "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 },
                 {
-                    "name": "Firehair",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/db/Firehair_06.webp/revision/latest/scale-to-width-down/200?cb=20250201145531",
                     "description": "When one of your cards is destroyed, this uses that card's On Reveal."
                 },
                 {
-                    "name": "CassandraNova",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/5/5c/CassandraNova_08.webp/revision/latest/scale-to-width-down/200?cb=20250129171324",
                     "description": "On Reveal: Steal 1 Power from each card in your opponent's deck."
                 },
                 {
-                    "name": "NicoMinoru",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/8e/NicoMinoru_08.webp/revision/latest/scale-to-width-down/200?cb=20250203213405",
                     "description": "On Reveal: After you play your next card, cast a spell. (The spell changes each turn.)"
                 }
@@ -178,31 +178,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/4f/Khonshu_09.webp/revision/latest/scale-to-width-down/200?cb=20250201145639",
-                    "name": "Khonshu",
+                    "name": "",
                     "description": "When discarded, returns in its next phase. On Reveal: Resurrect a card you discarded to another location with its Power set to 5."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/73/Scorn_09.webp/revision/latest/scale-to-width-down/200?cb=20250202131440",
-                    "name": "Scorn",
+                    "name": "",
                     "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7e/CorvusGlaive_09.webp/revision/latest/scale-to-width-down/200?cb=20250212003915",
-                    "name": "CorvusGlaive",
+                    "name": "",
                     "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 },
                 {
-                    "name": "Khonshu",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/4f/Khonshu_09.webp/revision/latest/scale-to-width-down/200?cb=20250201145639",
                     "description": "When discarded, returns in its next phase. On Reveal: Resurrect a card you discarded to another location with its Power set to 5."
                 },
                 {
-                    "name": "Scorn",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/73/Scorn_09.webp/revision/latest/scale-to-width-down/200?cb=20250202131440",
                     "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
                 },
                 {
-                    "name": "CorvusGlaive",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7e/CorvusGlaive_09.webp/revision/latest/scale-to-width-down/200?cb=20250212003915",
                     "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
                 }
@@ -213,31 +213,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Goliath_05.webp/revision/latest/scale-to-width-down/200?cb=20250217133512",
-                    "name": "Goliath",
+                    "name": "",
                     "description": "Ongoing: +1 Power for each other Ongoing you have in play."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/eb/Gwenpool_11.webp/revision/latest/scale-to-width-down/200?cb=20250224172124",
-                    "name": "Gwenpool",
+                    "name": "",
                     "description": "On Reveal: Pick a random card in your hand 3 times. Give +2 Power each time."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d0/Sersi_03.webp/revision/latest/scale-to-width-down/200?cb=20250202133341",
-                    "name": "Sersi",
+                    "name": "",
                     "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if possible)"
                 },
                 {
-                    "name": "Goliath",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Goliath_05.webp/revision/latest/scale-to-width-down/200?cb=20250217133512",
                     "description": "Ongoing: +1 Power for each other Ongoing you have in play."
                 },
                 {
-                    "name": "Gwenpool",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/eb/Gwenpool_11.webp/revision/latest/scale-to-width-down/200?cb=20250224172124",
                     "description": "On Reveal: Pick a random card in your hand 3 times. Give +2 Power each time."
                 },
                 {
-                    "name": "Sersi",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d0/Sersi_03.webp/revision/latest/scale-to-width-down/200?cb=20250202133341",
                     "description": "On Reveal: Transform your other cards here into random cards that cost 1 more. (if possible)"
                 }
@@ -248,31 +248,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e5/Kahhori_03.webp/revision/latest/scale-to-width-down/200?cb=20250217134343",
-                    "name": "Kahhori",
+                    "name": "",
                     "description": "On Reveal: For each card in your hand, give a friendly card +1 Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/HydraBob_07.webp/revision/latest/scale-to-width-down/200?cb=20250212012004",
-                    "name": "HydraBob",
+                    "name": "",
                     "description": "After each turn, this moves if a player Snapped."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/ed/CullObsidian_09.webp/revision/latest/scale-to-width-down/200?cb=20250212005404",
-                    "name": "CullObsidian",
+                    "name": "",
                     "description": "You can only play this where you have a 1-Cost card."
                 },
                 {
-                    "name": "Kahhori",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e5/Kahhori_03.webp/revision/latest/scale-to-width-down/200?cb=20250217134343",
                     "description": "On Reveal: For each card in your hand, give a friendly card +1 Power."
                 },
                 {
-                    "name": "HydraBob",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/HydraBob_07.webp/revision/latest/scale-to-width-down/200?cb=20250212012004",
                     "description": "After each turn, this moves if a player Snapped."
                 },
                 {
-                    "name": "CullObsidian",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/ed/CullObsidian_09.webp/revision/latest/scale-to-width-down/200?cb=20250212005404",
                     "description": "You can only play this where you have a 1-Cost card."
                 }
@@ -283,31 +283,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d9/InfinityUltron_02.webp/revision/latest/scale-to-width-down/200?cb=20250217215438",
-                    "name": "InfinityUltron",
+                    "name": "",
                     "description": "On Reveal: Add 2 Ultron Infinity Stones to your hand."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d0/Cannonball_10.webp/revision/latest/scale-to-width-down/200?cb=20250224033507",
-                    "name": "Cannonball",
+                    "name": "",
                     "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9c/Pixie_10.webp/revision/latest/scale-to-width-down/200?cb=20250224172805",
-                    "name": "Pixie",
+                    "name": "",
                     "description": "On Reveal: Shuffle the base Costs of all cards in your deck that started there."
                 },
                 {
-                    "name": "InfinityUltron",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d9/InfinityUltron_02.webp/revision/latest/scale-to-width-down/200?cb=20250217215438",
                     "description": "On Reveal: Add 2 Ultron Infinity Stones to your hand."
                 },
                 {
-                    "name": "Cannonball",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d0/Cannonball_10.webp/revision/latest/scale-to-width-down/200?cb=20250224033507",
                     "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
                 },
                 {
-                    "name": "Pixie",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9c/Pixie_10.webp/revision/latest/scale-to-width-down/200?cb=20250224172805",
                     "description": "On Reveal: Shuffle the base Costs of all cards in your deck that started there."
                 }
@@ -318,31 +318,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/66/StrangeSupreme_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221320",
-                    "name": "StrangeSupreme",
+                    "name": "",
                     "description": "Give this +2 Power whenever it merges. After each turn, merge one of your cards that didn't start in your deck into this."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c3/Speed.webp/revision/latest/scale-to-width-down/200?cb=20240625182742",
-                    "name": "Speed",
+                    "name": "",
                     "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/16/USAgent.webp/revision/latest/scale-to-width-down/200?cb=20240219224138",
-                    "name": "USAgent",
+                    "name": "",
                     "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
                 },
                 {
-                    "name": "StrangeSupreme",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/66/StrangeSupreme_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221320",
                     "description": "Give this +2 Power whenever it merges. After each turn, merge one of your cards that didn't start in your deck into this."
                 },
                 {
-                    "name": "Speed",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c3/Speed.webp/revision/latest/scale-to-width-down/200?cb=20240625182742",
                     "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
                 },
                 {
-                    "name": "USAgent",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/16/USAgent.webp/revision/latest/scale-to-width-down/200?cb=20240219224138",
                     "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
                 }
@@ -353,31 +353,31 @@
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bc/HydraStomper_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221617",
-                    "name": "HydraStomper",
+                    "name": "",
                     "description": "Ongoing: +1 Power for each card you moved this game."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/db/Arana.webp/revision/latest/scale-to-width-down/200?cb=20240625182611",
-                    "name": "Arana",
+                    "name": "",
                     "description": "Activate: Give the last card you played +1 Power and move it to the right."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/20/MadameWeb_03.webp/revision/latest/scale-to-width-down/200?cb=20250224172731",
-                    "name": "MadameWeb",
+                    "name": "",
                     "description": "Ongoing: You can move one of your other cards away from here each turn."
                 },
                 {
-                    "name": "HydraStomper",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bc/HydraStomper_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221617",
                     "description": "Ongoing: +1 Power for each card you moved this game."
                 },
                 {
-                    "name": "Arana",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/db/Arana.webp/revision/latest/scale-to-width-down/200?cb=20240625182611",
                     "description": "Activate: Give the last card you played +1 Power and move it to the right."
                 },
                 {
-                    "name": "MadameWeb",
+                    "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/20/MadameWeb_03.webp/revision/latest/scale-to-width-down/200?cb=20250224172731",
                     "description": "Ongoing: You can move one of your other cards away from here each turn."
                 }
