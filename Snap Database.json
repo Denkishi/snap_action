@@ -753,7 +753,7 @@
             "ability": "Ongoing: Enemy cards here afflicted with negative Power have an additional -2 Power.",
             "cost": "3",
             "power": "3",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "604"
         },
         {
@@ -1194,7 +1194,7 @@
             "ability": "Ongoing: Your opponent's cards that didn't start in their deck cost 1 more. (maximum 6)",
             "cost": "2",
             "power": "3",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "591"
         },
         {
@@ -1770,7 +1770,7 @@
             "ability": "On Reveal: Steal 1 Power from each other card here.",
             "cost": "4",
             "power": "5",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "582"
         },
         {
@@ -3543,7 +3543,7 @@
             "ability": "When this card is destroyed, replace it with Spider-Man.",
             "cost": "1",
             "power": "2",
-            "pool": "Not Available",
+            "pool": "Series 4",
             "card_id": "282"
         },
         {
