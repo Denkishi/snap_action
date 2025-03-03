@@ -1,3 +1,37 @@
 {
-    "date": "March 3, 2025"
+    "date": "March 3, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Phoenix Force"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Ongoing Doom"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Hela Discard"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Bullseye Discard"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Small Ongoing Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce"
+        }
+    ]
 }
