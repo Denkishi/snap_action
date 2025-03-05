@@ -51,7 +51,7 @@
             "ability": "Game Start: Shuffle 4 Ancient Arcana into your deck.",
             "cost": "5",
             "power": "10",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "609"
         },
         {
@@ -969,7 +969,7 @@
             "ability": "End of Turn: Put a created card from your hand here.",
             "cost": "6",
             "power": "10",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "610"
         },
         {
@@ -2877,7 +2877,7 @@
             "ability": "Game Start: Add Cap's Shield to a random location. Ongoing: You can move Cap's Shield.",
             "cost": "2",
             "power": "3",
-            "pool": "Season Pass",
+            "pool": "Series 5",
             "card_id": "607"
         },
         {
