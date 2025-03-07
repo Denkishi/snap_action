@@ -6,7 +6,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/Eson_03.webp/revision/latest/scale-to-width-down/200?cb=20250201145717",
                     "name": "",
-                    "description": "After each turn, put a card from your hand that didn't start in your deck here."
+                    "description": "End of Turn: Put a created card from your hand here."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/BetaRayBill_09.webp/revision/latest/scale-to-width-down/200?cb=20250129163239",
@@ -21,7 +21,7 @@
                 {
                     "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/Eson_03.webp/revision/latest/scale-to-width-down/200?cb=20250201145717",
-                    "description": "After each turn, put a card from your hand that didn't start in your deck here."
+                    "description": "End of Turn: Put a created card from your hand here."
                 },
                 {
                     "name": "",
@@ -146,7 +146,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Goliath_05.webp/revision/latest/scale-to-width-down/200?cb=20250217133512",
                     "name": "",
-                    "description": "Ongoing: +1 Power for each other Ongoing you have in play."
+                    "description": "Ongoing: +1 Power for each other Ongoing card you have in play."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/eb/Gwenpool_11.webp/revision/latest/scale-to-width-down/200?cb=20250224172124",
@@ -161,7 +161,7 @@
                 {
                     "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Goliath_05.webp/revision/latest/scale-to-width-down/200?cb=20250217133512",
-                    "description": "Ongoing: +1 Power for each other Ongoing you have in play."
+                    "description": "Ongoing: +1 Power for each other Ongoing card you have in play."
                 },
                 {
                     "name": "",
