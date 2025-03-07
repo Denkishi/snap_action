@@ -181,7 +181,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e5/Kahhori_03.webp/revision/latest/scale-to-width-down/200?cb=20250217134343",
                     "name": "",
-                    "description": "On Reveal: For each card in your hand, give a friendly card +1 Power."
+                    "description": "On Reveal: Each card in your hand gives one of your cards in play +1 Power."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/HydraBob_07.webp/revision/latest/scale-to-width-down/200?cb=20250212012004",
@@ -196,7 +196,7 @@
                 {
                     "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e5/Kahhori_03.webp/revision/latest/scale-to-width-down/200?cb=20250217134343",
-                    "description": "On Reveal: For each card in your hand, give a friendly card +1 Power."
+                    "description": "On Reveal: Each card in your hand gives one of your cards in play +1 Power."
                 },
                 {
                     "name": "",
@@ -216,7 +216,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d9/InfinityUltron_02.webp/revision/latest/scale-to-width-down/200?cb=20250217215438",
                     "name": "",
-                    "description": "On Reveal: Add 2 Ultron Infinity Stones to your hand."
+                    "description": "On Reveal: Add 2 of Ultron's Stones to your hand."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d0/Cannonball_10.webp/revision/latest/scale-to-width-down/200?cb=20250224033507",
@@ -231,7 +231,7 @@
                 {
                     "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d9/InfinityUltron_02.webp/revision/latest/scale-to-width-down/200?cb=20250217215438",
-                    "description": "On Reveal: Add 2 Ultron Infinity Stones to your hand."
+                    "description": "On Reveal: Add 2 of Ultron's Stones to your hand."
                 },
                 {
                     "name": "",
@@ -251,7 +251,7 @@
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/66/StrangeSupreme_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221320",
                     "name": "",
-                    "description": "Give this +2 Power whenever it merges. After each turn, merge one of your cards that didn't start in your deck into this."
+                    "description": "Gains +2 Power from merging. End of Turn: Merge one of your created cards into this."
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c3/Speed.webp/revision/latest/scale-to-width-down/200?cb=20240625182742",
@@ -266,7 +266,7 @@
                 {
                     "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/66/StrangeSupreme_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221320",
-                    "description": "Give this +2 Power whenever it merges. After each turn, merge one of your cards that didn't start in your deck into this."
+                    "description": "Gains +2 Power from merging. End of Turn: Merge one of your created cards into this."
                 },
                 {
                     "name": "",
