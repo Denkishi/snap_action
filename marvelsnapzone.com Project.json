@@ -2,11 +2,11 @@
     "Colors": [
         {
             "tier_name": "Trending",
-            "surname": "Phoenix Force"
+            "surname": "Anti Arishem Ronan Darkhawk"
         },
         {
-            "tier_name": "Tier 1",
-            "surname": "Ongoing Doom"
+            "tier_name": "Trending",
+            "surname": "On Reveal Iron Hand (Agamotto)"
         },
         {
             "tier_name": "Tier 1",
@@ -14,115 +14,122 @@
         },
         {
             "tier_name": "Tier 1",
+            "surname": "Ongoing Combo"
+        },
+        {
+            "tier_name": "Tier 1",
+            "surname": "Arishem"
+        },
+        {
+            "tier_name": "Tier 2",
+            "surname": "Kazoo"
+        },
+        {
+            "tier_name": "Tier 2",
             "surname": "Bullseye Discard"
         },
         {
             "tier_name": "Tier 2",
-            "surname": "Small Ongoing Good Cards"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "Toxic"
-        },
-        {
-            "tier_name": "Tier 3",
             "surname": "Mister Negative"
         },
         {
             "tier_name": "Tier 3",
-            "surname": "Bounce"
+            "surname": "Good Cards Control (Agamotto)"
+        },
+        {
+            "tier_name": "Tier 3",
+            "surname": "Scream Move (Agamotto)"
         }
     ],
     "tier": [
         {
-            "name": "Phoenix Force Ranked March 1st",
-            "code": "eyJOYW1lIjoiUGhvZW5peCBGb3JjZSBSYW5rZWQgTWFyY2ggMXN0IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6Ikdob3N0U3BpZGVyIn0seyJDYXJkRGVmSWQiOiJIdW1hblRvcmNoIn0seyJDYXJkRGVmSWQiOiJOaWNvTWlub3J1In0seyJDYXJkRGVmSWQiOiJDYXJuYWdlIn0seyJDYXJkRGVmSWQiOiJNdWx0aXBsZU1hbiJ9LHsiQ2FyZERlZklkIjoiTWFnaWsifSx7IkNhcmREZWZJZCI6IlZlbm9tIn0seyJDYXJkRGVmSWQiOiJEZWF0aGxvayJ9LHsiQ2FyZERlZklkIjoiU2h1cmkifSx7IkNhcmREZWZJZCI6IlRoZVBob2VuaXhGb3JjZSJ9LHsiQ2FyZERlZklkIjoiTmltcm9kIn0seyJDYXJkRGVmSWQiOiJBcm5pbVpvbGEifV19",
+            "name": "Anti Arishem Ronan Darkhawk Ranked March 8",
+            "code": "eyJOYW1lIjoiQW50aSBBcmlzaGVtIFJvbmFuIERhcmtoYXdrIFJhbmtlZCBNYXJjaCA4IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IlNwaWRlckhhbSJ9LHsiQ2FyZERlZklkIjoiS29yZyJ9LHsiQ2FyZERlZklkIjoiTmljb01pbm9ydSJ9LHsiQ2FyZERlZklkIjoiTWFzdGVyTW9sZCJ9LHsiQ2FyZERlZklkIjoiR29yZ29uIn0seyJDYXJkRGVmSWQiOiJHcmFuZE1hc3RlciJ9LHsiQ2FyZERlZklkIjoiQ2Fzc2FuZHJhTm92YSJ9LHsiQ2FyZERlZklkIjoiTXlzdGlxdWUifSx7IkNhcmREZWZJZCI6IkJsYWNrV2lkb3cifSx7IkNhcmREZWZJZCI6IlJvY2tzbGlkZSJ9LHsiQ2FyZERlZklkIjoiRGFya2hhd2sifSx7IkNhcmREZWZJZCI6IlJvbmFuIn1dfQ==",
             "cards": [
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost-spider.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-ham.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/human-torch.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/korg.webp?v=318"
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/master-mold.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/multiple-man.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gorgon.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magik.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/grand-master.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/venom.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cassandra-nova.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deathlok.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shuri.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-widow.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/phoenix-force.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rockslide.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nimrod.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/darkhawk.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arnim-zola.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ronan-the-accuser.webp?v=318"
                 }
             ]
         },
         {
-            "name": "Ongoing Doom Ranked March 1st",
-            "surname": "Ongoing Doom",
-            "code": "eyJOYW1lIjoiT25nb2luZyBEb29tIFJhbmtlZCBNYXJjaCAxc3QiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQW50TWFuIn0seyJDYXJkRGVmSWQiOiJEYXp6bGVyIn0seyJDYXJkRGVmSWQiOiJQc3lsb2NrZSJ9LHsiQ2FyZERlZklkIjoiU2FtV2lsc29uIn0seyJDYXJkRGVmSWQiOiJDYXB0YWluQW1lcmljYSJ9LHsiQ2FyZERlZklkIjoiTW9iaXVzTU1vYml1cyJ9LHsiQ2FyZERlZklkIjoiU3VwZXJTa3J1bGwifSx7IkNhcmREZWZJZCI6IkRvb20yMDk5In0seyJDYXJkRGVmSWQiOiJJcm9uTGFkIn0seyJDYXJkRGVmSWQiOiJCbHVlTWFydmVsIn0seyJDYXJkRGVmSWQiOiJEckRvb20ifSx7IkNhcmREZWZJZCI6IlNwZWN0cnVtIn1dfQ==",
+            "name": "On Reveal Iron Hand Ranked March 8",
+            "code": "eyJOYW1lIjoiT24gUmV2ZWFsIElyb24gSGFuZCBSYW5rZWQgTWFyY2ggOCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJIb29kIn0seyJDYXJkRGVmSWQiOiJOaWNvTWlub3J1In0seyJDYXJkRGVmSWQiOiJaYWJ1In0seyJDYXJkRGVmSWQiOiJHcmFuZE1hc3RlciJ9LHsiQ2FyZERlZklkIjoiS2F0ZUJpc2hvcCJ9LHsiQ2FyZERlZklkIjoiSXJvblBhdHJpb3QifSx7IkNhcmREZWZJZCI6IlZpY3RvcmlhSGFuZCJ9LHsiQ2FyZERlZklkIjoiV2VyZXdvbGZCeU5pZ2h0In0seyJDYXJkRGVmSWQiOiJTaGFuZ0NoaSJ9LHsiQ2FyZERlZklkIjoiQW50aVZlbm9tIn0seyJDYXJkRGVmSWQiOiJNaXNlcnkifSx7IkNhcmREZWZJZCI6IkFnYW1vdHRvIn1dfQ==",
             "cards": [
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dazzler.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/psylocke.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zabu.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sam-wilson-captain-america.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/grand-master.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-america.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye-kate-bishop.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mobius-m-mobius.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-patriot.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/super-skrull.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/victoria-hand.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom-2099.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/werewolf-by-night.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-lad.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-venom.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/misery.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spectrum.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agamotto.webp?v=318"
                 }
             ]
         },
         {
-            "name": "Hela Ranked March 1st",
+            "name": "Hela Ranked March 8",
             "surname": "Hela Discard",
-            "code": "eyJOYW1lIjoiSGVsYSBSYW5rZWQgTWFyY2ggMXN0IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IkJsYWRlIn0seyJDYXJkRGVmSWQiOiJBZGFtV2FybG9jayJ9LHsiQ2FyZERlZklkIjoiTGFkeVNpZiJ9LHsiQ2FyZERlZklkIjoiU3dvcmRNYXN0ZXIifSx7IkNhcmREZWZJZCI6Ikp1YmlsZWUifSx7IkNhcmREZWZJZCI6IkhlbGxjb3cifSx7IkNhcmREZWZJZCI6IkJsYWNrQ2F0In0seyJDYXJkRGVmSWQiOiJCbGluayJ9LHsiQ2FyZERlZklkIjoiSGVsYSJ9LHsiQ2FyZERlZklkIjoiSW5maW5hdXQifSx7IkNhcmREZWZJZCI6IlNrYWFyIn0seyJDYXJkRGVmSWQiOiJEZWF0aCJ9XX0=",
+            "code": "eyJOYW1lIjoiSGVsYSBSYW5rZWQgTWFyY2ggOCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJCbGFkZSJ9LHsiQ2FyZERlZklkIjoiQWRhbVdhcmxvY2sifSx7IkNhcmREZWZJZCI6IkxhZHlTaWYifSx7IkNhcmREZWZJZCI6IlN3b3JkTWFzdGVyIn0seyJDYXJkRGVmSWQiOiJKdWJpbGVlIn0seyJDYXJkRGVmSWQiOiJIZWxsY293In0seyJDYXJkRGVmSWQiOiJCbGFja0NhdCJ9LHsiQ2FyZERlZklkIjoiSXJvbk1hbiJ9LHsiQ2FyZERlZklkIjoiSGVsYSJ9LHsiQ2FyZERlZklkIjoiSW5maW5hdXQifSx7IkNhcmREZWZJZCI6IlNrYWFyIn0seyJDYXJkRGVmSWQiOiJEZWF0aCJ9XX0=",
             "cards": [
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blade.webp?v=318"
@@ -146,7 +153,7 @@
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-cat.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blink.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=318"
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hela.webp?v=318"
@@ -163,9 +170,138 @@
             ]
         },
         {
-            "name": "Bullseye Discard Ranked March 1st",
-            "surname": "Bullseye Discard",
-            "code": "eyJOYW1lIjoiQnVsbHNleWUgRGlzY2FyZCBSYW5rZWQgTWFyY2ggMXN0IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6Ik1pZWsifSx7IkNhcmREZWZJZCI6IlNjb3JuIn0seyJDYXJkRGVmSWQiOiJCbGFkZSJ9LHsiQ2FyZERlZklkIjoiTW9yYml1cyJ9LHsiQ2FyZERlZklkIjoiVGhlQ29sbGVjdG9yIn0seyJDYXJkRGVmSWQiOiJTd2FybSJ9LHsiQ2FyZERlZklkIjoiQ29sbGVlbldpbmcifSx7IkNhcmREZWZJZCI6IkJ1bGxzZXllIn0seyJDYXJkRGVmSWQiOiJHYW1iaXQifSx7IkNhcmREZWZJZCI6IkRha2VuIn0seyJDYXJkRGVmSWQiOiJGcmlnZ2EifSx7IkNhcmREZWZJZCI6Ik1vZG9rIn1dfQ==",
+            "name": "Ongoing Combo Ranked March 8",
+            "surname": "Ongoing Combo",
+            "code": "eyJOYW1lIjoiT25nb2luZyBDb21ibyBSYW5rZWQgTWFyY2ggOCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJBbnRNYW4ifSx7IkNhcmREZWZJZCI6IlJhdm9ubmFSZW5zbGF5ZXIifSx7IkNhcmREZWZJZCI6IlNhbVdpbHNvbiJ9LHsiQ2FyZERlZklkIjoiVVNBZ2VudCJ9LHsiQ2FyZERlZklkIjoiTXlzdGlxdWUifSx7IkNhcmREZWZJZCI6Ik1yRmFudGFzdGljIn0seyJDYXJkRGVmSWQiOiJMdWtlQ2FnZSJ9LHsiQ2FyZERlZklkIjoiQ2FwdGFpbkFtZXJpY2EifSx7IkNhcmREZWZJZCI6Ik1vb25zdG9uZSJ9LHsiQ2FyZERlZklkIjoiQW50aVZlbm9tIn0seyJDYXJkRGVmSWQiOiJJcm9uTWFuIn0seyJDYXJkRGVmSWQiOiJTcGVjdHJ1bSJ9XX0=",
+            "cards": [
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ravonna-renslayer.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sam-wilson-captain-america.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/us-agent.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-america.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moonstone.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-venom.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spectrum.webp?v=318"
+                }
+            ]
+        },
+        {
+            "name": "Arishem Ranked March 8",
+            "surname": "Arishem",
+            "code": "eyJOYW1lIjoiQXJpc2hlbSBSYW5rZWQgTWFyY2ggOCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJRdWluamV0In0seyJDYXJkRGVmSWQiOiJJcm9uUGF0cmlvdCJ9LHsiQ2FyZERlZklkIjoiVmFsZW50aW5hIn0seyJDYXJkRGVmSWQiOiJEb29tMjA5OSJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IkdhbGFjdGEifSx7IkNhcmREZWZJZCI6IkxlZ2lvbiJ9LHsiQ2FyZERlZklkIjoiRHJEb29tIn0seyJDYXJkRGVmSWQiOiJBbGlvdGgifSx7IkNhcmREZWZJZCI6Ik1vY2tpbmdiaXJkIn0seyJDYXJkRGVmSWQiOiJFc29uIn0seyJDYXJkRGVmSWQiOiJBcmlzaGVtIn1dfQ==",
+            "cards": [
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quinjet.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-patriot.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valentina.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom-2099.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galacta.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/legion.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/alioth.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mockingbird.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/eson.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arishem.webp?v=318"
+                }
+            ]
+        },
+        {
+            "name": "Kazoo Ranked March 8",
+            "surname": "Kazoo",
+            "code": "eyJOYW1lIjoiS2F6b28gUmFua2VkIE1hcmNoIDgiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQW50TWFuIn0seyJDYXJkRGVmSWQiOiJTcXVpcnJlbEdpcmwifSx7IkNhcmREZWZJZCI6IkRhenpsZXIifSx7IkNhcmREZWZJZCI6IkthdGVCaXNob3AifSx7IkNhcmREZWZJZCI6IlNhbVdpbHNvbiJ9LHsiQ2FyZERlZklkIjoiTWFydmVsQm95In0seyJDYXJkRGVmSWQiOiJTaGFubmEifSx7IkNhcmREZWZJZCI6IlNoYW5nQ2hpIn0seyJDYXJkRGVmSWQiOiJLYVphciJ9LHsiQ2FyZERlZklkIjoiQmx1ZU1hcnZlbCJ9LHsiQ2FyZERlZklkIjoiR2lsZ2FtZXNoIn0seyJDYXJkRGVmSWQiOiJNb2NraW5nYmlyZCJ9XX0=",
+            "cards": [
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel-girl.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dazzler.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye-kate-bishop.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sam-wilson-captain-america.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/marvel-boy.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shanna.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ka-zar.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gilgamesh.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mockingbird.webp?v=318"
+                }
+            ]
+        },
+        {
+            "name": "Bullseye Ranked March 8",
+            "surname": "Bullseye",
+            "code": "eyJOYW1lIjoiQnVsbHNleWUgUmFua2VkIE1hcmNoIDgiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiTWllayJ9LHsiQ2FyZERlZklkIjoiU2Nvcm4ifSx7IkNhcmREZWZJZCI6IkJsYWRlIn0seyJDYXJkRGVmSWQiOiJNb3JiaXVzIn0seyJDYXJkRGVmSWQiOiJUaGVDb2xsZWN0b3IifSx7IkNhcmREZWZJZCI6IlN3YXJtIn0seyJDYXJkRGVmSWQiOiJDb2xsZWVuV2luZyJ9LHsiQ2FyZERlZklkIjoiQnVsbHNleWUifSx7IkNhcmREZWZJZCI6IkdhbWJpdCJ9LHsiQ2FyZERlZklkIjoiRGFrZW4ifSx7IkNhcmREZWZJZCI6IkZyaWdnYSJ9LHsiQ2FyZERlZklkIjoiTW9kb2sifV19",
             "cards": [
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/miek.webp?v=318"
@@ -206,174 +342,88 @@
             ]
         },
         {
-            "name": "Small Ongoing Good Cards Ranked March 1st",
-            "surname": "Small Ongoing Good Cards",
-            "code": "eyJOYW1lIjoiU21hbGwgT25nb2luZyBHb29kIENhcmRzIFJhbmtlZCBNYXJjaCAxc3QiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiSG9vZCJ9LHsiQ2FyZERlZklkIjoiQmFzdCJ9LHsiQ2FyZERlZklkIjoiTmljb01pbm9ydSJ9LHsiQ2FyZERlZklkIjoiQWRhbVdhcmxvY2sifSx7IkNhcmREZWZJZCI6IlBpeGllIn0seyJDYXJkRGVmSWQiOiJLYXRlQmlzaG9wIn0seyJDYXJkRGVmSWQiOiJBZ2VudFZlbm9tIn0seyJDYXJkRGVmSWQiOiJDYXNzYW5kcmFOb3ZhIn0seyJDYXJkRGVmSWQiOiJNeXN0aXF1ZSJ9LHsiQ2FyZERlZklkIjoiTW9iaXVzTU1vYml1cyJ9LHsiQ2FyZERlZklkIjoiSXJvbk1hbiJ9LHsiQ2FyZERlZklkIjoiR29yciJ9XX0=",
+            "name": "Good Cards Control Ranked March 8",
+            "surname": "Good Cards Control",
+            "code": "eyJOYW1lIjoiR29vZCBDYXJkcyBDb250cm9sIFJhbmtlZCBNYXJjaCA4IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6Ik5lYnVsYSJ9LHsiQ2FyZERlZklkIjoiWmFidSJ9LHsiQ2FyZERlZklkIjoiS2F0ZUJpc2hvcCJ9LHsiQ2FyZERlZklkIjoiSXJvblBhdHJpb3QifSx7IkNhcmREZWZJZCI6IlNhbVdpbHNvbiJ9LHsiQ2FyZERlZklkIjoiUm9ja2V0QW5kR3Jvb3QifSx7IkNhcmREZWZJZCI6IkNvcHljYXQifSx7IkNhcmREZWZJZCI6IkNhcHRhaW5NYXJ2ZWwifSx7IkNhcmREZWZJZCI6IkVuY2hhbnRyZXNzIn0seyJDYXJkRGVmSWQiOiJHYWxhY3RhIn0seyJDYXJkRGVmSWQiOiJHd2VucG9vbCJ9LHsiQ2FyZERlZklkIjoiQWdhbW90dG8ifV19",
             "cards": [
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nebula.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/adam-warlock.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pixie.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zabu.webp?v=318"
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye-kate-bishop.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-venom.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-patriot.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cassandra-nova.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sam-wilson-captain-america.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-and-groot.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mobius-m-mobius.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/copycat.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-marvel.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gorr-the-god-butcher.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/enchantress.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galacta.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gwenpool.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agamotto.webp?v=318"
                 }
             ]
         },
         {
-            "name": "Toxic Ranked March 1st",
-            "surname": "Toxic",
-            "code": "eyJOYW1lIjoiVG94aWMgUmFua2VkIE1hcmNoIDFzdCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJaYWJ1In0seyJDYXJkRGVmSWQiOiJIYXptYXQifSx7IkNhcmREZWZJZCI6IlVTQWdlbnQifSx7IkNhcmREZWZJZCI6Ikx1a2VDYWdlIn0seyJDYXJkRGVmSWQiOiJSb2d1ZSJ9LHsiQ2FyZERlZklkIjoiRGlhbW9uZGJhY2sifSx7IkNhcmREZWZJZCI6IlJlZEd1YXJkaWFuIn0seyJDYXJkRGVmSWQiOiJMYXVmZXkifSx7IkNhcmREZWZJZCI6Ik1hbGVraXRoIn0seyJDYXJkRGVmSWQiOiJBbnRpVmVub20ifSx7IkNhcmREZWZJZCI6IlNlcmEifSx7IkNhcmREZWZJZCI6IkFqYXgifV19",
+            "name": "Scream Move Ranked March 8",
+            "surname": "Scream Move",
+            "code": "eyJOYW1lIjoiU2NyZWFtIE1vdmUgUmFua2VkIE1hcmNoIDgiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiSHlkcmFCb2IifSx7IkNhcmREZWZJZCI6IlNjcmVhbSJ9LHsiQ2FyZERlZklkIjoiSXJvblBhdHJpb3QifSx7IkNhcmREZWZJZCI6IktyYXZlbiJ9LHsiQ2FyZERlZklkIjoiU2FtV2lsc29uIn0seyJDYXJkRGVmSWQiOiJTcGlkZXJNYW4ifSx7IkNhcmREZWZJZCI6IlJvY2tldEFuZEdyb290In0seyJDYXJkRGVmSWQiOiJQb2xhcmlzIn0seyJDYXJkRGVmSWQiOiJNaWxlc01vcmFsZXMifSx7IkNhcmREZWZJZCI6IkNhbm5vbmJhbGwifSx7IkNhcmREZWZJZCI6IkFnYW1vdHRvIn0seyJDYXJkRGVmSWQiOiJNYWduZXRvIn1dfQ==",
             "cards": [
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zabu.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hydra-bob.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hazmat.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scream.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/us-agent.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-patriot.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kraven.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rogue.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sam-wilson-captain-america.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/diamondback.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-guardian.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-and-groot.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/laufey.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polaris.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/malekith.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/miles-morales.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-venom.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cannonball.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sera.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agamotto.webp?v=318"
                 },
                 {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ajax.webp?v=318"
-                }
-            ]
-        },
-        {
-            "name": "Mister Negative Ranked March 1st",
-            "surname": "Mister Negative",
-            "code": "eyJOYW1lIjoiTWlzdGVyIE5lZ2F0aXZlIFJhbmtlZCBNYXJjaCAxc3QiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiUHN5bG9ja2UifSx7IkNhcmREZWZJZCI6IlJhdm9ubmFSZW5zbGF5ZXIifSx7IkNhcmREZWZJZCI6Iklyb25oZWFydCJ9LHsiQ2FyZERlZklkIjoiTXlzdGlxdWUifSx7IkNhcmREZWZJZCI6IlNhZ2UifSx7IkNhcmREZWZJZCI6Ik1hZ2lrIn0seyJDYXJkRGVmSWQiOiJNck5lZ2F0aXZlIn0seyJDYXJkRGVmSWQiOiJXb25nIn0seyJDYXJkRGVmSWQiOiJJcm9uTWFuIn0seyJDYXJkRGVmSWQiOiJKYW5lRm9zdGVyIn0seyJDYXJkRGVmSWQiOiJHb3JyIn0seyJDYXJkRGVmSWQiOiJUYXNrbWFzdGVyIn1dfQ==",
-            "cards": [
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/psylocke.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ravonna-renslayer.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ironheart.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sage.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magik.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-negative.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wong.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jane-foster-mighty-thor.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gorr-the-god-butcher.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=318"
-                }
-            ]
-        },
-        {
-            "name": "Bounce Ranked March 1st",
-            "surname": "Bounce",
-            "code": "eyJOYW1lIjoiQm91bmNlIFJhbmtlZCBNYXJjaCAxc3QiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiSG9vZCJ9LHsiQ2FyZERlZklkIjoiU2lsdmVyU2FibGUifSx7IkNhcmREZWZJZCI6IlJvY2tldFJhY2Nvb24ifSx7IkNhcmREZWZJZCI6Ik5pY29NaW5vcnUifSx7IkNhcmREZWZJZCI6IlRveGluIn0seyJDYXJkRGVmSWQiOiJKb2FxdWluVG9ycmVzIn0seyJDYXJkRGVmSWQiOiJCbGFja1N3YW4ifSx7IkNhcmREZWZJZCI6IkZhbGNvbiJ9LHsiQ2FyZERlZklkIjoiQWdlbnRWZW5vbSJ9LHsiQ2FyZERlZklkIjoiU2FnZSJ9LHsiQ2FyZERlZklkIjoiSGl0TW9ua2V5In0seyJDYXJkRGVmSWQiOiJCZWFzdCJ9XX0=",
-            "cards": [
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-sable.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-raccoon.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxin.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/joaquin-torres-falcon-ii.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-swan.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/falcon.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-venom.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sage.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hit-monkey.webp?v=318"
-                },
-                {
-                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/beast.webp?v=318"
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magneto.webp?v=318"
                 }
             ]
         }

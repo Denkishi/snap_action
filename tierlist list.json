@@ -3,11 +3,11 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Phoenix Force"
+            "name": "Anti Arishem Ronan Darkhawk"
         },
         {
-            "tier": "Tier 1",
-            "name": "Ongoing Doom"
+            "tier": "Trending",
+            "name": "On Reveal Iron Hand (Agamotto)"
         },
         {
             "tier": "Tier 1",
@@ -15,23 +15,31 @@
         },
         {
             "tier": "Tier 1",
+            "name": "Ongoing Combo"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Kazoo"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Bullseye Discard"
         },
         {
             "tier": "Tier 2",
-            "name": "Small Ongoing Good Cards"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Toxic"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Mister Negative"
         },
         {
             "tier": "Tier 3",
-            "name": "Bounce"
+            "name": "Good Cards Control (Agamotto)"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Scream Move (Agamotto)"
         }
     ]
 }
