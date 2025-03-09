@@ -2,7 +2,7 @@
     "Colors": [
         {
             "tier_name": "Trending",
-            "surname": "Anti Arishem Ronan Darkhawk"
+            "surname": "Anti-Arishem Ronan Darkhawk"
         },
         {
             "tier_name": "Trending",
@@ -22,7 +22,7 @@
         },
         {
             "tier_name": "Tier 2",
-            "surname": "Kazoo"
+            "surname": "KaZoo"
         },
         {
             "tier_name": "Tier 2",
@@ -257,7 +257,7 @@
         },
         {
             "name": "Kazoo Ranked March 8",
-            "surname": "Kazoo",
+            "surname": "KaZoo",
             "code": "eyJOYW1lIjoiS2F6b28gUmFua2VkIE1hcmNoIDgiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQW50TWFuIn0seyJDYXJkRGVmSWQiOiJTcXVpcnJlbEdpcmwifSx7IkNhcmREZWZJZCI6IkRhenpsZXIifSx7IkNhcmREZWZJZCI6IkthdGVCaXNob3AifSx7IkNhcmREZWZJZCI6IlNhbVdpbHNvbiJ9LHsiQ2FyZERlZklkIjoiTWFydmVsQm95In0seyJDYXJkRGVmSWQiOiJTaGFubmEifSx7IkNhcmREZWZJZCI6IlNoYW5nQ2hpIn0seyJDYXJkRGVmSWQiOiJLYVphciJ9LHsiQ2FyZERlZklkIjoiQmx1ZU1hcnZlbCJ9LHsiQ2FyZERlZklkIjoiR2lsZ2FtZXNoIn0seyJDYXJkRGVmSWQiOiJNb2NraW5nYmlyZCJ9XX0=",
             "cards": [
                 {
@@ -338,6 +338,49 @@
                 },
                 {
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/modok.webp?v=318"
+                }
+            ]
+        },
+        {
+            "name": "Mister Negative Ranked March 8",
+            "surname": "Mister Negative",
+            "code": "eyJOYW1lIjoiTWlzdGVyIE5lZ2F0aXZlIFJhbmtlZCBNYXJjaCA4IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IlBzeWxvY2tlIn0seyJDYXJkRGVmSWQiOiJSYXZvbm5hUmVuc2xheWVyIn0seyJDYXJkRGVmSWQiOiJDYXNzYW5kcmFOb3ZhIn0seyJDYXJkRGVmSWQiOiJNeXN0aXF1ZSJ9LHsiQ2FyZERlZklkIjoiU2FnZSJ9LHsiQ2FyZERlZklkIjoiTWFnaWsifSx7IkNhcmREZWZJZCI6Ik1yTmVnYXRpdmUifSx7IkNhcmREZWZJZCI6IldvbmcifSx7IkNhcmREZWZJZCI6Iklyb25NYW4ifSx7IkNhcmREZWZJZCI6IkphbmVGb3N0ZXIifSx7IkNhcmREZWZJZCI6IkdvcnIifSx7IkNhcmREZWZJZCI6IlRhc2ttYXN0ZXIifV19",
+            "cards": [
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/psylocke.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ravonna-renslayer.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cassandra-nova.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sage.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magik.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-negative.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wong.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jane-foster-mighty-thor.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gorr-the-god-butcher.webp?v=318"
+                },
+                {
+                    "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=318"
                 }
             ]
         },
