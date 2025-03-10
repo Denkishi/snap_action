@@ -254,12 +254,12 @@
                     "description": "Gains +2 Power from merging. End of Turn: Merge one of your created cards into this."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c3/Speed.webp/revision/latest/scale-to-width-down/200?cb=20240625182742",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/86/Speed_06.webp/revision/latest/scale-to-width-down/200?cb=20250309212933",
                     "name": "",
                     "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/16/USAgent.webp/revision/latest/scale-to-width-down/200?cb=20240219224138",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/67/USAgent_08.webp/revision/latest/scale-to-width-down/200?cb=20250309212013",
                     "name": "",
                     "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
                 },
@@ -270,12 +270,12 @@
                 },
                 {
                     "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c3/Speed.webp/revision/latest/scale-to-width-down/200?cb=20240625182742",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/86/Speed_06.webp/revision/latest/scale-to-width-down/200?cb=20250309212933",
                     "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
                 },
                 {
                     "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/16/USAgent.webp/revision/latest/scale-to-width-down/200?cb=20240219224138",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/67/USAgent_08.webp/revision/latest/scale-to-width-down/200?cb=20250309212013",
                     "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
                 }
             ]
@@ -289,7 +289,7 @@
                     "description": "Ongoing: +1 Power for each card you moved this game."
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/db/Arana.webp/revision/latest/scale-to-width-down/200?cb=20240625182611",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/Arana_11.webp/revision/latest/scale-to-width-down/200?cb=20250309212753",
                     "name": "",
                     "description": "Activate: Give the last card you played +1 Power and move it to the right."
                 },
@@ -305,13 +305,151 @@
                 },
                 {
                     "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/db/Arana.webp/revision/latest/scale-to-width-down/200?cb=20240625182611",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/Arana_11.webp/revision/latest/scale-to-width-down/200?cb=20250309212753",
                     "description": "Activate: Give the last card you played +1 Power and move it to the right."
                 },
                 {
                     "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/20/MadameWeb_03.webp/revision/latest/scale-to-width-down/200?cb=20250224172731",
                     "description": "Ongoing: You can move one of your other cards away from here each turn."
+                }
+            ]
+        },
+        {
+            "date": "6th May - 13th May",
+            "cards": [
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/dd/Surge_02.webp/revision/latest/scale-to-width-down/200?cb=20250309223728",
+                    "name": "",
+                    "description": "On Reveal: Give the top card of your deck -1 Cost and +1 Power. After you play it, repeat this ability."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/88/Hulkling_05.webp/revision/latest/scale-to-width-down/200?cb=20250309213613",
+                    "name": "",
+                    "description": "Game Start: Copy the text of a random 6-Cost card."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/90/HopeSummers_08.webp/revision/latest/scale-to-width-down/200?cb=20250309213928",
+                    "name": "",
+                    "description": "After you play a card here, you get +1 Energy next turn."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/dd/Surge_02.webp/revision/latest/scale-to-width-down/200?cb=20250309223728",
+                    "description": "On Reveal: Give the top card of your deck -1 Cost and +1 Power. After you play it, repeat this ability."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/88/Hulkling_05.webp/revision/latest/scale-to-width-down/200?cb=20250309213613",
+                    "description": "Game Start: Copy the text of a random 6-Cost card."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/90/HopeSummers_08.webp/revision/latest/scale-to-width-down/200?cb=20250309213928",
+                    "description": "After you play a card here, you get +1 Energy next turn."
+                }
+            ]
+        },
+        {
+            "date": "13th May - 20th May",
+            "cards": [
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7f/Prodigy_02.webp/revision/latest/scale-to-width-down/200?cb=20250309224637",
+                    "name": "",
+                    "description": "On Reveal: If this is in the back row, copy the text of the card in front of it."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/15/Frigga_09.webp/revision/latest/scale-to-width-down/200?cb=20250309220152",
+                    "name": "",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f0/SilverSable_06.webp/revision/latest/scale-to-width-down/200?cb=20250309220423",
+                    "name": "",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent's deck."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7f/Prodigy_02.webp/revision/latest/scale-to-width-down/200?cb=20250309224637",
+                    "description": "On Reveal: If this is in the back row, copy the text of the card in front of it."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/15/Frigga_09.webp/revision/latest/scale-to-width-down/200?cb=20250309220152",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f0/SilverSable_06.webp/revision/latest/scale-to-width-down/200?cb=20250309220423",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent's deck."
+                }
+            ]
+        },
+        {
+            "date": "20th May - 27th May",
+            "cards": [
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/47/Elixir_02.webp/revision/latest/scale-to-width-down/200?cb=20250309225332",
+                    "name": "",
+                    "description": "Activate: The next time one of your cards is destroyed this turn, revive it here."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/81/Arishem_05.webp/revision/latest/scale-to-width-down/200?cb=20250309232817",
+                    "name": ""
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/1c/Malekith_06.webp/revision/latest/scale-to-width-down/200?cb=20250309220809",
+                    "name": "",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal it until the game ends."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/47/Elixir_02.webp/revision/latest/scale-to-width-down/200?cb=20250309225332",
+                    "description": "Activate: The next time one of your cards is destroyed this turn, revive it here."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/81/Arishem_05.webp/revision/latest/scale-to-width-down/200?cb=20250309232817"
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/1c/Malekith_06.webp/revision/latest/scale-to-width-down/200?cb=20250309220809",
+                    "description": "On Reveal: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal it until the game ends."
+                }
+            ]
+        },
+        {
+            "date": "27th May - 3rd June",
+            "cards": [
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/b1/Xorn_02.webp/revision/latest/scale-to-width-down/200?cb=20250309225909",
+                    "name": "",
+                    "description": "After ANY 3 or 4-Cost card is played here, move it to another location.."
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f8/Scream_10.webp/revision/latest/scale-to-width-down/200?cb=20250309221159",
+                    "name": "",
+                    "description": "When an enemy card moves, steal 2 Power from it. (once per turn)"
+                },
+                {
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c6/Ajax_06.webp/revision/latest/scale-to-width-down/200?cb=20250309221403",
+                    "name": "",
+                    "description": "Ongoing: +1 Power for each card in play afflicted with negative Power."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/b1/Xorn_02.webp/revision/latest/scale-to-width-down/200?cb=20250309225909",
+                    "description": "After ANY 3 or 4-Cost card is played here, move it to another location.."
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f8/Scream_10.webp/revision/latest/scale-to-width-down/200?cb=20250309221159",
+                    "description": "When an enemy card moves, steal 2 Power from it. (once per turn)"
+                },
+                {
+                    "name": "",
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/c/c6/Ajax_06.webp/revision/latest/scale-to-width-down/200?cb=20250309221403",
+                    "description": "Ongoing: +1 Power for each card in play afflicted with negative Power."
                 }
             ]
         }
