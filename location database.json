@@ -1,42 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (4th Mar - 11th Mar 2025)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/Eson_03.webp/revision/latest/scale-to-width-down/200?cb=20250201145717",
-                    "name": "",
-                    "description": "End of Turn: Put a created card from your hand here."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/BetaRayBill_09.webp/revision/latest/scale-to-width-down/200?cb=20250129163239",
-                    "name": "",
-                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/23/Wiccan_05.webp/revision/latest/scale-to-width-down/200?cb=20250129162144",
-                    "name": "",
-                    "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bf/Eson_03.webp/revision/latest/scale-to-width-down/200?cb=20250201145717",
-                    "description": "End of Turn: Put a created card from your hand here."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/36/BetaRayBill_09.webp/revision/latest/scale-to-width-down/200?cb=20250129163239",
-                    "description": "On Reveal: Shuffle Stormbreaker into your deck."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/23/Wiccan_05.webp/revision/latest/scale-to-width-down/200?cb=20250129162144",
-                    "description": "On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy."
-                }
-            ]
-        },
-        {
-            "date": "11th Mar - 18th Mar",
+            "date": " (11th Mar - 18th Mar 2025)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/3/30/Starbrand_02.webp/revision/latest/scale-to-width-down/200?cb=20250201145417",
