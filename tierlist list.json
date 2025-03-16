@@ -1,45 +1,49 @@
 {
-    "date": "March 15, 2025",
+    "date": "March 16, 2025",
     "Tiers": [
         {
-            "tier": "Trending",
-            "name": "Anti-Arishem Ronan Darkhawk"
-        },
-        {
-            "tier": "Trending",
-            "name": "On Reveal Iron Hand (Agamotto)"
+            "tier": "Tier 1",
+            "name": "Good Cards Control"
         },
         {
             "tier": "Tier 1",
-            "name": "Hela Discard"
+            "name": "Bullseye Discard"
         },
         {
             "tier": "Tier 1",
-            "name": "Ongoing Combo"
+            "name": "Silver Surfer"
         },
         {
             "tier": "Tier 1",
             "name": "Arishem"
         },
         {
-            "tier": "Tier 2",
-            "name": "KaZoo"
+            "tier": "Tier 1",
+            "name": "Thanos Good Cards"
         },
         {
             "tier": "Tier 2",
-            "name": "Bullseye Discard"
+            "name": "Iron Hand"
         },
         {
             "tier": "Tier 2",
-            "name": "Mister Negative"
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "High Evolutionary"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Clog"
         },
         {
             "tier": "Tier 3",
-            "name": "Good Cards Control (Agamotto)"
+            "name": "Ongoing Combo"
         },
         {
             "tier": "Tier 3",
-            "name": "Scream Move (Agamotto)"
+            "name": "Hela"
         }
     ]
 }
