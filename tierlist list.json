@@ -1,3 +1,53 @@
 {
-    "date": "March 27, 2025"
+    "date": "March 27, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Miracle Control"
+        },
+        {
+            "tier": "Trending",
+            "name": "Pure Control"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Control"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Thanos Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Ongoing Doom"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bullseye"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mill"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Move"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Small Good Cards"
+        }
+    ]
 }
