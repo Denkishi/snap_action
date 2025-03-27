@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "March 27th - Balance Updates",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_03_27_03_13_56/803152538992_s34706.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7475614390918585094",
+            "date": "03/27/2025",
+            "label": "NEWS"
+        },
+        {
             "name": "March 13th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_03_12_04_00_07/1055651791946_s34706.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7475462013334952709",
@@ -17,7 +24,6 @@
         {
             "name": "Patch Notes - March 4, 2025",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_03_04_09_20_34/633502941972_s34706.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7473801480722570039",
             "date": "03/04/2025",
             "label": "NEWS"
         },
@@ -31,7 +37,6 @@
         {
             "name": "New Limited Time Game Mode: Sanctum Showdown!",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_02_25_21_24_27/155646805285_s1895207.png",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7473801480722471735",
             "date": "02/25/2025",
             "label": "NEWS"
         },
@@ -52,20 +57,14 @@
         {
             "name": "January 30th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_23_09_38_51/1086929501454_s82394.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7463042844802947846",
             "date": "01/23/2025",
             "label": "NEWS"
         },
         {
             "name": "January 16th - Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_16_10_05_24/1392546210167_s82394.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7424058144113908486",
             "date": "01/16/2025",
-            "label": "NEWS"
-        },
-        {
-            "name": "Join the Dark Avengers - Global Bounty!",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_01_14_19_14_53/1440284065606_s587217.jpg",
-            "date": "01/14/2025",
             "label": "NEWS"
         }
     ]
