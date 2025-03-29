@@ -3,11 +3,15 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Miracle Control"
+            "name": "Arishem Thanos"
         },
         {
             "tier": "Trending",
-            "name": "Pure Control"
+            "name": "Double Up"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Agamotto"
         },
         {
             "tier": "Tier 1",
@@ -15,39 +19,23 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Control"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Thanos Good Cards"
+            "name": "Sauron 10 Power"
         },
         {
             "tier": "Tier 2",
-            "name": "Ongoing Doom"
+            "name": "Discard Dracula"
         },
         {
             "tier": "Tier 2",
-            "name": "Mister Negative"
+            "name": "Destroy"
         },
         {
             "tier": "Tier 2",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Bullseye"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Mill"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Silver Surfer"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Move"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Small Good Cards"
         }
     ]
 }
