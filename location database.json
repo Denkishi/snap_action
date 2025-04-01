@@ -1,42 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (25th Mar - 1st Apr 2025)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/4f/Khonshu_09.webp/revision/latest/scale-to-width-down/200?cb=20250201145639",
-                    "name": "",
-                    "description": "When discarded, returns in its next phase. On Reveal: Resurrect a card you discarded to another location with its Power set to 5."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/73/Scorn_09.webp/revision/latest/scale-to-width-down/200?cb=20250202131440",
-                    "name": "",
-                    "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7e/CorvusGlaive_09.webp/revision/latest/scale-to-width-down/200?cb=20250212003915",
-                    "name": "",
-                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/4/4f/Khonshu_09.webp/revision/latest/scale-to-width-down/200?cb=20250201145639",
-                    "description": "When discarded, returns in its next phase. On Reveal: Resurrect a card you discarded to another location with its Power set to 5."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/73/Scorn_09.webp/revision/latest/scale-to-width-down/200?cb=20250202131440",
-                    "description": "When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7e/CorvusGlaive_09.webp/revision/latest/scale-to-width-down/200?cb=20250212003915",
-                    "description": "On Reveal: Discard 2 cards from your hand to get +1 Max Energy."
-                }
-            ]
-        },
-        {
-            "date": "1st Apr - 8th Apr",
+            "date": " (1st Apr - 8th Apr 2025)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/78/Goliath_05.webp/revision/latest/scale-to-width-down/200?cb=20250217133512",
