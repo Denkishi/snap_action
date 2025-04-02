@@ -51,7 +51,7 @@
             "ability": "Game Start: Shuffle 4 Ancient Arcana into your deck.",
             "cost": "5",
             "power": "10",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "609"
         },
         {
@@ -510,7 +510,7 @@
             "ability": "Ongoing: Add this card's Power to your back-row cards here. (can't add to itself)",
             "cost": "4",
             "power": "3",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "622"
         },
         {
@@ -1239,7 +1239,7 @@
             "ability": "Ongoing: +1 Power for each other Ongoing card you have in play.",
             "cost": "2",
             "power": "1",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "624"
         },
         {
