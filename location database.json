@@ -220,15 +220,18 @@
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/1/15/Frigga_09.webp/revision/latest/scale-to-width-down/200?cb=20250309220152",
-                    "name": ""
+                    "name": "",
+                    "description": "On Reveal: Add a copy of the last card you played to your hand. (if able)"
                 },
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/f/f0/SilverSable_06.webp/revision/latest/scale-to-width-down/200?cb=20250309220423",
-                    "name": ""
+                    "name": "",
+                    "description": "On Reveal: Steal 2 Power from the top card of your opponent's deck."
                 },
                 {
                     "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7f/Prodigy_02.webp/revision/latest/scale-to-width-down/200?cb=20250309224637"
+                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/7/7f/Prodigy_02.webp/revision/latest/scale-to-width-down/200?cb=20250309224637",
+                    "description": "On Reveal: If this is in the back row, copy the text of the card in front of it."
                 },
                 {
                     "name": "",
