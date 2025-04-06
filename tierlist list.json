@@ -1,3 +1,49 @@
 {
-    "date": "April 6, 2025"
+    "date": "April 6, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Silver Surfer"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Bullseye"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Small Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Sauron 10 power"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Ongoing Combo"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Control"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Thanos"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula"
+        }
+    ]
 }
