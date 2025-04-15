@@ -1,42 +1,7 @@
 {
     "spotlight": [
         {
-            "date": " (8th Apr - 15th Apr 2025)",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e5/Kahhori_03.webp/revision/latest/scale-to-width-down/200?cb=20250217134343",
-                    "name": "",
-                    "description": "On Reveal: Each card in your hand gives one of your cards in play +1 Power."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/HydraBob_07.webp/revision/latest/scale-to-width-down/200?cb=20250212012004",
-                    "name": "",
-                    "description": "After each turn, this moves if a player Snapped."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/ed/CullObsidian_09.webp/revision/latest/scale-to-width-down/200?cb=20250212005404",
-                    "name": "",
-                    "description": "You can only play this where you have a 1-Cost card."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/e5/Kahhori_03.webp/revision/latest/scale-to-width-down/200?cb=20250217134343",
-                    "description": "On Reveal: Each card in your hand gives one of your cards in play +1 Power."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/HydraBob_07.webp/revision/latest/scale-to-width-down/200?cb=20250212012004",
-                    "description": "After each turn, this moves if a player Snapped."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/e/ed/CullObsidian_09.webp/revision/latest/scale-to-width-down/200?cb=20250212005404",
-                    "description": "You can only play this where you have a 1-Cost card."
-                }
-            ]
-        },
-        {
-            "date": "15th Apr - 22nd Apr",
+            "date": " (15th Apr - 22nd Apr 2025)",
             "cards": [
                 {
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d9/InfinityUltron_02.webp/revision/latest/scale-to-width-down/200?cb=20250217215438",
@@ -102,41 +67,6 @@
                     "name": "",
                     "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/67/USAgent_08.webp/revision/latest/scale-to-width-down/200?cb=20250309212013",
                     "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
-                }
-            ]
-        },
-        {
-            "date": "29th Apr - 6th May",
-            "cards": [
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bc/HydraStomper_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221617",
-                    "name": "",
-                    "description": "Ongoing: +1 Power for each card you moved this game."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/Arana_11.webp/revision/latest/scale-to-width-down/200?cb=20250309212753",
-                    "name": "",
-                    "description": "Activate: Give the last card you played +1 Power and move it to the right."
-                },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/20/MadameWeb_03.webp/revision/latest/scale-to-width-down/200?cb=20250224172731",
-                    "name": "",
-                    "description": "Ongoing: You can move one of your other cards away from here each turn."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/b/bc/HydraStomper_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221617",
-                    "description": "Ongoing: +1 Power for each card you moved this game."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/93/Arana_11.webp/revision/latest/scale-to-width-down/200?cb=20250309212753",
-                    "description": "Activate: Give the last card you played +1 Power and move it to the right."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/2/20/MadameWeb_03.webp/revision/latest/scale-to-width-down/200?cb=20250224172731",
-                    "description": "Ongoing: You can move one of your other cards away from here each turn."
                 }
             ]
         }
