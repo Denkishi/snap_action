@@ -285,7 +285,7 @@
             "ability": "When a card moves, follow it to gain +2 Power. (once per turn)",
             "cost": "1",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "601"
         },
         {
@@ -1176,7 +1176,7 @@
             "ability": "Activate: Move your other cards here to the right.",
             "cost": "4",
             "power": "7",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "655"
         },
         {
@@ -1653,7 +1653,7 @@
             "ability": "Ongoing: +1 Power for each time one of your cards moved this game.",
             "cost": "3",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "625"
         },
         {
@@ -3894,7 +3894,7 @@
             "ability": "After you play a card here, move it to the middle location.",
             "cost": "3",
             "power": "4",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "629"
         },
         {
