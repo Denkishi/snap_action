@@ -510,7 +510,7 @@
             "ability": "Ongoing: Add this card's Power to your back-row cards here. (can't add to itself)",
             "cost": "3",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "622"
         },
         {
@@ -1086,7 +1086,7 @@
             "ability": "On Reveal: Copy a card from your deck into your hand. Set its Cost to 3 and Power to 4.",
             "cost": "3",
             "power": "4",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "654"
         },
         {
@@ -3651,7 +3651,7 @@
             "ability": "On Reveal: Give the top card of your deck -1 Cost and +1 Power. After you play it, repeat this ability.",
             "cost": "2",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "660"
         },
         {
