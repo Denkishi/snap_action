@@ -389,7 +389,6 @@
         },
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blob.webp?v=415",
-            "name": "Blob",
             "ability": "On Reveal: Merge cards from your deck into this until it gains 13 or more Power.",
             "cost": "6",
             "power": "0",
@@ -399,7 +398,6 @@
         {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=415",
             "name": "Blue Marvel",
-            "ability": "Ongoing: Your other cards have +1 Power.",
             "cost": "5",
             "power": "3",
             "pool": "Recruit Season",
