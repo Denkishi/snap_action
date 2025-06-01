@@ -3,51 +3,47 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Toxic Wiccan"
+            "name": "Good Cards Lockdown"
+        },
+        {
+            "tier": "Trending",
+            "name": "Cerebro 2"
         },
         {
             "tier": "Tier 1",
-            "name": "Disruptive Surfer"
+            "name": "Scream Move"
         },
         {
             "tier": "Tier 1",
-            "name": "Negative Destroy"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Zabu"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Thanos Ongoing"
+            "name": "LockMove"
         },
         {
             "tier": "Tier 2",
-            "name": "Thanos Control"
+            "name": "Arishem Thanos"
         },
         {
             "tier": "Tier 2",
-            "name": "Small Darkhawk Good Cards"
+            "name": "Sauron 10 Power"
         },
         {
             "tier": "Tier 2",
-            "name": "Move"
+            "name": "Bounce Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Scream Move"
+            "name": "Small Ongoing Good Cards"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos Control"
         },
         {
             "tier": "Tier 3",
             "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Sera Miracle"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Clog"
         }
     ]
 }
