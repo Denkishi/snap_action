@@ -1104,7 +1104,7 @@
             "ability": "On Reveal: Copy a card from your deck into your hand. Set its Cost to 3 and Power to 4.",
             "cost": "3",
             "power": "4",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "654"
         },
         {
@@ -1581,7 +1581,7 @@
             "ability": "On Reveal: Next turn, you can move cards to this location.",
             "cost": "5",
             "power": "8",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "656"
         },
         {
@@ -1851,7 +1851,7 @@
             "ability": "Activate: Next turn, you get +1 Energy.",
             "cost": "2",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "668"
         },
         {
@@ -2310,7 +2310,7 @@
             "ability": "You can move this once. Ongoing: Enemy cards here can't move.",
             "cost": "2",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "658"
         },
         {
@@ -2319,7 +2319,7 @@
             "ability": "At the start of each turn, add an Incantation to your hand.",
             "cost": "2",
             "power": "3",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "669"
         },
         {
@@ -2508,7 +2508,7 @@
             "ability": "On Reveal: Return all your discarded and destroyed cards to hand with +3 Power.",
             "cost": "4",
             "power": "7",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "670"
         },
         {
@@ -2616,7 +2616,7 @@
             "ability": "After you play a skill, +1 Power.",
             "cost": "1",
             "power": "2",
-            "pool": "None",
+            "pool": "Series 4",
             "card_id": "671"
         },
         {
