@@ -1,6 +1,13 @@
 {
     "titles": [
         {
+            "name": "Patch Notes - June 10, 2025",
+            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_06_10_14_19_49/410932934216_s34706.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7477950516333452037",
+            "date": "06/10/2025",
+            "label": "NEWS"
+        },
+        {
             "name": "Patch Notes - June 3, 2025",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_05_30_03_45_49/321864317151_s34706.jpg",
             "page": "https://www.marvelsnap.com/newsdetail?id=7477880898189286150",
@@ -10,7 +17,6 @@
         {
             "name": "New Season: Masters of the Arcane",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_05_30_03_25_40/288801222791_s644764.png",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7477880898189269766",
             "date": "06/02/2025",
             "label": "NEWS"
         },
@@ -24,6 +30,7 @@
         {
             "name": "April 10th -Balance Updates",
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_04_10_09_06_57/1708699536867_s34706.jpg",
+            "page": "https://www.marvelsnap.com/newsdetail?id=7475976241850374917",
             "date": "04/10/2025",
             "label": "NEWS"
         },
@@ -60,13 +67,6 @@
             "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_02_25_21_24_27/155646805285_s1895207.png",
             "page": "https://www.marvelsnap.com/newsdetail?id=7473801480722471735",
             "date": "02/25/2025",
-            "label": "NEWS"
-        },
-        {
-            "name": "February 13th - Balance Updates",
-            "image": "https://lf19-fe-tos.bytedgame.com/obj/g-marketing-assets-va/2025_02_12_10_17_35/1511718927825_s34706.jpg",
-            "page": "https://www.marvelsnap.com/newsdetail?id=7463042844807191302",
-            "date": "02/12/2025",
             "label": "NEWS"
         }
     ]
