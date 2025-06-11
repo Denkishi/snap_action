@@ -1,3 +1,61 @@
 {
-    "date": "June 11, 2025"
+    "date": "June 11, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Discard Surfer"
+        },
+        {
+            "tier": "Trending",
+            "name": "Big Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Arishem Thanos"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Negative Destroy"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Small Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Sauron 10 Power"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Merlin"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bullseye Discard"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Proactive Clog"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Mill"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Scream"
+        }
+    ]
 }
