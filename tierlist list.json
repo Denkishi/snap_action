@@ -3,35 +3,23 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Discard Surfer"
+            "name": "Bounce"
         },
         {
             "tier": "Trending",
-            "name": "Big Move"
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Trending",
+            "name": "Cerebro 2"
         },
         {
             "tier": "Tier 1",
-            "name": "Arishem Thanos"
+            "name": "Good Cards Zabu"
         },
         {
             "tier": "Tier 1",
-            "name": "Negative Destroy"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Discard Dracula"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Small Good Cards"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Sauron 10 Power"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Merlin"
+            "name": "Arishem"
         },
         {
             "tier": "Tier 2",
@@ -39,23 +27,39 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Proactive Clog"
+            "name": "Good Cards Clog"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos 10 Power"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Wiccan Control"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Miracle"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Small Good Cards"
         },
         {
             "tier": "Tier 3",
-            "name": "Destroy"
+            "name": "Pure Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Toxic"
+            "name": "Cerebro 3"
         },
         {
             "tier": "Tier 3",
             "name": "Mill"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Scream"
         }
     ]
 }
