@@ -1,74 +1,41 @@
 {
     "spotlight": [
         {
-            "date": " (15th Apr - 22nd Apr 2025)",
+            "date": "Jun 17-Jun 24 (\n21h 30m\nleft)",
             "cards": [
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d9/InfinityUltron_02.webp/revision/latest/scale-to-width-down/200?cb=20250217215438",
-                    "name": "",
-                    "description": "On Reveal: Add 2 of Ultron's Stones to your hand."
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightmare.webp?v=454",
+                    "description": "On Reveal: Replace the text of each card in your hand with text from a random card of the same Cost.",
+                    "name": "Nightmare"
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d0/Cannonball_10.webp/revision/latest/scale-to-width-down/200?cb=20250224033507",
-                    "name": "",
-                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-venom.webp?v=454",
+                    "description": "On Reveal: Set the Cost and Power of your deck’s top card to 0.",
+                    "name": "Anti-Venom"
                 },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9c/Pixie_10.webp/revision/latest/scale-to-width-down/200?cb=20250224172805",
-                    "name": "",
-                    "description": "On Reveal: Shuffle the base Costs of all cards in your deck that started there."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d9/InfinityUltron_02.webp/revision/latest/scale-to-width-down/200?cb=20250217215438",
-                    "description": "On Reveal: Add 2 of Ultron's Stones to your hand."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/d/d0/Cannonball_10.webp/revision/latest/scale-to-width-down/200?cb=20250224033507",
-                    "description": "On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/9/9c/Pixie_10.webp/revision/latest/scale-to-width-down/200?cb=20250224172805",
-                    "description": "On Reveal: Shuffle the base Costs of all cards in your deck that started there."
-                }
+                {},
+                {}
             ]
         },
         {
-            "date": "22nd Apr - 29th Apr",
+            "date": "Jun 24-Jul 01 (In\n21h 30m\n)",
             "cards": [
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/66/StrangeSupreme_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221320",
-                    "name": "",
-                    "description": "Gains +2 Power from merging. End of Turn: Merge one of your created cards into this."
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=454",
+                    "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)",
+                    "name": "Clea"
                 },
                 {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/86/Speed_06.webp/revision/latest/scale-to-width-down/200?cb=20250309212933",
-                    "name": "",
-                    "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/peni-parker.webp?v=454",
+                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn.",
+                    "name": "Peni Parker"
                 },
-                {
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/67/USAgent_08.webp/revision/latest/scale-to-width-down/200?cb=20250309212013",
-                    "name": "",
-                    "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/66/StrangeSupreme_03.webp/revision/latest/scale-to-width-down/200?cb=20250217221320",
-                    "description": "Gains +2 Power from merging. End of Turn: Merge one of your created cards into this."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/8/86/Speed_06.webp/revision/latest/scale-to-width-down/200?cb=20250309212933",
-                    "description": "Ongoing: +1 Power for each turn in which you spent all your Energy."
-                },
-                {
-                    "name": "",
-                    "image": "https://static.wikia.nocookie.net/marvelsnap/images/6/67/USAgent_08.webp/revision/latest/scale-to-width-down/200?cb=20250309212013",
-                    "description": "Ongoing: 4, 5, and 6-Cost cards here have -3 Power."
-                }
+                {},
+                {}
             ]
+        },
+        {
+            "date": "Jul 01-Jul 08 (In\n7d 21h\n)"
         }
     ]
 }
