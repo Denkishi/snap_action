@@ -1,11 +1,15 @@
 {
     "spotlight": [
         {
-            "date": "Jun 17-Jun 24 (\n9h 26m\nleft)",
+            "date": "Jun 17-Jun 24 (\n7h 34m\nleft)",
             "cards": [
-                {},
                 {
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-venom.webp?v=454",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightmare.webp?v=455",
+                    "description": "On Reveal: Replace the text of each card in your hand with text from a random card of the same Cost.",
+                    "name": "Nightmare"
+                },
+                {
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-venom.webp?v=455",
                     "description": "On Reveal: Set the Cost and Power of your deck’s top card to 0.",
                     "name": "Anti-Venom"
                 },
@@ -14,10 +18,10 @@
             ]
         },
         {
-            "date": "Jun 24-Jul 01 (In\n9h 26m\n)",
+            "date": "Jun 24-Jul 01 (In\n7h 34m\n)",
             "cards": [
                 {
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=454",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=455",
                     "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)",
                     "name": "Clea"
                 },
@@ -31,7 +35,7 @@
             ]
         },
         {
-            "date": "Jul 01-Jul 08 (In\n7d 9h\n)"
+            "date": "Jul 01-Jul 08 (In\n7d 7h\n)"
         }
     ]
 }
