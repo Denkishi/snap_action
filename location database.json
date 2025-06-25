@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n6d 19h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n6d 15h\nleft)",
             "cards": [
                 {
                     "name": "Clea",
@@ -33,30 +33,23 @@
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n6d 19h\n)",
+            "date": "Jul 01 — Jul 08 (In\n6d 15h\n)",
             "cards": [
                 {
-                    "name": "Dormammu",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=457",
-                    "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
+                    "name": "Dormammu"
                 },
                 {
-                    "name": "Fenris Wolf",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fenris-wolf.webp?v=457",
-                    "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
+                    "name": "Fenris Wolf"
                 },
                 {
-                    "name": "Toxin",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxin.webp?v=457",
-                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
+                    "name": "Toxin"
                 },
                 {
                     "name": "Dormammu\nWinking Studios Variant (03)",
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/666_03.webp?v=457"
                 },
                 {
-                    "name": "Fenris Wolf\nEnvar Studio Variant (07)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/577_07.webp?v=457"
+                    "name": "Fenris Wolf\nEnvar Studio Variant (07)"
                 },
                 {
                     "name": "Toxin\nIban Coello Variant (02)",
