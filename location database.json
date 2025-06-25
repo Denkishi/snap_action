@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n6d 12h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n6d 11h\nleft)",
             "cards": [
                 {
-                    "name": "Clea"
+                    "name": "Clea",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=457",
+                    "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)"
                 },
                 {
                     "name": "Peni Parker",
@@ -17,20 +19,20 @@
                     "description": "Activate: Add an exact clone of this to another location."
                 },
                 {
-                    "name": "Clea\nWinking Studios Variant (03)"
+                    "name": "Clea\nWinking Studios Variant (03)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=457"
                 },
                 {
                     "name": "Peni Parker\nNikola Čižmešija Variant (07)",
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/596_07.webp?v=457"
                 },
                 {
-                    "name": "Scarlet Spider\nEnvar Studio Variant (09)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/562_09.webp?v=457"
+                    "name": "Scarlet Spider\nEnvar Studio Variant (09)"
                 }
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n6d 12h\n)",
+            "date": "Jul 01 — Jul 08 (In\n6d 11h\n)",
             "cards": [
                 {
                     "name": "Dormammu",
