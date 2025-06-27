@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n4d 21h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n4d 19h\nleft)",
             "cards": [
                 {
                     "name": "Clea",
@@ -19,11 +19,11 @@
                     "description": "Activate: Add an exact clone of this to another location."
                 },
                 {
-                    "name": "Clea\nWinking Studios Variant (03)"
+                    "name": "Clea\nWinking Studios Variant (03)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=467"
                 },
                 {
-                    "name": "Peni Parker\nNikola Čižmešija Variant (07)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/596_07.webp?v=467"
+                    "name": "Peni Parker\nNikola Čižmešija Variant (07)"
                 },
                 {
                     "name": "Scarlet Spider\nEnvar Studio Variant (09)",
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n4d 21h\n)",
+            "date": "Jul 01 — Jul 08 (In\n4d 19h\n)",
             "cards": [
                 {
                     "name": "Dormammu",
