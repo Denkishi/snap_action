@@ -1,12 +1,10 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n3d 21h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n3d 20h\nleft)",
             "cards": [
                 {
-                    "name": "Clea",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=469",
-                    "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)"
+                    "name": "Clea"
                 },
                 {
                     "name": "Peni Parker",
@@ -17,20 +15,19 @@
                     "name": "Scarlet Spider"
                 },
                 {
-                    "name": "Clea\nWinking Studios Variant (03)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=469"
+                    "name": "Clea\nWinking Studios Variant (03)"
                 },
                 {
-                    "name": "Peni Parker\nNikola Čižmešija Variant (07)"
+                    "name": "Peni Parker\nNikola Čižmešija Variant (07)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/596_07.webp?v=469"
                 },
                 {
-                    "name": "Scarlet Spider\nEnvar Studio Variant (09)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/562_09.webp?v=469"
+                    "name": "Scarlet Spider\nEnvar Studio Variant (09)"
                 }
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n3d 21h\n)",
+            "date": "Jul 01 — Jul 08 (In\n3d 20h\n)",
             "cards": [
                 {
                     "name": "Dormammu",
@@ -38,24 +35,21 @@
                     "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
                 },
                 {
-                    "name": "Fenris Wolf"
+                    "name": "Fenris Wolf",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fenris-wolf.webp?v=469",
+                    "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
                 },
                 {
-                    "name": "Toxin",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxin.webp?v=469",
-                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
+                    "name": "Toxin"
                 },
                 {
-                    "name": "Dormammu\nWinking Studios Variant (03)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/666_03.webp?v=469"
+                    "name": "Dormammu\nWinking Studios Variant (03)"
                 },
                 {
-                    "name": "Fenris Wolf\nEnvar Studio Variant (07)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/577_07.webp?v=469"
+                    "name": "Fenris Wolf\nEnvar Studio Variant (07)"
                 },
                 {
-                    "name": "Toxin\nIban Coello Variant (02)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/571_02.webp?v=469"
+                    "name": "Toxin\nIban Coello Variant (02)"
                 }
             ]
         }
