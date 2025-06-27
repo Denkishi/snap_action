@@ -1,12 +1,10 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n4d 19h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n4d 15h\nleft)",
             "cards": [
                 {
-                    "name": "Clea",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=467",
-                    "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)"
+                    "name": "Clea"
                 },
                 {
                     "name": "Peni Parker",
@@ -14,30 +12,24 @@
                     "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
                 },
                 {
-                    "name": "Scarlet Spider",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-spider.webp?v=467",
-                    "description": "Activate: Add an exact clone of this to another location."
+                    "name": "Scarlet Spider"
                 },
                 {
-                    "name": "Clea\nWinking Studios Variant (03)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=467"
+                    "name": "Clea\nWinking Studios Variant (03)"
                 },
                 {
                     "name": "Peni Parker\nNikola Čižmešija Variant (07)"
                 },
                 {
-                    "name": "Scarlet Spider\nEnvar Studio Variant (09)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/562_09.webp?v=467"
+                    "name": "Scarlet Spider\nEnvar Studio Variant (09)"
                 }
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n4d 19h\n)",
+            "date": "Jul 01 — Jul 08 (In\n4d 15h\n)",
             "cards": [
                 {
-                    "name": "Dormammu",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=467",
-                    "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
+                    "name": "Dormammu"
                 },
                 {
                     "name": "Fenris Wolf",
@@ -50,12 +42,10 @@
                     "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
                 },
                 {
-                    "name": "Dormammu\nWinking Studios Variant (03)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/666_03.webp?v=467"
+                    "name": "Dormammu\nWinking Studios Variant (03)"
                 },
                 {
-                    "name": "Fenris Wolf\nEnvar Studio Variant (07)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/577_07.webp?v=467"
+                    "name": "Fenris Wolf\nEnvar Studio Variant (07)"
                 },
                 {
                     "name": "Toxin\nIban Coello Variant (02)",
