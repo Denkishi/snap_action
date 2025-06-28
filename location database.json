@@ -1,15 +1,13 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n3d 12h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n3d 9h\nleft)",
             "cards": [
                 {
                     "name": "Clea"
                 },
                 {
-                    "name": "Peni Parker",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/peni-parker.webp?v=469",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+                    "name": "Peni Parker"
                 },
                 {
                     "name": "Scarlet Spider",
@@ -21,7 +19,8 @@
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=469"
                 },
                 {
-                    "name": "Peni Parker\nNikola Čižmešija Variant (07)"
+                    "name": "Peni Parker\nNikola Čižmešija Variant (07)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/596_07.webp?v=469"
                 },
                 {
                     "name": "Scarlet Spider\nEnvar Studio Variant (09)",
@@ -30,12 +29,10 @@
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n3d 12h\n)",
+            "date": "Jul 01 — Jul 08 (In\n3d 9h\n)",
             "cards": [
                 {
-                    "name": "Dormammu",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=469",
-                    "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
+                    "name": "Dormammu"
                 },
                 {
                     "name": "Fenris Wolf",
