@@ -1,3 +1,57 @@
 {
-    "date": "June 28, 2025"
+    "date": "June 28, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Energized Lockdown"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "On Reveal Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Move Bounce"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Wiccan Control"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Good Cards Clog"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Nimrod Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Disruption Surfer"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Thanos 10 Power"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bullseye Discard"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Nightmare Sauron"
+        }
+    ]
 }
