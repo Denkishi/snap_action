@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n23h 36m\nleft)",
+            "date": "Jun 24 — Jul 01 (\n22h 29m\nleft)",
             "cards": [
                 {
-                    "name": "Clea"
+                    "name": "Clea",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=472",
+                    "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)"
                 },
                 {
                     "name": "Peni Parker",
@@ -31,7 +33,7 @@
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n23h 36m\n)",
+            "date": "Jul 01 — Jul 08 (In\n22h 29m\n)",
             "cards": [
                 {
                     "name": "Dormammu",
