@@ -1,13 +1,15 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n1d 0h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n23h 36m\nleft)",
             "cards": [
                 {
                     "name": "Clea"
                 },
                 {
-                    "name": "Peni Parker"
+                    "name": "Peni Parker",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/peni-parker.webp?v=472",
+                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
                 },
                 {
                     "name": "Scarlet Spider",
@@ -19,15 +21,17 @@
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=472"
                 },
                 {
-                    "name": "Peni Parker\nNikola Čižmešija Variant (07)"
+                    "name": "Peni Parker\nNikola Čižmešija Variant (07)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/596_07.webp?v=472"
                 },
                 {
-                    "name": "Scarlet Spider\nEnvar Studio Variant (09)"
+                    "name": "Scarlet Spider\nEnvar Studio Variant (09)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/562_09.webp?v=472"
                 }
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n1d 0h\n)",
+            "date": "Jul 01 — Jul 08 (In\n23h 36m\n)",
             "cards": [
                 {
                     "name": "Dormammu",
@@ -35,7 +39,9 @@
                     "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
                 },
                 {
-                    "name": "Fenris Wolf"
+                    "name": "Fenris Wolf",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fenris-wolf.webp?v=472",
+                    "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
                 },
                 {
                     "name": "Toxin",
