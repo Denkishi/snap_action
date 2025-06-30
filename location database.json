@@ -1,17 +1,13 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n1d 2h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n1d 0h\nleft)",
             "cards": [
                 {
-                    "name": "Clea",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=472",
-                    "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)"
+                    "name": "Clea"
                 },
                 {
-                    "name": "Peni Parker",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/peni-parker.webp?v=472",
-                    "description": "On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn."
+                    "name": "Peni Parker"
                 },
                 {
                     "name": "Scarlet Spider",
@@ -23,17 +19,15 @@
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=472"
                 },
                 {
-                    "name": "Peni Parker\nNikola Čižmešija Variant (07)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/596_07.webp?v=472"
+                    "name": "Peni Parker\nNikola Čižmešija Variant (07)"
                 },
                 {
-                    "name": "Scarlet Spider\nEnvar Studio Variant (09)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/562_09.webp?v=472"
+                    "name": "Scarlet Spider\nEnvar Studio Variant (09)"
                 }
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n1d 2h\n)",
+            "date": "Jul 01 — Jul 08 (In\n1d 0h\n)",
             "cards": [
                 {
                     "name": "Dormammu",
@@ -41,9 +35,7 @@
                     "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
                 },
                 {
-                    "name": "Fenris Wolf",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fenris-wolf.webp?v=472",
-                    "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
+                    "name": "Fenris Wolf"
                 },
                 {
                     "name": "Toxin",
