@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n1d 12h\nleft)",
+            "date": "Jun 24 — Jul 01 (\n1d 8h\nleft)",
             "cards": [
                 {
                     "name": "Clea",
@@ -23,7 +23,8 @@
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=471"
                 },
                 {
-                    "name": "Peni Parker\nNikola Čižmešija Variant (07)"
+                    "name": "Peni Parker\nNikola Čižmešija Variant (07)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/596_07.webp?v=471"
                 },
                 {
                     "name": "Scarlet Spider\nEnvar Studio Variant (09)",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n1d 12h\n)",
+            "date": "Jul 01 — Jul 08 (In\n1d 8h\n)",
             "cards": [
                 {
                     "name": "Dormammu",
@@ -45,7 +46,9 @@
                     "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
                 },
                 {
-                    "name": "Toxin"
+                    "name": "Toxin",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxin.webp?v=471",
+                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
                 },
                 {
                     "name": "Dormammu\nWinking Studios Variant (03)",
