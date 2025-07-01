@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "Jul 01 — Jul 08 (\n6d 22h\nleft)",
+            "date": "Jul 01 — Jul 08 (\n6d 21h\nleft)",
             "cards": [
                 {
                     "name": "Dormammu",
@@ -19,15 +19,15 @@
                     "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
                 },
                 {
-                    "name": "Dormammu\nWinking Studios Variant (03)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/666_03.webp?v=473"
+                    "name": "Dormammu\nWinking Studios Variant (03)"
                 },
                 {
                     "name": "Fenris Wolf\nEnvar Studio Variant (07)",
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/577_07.webp?v=473"
                 },
                 {
-                    "name": "Toxin\nIban Coello Variant (02)"
+                    "name": "Toxin\nIban Coello Variant (02)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/571_02.webp?v=473"
                 }
             ]
         }
