@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n21h 32m\nleft)",
+            "date": "Jun 24 — Jul 01 (\n19h 32m\nleft)",
             "cards": [
                 {
-                    "name": "Clea"
+                    "name": "Clea",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=472",
+                    "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)"
                 },
                 {
                     "name": "Peni Parker",
@@ -17,7 +19,8 @@
                     "description": "Activate: Add an exact clone of this to another location."
                 },
                 {
-                    "name": "Clea\nWinking Studios Variant (03)"
+                    "name": "Clea\nWinking Studios Variant (03)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=472"
                 },
                 {
                     "name": "Peni Parker\nNikola Čižmešija Variant (07)"
@@ -29,10 +32,12 @@
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n21h 32m\n)",
+            "date": "Jul 01 — Jul 08 (In\n19h 32m\n)",
             "cards": [
                 {
-                    "name": "Dormammu"
+                    "name": "Dormammu",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=472",
+                    "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
                 },
                 {
                     "name": "Fenris Wolf",
