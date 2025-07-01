@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Jun 24 — Jul 01 (\n14h 13m\nleft)",
+            "date": "Jun 24 — Jul 01 (\n10h 20m\nleft)",
             "cards": [
                 {
-                    "name": "Clea"
+                    "name": "Clea",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=472",
+                    "description": "When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)"
                 },
                 {
                     "name": "Peni Parker",
@@ -21,15 +23,17 @@
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/665_03.webp?v=472"
                 },
                 {
-                    "name": "Peni Parker\nNikola Čižmešija Variant (07)"
+                    "name": "Peni Parker\nNikola Čižmešija Variant (07)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/596_07.webp?v=472"
                 },
                 {
-                    "name": "Scarlet Spider\nEnvar Studio Variant (09)"
+                    "name": "Scarlet Spider\nEnvar Studio Variant (09)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/562_09.webp?v=472"
                 }
             ]
         },
         {
-            "date": "Jul 01 — Jul 08 (In\n14h 13m\n)",
+            "date": "Jul 01 — Jul 08 (In\n10h 20m\n)",
             "cards": [
                 {
                     "name": "Dormammu",
@@ -37,7 +41,9 @@
                     "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
                 },
                 {
-                    "name": "Fenris Wolf"
+                    "name": "Fenris Wolf",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fenris-wolf.webp?v=472",
+                    "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
                 },
                 {
                     "name": "Toxin"
@@ -47,7 +53,8 @@
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/666_03.webp?v=472"
                 },
                 {
-                    "name": "Fenris Wolf\nEnvar Studio Variant (07)"
+                    "name": "Fenris Wolf\nEnvar Studio Variant (07)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/577_07.webp?v=472"
                 },
                 {
                     "name": "Toxin\nIban Coello Variant (02)"
