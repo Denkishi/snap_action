@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Jul 01 — Jul 08 (\n5d 19h\nleft)",
+            "date": "Jul 01 — Jul 08 (\n5d 15h\nleft)",
             "cards": [
                 {
-                    "name": "Dormammu"
+                    "name": "Dormammu",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=474",
+                    "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
                 },
                 {
                     "name": "Fenris Wolf",
@@ -24,8 +26,7 @@
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/577_07.webp?v=474"
                 },
                 {
-                    "name": "Toxin\nIban Coello Variant (02)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/571_02.webp?v=474"
+                    "name": "Toxin\nIban Coello Variant (02)"
                 }
             ]
         }
