@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Jul 01 — Jul 08 (\n2d 9h\nleft)",
+            "date": "Jul 01 — Jul 08 (\n2d 7h\nleft)",
             "cards": [
                 {
-                    "name": "Dormammu"
+                    "name": "Dormammu",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=479",
+                    "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
                 },
                 {
                     "name": "Fenris Wolf",
@@ -12,17 +14,21 @@
                     "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
                 },
                 {
-                    "name": "Toxin"
+                    "name": "Toxin",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxin.webp?v=479",
+                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
                 },
                 {
-                    "name": "Dormammu\nWinking Studios Variant (03)"
+                    "name": "Dormammu\nWinking Studios Variant (03)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/666_03.webp?v=479"
                 },
                 {
                     "name": "Fenris Wolf\nEnvar Studio Variant (07)",
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/577_07.webp?v=479"
                 },
                 {
-                    "name": "Toxin\nIban Coello Variant (02)"
+                    "name": "Toxin\nIban Coello Variant (02)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/571_02.webp?v=479"
                 }
             ]
         }
