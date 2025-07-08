@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Jul 01 — Jul 08 (\n21h 32m\nleft)",
+            "date": "Jul 01 — Jul 08 (\n16h 39m\nleft)",
             "cards": [
                 {
-                    "name": "Dormammu"
+                    "name": "Dormammu",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=483",
+                    "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
                 },
                 {
                     "name": "Fenris Wolf",
@@ -12,7 +14,9 @@
                     "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
                 },
                 {
-                    "name": "Toxin"
+                    "name": "Toxin",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxin.webp?v=483",
+                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
                 },
                 {
                     "name": "Dormammu\nWinking Studios Variant (03)",
