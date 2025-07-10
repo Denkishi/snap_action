@@ -235,6 +235,15 @@
             "card_id": "14"
         },
         {
+            "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/astral-projection.webp?v=487",
+            "name": "Astral Projection",
+            "ability": "On Reveal: Copy the text of an On Reveal card in your hand.",
+            "cost": "3",
+            "power": "0",
+            "pool": "Series 4",
+            "card_id": "664"
+        },
+        {
             "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/attuma.webp?v=487",
             "name": "Attuma",
             "ability": "End of Turn: Destroy one of your cards here with less Power.",
@@ -1194,7 +1203,7 @@
             "ability": "Activate: Give your End of Turn cards +2 Power.",
             "cost": "4",
             "power": "7",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "691"
         },
         {
@@ -1464,7 +1473,7 @@
             "ability": "Each turn this is in play, swap to a new Activate ability until one is used.",
             "cost": "2",
             "power": "3",
-            "pool": "None",
+            "pool": "Series 5",
             "card_id": "692"
         },
         {
@@ -2274,7 +2283,7 @@
             "ability": "At the start of each turn, add an Incantation to your hand.",
             "cost": "2",
             "power": "3",
-            "pool": "Season Pass",
+            "pool": "Series 5",
             "card_id": "669"
         },
         {
@@ -2337,7 +2346,7 @@
             "ability": "End of Turn: Give a card in your hand -1 Cost or +2 Power.",
             "cost": "2",
             "power": "2",
-            "pool": "None",
+            "pool": "Season Pass",
             "card_id": "697"
         },
         {
