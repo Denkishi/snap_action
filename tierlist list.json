@@ -1,3 +1,49 @@
 {
-    "date": "July 14, 2025"
+    "date": "July 14, 2025",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Bullseye Discard"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "End Turn High Evo"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Disruption Surfer"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Toxic"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Good Cards Buff"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Cerebro 2"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mister Negative"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Sauron 10 Power"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce Move"
+        }
+    ]
 }
