@@ -1,35 +1,44 @@
 {
     "spotlight": [
         {
-            "date": "Jul 01 — Jul 08 (\n18m\nleft)",
+            "date": "Aug 05 — Aug 12 (In\n19d 1h\n)",
             "cards": [
                 {
-                    "name": "Dormammu",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=486",
-                    "description": "Game Start: Begin a Summoning Ritual. (Add step 1 to hand.)"
+                    "name": "Red Shift"
                 },
                 {
-                    "name": "Fenris Wolf",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fenris-wolf.webp?v=486",
-                    "description": "Activate: Resurrect your opponent’s highest-Power discarded or destroyed card on your side of this location."
+                    "name": "Silver Surfer First Steps",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer-first-steps.webp?v=495",
+                    "description": "End of Turn: If you’re winning this location with an On Reveal card, copy its text."
                 },
                 {
-                    "name": "Toxin",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxin.webp?v=486",
-                    "description": "On Reveal: Return your other cards here to your hand. +2 Power for each returned."
+                    "name": "Stardust",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stardust.webp?v=495",
+                    "description": "Ongoing: Cards can’t be added to locations except by playing or moving them."
                 },
                 {
-                    "name": "Dormammu\nWinking Studios Variant (03)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/666_03.webp?v=486"
+                    "name": "Red Shift\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/725_04.webp?v=495"
                 },
                 {
-                    "name": "Fenris Wolf\nEnvar Studio Variant (07)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/577_07.webp?v=486"
+                    "name": "Silver Surfer First Steps\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/726_04.webp?v=494"
                 },
                 {
-                    "name": "Toxin\nIban Coello Variant (02)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/571_02.webp?v=486"
+                    "name": "Stardust\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/727_04.webp?v=495"
                 }
+            ]
+        },
+        {
+            "date": "Aug 26 — Sep 02 (In\n40d 1h\n)",
+            "cards": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
             ]
         }
     ]
