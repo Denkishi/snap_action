@@ -1,17 +1,19 @@
 {
     "spotlight": [
         {
-            "date": "Aug 05 — Aug 12 (In\n16d 7h\n)",
+            "date": "Aug 05 — Aug 12 (In\n16d 6h\n)",
             "cards": [
                 {
                     "name": "Red Shift"
                 },
                 {
-                    "name": "Silver Surfer First Steps"
+                    "name": "Silver Surfer First Steps",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer-first-steps.webp?v=501",
+                    "description": "End of Turn: If you’re winning this location with an On Reveal card, copy its text."
                 },
                 {
                     "name": "Stardust",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stardust.webp?v=500",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stardust.webp?v=501",
                     "description": "Ongoing: Cards can’t be added to locations except by playing or moving them."
                 },
                 {
@@ -20,7 +22,7 @@
                 },
                 {
                     "name": "Silver Surfer First Steps\nPANDART STUDIO Variant (04)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/726_04.webp?v=500"
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/726_04.webp?v=501"
                 },
                 {
                     "name": "Stardust\nPANDART STUDIO Variant (04)"
@@ -28,7 +30,7 @@
             ]
         },
         {
-            "date": "Aug 26 — Sep 02 (In\n37d 7h\n)",
+            "date": "Aug 26 — Sep 02 (In\n37d 6h\n)",
             "cards": [
                 {},
                 {},
