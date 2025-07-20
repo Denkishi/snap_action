@@ -2,48 +2,52 @@
     "date": "July 20, 2025",
     "Tiers": [
         {
-            "tier": "Tier 1",
-            "name": "Bullseye Discard"
+            "tier": "Trending",
+            "name": "Nimrod Destroy"
+        },
+        {
+            "tier": "Trending",
+            "name": "Supergiant Control"
         },
         {
             "tier": "Tier 1",
-            "name": "End Turn High Evo"
+            "name": "Disruptive Silver Surfer"
         },
         {
             "tier": "Tier 1",
-            "name": "Disruption Surfer"
+            "name": "Good Disruptive Cards"
         },
         {
             "tier": "Tier 1",
-            "name": "Good Cards Toxic"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Good Cards Buff"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Iron Hand"
         },
         {
-            "tier": "Tier 2",
-            "name": "Cerebro 2"
+            "tier": "Tier 1",
+            "name": "Merlin Clog"
         },
         {
             "tier": "Tier 2",
-            "name": "Mister Negative"
+            "name": "Wiccan Control"
         },
         {
-            "tier": "Tier 3",
+            "tier": "Tier 2",
             "name": "Discard Dracula"
         },
         {
             "tier": "Tier 3",
-            "name": "Sauron 10 Power"
+            "name": "Double Up"
         },
         {
             "tier": "Tier 3",
-            "name": "Bounce Move"
+            "name": "End Turn Fantasticar"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Big Move"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Ramp"
         }
     ]
 }
