@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Aug 05 — Aug 12 (In\n12d 5h\n)",
+            "date": "Aug 05 — Aug 12 (In\n12d 4h\n)",
             "cards": [
                 {
-                    "name": "Red Shift"
+                    "name": "Red Shift",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-shift.webp?v=505",
+                    "description": "On Reveal: Discard the leftmost card in your hand to add a random card with the same Cost to your hand."
                 },
                 {
                     "name": "Silver Surfer First Steps",
@@ -30,7 +32,7 @@
             ]
         },
         {
-            "date": "Aug 26 — Sep 02 (In\n33d 5h\n)",
+            "date": "Aug 26 — Sep 02 (In\n33d 4h\n)",
             "cards": [
                 {},
                 {},
