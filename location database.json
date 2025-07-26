@@ -1,30 +1,36 @@
 {
     "spotlight": [
         {
-            "date": "Aug 05 — Aug 12 (In\n10d 8h\n)",
+            "date": "Aug 05 — Aug 12 (In\n10d 6h\n)",
             "cards": [
                 {
-                    "name": "Red Shift"
+                    "name": "Red Shift",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-shift.webp?v=507",
+                    "description": "On Reveal: Discard the leftmost card in your hand to add a random card with the same Cost to your hand."
                 },
                 {
                     "name": "Silver Surfer First Steps"
                 },
                 {
-                    "name": "Stardust"
+                    "name": "Stardust",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stardust.webp?v=506",
+                    "description": "Ongoing: Cards can’t be added to locations except by playing or moving them."
                 },
                 {
                     "name": "Red Shift\nPANDART STUDIO Variant (04)"
                 },
                 {
-                    "name": "Silver Surfer First Steps\nPANDART STUDIO Variant (04)"
+                    "name": "Silver Surfer First Steps\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/726_04.webp?v=507"
                 },
                 {
-                    "name": "Stardust\nPANDART STUDIO Variant (04)"
+                    "name": "Stardust\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/727_04.webp?v=507"
                 }
             ]
         },
         {
-            "date": "Aug 26 — Sep 02 (In\n31d 8h\n)",
+            "date": "Aug 26 — Sep 02 (In\n31d 6h\n)",
             "cards": [
                 {},
                 {},
