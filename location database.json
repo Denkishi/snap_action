@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "Aug 05 — Aug 12 (In\n2h 26m\n)",
+            "date": "Aug 05 — Aug 12 (In\n11m\n)",
             "cards": [
                 {
                     "name": "Red Shift",
@@ -9,7 +9,9 @@
                     "description": "On Reveal: Discard the leftmost card in your hand to add a random card with the same Cost to your hand."
                 },
                 {
-                    "name": "Silver Surfer First Steps"
+                    "name": "Silver Surfer First Steps",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer-first-steps.png?v=523",
+                    "description": "End of Turn: If you’re winning this location with an On Reveal card, copy its text."
                 },
                 {
                     "name": "Stardust",
@@ -31,7 +33,7 @@
             ]
         },
         {
-            "date": "Aug 26 — Sep 02 (In\n21d 2h\n)",
+            "date": "Aug 26 — Sep 02 (In\n21d 0h\n)",
             "cards": [
                 {},
                 {},
