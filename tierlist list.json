@@ -1,9 +1,21 @@
 {
-    "date": "August 6, 2025",
+    "date": "August 8, 2025",
     "Tiers": [
         {
+            "tier": "Trending",
+            "name": "Supergiant Rocks"
+        },
+        {
+            "tier": "Trending",
+            "name": "Double Galactus"
+        },
+        {
             "tier": "Tier 1",
-            "name": "Iron Hand"
+            "name": "Small End of Turn"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Merlin Clog"
         },
         {
             "tier": "Tier 1",
@@ -11,7 +23,7 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Small End Turn Fantasticar"
+            "name": "Doom End of Turn"
         },
         {
             "tier": "Tier 2",
@@ -19,23 +31,23 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Doom End Turn Fantasticar"
+            "name": "Wiccan Control"
         },
         {
             "tier": "Tier 2",
-            "name": "High Evo Fantasticar"
+            "name": "Mister Negative"
         },
         {
             "tier": "Tier 3",
-            "name": "Bullseye"
+            "name": "Disruptive Surfer"
         },
         {
             "tier": "Tier 3",
-            "name": "Sera Control"
+            "name": "Iron Hand"
         },
         {
             "tier": "Tier 3",
-            "name": "Clog"
+            "name": "Black Knight Discard"
         }
     ]
 }
