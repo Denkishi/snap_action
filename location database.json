@@ -1,10 +1,12 @@
 {
     "spotlight": [
         {
-            "date": "Aug 05 — Aug 12 (\n3d 11h\nleft)",
+            "date": "Aug 05 — Aug 12 (\n3d 10h\nleft)",
             "cards": [
                 {
-                    "name": "Red Shift"
+                    "name": "Red Shift",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-shift.webp?v=526",
+                    "description": "On Reveal: Discard the leftmost card in your hand to add a random card with the same Cost to your hand."
                 },
                 {
                     "name": "Silver Surfer First Steps",
@@ -25,12 +27,13 @@
                     "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/726_04.webp?v=526"
                 },
                 {
-                    "name": "Stardust\nPANDART STUDIO Variant (04)"
+                    "name": "Stardust\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/727_04.webp?v=526"
                 }
             ]
         },
         {
-            "date": "Aug 26 — Sep 02 (In\n17d 11h\n)",
+            "date": "Aug 26 — Sep 02 (In\n17d 10h\n)",
             "cards": [
                 {},
                 {},
