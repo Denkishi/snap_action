@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "Aug 05 — Aug 12 (\n1d 21h\nleft)",
+            "date": "Aug 05 — Aug 12 (\n1d 20h\nleft)",
             "cards": [
                 {
                     "name": "Red Shift",
@@ -14,9 +14,7 @@
                     "description": "End of Turn: If you’re winning this location with an On Reveal card, copy its text."
                 },
                 {
-                    "name": "Stardust",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stardust.webp?v=528",
-                    "description": "Ongoing: Cards can’t be added to locations except by playing or moving them."
+                    "name": "Stardust"
                 },
                 {
                     "name": "Red Shift\nPANDART STUDIO Variant (04)",
@@ -33,7 +31,7 @@
             ]
         },
         {
-            "date": "Aug 26 — Sep 02 (In\n15d 21h\n)",
+            "date": "Aug 26 — Sep 02 (In\n15d 20h\n)",
             "cards": [
                 {},
                 {},
