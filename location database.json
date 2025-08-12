@@ -1,46 +1,35 @@
 {
     "spotlight": [
         {
-            "date": "Aug 05 — Aug 12 (\n15m\nleft)",
+            "date": "Aug 26 — Sep 02 (In\n13d 22h\n)",
             "cards": [
                 {
-                    "name": "Red Shift",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-shift.webp?v=533",
-                    "description": "On Reveal: Discard the leftmost card in your hand to add a random card with the same Cost to your hand."
+                    "name": "Air-Walker",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/air-walker.webp?v=533",
+                    "description": "When this is destroyed, replace it with a 4-Cost card from your hand or deck."
                 },
                 {
-                    "name": "Silver Surfer First Steps",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer-first-steps.png?v=533",
-                    "description": "End of Turn: If you’re winning this location with an On Reveal card, copy its text."
+                    "name": "Cosmic Ghost Rider",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmic-ghost-rider.webp?v=533",
+                    "description": "On Reveal: Remove the text from front-row enemy cards here."
                 },
                 {
-                    "name": "Stardust",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stardust.webp?v=533",
-                    "description": "Ongoing: Cards can’t be added to locations except by playing or moving them."
+                    "name": "Firelord",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/firelord.webp?v=533",
+                    "description": "On Reveal: Revive one of your discarded or destroyed 3-Cost cards here."
                 },
                 {
-                    "name": "Red Shift\nPANDART STUDIO Variant (04)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/725_04.webp?v=533"
+                    "name": "Air-Walker\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/708_04.webp?v=533"
                 },
                 {
-                    "name": "Silver Surfer First Steps\nPANDART STUDIO Variant (04)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/726_04.webp?v=533"
+                    "name": "Cosmic Ghost Rider\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/709_04.webp?v=533"
                 },
                 {
-                    "name": "Stardust\nPANDART STUDIO Variant (04)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/727_04.webp?v=533"
+                    "name": "Firelord\nPANDART STUDIO Variant (04)",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/721_04.webp?v=533"
                 }
-            ]
-        },
-        {
-            "date": "Aug 26 — Sep 02 (In\n14d 0h\n)",
-            "cards": [
-                {},
-                {},
-                {},
-                {},
-                {},
-                {}
             ]
         }
     ]
