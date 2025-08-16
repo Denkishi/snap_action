@@ -1,53 +1,45 @@
 {
-    "date": "August 15, 2025",
+    "date": "August 16, 2025",
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Supergiant Rocks"
+            "name": "Mill Destroy"
         },
         {
             "tier": "Trending",
-            "name": "Double Galactus"
+            "name": "Ramp"
         },
         {
             "tier": "Tier 1",
-            "name": "Small End of Turn"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Merlin Clog"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Supergiant Control"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Doom End of Turn"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Good Cards Buff & Disrupt"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Wiccan Control"
         },
         {
-            "tier": "Tier 2",
-            "name": "Mister Negative"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Disruptive Surfer"
-        },
-        {
-            "tier": "Tier 3",
+            "tier": "Tier 1",
             "name": "Iron Hand"
         },
         {
+            "tier": "Tier 2",
+            "name": "Seek & Disrupt"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "On Reveal Destroy"
+        },
+        {
             "tier": "Tier 3",
-            "name": "Black Knight Discard"
+            "name": "Darkhawk Priority"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Black Knight Agatha"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Pixie War Machine"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Big Move"
         }
     ]
 }
