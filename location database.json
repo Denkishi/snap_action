@@ -4,7 +4,9 @@
             "date": "Aug 26 — Sep 02 (In\n8d 5h\n)",
             "cards": [
                 {
-                    "name": "Air-Walker"
+                    "name": "Air-Walker",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/air-walker.webp?v=542",
+                    "description": "When this is destroyed, replace it with a 4-Cost card from your hand or deck."
                 },
                 {
                     "name": "Cosmic Ghost Rider",
