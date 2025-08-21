@@ -1,3 +1,45 @@
 {
-    "date": "August 20, 2025"
+    "date": "August 21, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Mill Destroy"
+        },
+        {
+            "tier": "Trending",
+            "name": "Ramp"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Wiccan Control"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Seek & Disrupt"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "On Reveal Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Darkhawk Priority"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Black Knight Agatha"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Pixie War Machine"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Big Move"
+        }
+    ]
 }
