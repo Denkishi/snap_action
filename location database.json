@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "Aug 26 — Sep 02 (In\n4d 12h\n)",
+            "date": "Aug 26 — Sep 02 (In\n4d 11h\n)",
             "cards": [
                 {
                     "name": "Air-Walker",
@@ -12,18 +12,18 @@
                     "name": "Cosmic Ghost Rider"
                 },
                 {
-                    "name": "Firelord"
+                    "name": "Firelord",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/firelord.webp?v=549",
+                    "description": "On Reveal: Revive one of your discarded or destroyed 3-Cost cards here."
                 },
                 {
                     "name": "Air-Walker\nPANDART STUDIO Variant (04)"
                 },
                 {
-                    "name": "Cosmic Ghost Rider\nPANDART STUDIO Variant (04)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/709_04.webp?v=549"
+                    "name": "Cosmic Ghost Rider\nPANDART STUDIO Variant (04)"
                 },
                 {
-                    "name": "Firelord\nPANDART STUDIO Variant (04)",
-                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/721_04.webp?v=549"
+                    "name": "Firelord\nPANDART STUDIO Variant (04)"
                 }
             ]
         }
