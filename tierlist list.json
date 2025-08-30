@@ -3,71 +3,67 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Cerebro 2"
+            "name": "Small Ongoing Good Cards"
         },
         {
             "tier": "Trending",
-            "name": "Good Cards Buff"
+            "name": "Big Move"
         },
         {
             "tier": "Trending",
-            "name": "Small End of Turn"
+            "name": "HelAgatha Discard"
         },
         {
             "tier": "Trending",
-            "name": "Hela Discard"
+            "name": "Evolved Agatha Discard"
         },
         {
             "tier": "Trending",
+            "name": "Surfer Buff"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Negative Destroy"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Sera Control"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Pixie Merlin Clog"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Scream Move"
         },
         {
-            "tier": "Trending",
-            "name": "Disruptive Surfer"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Fenris Destroy"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Wiccan Control"
+            "tier": "Tier 2",
+            "name": "Pixie ClogTriot"
         },
         {
             "tier": "Tier 2",
-            "name": "Mill"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Ongoing"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Toxic"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Thanos Destroy"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Deadpool Destroy"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Iron Hand"
         },
         {
-            "tier": "Tier 3",
-            "name": "Bullseye Discard"
+            "tier": "Tier 2",
+            "name": "Mill Control"
         },
         {
             "tier": "Tier 3",
-            "name": "Nimrod Destroy"
+            "name": "Toxic Wiccan"
         },
         {
             "tier": "Tier 3",
-            "name": "Priority Rocks"
+            "name": "Arishem"
         }
     ]
 }
