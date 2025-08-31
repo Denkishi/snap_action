@@ -1,7 +1,7 @@
 {
     "spotlight": [
         {
-            "date": "Aug 26 — Sep 02 (\n2d 4h\nleft)",
+            "date": "Aug 26 — Sep 02 (\n2d 3h\nleft)",
             "cards": [
                 {
                     "name": "Air-Walker",
@@ -9,7 +9,9 @@
                     "description": "When this is destroyed, replace it with a 4-Cost card from your hand or deck."
                 },
                 {
-                    "name": "Cosmic Ghost Rider"
+                    "name": "Cosmic Ghost Rider",
+                    "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmic-ghost-rider.webp?v=561",
+                    "description": "On Reveal: Remove the text from front-row enemy cards here."
                 },
                 {
                     "name": "Firelord",
