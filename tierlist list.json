@@ -1,3 +1,69 @@
 {
-    "date": "September 2, 2025"
+    "date": "September 2, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Small Ongoing Good Cards"
+        },
+        {
+            "tier": "Trending",
+            "name": "Big Move"
+        },
+        {
+            "tier": "Trending",
+            "name": "HelAgatha Discard"
+        },
+        {
+            "tier": "Trending",
+            "name": "Evolved Agatha Discard"
+        },
+        {
+            "tier": "Trending",
+            "name": "Surfer Buff"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Negative Destroy"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Sera Control"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Pixie Merlin Clog"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Pixie ClogTriot"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Mill Control"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Toxic Wiccan"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Arishem"
+        }
+    ]
 }
