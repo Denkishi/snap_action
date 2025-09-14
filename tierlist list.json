@@ -2,76 +2,60 @@
     "date": "September 14, 2025",
     "Tiers": [
         {
-            "tier": "Tier 1",
+            "tier": "Trending",
             "name": "Pure Move"
         },
         {
-            "tier": "Tier 1",
-            "name": "Big Move"
+            "tier": "Trending",
+            "name": "Lockdown Ramp"
         },
         {
-            "tier": "Tier 1",
+            "tier": "Trending",
+            "name": "Bullseye Zola"
+        },
+        {
+            "tier": "Trending",
+            "name": "Phoenix Deadpool Destroy"
+        },
+        {
+            "tier": "Trending",
             "name": "Wiccan Curve"
         },
         {
             "tier": "Tier 1",
-            "name": "Discard Dracula"
+            "name": "Move Bounce"
         },
         {
             "tier": "Tier 1",
-            "name": "Negative Destroy"
+            "name": "Iron Hand"
         },
         {
             "tier": "Tier 1",
-            "name": "Bullseye"
+            "name": "Cerebro"
         },
         {
-            "tier": "Tier 2",
-            "name": "Cerebro 2"
+            "tier": "Tier 1",
+            "name": "Sauron 10 Power"
         },
         {
-            "tier": "Tier 2",
-            "name": "Small Good Cards"
+            "tier": "Tier 1",
+            "name": "HelAgatha Discard"
         },
         {
-            "tier": "Tier 2",
+            "tier": "Tier 1",
             "name": "End of Turn"
         },
         {
             "tier": "Tier 2",
-            "name": "Destructive Hand"
+            "name": "Wiccan Surfer"
         },
         {
             "tier": "Tier 2",
-            "name": "Buff Surfer"
+            "name": "On Reveal Buffs"
         },
         {
             "tier": "Tier 2",
-            "name": "Iron hand"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Clog Control"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Small Ongoing Good Cards"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Hela Discard"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Bounce On Reveal"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Ongoing"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Darkhawk Stature"
+            "name": "Clog"
         }
     ]
 }
