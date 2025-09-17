@@ -1,3 +1,61 @@
 {
-    "date": "September 17, 2025"
+    "date": "September 17, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Trending",
+            "name": "Lockdown Ramp"
+        },
+        {
+            "tier": "Trending",
+            "name": "Bullseye Zola"
+        },
+        {
+            "tier": "Trending",
+            "name": "Phoenix Deadpool Destroy"
+        },
+        {
+            "tier": "Trending",
+            "name": "Wiccan Curve"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Move Bounce"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Cerebro"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Sauron 10 Power"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "HelAgatha Discard"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "End of Turn"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Wiccan Surfer"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "On Reveal Buffs"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Clog"
+        }
+    ]
 }
