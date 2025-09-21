@@ -3,59 +3,59 @@
     "Tiers": [
         {
             "tier": "Trending",
+            "name": "Tribunal Move"
+        },
+        {
+            "tier": "Trending",
+            "name": "Kazoo"
+        },
+        {
+            "tier": "Tier 1",
             "name": "Pure Move"
         },
         {
-            "tier": "Trending",
-            "name": "Lockdown Ramp"
-        },
-        {
-            "tier": "Trending",
-            "name": "Bullseye Zola"
-        },
-        {
-            "tier": "Trending",
-            "name": "Phoenix Deadpool Destroy"
-        },
-        {
-            "tier": "Trending",
-            "name": "Wiccan Curve"
+            "tier": "Tier 1",
+            "name": "Victoria Hand Decks"
         },
         {
             "tier": "Tier 1",
-            "name": "Move Bounce"
+            "name": "End of turn"
         },
         {
             "tier": "Tier 1",
-            "name": "Iron Hand"
+            "name": "Bullseye"
         },
         {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
+            "name": "Bounce Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool"
+        },
+        {
+            "tier": "Tier 2",
             "name": "Cerebro"
         },
         {
-            "tier": "Tier 1",
-            "name": "Sauron 10 Power"
+            "tier": "Tier 3",
+            "name": "Nightmare"
         },
         {
-            "tier": "Tier 1",
-            "name": "HelAgatha Discard"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "End of Turn"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Wiccan Surfer"
-        },
-        {
-            "tier": "Tier 2",
+            "tier": "Tier 3",
             "name": "On Reveal Buffs"
         },
         {
-            "tier": "Tier 2",
+            "tier": "Tier 3",
+            "name": "High Power & Energy"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Clog"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "HelAgatha Discard"
         }
     ]
 }
