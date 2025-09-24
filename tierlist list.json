@@ -1,3 +1,61 @@
 {
-    "date": "September 24, 2025"
+    "date": "September 24, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Tribunal Move"
+        },
+        {
+            "tier": "Trending",
+            "name": "Kazoo"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Victoria Hand Decks"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "End of turn"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Bullseye"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Bounce Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Cerebro"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Nightmare"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "On Reveal Buffs"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "High Power & Energy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Clog"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "HelAgatha Discard"
+        }
+    ]
 }
