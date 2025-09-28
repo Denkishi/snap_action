@@ -3,59 +3,47 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Tribunal Move"
-        },
-        {
-            "tier": "Trending",
-            "name": "Kazoo"
+            "name": "End of Turn"
         },
         {
             "tier": "Tier 1",
-            "name": "Pure Move"
+            "name": "Deadpool Destroy"
         },
         {
             "tier": "Tier 1",
-            "name": "Victoria Hand Decks"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "End of turn"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Bullseye"
+            "name": "Move Tribunal"
         },
         {
             "tier": "Tier 2",
-            "name": "Bounce Move"
+            "name": "Arishem Thanos"
         },
         {
             "tier": "Tier 2",
-            "name": "Deadpool"
+            "name": "Wiccan Curve"
         },
         {
             "tier": "Tier 2",
-            "name": "Cerebro"
+            "name": "Buff Surfer"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Flexible Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "HelAgatha"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Scream Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Nightmare"
+            "name": "Clogtriot"
         },
         {
             "tier": "Tier 3",
-            "name": "On Reveal Buffs"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "High Power & Energy"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Clog"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "HelAgatha Discard"
+            "name": "Discard Dracula"
         }
     ]
 }
