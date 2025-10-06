@@ -1,3 +1,53 @@
 {
-    "date": "October 6, 2025"
+    "date": "October 6, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Hela"
+        },
+        {
+            "tier": "Trending",
+            "name": "Wiccan Curve"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "End of Turn"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Supergiant Rocks"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Thanos Rocks"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Galactus Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "War Machine Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Ongoing"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Buff Surfer"
+        }
+    ]
 }
