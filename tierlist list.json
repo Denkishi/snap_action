@@ -3,47 +3,51 @@
     "Tiers": [
         {
             "tier": "Trending",
+            "name": "Hela"
+        },
+        {
+            "tier": "Trending",
+            "name": "Wiccan"
+        },
+        {
+            "tier": "Tier 1",
             "name": "End of Turn"
         },
         {
             "tier": "Tier 1",
-            "name": "Deadpool Destroy"
+            "name": "Supergiant"
         },
         {
             "tier": "Tier 1",
-            "name": "Move Tribunal"
+            "name": "Iron Hand"
         },
         {
             "tier": "Tier 2",
-            "name": "Arishem Thanos"
+            "name": "Deadpool"
         },
         {
             "tier": "Tier 2",
-            "name": "Wiccan Curve"
+            "name": "Thanos"
         },
         {
             "tier": "Tier 2",
+            "name": "Galactus"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "War Machine"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Ongoing"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Buff Surfer"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Flexible Move"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "HelAgatha"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Scream Move"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Clogtriot"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Discard Dracula"
         }
     ]
 }
