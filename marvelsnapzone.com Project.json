@@ -6,7 +6,7 @@
         },
         {
             "tier_name": "Trending",
-            "surname": "Wiccan"
+            "surname": "Wiccan Curve"
         },
         {
             "tier_name": "Tier 1",
@@ -14,7 +14,7 @@
         },
         {
             "tier_name": "Tier 1",
-            "surname": "Supergiant"
+            "surname": "Supergiant Rocks"
         },
         {
             "tier_name": "Tier 1",
@@ -22,19 +22,19 @@
         },
         {
             "tier_name": "Tier 2",
-            "surname": "Deadpool"
+            "surname": "Deadpool Destroy"
         },
         {
             "tier_name": "Tier 2",
-            "surname": "Thanos"
+            "surname": "Thanos Rocks"
         },
         {
             "tier_name": "Tier 2",
-            "surname": "Galactus"
+            "surname": "Galactus Ramp"
         },
         {
             "tier_name": "Tier 3",
-            "surname": "War Machine"
+            "surname": "War Machine Ramp"
         },
         {
             "tier_name": "Tier 3",
@@ -52,6 +52,7 @@
     "tier": [
         {
             "name": "Hela Ranked October 4",
+            "surname": "Hela",
             "code": "QmxkNSxHbWJ0NixDcnZzR2x2QyxKYmw3LEdoc3RSZHJBLFNwcmdudEEsTGduNixCbG5rNSxIbDQsT2RuNCxHZ250NyxJbmZudDg=",
             "cards": [
                 {
@@ -94,6 +95,7 @@
         },
         {
             "name": "Wiccan Curve Ranked October 4",
+            "surname": "Wiccan Curve",
             "code": "UWNrc2x2ckIsRG1uNixHbWJ0NixTcGQ1LE1ic01NYnNELENwY3Q3LE1sa3RoOCxXY2NuNixDc21jR2hzdFJkcjEwLExnbjYsQWx0aDYsR2xjdHNGcnN0U3RwczEy",
             "cards": [
                 {
