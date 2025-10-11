@@ -2,52 +2,52 @@
     "date": "October 11, 2025",
     "Tiers": [
         {
-            "tier": "Trending",
-            "name": "Hela"
+            "tier": "Tier 1",
+            "name": "Pure Move"
         },
         {
-            "tier": "Trending",
-            "name": "Wiccan Curve"
+            "tier": "Tier 1",
+            "name": "On Reveal Buff"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Ongoing"
         },
         {
             "tier": "Tier 1",
             "name": "End of Turn"
         },
         {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
             "name": "Supergiant Rocks"
         },
         {
-            "tier": "Tier 1",
-            "name": "Iron Hand"
+            "tier": "Tier 2",
+            "name": "Cerebro 2"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Thanos"
         },
         {
             "tier": "Tier 2",
             "name": "Deadpool Destroy"
         },
         {
-            "tier": "Tier 2",
-            "name": "Thanos Rocks"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Galactus Ramp"
+            "tier": "Tier 3",
+            "name": "Toxic Surfer"
         },
         {
             "tier": "Tier 3",
-            "name": "War Machine Ramp"
+            "name": "Bounce Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Ongoing"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Arishem"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Buff Surfer"
+            "name": "Wiccan Curve"
         }
     ]
 }
