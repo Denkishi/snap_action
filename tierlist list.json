@@ -1,3 +1,53 @@
 {
-    "date": "October 16, 2025"
+    "date": "October 17, 2025",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "On Reveal Buff"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Ongoing"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "End of Turn"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Supergiant Rocks"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Cerebro 2"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Thanos"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Toxic Surfer"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Bounce Move"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Wiccan Curve"
+        }
+    ]
 }
