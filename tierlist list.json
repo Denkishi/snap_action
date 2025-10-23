@@ -1,3 +1,37 @@
 {
-    "date": "October 23, 2025"
+    "date": "October 23, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Zombie Miracle"
+        },
+        {
+            "tier": "Trending",
+            "name": "Good Cards Zombie"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Arishem Thanos"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Supergiant Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Deadpool Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Black Hand Discard"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Nimrod Destroy"
+        }
+    ]
 }
