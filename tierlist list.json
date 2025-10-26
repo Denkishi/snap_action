@@ -1,17 +1,17 @@
 {
-    "date": "October 25, 2025",
+    "date": "October 26, 2025",
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Zombie Miracle"
+            "name": "Ongoing Pixie"
         },
         {
             "tier": "Trending",
-            "name": "Good Cards Zombie"
+            "name": "Supergiant"
         },
         {
             "tier": "Tier 1",
-            "name": "Arishem Thanos"
+            "name": "Flexible Zombie"
         },
         {
             "tier": "Tier 1",
@@ -19,19 +19,43 @@
         },
         {
             "tier": "Tier 2",
-            "name": "Supergiant Hand"
-        },
-        {
-            "tier": "Tier 2",
             "name": "Deadpool Destroy"
         },
         {
-            "tier": "Tier 3",
-            "name": "Black Hand Discard"
+            "tier": "Tier 2",
+            "name": "Arishem Thanos"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Ongoing Combo"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Khonshu"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Supergiant Rocks"
         },
         {
             "tier": "Tier 3",
-            "name": "Nimrod Destroy"
+            "name": "Zombie Miracle"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Energy Cheats"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "End of Turn"
         }
     ]
 }
