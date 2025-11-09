@@ -3,51 +3,63 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Mill Destroy"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Wiccan Curve"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Flexible Zombies"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Deadpool Destroy"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Pure Move"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "War Machine Ramp"
-        },
-        {
-            "tier": "Tier 1",
-            "name": "Supergiant Sauron"
+            "name": "Black Knight Discard"
         },
         {
             "tier": "Tier 1",
             "name": "Arishem"
         },
         {
+            "tier": "Tier 1",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "War Machine Ramp"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Supergiant Sauron"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Hela Discard"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Clogtriot"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Supergiant Rocks"
+        },
+        {
             "tier": "Tier 2",
             "name": "Toxic"
         },
         {
-            "tier": "Tier 3",
-            "name": "Buff Zombie Galacti"
+            "tier": "Tier 2",
+            "name": "Wiccan Disrupt"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "End of Turn"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Flexible Zombies"
         },
         {
             "tier": "Tier 3",
-            "name": "Discard Dracula"
+            "name": "Pure Move"
         },
         {
             "tier": "Tier 3",
-            "name": "Move Bounce"
+            "name": "Man-Spider Combo"
         }
     ]
 }
