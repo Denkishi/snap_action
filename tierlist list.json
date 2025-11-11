@@ -1,3 +1,65 @@
 {
-    "date": "November 11, 2025"
+    "date": "November 11, 2025",
+    "Tiers": [
+        {
+            "tier": "Trending",
+            "name": "Black Knight Discard"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Arishem"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "War Machine Ramp"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Supergiant Sauron"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Hela Discard"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Clogtriot"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Supergiant Rocks"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Toxic"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Wiccan Disrupt"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "End of Turn"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Flexible Zombies"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Man-Spider Combo"
+        }
+    ]
 }
