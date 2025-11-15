@@ -3,63 +3,75 @@
     "Tiers": [
         {
             "tier": "Trending",
-            "name": "Black Knight Discard"
+            "name": "Sauron 10 Power"
         },
         {
             "tier": "Tier 1",
-            "name": "Arishem"
+            "name": "Iron Hand"
         },
         {
             "tier": "Tier 1",
-            "name": "Scream Move"
+            "name": "Toxic Wiccan"
         },
         {
-            "tier": "Tier 1",
+            "tier": "Tier 2",
+            "name": "Disruptive Move"
+        },
+        {
+            "tier": "Tier 2",
             "name": "War Machine Ramp"
         },
         {
             "tier": "Tier 2",
-            "name": "Supergiant Sauron"
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Pure Move"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Pixie High Power"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Thanos"
         },
         {
             "tier": "Tier 2",
             "name": "Hela Discard"
         },
         {
-            "tier": "Tier 2",
-            "name": "Clogtriot"
+            "tier": "Tier 3",
+            "name": "Cerebro 3"
         },
         {
-            "tier": "Tier 2",
-            "name": "Supergiant Rocks"
+            "tier": "Tier 3",
+            "name": "Deadpool Destroy"
         },
         {
-            "tier": "Tier 2",
-            "name": "Toxic"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Wiccan Disrupt"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "End of Turn"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Iron Hand"
-        },
-        {
-            "tier": "Tier 2",
+            "tier": "Tier 3",
             "name": "Flexible Zombies"
         },
         {
-            "tier": "Tier 3",
-            "name": "Pure Move"
+            "tier": "War Machine Ramp",
+            "name": "War Machine Ramp"
         },
         {
-            "tier": "Tier 3",
-            "name": "Man-Spider Combo"
+            "tier": "Scream Move",
+            "name": "Scream Move"
+        },
+        {
+            "tier": "Toxic Wiccan",
+            "name": "Toxic Wiccan"
+        },
+        {
+            "tier": "Deadpool Destroy",
+            "name": "Deadpool Destroy"
+        },
+        {
+            "tier": "Arishem Thanos",
+            "name": "Arishem Thanos"
         }
     ]
 }
