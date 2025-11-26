@@ -1,3 +1,41 @@
 {
-    "date": "November 25, 2025"
+    "date": "November 25, 2025",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Hybrid Move"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Zombified On Reveal Destroy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Flexible Zombies"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Man-Spider Combo"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Pixie Ongoing"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Buff Surfer"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Dormammu On Reveal"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Clog Rocks"
+        }
+    ]
 }
