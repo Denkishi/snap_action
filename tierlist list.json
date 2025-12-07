@@ -2,10 +2,6 @@
     "date": "December 7, 2025",
     "Tiers": [
         {
-            "tier": "Trending",
-            "name": "Hydro-Man Rocks"
-        },
-        {
             "tier": "Tier 1",
             "name": "Iron Hand"
         },
@@ -15,27 +11,47 @@
         },
         {
             "tier": "Tier 1",
-            "name": "Deadpool Destroy"
+            "name": "Ongoing"
         },
         {
             "tier": "Tier 1",
+            "name": "Chamber Ramp"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "End of Turn"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Low-Power Good Cards"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Discard Dracula"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "On Reveal Rocks"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Wiccan Created Cards"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Man-Spider Combo"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Energy Overload"
         },
         {
-            "tier": "Tier 2",
-            "name": "Cerebro 3"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Scream Move"
+            "tier": "Tier 3",
+            "name": "Weapon X Destroy"
         },
         {
             "tier": "Tier 3",
-            "name": "Clog Rocks"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Zombified On Reveal Destroy"
+            "name": "Deadpool Destroy"
         }
     ]
 }
