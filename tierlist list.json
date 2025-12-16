@@ -1,3 +1,37 @@
 {
-    "date": "December 16, 2025"
+    "date": "December 16, 2025",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "On Reveal Disrupt"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "War Machine Ramp"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Galactus Ramp"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Weapon H Discard"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "On Reveal Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Zombified On Reveal Destroy"
+        }
+    ]
 }
