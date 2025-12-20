@@ -7,31 +7,43 @@
         },
         {
             "tier": "Tier 1",
-            "name": "On Reveal Disrupt"
+            "name": "Man-Spider Combo"
         },
         {
             "tier": "Tier 1",
-            "name": "War Machine Ramp"
+            "name": "Buff Surfer"
         },
         {
             "tier": "Tier 2",
+            "name": "On Reveal Clog"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "High Evo Energy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Thanos"
+        },
+        {
+            "tier": "Tier 3",
             "name": "Galactus Ramp"
         },
         {
-            "tier": "Tier 2",
-            "name": "Weapon H Discard"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "On Reveal Destroy"
+            "tier": "Tier 3",
+            "name": "Disruptive Destroy"
         },
         {
             "tier": "Tier 3",
-            "name": "Destroy"
+            "name": "Dormammu Destroy"
         },
         {
             "tier": "Tier 3",
-            "name": "Zombified On Reveal Destroy"
+            "name": "Wiccan Created Cards"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Deadpool Destroy"
         }
     ]
 }
