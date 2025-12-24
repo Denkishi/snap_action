@@ -1,3 +1,49 @@
 {
-    "date": "December 24, 2025"
+    "date": "December 24, 2025",
+    "Tiers": [
+        {
+            "tier": "Tier 1",
+            "name": "Iron Hand"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Man-Spider Combo"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Buff Surfer"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "On Reveal Clog"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "High Evo Energy"
+        },
+        {
+            "tier": "Tier 2",
+            "name": "Arishem Thanos"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Galactus Ramp"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Disruptive Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Dormammu Destroy"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Wiccan Created Cards"
+        },
+        {
+            "tier": "Tier 3",
+            "name": "Deadpool Destroy"
+        }
+    ]
 }
