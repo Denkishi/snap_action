@@ -2,48 +2,52 @@
     "date": "December 28, 2025",
     "Tiers": [
         {
-            "tier": "Tier 1",
-            "name": "Iron Hand"
+            "tier": "Trending",
+            "name": "Aurora Rocks"
+        },
+        {
+            "tier": "Trending",
+            "name": "Flexible Move"
         },
         {
             "tier": "Tier 1",
-            "name": "Man-Spider Combo"
+            "name": "Good On Reveal Cards"
         },
         {
             "tier": "Tier 1",
-            "name": "Buff Surfer"
+            "name": "Good Cards Aurora"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "Wiccan Aurora"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "High Evolutionary"
+        },
+        {
+            "tier": "Tier 1",
+            "name": "War Machine Ramp"
         },
         {
             "tier": "Tier 2",
-            "name": "On Reveal Clog"
+            "name": "Good Cards Anti-Venom"
         },
         {
             "tier": "Tier 2",
-            "name": "High Evo Energy"
-        },
-        {
-            "tier": "Tier 2",
-            "name": "Arishem Thanos"
-        },
-        {
-            "tier": "Tier 3",
-            "name": "Galactus Ramp"
-        },
-        {
-            "tier": "Tier 3",
             "name": "Disruptive Destroy"
         },
         {
             "tier": "Tier 3",
-            "name": "Dormammu Destroy"
+            "name": "Weapon X"
         },
         {
             "tier": "Tier 3",
-            "name": "Wiccan Created Cards"
+            "name": "Thanos Power"
         },
         {
             "tier": "Tier 3",
-            "name": "Deadpool Destroy"
+            "name": "Nimrod Combo"
         }
     ]
 }
