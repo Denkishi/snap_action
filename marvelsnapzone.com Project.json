@@ -1,41 +1,51 @@
 {
+    "Colors": [
+        {
+            "tier_name": "Tier 1",
+            "surname": "Iron Hand"
+        },
+        {
+            "tier_name": "Tier 1",
+            "surname": "Man-Spider Combo"
+        },
+        {
+            "tier_name": "Tier 1",
+            "surname": "Buff Surfer"
+        },
+        {
+            "tier_name": "Tier 2",
+            "surname": "On Reveal Clog"
+        },
+        {
+            "tier_name": "Tier 2",
+            "surname": "High Evo Energy"
+        },
+        {
+            "tier_name": "Tier 2",
+            "surname": "Arishem Thanos"
+        },
+        {
+            "tier_name": "Tier 3",
+            "surname": "Galactus Ramp"
+        },
+        {
+            "tier_name": "Tier 3",
+            "surname": "Disruptive Destroy"
+        },
+        {
+            "tier_name": "Tier 3",
+            "surname": "Dormammu Destroy"
+        },
+        {
+            "tier_name": "Tier 3",
+            "surname": "Wiccan Created Cards"
+        },
+        {
+            "tier_name": "Tier 3",
+            "surname": "Deadpool Destroy"
+        }
+    ],
     "tier": [
-        {
-            "name": "6100 Woodlake Parkway Unit 706. San Antonio, TX\n6100 Woodlake Parkway Unit 706. San Antonio, TX"
-        },
-        {
-            "name": "1921 W 41st Street. Tulsa, OK\n1921 W 41st Street. Tulsa, OK"
-        },
-        {
-            "name": "3600 E 88th Ave Unit 110. Thornton, CO\n3600 E 88th Ave Unit 110. Thornton, CO"
-        },
-        {
-            "name": "85 Myrtle Ave Unit 1. Jersey City, NJ\n85 Myrtle Ave Unit 1. Jersey City, NJ"
-        },
-        {
-            "name": "2603 W Fairmont Avenue Unit 101. Fresno, CA\n2603 W Fairmont Avenue Unit 101. Fresno, CA"
-        },
-        {
-            "name": "4215 River Road. Toledo, OH\n4215 River Road. Toledo, OH"
-        },
-        {
-            "name": "2514 Pemberton Creek Drive. Seffner, FL\n2514 Pemberton Creek Drive. Seffner, FL"
-        },
-        {
-            "name": "6061 Osprey Circle. Bremerton, WA\n6061 Osprey Circle. Bremerton, WA"
-        },
-        {
-            "name": "201 S Greenfield Road Unit 215. Mesa, AZ\n201 S Greenfield Road Unit 215. Mesa, AZ"
-        },
-        {
-            "name": "2412 Daves Drive. Shelby, NC\n2412 Daves Drive. Shelby, NC"
-        },
-        {
-            "name": "58256 County Road 380. Bangor, MI\n58256 County Road 380. Bangor, MI"
-        },
-        {
-            "name": "605 55th Place S. Birmingham, AL\n605 55th Place S. Birmingham, AL"
-        },
         {
             "name": "Iron Hand Ranked December 20",
             "surname": "Iron Hand",
@@ -508,52 +518,6 @@
                     "url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/death.webp?v=719"
                 }
             ]
-        }
-    ],
-    "Colors": [
-        {
-            "tier_name": "Tier 1",
-            "surname": "Iron Hand"
-        },
-        {
-            "tier_name": "Tier 1",
-            "surname": "Man-Spider Combo"
-        },
-        {
-            "tier_name": "Tier 1",
-            "surname": "Buff Surfer"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "On Reveal Clog"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "High Evo Energy"
-        },
-        {
-            "tier_name": "Tier 2",
-            "surname": "Arishem Thanos"
-        },
-        {
-            "tier_name": "Tier 3",
-            "surname": "Galactus Ramp"
-        },
-        {
-            "tier_name": "Tier 3",
-            "surname": "Disruptive Destroy"
-        },
-        {
-            "tier_name": "Tier 3",
-            "surname": "Dormammu Destroy"
-        },
-        {
-            "tier_name": "Tier 3",
-            "surname": "Wiccan Created Cards"
-        },
-        {
-            "tier_name": "Tier 3",
-            "surname": "Deadpool Destroy"
         }
     ]
 }
